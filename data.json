@@ -4,22 +4,22 @@
     "tournaments": [
       {
         "tournament": {
-          "tournament-name": "RBC",
-          "tournament-type": 1,
+          "tournamentName": "RBC",
+          "tournamentType": 1,
           "score": 375.0
         }
       },
       {
         "tournament": {
-          "tournament-name": "British Open",
-          "tournament-type": 3,
+          "tournamentName": "British Open",
+          "tournamentType": 3,
           "score": 271.0
         }
       },
       {
         "tournament": {
-          "tournament-name": "WGC Austin",
-          "tournament-type": 2,
+          "tournamentName": "WGC Austin",
+          "tournamentType": 2,
           "score": 471.0
         }
       }
@@ -30,22 +30,22 @@
     "tournaments": [
       {
         "tournament": {
-          "tournament-name": "RBC",
-          "tournament-type": 1,
+          "tournamentName": "RBC",
+          "tournamentType": 1,
           "score": 255.0
         }
       },
       {
         "tournament": {
-          "tournament-name": "British Open",
-          "tournament-type": 3,
+          "tournamentName": "British Open",
+          "tournamentType": 3,
           "score": 201.0
         }
       },
       {
         "tournament": {
-          "tournament-name": "WGC Austin",
-          "tournament-type": 2,
+          "tournamentName": "WGC Austin",
+          "tournamentType": 2,
           "score": 371.0
         }
       }
@@ -56,22 +56,22 @@
     "tournaments": [
       {
         "tournament": {
-          "tournament-name": "RBC",
-          "tournament-type": "1",
+          "tournamentName": "RBC",
+          "tournamentType": "1",
           "score": 475.0
         }
       },
       {
         "tournament": {
-          "tournament-name": "British Open",
-          "tournament-type": 3,
+          "tournamentName": "British Open",
+          "tournamentType": 3,
           "score": 321.0
         }
       },
       {
         "tournament": {
-          "tournament-name": "WGC Austin",
-          "tournament-type": 2,
+          "tournamentName": "WGC Austin",
+          "tournamentType": 2,
           "score": 241.0
         }
       }
