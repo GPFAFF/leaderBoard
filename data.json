@@ -1,74 +1,71 @@
-{
-  "users": [
-    {
-      "user": "Greg",
-      "tournaments": [
-        {
-          "rbc": {
-            "tournament-type": 1,
-            "score": 375.0
-          }
-        },
-        {
-          "brit": {
-            "tournament-type": 3,
-            "score": 271.0
-          }
-        },
-        {
-          "wgc": {
-            "tournament-type": 2,
-            "score": 471.0
-          }
+[
+  {
+    "user": "Greg",
+    "tournaments": [
+      {
+        "rbc": {
+          "tournament-type": 1,
+          "score": 375.0
         }
-      ]
-    },
-    {
-      "user": "Kyle",
-      "tournaments": [
-        {
-          "rbc": {
-            "tournament-type": 1,
-            "score": 255.0
-          }
-        },
-        {
-          "brit": {
-            "tournament-type": 3,
-            "score": 201.0
-          }
-        },
-        {
-          "wgc": {
-            "tournament-type": 2,
-            "score": 371.0
-          }
+      },
+      {
+        "brit": {
+          "tournament-type": 3,
+          "score": 271.0
         }
-      ]
-    },
-    {
-      "user": "Chris",
-      "tournaments": [
-        {
-          "rbc": {
-            "tournament-type": 1,
-            "score": 475.0
-          }
-        },
-        {
-          "brit": {
-            "tournament-type": 3,
-            "score": 321.0
-          }
-        },
-        {
-          "wgc": {
-            "tournament-type": 2,
-            "score": 241.0
-          }
+      },
+      {
+        "wgc": {
+          "tournament-type": 2,
+          "score": 471.0
         }
-      ]
-    }
-  ]
-
-}
+      }
+    ]
+  },
+  {
+    "user": "Kyle",
+    "tournaments": [
+      {
+        "rbc": {
+          "tournament-type": 1,
+          "score": 255.0
+        }
+      },
+      {
+        "brit": {
+          "tournament-type": 3,
+          "score": 201.0
+        }
+      },
+      {
+        "wgc": {
+          "tournament-type": 2,
+          "score": 371.0
+        }
+      }
+    ]
+  },
+  {
+    "user": "Chris",
+    "tournaments": [
+      {
+        "rbc": {
+          "tournament-type": 1,
+          "score": 475.0
+        }
+      },
+      {
+        "brit": {
+          "tournament-type": 3,
+          "score": 321.0
+        }
+      },
+      {
+        "wgc": {
+          "tournament-type": 2,
+          "score": 241.0
+        }
+      }
+    ]
+  }
+]
