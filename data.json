@@ -11,7 +11,7 @@
       },
       {
         "tournament": {
-          "tournament-name": "tournamentish Open",
+          "tournament-name": "British Open",
           "tournament-type": 3,
           "score": 271.0
         }
@@ -31,6 +31,7 @@
       {
         "tournament": {
           "tournament-name": "RBC",
+          "tournament-type": 1,
           "score": 255.0
         }
       },
