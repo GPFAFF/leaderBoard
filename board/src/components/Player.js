@@ -16,12 +16,15 @@ class Player extends Component {
           <div className='player' key={index}>
             <h2>{item.user}</h2>
             <div className="player_row">
-              {Array.from(item.tournaments).map(score => (
-                <div>
-                  <p>{score.tournament.tournamentName}</p>
-                  <p>{score.tournament.score}</p>
+              {Array.from(item.tournaments).map(score => {
+                const { tournamentName, totalScore } = score;
+                return (
+                  <div>
+                    <p>{tournamentName}</p>
+                    <p>{totalScore}</p>
                 </div>
-              ))}
+                )
+              })}
               <p>Total</p>
             </div>
           </div>
