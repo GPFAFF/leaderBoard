@@ -3,17 +3,17 @@
     "tournaments": [{
         "tournamentName": "RBC",
         "tournamentType": 1,
-        "totalScore": 375.0
+        "tournamentScore": 375.0
       },
       {
         "tournamentName": "British Open",
         "tournamentType": 3,
-        "totalScore": 271.0
+        "tournamentScore": 271.0
       },
       {
         "tournamentName": "WGC Austin",
         "tournamentType": 2,
-        "totalScore": 471.0
+        "tournamentScore": 471.0
       }
     ]
   },
@@ -22,17 +22,17 @@
     "tournaments": [{
         "tournamentName": "RBC",
         "tournamentType": 1,
-        "totalScore": 255.0
+        "tournamentScore": 255.0
       },
       {
         "tournamentName": "British Open",
         "tournamentType": 3,
-        "totalScore": 201.0
+        "tournamentScore": 201.0
       },
       {
         "tournamentName": "WGC Austin",
         "tournamentType": 2,
-        "totalScore": 371.0
+        "tournamentScore": 371.0
       }
     ]
   },
@@ -41,17 +41,17 @@
     "tournaments": [{
         "tournamentName": "RBC",
         "tournamentType": "1",
-        "totalScore": 475.0
+        "tournamentScore": 475.0
       },
       {
         "tournamentName": "British Open",
         "tournamentType": 3,
-        "totalScore": 321.0
+        "tournamentScore": 321.0
       },
       {
         "tournamentName": "WGC Austin",
         "tournamentType": 2,
-        "totalScore": 241.0
+        "tournamentScore": 241.0
       }
     ]
   }
