@@ -1,5 +1,6 @@
 [{
     "user": "Greg",
+    "totalScores": [375.0, 271.0, 471.0],
     "tournaments": [{
         "tournamentName": "RBC",
         "tournamentType": 1,
@@ -19,6 +20,7 @@
   },
   {
     "user": "Kyle",
+    "totalScores": [255.0, 201.0, 371.0],
     "tournaments": [{
         "tournamentName": "RBC",
         "tournamentType": 1,
@@ -38,6 +40,7 @@
   },
   {
     "user": "Chris",
+    "totalScores": [475.0, 321.0, 241.0],
     "tournaments": [{
         "tournamentName": "RBC",
         "tournamentType": "1",
