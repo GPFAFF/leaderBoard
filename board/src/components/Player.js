@@ -1,14 +1,20 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 
-
 class Player extends Component {
 
+  static propTypes = {
+    data: PropTypes.array
+  }
+
+  calculateTotal = (scores) => {
+    const scoresArray = scores.reduce((acc, currentValue) => {
+      return acc + currentValue;
+    });
+    return scoresArray;
+  }
+
   render() {
-
-    const { user, tournament } = this.props.data;
-
-    console.log(this.props.data)
 
     return (
       <div className="player_container">
@@ -16,17 +22,17 @@ class Player extends Component {
           <div className='player' key={index}>
             <h2>{item.user}</h2>
             <div className="player_row">
-              {Array.from(item.tournaments).map(score => {
-                const { tournamentName, totalScore } = score;
+              {item.tournaments.map((data, index) => {
+                const { tournamentName, tournamentScore } = data;
                 return (
-                  <div>
+                  <div key={index}>
                     <p>{tournamentName}</p>
-                    <p>{totalScore}</p>
-                </div>
+                    <p>{tournamentScore}</p>
+                  </div>
                 )
               })}
-              <p>Total</p>
             </div>
+            <p> {this.calculateTotal(item.totalScores)} - Total </p>
           </div>
         ))}
       </div>

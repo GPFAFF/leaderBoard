@@ -8,10 +8,13 @@
 }
 
 .App-header {
-  background-color: #222;
-  height: 150px;
+  background-color: rgb(8, 172, 8);
+  height: auto;
   padding: 20px;
   color: white;
+  text-transform: uppercase;
+  font-size: 40px;
+  text-shadow: 2px 2px 2px black;
 }
 
 .App-title {
@@ -23,10 +26,13 @@
 }
 
 @keyframes App-logo-spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
 }
-
 
 .player_row {
   display: flex;
@@ -36,4 +42,13 @@
 
 .player_row p {
   padding: 0 20px;
+}
+
+.player_row div {
+  border: 1px solid black;
+  border-right: 0;
+}
+
+.player_row div:last-of-type {
+  border-right: 1px solid black;
 }
