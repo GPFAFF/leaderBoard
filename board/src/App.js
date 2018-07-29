@@ -18,9 +18,7 @@ class App extends Component {
     const response = await fetch('https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/data.json')
     .then(res => res.json());
 
-    console.log(response);
     const chunks = response.filter(chunk => chunk);
-    console.log(chunks)
 
     this.setState({
       data: chunks
@@ -36,7 +34,7 @@ class App extends Component {
           <h1 className="App-title">Golf Leaderboard</h1>
         </header>
         <p className="App-intro">
-         DFS PGA STANDINGS
+          PGA STANDINGS
         </p>
         <Player data={this.state.data} />
       </div>

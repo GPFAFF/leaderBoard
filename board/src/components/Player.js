@@ -7,10 +7,16 @@ class Player extends Component {
     data: PropTypes.array
   }
 
+  state = {
+    playersTotalArray: []
+  }
+
   calculateTotal = (scores) => {
+
     const scoresArray = scores.reduce((acc, currentValue) => {
-      return acc + currentValue;
-    });
+      return acc + currentValue.tournamentScore * currentValue.tournamentType;
+    }, 0);
+
     return scoresArray;
   }
 
@@ -19,6 +25,7 @@ class Player extends Component {
     return (
       <div className="player_container">
         {this.props.data.map((item, index) => (
+
           <div className='player' key={index}>
             <h2>{item.user}</h2>
             <div className="player_row">
@@ -32,7 +39,7 @@ class Player extends Component {
                 )
               })}
             </div>
-            <p> {this.calculateTotal(item.totalScores)} - Total </p>
+            <p>Total: {this.calculateTotal(item.tournaments)}</p>
           </div>
         ))}
       </div>
