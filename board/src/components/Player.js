@@ -12,12 +12,15 @@ class Player extends Component {
   }
 
   calculateTotal = (scores) => {
-
     const scoresArray = scores.reduce((acc, currentValue) => {
       return acc + currentValue.tournamentScore * currentValue.tournamentType;
     }, 0);
 
     return scoresArray;
+  }
+
+  sortStandings = (scoresArray) => {
+    console.log('yo');
   }
 
   render() {
@@ -28,17 +31,7 @@ class Player extends Component {
 
           <div className='player' key={index}>
             <h2>{item.user}</h2>
-            <div className="player_row">
-              {item.tournaments.map((data, index) => {
-                const { tournamentName, tournamentScore } = data;
-                return (
-                  <div key={index}>
-                    <p>{tournamentName}</p>
-                    <p>{tournamentScore}</p>
-                  </div>
-                )
-              })}
-            </div>
+            <img src={item.icon} alt="icon" />
             <p>Total: {this.calculateTotal(item.tournaments)}</p>
           </div>
         ))}
