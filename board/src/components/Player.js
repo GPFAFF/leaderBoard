@@ -28,11 +28,11 @@ class Player extends Component {
     return (
       <div className="player_container">
         {this.props.data.map((item, index) => (
-
           <div className='player' key={index}>
             <h2>{item.user}</h2>
-            <img src={item.icon} alt="icon" />
             <p>Total: {this.calculateTotal(item.tournaments)}</p>
+            <img className="player-icon" src={item.icon} alt="icon" />
+            {/* playerData data={this.props.item.tournaments} */}
           </div>
         ))}
       </div>

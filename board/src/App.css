@@ -52,3 +52,9 @@
 .player_row div:last-of-type {
   border-right: 1px solid black;
 }
+
+.player-icon {
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+}
