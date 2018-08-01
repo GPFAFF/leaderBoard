@@ -34,10 +34,19 @@
   }
 }
 
+.player_container {
+  padding: 40px;
+  text-align: left;
+}
+
 .player_row {
   display: flex;
   flex: 1;
   justify-content: center;
+}
+
+.player {
+  margin: 30px;
 }
 
 .player_row p {
@@ -54,7 +63,20 @@
 }
 
 .player-icon {
-  width: 250px;
-  height: 250px;
-  border-radius: 50%;
+  width: 100px;
+  height: auto;
+  border-radius: 0
+}
+
+.player-score {
+  margin-bottom: 30px;
+}
+
+.player-score h2,
+.player-score p {
+  display: inline;
+  padding: 20px 10px;
+  /* flex: 1;
+  align-items: center;
+  justify-content: center; */
 }

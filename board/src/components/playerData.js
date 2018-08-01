@@ -1,11 +1,14 @@
 import React, { Component } from 'react'
 
- class playerData extends Component {
+ class PlayerData extends Component {
   render() {
     return (
       <div className="player_row">
-        {item.tournaments.map((data, index) => {
-          const { tournamentName, tournamentScore } = data;
+        {this.props.data.map((items, index) => {
+          const {
+            tournamentName,
+            tournamentScore
+          } = items;
           return (
             <div key={index}>
               <p>{tournamentName}</p>
@@ -18,5 +21,5 @@ import React, { Component } from 'react'
   }
 }
 
-export default playerData;
+export default PlayerData;
 

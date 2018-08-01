@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import PlayerData from './PlayerData';
 import PropTypes from 'prop-types';
 
 class Player extends Component {
@@ -13,14 +14,20 @@ class Player extends Component {
 
   calculateTotal = (scores) => {
     const scoresArray = scores.reduce((acc, currentValue) => {
-      return acc + currentValue.tournamentScore * currentValue.tournamentType;
+      const total = acc + currentValue.tournamentScore * currentValue.tournamentType;
+      return total;
     }, 0);
 
     return scoresArray;
   }
 
   sortStandings = (scoresArray) => {
-    console.log('yo');
+    const {x} = this.state;
+    const newItem = 'a';
+    this.setState({
+      playersTotalArray: [...this.state.playersTotalArray, newItem]
+    })
+    //this.setState({playersTotalArray: scores})
   }
 
   render() {
@@ -28,13 +35,21 @@ class Player extends Component {
     return (
       <div className="player_container">
         {this.props.data.map((item, index) => (
+          /* sort these */
           <div className='player' key={index}>
-            <h2>{item.user}</h2>
-            <p>Total: {this.calculateTotal(item.tournaments)}</p>
-            <img className="player-icon" src={item.icon} alt="icon" />
-            {/* playerData data={this.props.item.tournaments} */}
+            {/* <h2>{item.user}</h2>
+            <p>Total: {this.calculateTotal(item.tournaments)}</p> */}
+            <div className='player-score'>
+              <h2>{item.user}</h2>
+              <img className="player-icon" src={item.icon} alt="icon" />
+            </div>
+            {/* <p>Total: {this.calculateTotal(item.tournaments)}</p> */}
+           {/*  <PlayerData data={item.tournaments} /> */}
           </div>
         ))}
+
+        {this.sortStandings()}
+
       </div>
     )
   }
