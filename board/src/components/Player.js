@@ -47,9 +47,6 @@ class Player extends Component {
            {/*  <PlayerData data={item.tournaments} /> */}
           </div>
         ))}
-
-        {this.sortStandings()}
-
       </div>
     )
   }
