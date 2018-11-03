@@ -36,7 +36,7 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <h1 className="App-title">Golf Leaderboards</h1>
+          <h1 className="App-title">Golf Leaderboard</h1>
         </header>
         <h2 className="App-intro">
           PGA DFS STANDINGS
