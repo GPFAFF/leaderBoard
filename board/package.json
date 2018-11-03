@@ -2,7 +2,7 @@
   "name": "board",
   "version": "0.1.0",
   "private": true,
-  "homepage" : "http://gpfaff.github.io/scoreboard/board",
+  "homepage": "http://gpfaff.github.io/scoreboard",
   "dependencies": {
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
@@ -14,5 +14,8 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "deploy": "gh-pages -d build"
+  },
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
   }
 }
