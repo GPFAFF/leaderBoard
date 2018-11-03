@@ -1,19 +1,22 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
+import PlayerContainer from './components/PlayerContainer';
 import './App.css';
-import Player from './components/Player';
 
 class App extends Component {
+  constructor(props) {
+    super();
 
-  state = {
-    data: []
+    this.state = {
+      data: [],
+      loading: true
+    }
   }
 
   componentDidMount() {
-    this.loadDepndency();
+    this.loadDependency();
   }
 
-  loadDepndency = async () => {
+  loadDependency = async () => {
 
     const response = await fetch('https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/data.json')
     .then(res => res.json());
@@ -21,8 +24,11 @@ class App extends Component {
     const chunks = response.filter(chunk => chunk);
 
     this.setState({
-      data: chunks
+      data: chunks,
+      loading: false
     });
+
+    console.log(this.state.data);
   }
 
   render() {
@@ -30,13 +36,15 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
           <h1 className="App-title">Golf Leaderboard</h1>
         </header>
-        <p className="App-intro">
-          PGA STANDINGS
-        </p>
-        <Player data={this.state.data} />
+        <h2 className="App-intro">
+          PGA DFS STANDINGS
+        </h2>
+        <PlayerContainer
+          data={this.state.data}
+          loading={this.state.loading}
+        />
       </div>
     );
   }
