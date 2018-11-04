@@ -2,6 +2,7 @@ import React, { Component } from 'react'
 import TotalScore from './TotalScore';
 
  class PlayerCard extends Component {
+
   render() {
 
     const { user, icon, tournaments } = this.props.player;
