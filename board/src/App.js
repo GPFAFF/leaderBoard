@@ -27,8 +27,6 @@ class App extends Component {
       data: chunks,
       loading: false
     });
-
-    console.log(this.state.data);
   }
 
   render() {

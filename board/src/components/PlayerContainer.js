@@ -5,6 +5,16 @@ import PropTypes from "prop-types";
 
 class PlayerContainer extends Component {
 
+  // calculateTotal = tournamentList => {
+  //   const scoresArray = tournamentList.reduce((acc, currentValue) => {
+  //     const total =
+  //       acc + currentValue.tournamentScore * currentValue.tournamentType;
+  //     return total;
+  //   }, 0);
+
+  //   return scoresArray;
+  // };
+
   render() {
 
     if (this.props.loading) {
@@ -13,12 +23,25 @@ class PlayerContainer extends Component {
       )
     }
 
-    console.log(this.props.data);
+    const tournamentList = this.props.data.map(data => {
+      console.log(data.tournaments);
+      return data.tournaments;
+    });
+
+    console.log(tournamentList)
+
+    const newList = tournamentList.forEach(item => {
+      return item;
+    })
+
+    console.log(newList);
+
 
     return (
       <div className="player_container">
         {this.props.data.map((player, i) => <PlayerCard key={i} player={player} />
         )}
+       {/* <p> {this.calculateTotal()} </p> */}
       </div>
     );
   }

@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+import PropTypes from 'prop-types';
 
  class TotalScore extends Component {
 
@@ -18,16 +19,14 @@ import React, { Component } from 'react'
 
     return (
       <div className="player_score">
-
         <p>Total: {this.calculateTotal(tournaments)}</p>
-
       </div>
     )
   }
 }
 
 TotalScore.propTypes = {
-
+  tournaments: PropTypes.array
 };
 
 export default TotalScore;
