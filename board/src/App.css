@@ -42,7 +42,7 @@
 .player_row {
   display: flex;
   flex: 1;
-  justify-content: center;
+  align-items: center;
 }
 
 .player {
@@ -67,20 +67,21 @@
 }
 
 .player-icon {
-  width: 100px;
-  height: 100px;
+  width: auto;
+  height: 95px;
   border-radius: 0
 }
 
-.player-score {
-  margin-bottom: 30px;
+.player_score {
+  padding: 20px;
 }
 
-.player-score h2,
-.player-score p {
+.player_row h2,
+.player_score p {
   display: inline;
   padding: 20px 10px;
-  /* flex: 1;
-  align-items: center;
-  justify-content: center; */
+}
+
+.player_score {
+  margin-left: 20px;
 }
