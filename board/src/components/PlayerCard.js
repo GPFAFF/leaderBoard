@@ -7,6 +7,8 @@ import TotalScore from './TotalScore';
 
     const { user, icon, tournaments } = this.props.player;
 
+    console.log(tournaments);
+
     return (
       <div className="player_row">
         <h2>{user}</h2>
