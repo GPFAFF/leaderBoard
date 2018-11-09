@@ -21,7 +21,8 @@ class App extends Component {
     const response = await fetch('https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/data.json')
     .then(res => res.json());
 
-    const chunks = response.filter(chunk => chunk);
+    const chunks = response.map(chunk => chunk);
+
 
     this.setState({
       data: chunks,
