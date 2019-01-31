@@ -12,7 +12,10 @@ import TotalScore from './TotalScore';
     return (
       <div className="player_row">
         <h2>{user}</h2>
-        <img className="player-icon" src={icon} alt="icon" />
+        {icon ? (
+          <img className="player-icon" src={icon} alt="icon" />
+        ): <img className="player-icon" src="https://www.placecage.com/g/200/300" alt="icon" />
+      }
         <TotalScore tournaments={tournaments} />
       </div>
     )

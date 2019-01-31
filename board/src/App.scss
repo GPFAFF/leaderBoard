@@ -13,16 +13,15 @@
   padding: 20px;
   color: white;
   text-transform: uppercase;
-  font-size: 40px;
   text-shadow: 2px 2px 2px black;
-
-  @media (max-width: 480px) {
-    font-size: 20px;
-  }
 }
 
 .App-title {
-  font-size: 1.5em;
+  font-size: 20px;
+
+  @media (min-width: 482px) {
+    font-size: 40px;
+  }
 }
 
 .App-intro {
@@ -39,15 +38,14 @@
 }
 
 .player_container {
-  padding: 40px;
+  padding: 20px;
   text-align: left;
+
+  @media (min-width: 480px) {
+    padding: 40px;
+  }
 }
 
-.player_row {
-  display: flex;
-  flex: 1;
-  align-items: center;
-}
 
 .player {
   margin: 30px;
@@ -55,19 +53,36 @@
 
 .player_row {
   margin: 30px auto;
-}
+  display: block;
 
-.player_row p {
-  padding: 0 20px;
-}
+  @media (min-width: 480px) {
+    display: flex;
+    flex: 1;
+    align-items: center;
+  }
 
-.player_row div {
-  border: 1px solid black;
-  border-right: 0;
-}
+  p {
+    padding: 0 20px;
+  }
 
-.player_row div:last-of-type {
-  border-right: 1px solid black;
+  h2 {
+    display: block;
+    padding: 10px 0;
+
+    @media (min-width: 480px) {
+      display: inline;
+      padding: 20px 10px;
+    }
+  }
+
+  div {
+    border: 1px solid black;
+    border-right: 0;
+
+    &:last-of-type {
+      border-right: 1px solid black;
+    }
+  }
 }
 
 .player-icon {
@@ -78,14 +93,10 @@
 
 .player_score {
   padding: 20px;
+
+  & p {
+    display: inline;
+    padding: 20px 10px;
+  }
 }
 
-.player_row h2,
-.player_score p {
-  display: inline;
-  padding: 20px 10px;
-}
-
-.player_score {
-  margin-left: 20px;
-}

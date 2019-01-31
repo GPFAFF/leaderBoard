@@ -2,19 +2,9 @@
     "user": "Greg",
     "icon": "https://www.australiangolfdigest.com.au/wp-content/uploads/2018/01/dustin-johnson-headshot-300x200.jpg",
     "tournaments": [{
-        "tournamentName": "RBC",
+        "tournamentName": "WM",
         "tournamentType": 1,
-        "tournamentScore": 375.0
-      },
-      {
-        "tournamentName": "British Open",
-        "tournamentType": 3,
-        "tournamentScore": 271.0
-      },
-      {
-        "tournamentName": "WGC Austin",
-        "tournamentType": 2,
-        "tournamentScore": 471.0
+        "tournamentScore": 0
       }
     ]
   },
@@ -22,40 +12,108 @@
     "user": "Kyle",
     "icon": "http://travelerschampionship.com/wp-content/uploads/2016/07/DeChambeau_Bryson_16APR.jpg",
     "tournaments": [{
-        "tournamentName": "RBC",
-        "tournamentType": 1,
-        "tournamentScore": 255.0
-      },
-      {
-        "tournamentName": "British Open",
-        "tournamentType": 3,
-        "tournamentScore": 201.0
-      },
-      {
-        "tournamentName": "WGC Austin",
-        "tournamentType": 2,
-        "tournamentScore": 371.0
-      }
-    ]
+      "tournamentName": "WM",
+      "tournamentType": 1,
+      "tournamentScore": 0
+    }]
   },
   {
     "user": "Chris",
     "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiQFc7RsZ2SWsd95fFHJfZ3bJVPMXxh1c3XHr7Rmq-vBxY0yGW",
     "tournaments": [{
-        "tournamentName": "RBC",
-        "tournamentType": 1,
-        "tournamentScore": 475.0
-      },
-      {
-        "tournamentName": "British Open",
-        "tournamentType": 3,
-        "tournamentScore": 321.0
-      },
-      {
-        "tournamentName": "WGC Austin",
-        "tournamentType": 2,
-        "tournamentScore": 241.0
-      }
-    ]
+      "tournamentName": "WM",
+      "tournamentType": 1,
+      "tournamentScore": 0
+    }]
+  },
+  {
+    "user": "John",
+    "icon": "",
+    "tournaments": [{
+      "tournamentName": "WM",
+      "tournamentType": 1,
+      "tournamentScore": 0
+    }]
+  },
+  {
+    "user": "CubyBlue",
+    "icon": "",
+    "tournaments": [{
+      "tournamentName": "WM",
+      "tournamentType": 1,
+      "tournamentScore": 0
+    }]
+  },
+  {
+    "user": "mlewicki",
+    "icon": "",
+    "tournaments": [{
+      "tournamentName": "WM",
+      "tournamentType": 1,
+      "tournamentScore": 0
+    }]
+  },
+  {
+    "user": "concord",
+    "icon": "",
+    "tournaments": [{
+      "tournamentName": "WM",
+      "tournamentType": 1,
+      "tournamentScore": 0
+    }]
+  },
+  {
+    "user": "mike",
+    "icon": "",
+    "tournaments": [{
+      "tournamentName": "WM",
+      "tournamentType": 1,
+      "tournamentScore": 0
+    }]
+  },
+  {
+    "user": "chicagoputz",
+    "icon": "",
+    "tournaments": [{
+      "tournamentName": "WM",
+      "tournamentType": 1,
+      "tournamentScore": 0
+    }]
+  },
+  {
+    "user": "bgisel9",
+    "icon": "",
+    "tournaments": [{
+      "tournamentName": "WM",
+      "tournamentType": 1,
+      "tournamentScore": 0
+    }]
+  },
+  {
+    "user": "adamlouismiller",
+    "icon": "",
+    "tournaments": [{
+      "tournamentName": "WM",
+      "tournamentType": 1,
+      "tournamentScore": 0
+    }]
+  },
+  {
+    "user": "acohen",
+    "icon": "",
+    "tournaments": [{
+      "tournamentName": "WM",
+      "tournamentType": 1,
+      "tournamentScore": 0
+    }]
+  },
+  {
+    "user": "jph315",
+    "icon": "",
+    "tournaments": [{
+      "tournamentName": "WM",
+      "tournamentType": 1,
+      "tournamentScore": 0
+    }]
   }
 ]
