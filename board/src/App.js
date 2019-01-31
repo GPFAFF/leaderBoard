@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import PlayerContainer from './components/PlayerContainer';
-import './App.css';
+import fetch from "isomorphic-fetch";
+import './App.scss';
 
 class App extends Component {
   constructor(props) {
@@ -11,23 +12,19 @@ class App extends Component {
       loading: true
     }
   }
-
-  componentDidMount() {
-    this.loadDependency();
-  }
-
   loadDependency = async () => {
 
     const response = await fetch('https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/data.json')
     .then(res => res.json());
 
-    const chunks = response.map(chunk => chunk);
-
-
     this.setState({
-      data: chunks,
+      data: response,
       loading: false
     });
+  }
+
+  componentDidMount() {
+    this.loadDependency();
   }
 
   render() {
