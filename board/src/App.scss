@@ -86,9 +86,14 @@
 }
 
 .player-icon {
-  width: auto;
-  height: 95px;
-  border-radius: 0
+  width: 100%;
+  height: auto;
+  border-radius: 0;
+
+  @media (min-width: 480px) {
+    width: auto;
+    height: 95px;
+  }
 }
 
 .player_score {
