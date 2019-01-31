@@ -18,9 +18,19 @@ import PropTypes from 'prop-types'
     const { tournaments } = this.props;
 
     return (
-      <div className="player_score">
-        <p>Total: {this.calculateTotal(tournaments)}</p>
-      </div>
+      <React.Fragment>
+
+        <div className="player_score">
+          <p>Total: {this.calculateTotal(tournaments)}</p>
+          <p>Points Back: 0</p>
+        </div>
+        <div className="player_wins">
+          <p>1st: 0</p>
+          <p>2nd: 0</p>
+          <p>3rd: 0</p>
+        </div>
+
+      </React.Fragment>
     )
   }
 }
