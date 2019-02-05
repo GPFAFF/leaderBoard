@@ -16,6 +16,7 @@ import PropTypes from 'prop-types'
   render() {
 
     const { tournaments } = this.props;
+    const { firstPlace, secondPlace, thirdPlace } = this.props.tournaments;
 
     return (
       <React.Fragment>
@@ -25,9 +26,9 @@ import PropTypes from 'prop-types'
           <p>Points Back: 0</p>
         </div>
         <div className="player_wins">
-          <p>1st: 0</p>
-          <p>2nd: 0</p>
-          <p>3rd: 0</p>
+          <p>1st: {firstPlace} </p>
+          <p>2nd: {secondPlace} </p>
+          <p>3rd: {thirdPlace} </p>
         </div>
 
       </React.Fragment>

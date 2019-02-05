@@ -14,9 +14,9 @@ class PlayerContainer extends Component {
     }
 
     const players = this.props.data.map((item, i) => {
+      console.log(item);
       const newPlayer = {...item};
       newPlayer.totalScore = newPlayer.tournaments.reduce((acc, currentValue) => {
-          console.log('reduce', acc, currentValue)
           return acc + currentValue.tournamentType * currentValue.tournamentScore;
         }, 0)
         return newPlayer;
