@@ -33,7 +33,7 @@ class PlayerContainer extends Component {
     return (
       <div className="player_container">
         {players.map((player, i) => {
-          return <PlayerCard key={i} pointsBack={pointsBack(player)} player={player} />
+          return <PlayerCard key={i} value={i + 1} pointsBack={pointsBack(player)} player={player} />
         })}
       </div>
     );
