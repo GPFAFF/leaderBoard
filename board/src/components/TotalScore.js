@@ -16,7 +16,9 @@ import PropTypes from 'prop-types'
   render() {
 
     const { tournaments } = this.props;
-    const { firstPlace, secondPlace, thirdPlace } = this.props.tournaments;
+    const { firstPlace, secondPlace, thirdPlace } = this.props.tournaments[0];
+
+    console.log('a', firstPlace, secondPlace, thirdPlace);
 
     return (
       <React.Fragment>
