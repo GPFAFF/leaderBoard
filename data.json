@@ -4,7 +4,10 @@
     "tournaments": [{
         "tournamentName": "WMO",
         "tournamentType": 1,
-        "tournamentScore": 440.50
+        "tournamentScore": 440.50,
+        "firstPlace": "0",
+        "secondPlace": "0",
+        "thridPlace": "0"
       }
     ]
   },
@@ -14,7 +17,10 @@
     "tournaments": [{
       "tournamentName": "WMO",
       "tournamentType": 1,
-      "tournamentScore": 406.00
+      "tournamentScore": 406.00,
+      "firstPlace": "0",
+      "secondPlace": "0",
+      "thridPlace": "0"
     }]
   },
   {
@@ -23,7 +29,10 @@
     "tournaments": [{
       "tournamentName": "WMO",
       "tournamentType": 1,
-      "tournamentScore": 451.50
+      "tournamentScore": 451.50,
+      "firstPlace": "0",
+      "secondPlace": "0",
+      "thridPlace": "1"
     }]
   },
   {
@@ -32,7 +41,10 @@
     "tournaments": [{
       "tournamentName": "WMO",
       "tournamentType": 1,
-      "tournamentScore": 510.50
+      "tournamentScore": 510.50,
+      "firstPlace": "1",
+      "secondPlace": "0",
+      "thridPlace": "0"
     }]
   },
   {
@@ -41,7 +53,10 @@
     "tournaments": [{
       "tournamentName": "WMO",
       "tournamentType": 1,
-      "tournamentScore": 405.50
+      "tournamentScore": 405.50,
+      "firstPlace": "0",
+      "secondPlace": "0",
+      "thridPlace": "0"
     }]
   },
   {
@@ -50,7 +65,10 @@
     "tournaments": [{
       "tournamentName": "WMO",
       "tournamentType": 1,
-      "tournamentScore": 406.50
+      "tournamentScore": 406.50,
+      "firstPlace": "0",
+      "secondPlace": "0",
+      "thridPlace": "0"
     }]
   },
   {
@@ -59,7 +77,10 @@
     "tournaments": [{
       "tournamentName": "WMO",
       "tournamentType": 1,
-      "tournamentScore": 346.00
+      "tournamentScore": 346.00,
+      "firstPlace": "0",
+      "secondPlace": "0",
+      "thridPlace": "0"
     }]
   },
   {
@@ -68,7 +89,10 @@
     "tournaments": [{
       "tournamentName": "WMO",
       "tournamentType": 1,
-      "tournamentScore": 406.50
+      "tournamentScore": 406.50,
+      "firstPlace": "0",
+      "secondPlace": "0",
+      "thridPlace": "0"
     }]
   },
   {
@@ -77,7 +101,10 @@
     "tournaments": [{
       "tournamentName": "WMO",
       "tournamentType": 1,
-      "tournamentScore": 441.00
+      "tournamentScore": 441.00,
+      "firstPlace": "0",
+      "secondPlace": "0",
+      "thridPlace": "0"
     }]
   },
 
@@ -87,7 +114,10 @@
     "tournaments": [{
       "tournamentName": "WMO",
       "tournamentType": 1,
-      "tournamentScore": 357.00
+      "tournamentScore": 357.00,
+      "firstPlace": "0",
+      "secondPlace": "0",
+      "thridPlace": "0"
     }]
   },
   {
@@ -96,7 +126,10 @@
     "tournaments": [{
       "tournamentName": "WMO",
       "tournamentType": 1,
-      "tournamentScore": 360.00
+      "tournamentScore": 360.00,
+      "firstPlace": "0",
+      "secondPlace": "0",
+      "thridPlace": "0"
     }]
   },
   {
@@ -105,7 +138,10 @@
     "tournaments": [{
       "tournamentName": "WMO",
       "tournamentType": 1,
-      "tournamentScore": 290.50
+      "tournamentScore": 290.50,
+      "firstPlace": "0",
+      "secondPlace": "0",
+      "thridPlace": "0"
     }]
   },
   {
@@ -114,7 +150,10 @@
     "tournaments": [{
       "tournamentName": "WMO",
       "tournamentType": 1,
-      "tournamentScore": 350.00
+      "tournamentScore": 350.00,
+      "firstPlace": "0",
+      "secondPlace": "0",
+      "thridPlace": "0"
     }]
   },
   {
@@ -123,7 +162,10 @@
     "tournaments": [{
       "tournamentName": "WMO",
       "tournamentType": 1,
-      "tournamentScore": 382.50
+      "tournamentScore": 382.50,
+      "firstPlace": "0",
+      "secondPlace": "0",
+      "thridPlace": "0"
     }]
   },
   {
@@ -132,7 +174,10 @@
     "tournaments": [{
       "tournamentName": "WMO",
       "tournamentType": 1,
-      "tournamentScore": 343.50
+      "tournamentScore": 343.50,
+      "firstPlace": "0",
+      "secondPlace": "0",
+      "thridPlace": "0"
     }]
   },
   {
@@ -141,7 +186,10 @@
     "tournaments": [{
       "tournamentName": "WMO",
       "tournamentType": 1,
-      "tournamentScore": 465
+      "tournamentScore": 465,
+      "firstPlace": "0",
+      "secondPlace": "2",
+      "thridPlace": "0"
     }]
   },
   {
@@ -150,7 +198,10 @@
     "tournaments": [{
       "tournamentName": "WMO",
       "tournamentType": 1,
-      "tournamentScore": 378.50
+      "tournamentScore": 378.50,
+      "firstPlace": "0",
+      "secondPlace": "0",
+      "thridPlace": "0"
     }]
   }
 ]
