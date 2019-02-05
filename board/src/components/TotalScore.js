@@ -15,17 +15,21 @@ import PropTypes from 'prop-types'
 
   render() {
 
-    const { tournaments } = this.props;
+    const { tournaments, pointsBack } = this.props;
     const { firstPlace, secondPlace, thirdPlace } = this.props.tournaments[0];
 
-    console.log('a', firstPlace, secondPlace, thirdPlace);
+    const formatPoints = (pointsBack) => {
+      if (pointsBack === 0) return <p>Points Back: 0</p>
+      return <p>Points Back: -{pointsBack} </p>
+    }
 
     return (
       <React.Fragment>
 
         <div className="player_score">
           <p>Total: {this.calculateTotal(tournaments)}</p>
-          <p>Points Back: 0</p>
+          {}
+          <p>{formatPoints(pointsBack)} </p>
         </div>
         <div className="player_wins">
           <p>1st: {firstPlace} </p>

@@ -6,8 +6,7 @@ import TotalScore from './TotalScore';
   render() {
 
     const { user, icon, tournaments } = this.props.player;
-
-    console.log(this.props.player);
+    const { pointsBack } = this.props;
 
     return (
       <div className="player_row">
@@ -16,7 +15,7 @@ import TotalScore from './TotalScore';
           <img className="player-icon" src={icon} alt="icon" />
         ): <img className="player-icon" src="https://www.placecage.com/g/200/300" alt="icon" />
       }
-        <TotalScore tournaments={tournaments} />
+        <TotalScore pointsBack={pointsBack} tournaments={tournaments} />
       </div>
     )
   }
