@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+import PropTypes from 'prop-types'
 
  class TotalScore extends Component {
 
@@ -14,20 +15,35 @@ import React, { Component } from 'react'
 
   render() {
 
-    const { tournaments } = this.props;
+    const { tournaments, pointsBack } = this.props;
+    const { firstPlace, secondPlace, thirdPlace } = this.props.tournaments[0];
+
+    const formatPoints = (pointsBack) => {
+      if (pointsBack === 0) return <p>Points Back: 0</p>
+      return <p>Points Back: -{pointsBack} </p>
+    }
 
     return (
-      <div className="player_score">
+      <React.Fragment>
 
-        <p>Total: {this.calculateTotal(tournaments)}</p>
+        <div className="player_score">
+          <p>Total: {this.calculateTotal(tournaments)}</p>
+          {}
+          <p>{formatPoints(pointsBack)} </p>
+        </div>
+        <div className="player_wins">
+          <p>1st: {firstPlace} </p>
+          <p>2nd: {secondPlace} </p>
+          <p>3rd: {thirdPlace} </p>
+        </div>
 
-      </div>
+      </React.Fragment>
     )
   }
 }
 
 TotalScore.propTypes = {
-
+  tournaments: PropTypes.array
 };
 
 export default TotalScore;

@@ -13,19 +13,32 @@ class PlayerContainer extends Component {
       )
     }
 
-    console.log(this.props.data);
+    const players = this.props.data.map((item, i) => {
+      const newPlayer = {...item};
+      newPlayer.totalScore = newPlayer.tournaments.reduce((acc, currentValue) => {
+          return acc + currentValue.tournamentType * currentValue.tournamentScore;
+        }, 0)
+        return newPlayer;
+    }).sort((a,b) => {
+      return b.totalScore - a.totalScore;
+    });
+
+    function pointsBack(player) {
+      const leader = players[0].totalScore;
+      return leader - player.totalScore;
+    }
 
     return (
       <div className="player_container">
-        {this.props.data.map((player, i) => <PlayerCard key={i} player={player} />
-        )}
+        {players.map((player, i) => {
+          return <PlayerCard key={i} value={i + 1} pointsBack={pointsBack(player)} player={player} />
+        })}
       </div>
     );
   }
 }
 
 PlayerContainer.propTypes = {
-  data: PropTypes.arrayOf(PropTypes.object),
   loading: PropTypes.bool.isRequired,
 }
 
