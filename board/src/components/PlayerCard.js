@@ -10,14 +10,16 @@ import TotalScore from './TotalScore';
 
     return (
       <div className="player_row">
-        <h2>
-          <span className='player_place'>{value}. </span>
-          {user}
-        </h2>
-        {icon ? (
-          <img className="player-icon" src={icon} alt="icon" />
-        ): <img className="player-icon" src="https://www.placecage.com/g/200/300" alt="icon" />
-      }
+        <div className="player_row__title">
+          <h2>
+            <span className='player_row__place'>{value}. </span>
+            {user}
+          </h2>
+          {icon ? (
+            <img className="player_row__icon" src={icon} alt="icon" />
+          ): <img className="player_row__icon" src="https://www.placecage.com/g/200/300" alt="icon" />
+          }
+        </div>
         <TotalScore pointsBack={pointsBack} tournaments={tournaments} />
       </div>
     )

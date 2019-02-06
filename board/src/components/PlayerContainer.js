@@ -23,8 +23,6 @@ class PlayerContainer extends Component {
       return b.totalScore - a.totalScore;
     });
 
-    console.log(players);
-
     function pointsBack(player) {
       const leader = players[0].totalScore;
       return leader - player.totalScore;
