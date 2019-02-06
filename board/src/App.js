@@ -34,9 +34,6 @@ class App extends Component {
         <header className="App-header">
           <h1 className="App-title">Golf Leaderboard</h1>
         </header>
-        <h2 className="App-intro">
-          PGA DFS STANDINGS
-        </h2>
         <PlayerContainer
           data={this.state.data}
           loading={this.state.loading}
