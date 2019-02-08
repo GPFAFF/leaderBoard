@@ -17,7 +17,7 @@ import TotalScore from './TotalScore';
           </h2>
           {icon ? (
             <img className="player_row__icon" src={icon} alt="icon" />
-          ): <img className="player_row__icon" src="https://www.placecage.com/g/200/300" alt="icon" />
+          ): <img className="player_row__icon" src="https://raw.githubusercontent.com/GPFAFF/leaderBoard/dev/img/poop.jpg" alt="icon" />
           }
         </div>
         <TotalScore pointsBack={pointsBack} tournaments={tournaments} />

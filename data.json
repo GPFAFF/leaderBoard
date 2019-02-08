@@ -134,7 +134,7 @@
   },
   {
     "user": "belikemike247",
-    "icon": "",
+    "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/dev/img/mike.jpg",
     "tournaments": [{
       "tournamentName": "WMO",
       "tournamentType": 1,
