@@ -1,6 +1,6 @@
 [{
     "user": "gapfaff",
-    "icon": "https://www.australiangolfdigest.com.au/wp-content/uploads/2018/01/dustin-johnson-headshot-300x200.jpg",
+    "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/dev/img/greg.jpg",
     "tournaments": [{
         "tournamentName": "WMO",
         "tournamentType": 1,
@@ -13,7 +13,7 @@
   },
   {
     "user": "American-Dream",
-    "icon": "https://travelerschampionship.com/wp-content/uploads/2016/07/DeChambeau_Bryson_16APR.jpg",
+    "icon": "",
     "tournaments": [{
       "tournamentName": "WMO",
       "tournamentType": 1,
@@ -25,7 +25,7 @@
   },
   {
     "user": "boyewsky",
-    "icon": "http://travelerschampionship.com/wp-content/uploads/2016/07/DeChambeau_Bryson_16APR.jpg",
+    "icon": "",
     "tournaments": [{
       "tournamentName": "WMO",
       "tournamentType": 1,
@@ -49,7 +49,7 @@
   },
   {
     "user": "andcohen2525",
-    "icon": "https://travelerschampionship.com/wp-content/uploads/2016/07/DeChambeau_Bryson_16APR.jpg",
+    "icon": "",
     "tournaments": [{
       "tournamentName": "WMO",
       "tournamentType": 1,
@@ -61,7 +61,7 @@
   },
   {
     "user": "It'sAllAboutTheMoney",
-    "icon": "https://travelerschampionship.com/wp-content/uploads/2016/07/DeChambeau_Bryson_16APR.jpg",
+    "icon": "",
     "tournaments": [{
       "tournamentName": "WMO",
       "tournamentType": 1,
