@@ -1,6 +1,6 @@
 [{
     "user": "gapfaff",
-    "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/dev/img/greg.jpg",
+    "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/greg.jpg",
     "tournaments": [{
         "tournamentName": "WMO",
         "tournamentType": 1,
@@ -37,7 +37,7 @@
   },
   {
     "user": "chrisp1010",
-    "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/dev/img/chris.jpg",
+    "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/chris.jpg",
     "tournaments": [{
       "tournamentName": "WMO",
       "tournamentType": 1,
@@ -134,7 +134,7 @@
   },
   {
     "user": "belikemike247",
-    "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/dev/img/mike.jpg",
+    "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/mike.jpg",
     "tournaments": [{
       "tournamentName": "WMO",
       "tournamentType": 1,
