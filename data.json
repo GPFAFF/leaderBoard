@@ -13,7 +13,7 @@
   },
   {
     "user": "American-Dream",
-    "icon": "",
+    "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/kyle.png",
     "tournaments": [{
       "tournamentName": "WMO",
       "tournamentType": 1,
