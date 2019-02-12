@@ -5,7 +5,7 @@ import TotalScore from './TotalScore';
 
   render() {
 
-    const { user, icon, tournaments } = this.props.player;
+    const { user, icon, tournaments, tournamentPlaces } = this.props.player;
     const { pointsBack, value } = this.props;
 
     return (
@@ -20,7 +20,11 @@ import TotalScore from './TotalScore';
           ): <img className="player_row__icon" src="https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/poop.jpg" alt="icon" />
           }
         </div>
-        <TotalScore pointsBack={pointsBack} tournaments={tournaments} />
+        <TotalScore
+          pointsBack={pointsBack}
+          tournaments={tournaments}
+          tournamentPlaces={tournamentPlaces}
+        />
       </div>
     )
   }

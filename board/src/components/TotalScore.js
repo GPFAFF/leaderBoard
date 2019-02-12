@@ -16,11 +16,13 @@ import PropTypes from 'prop-types'
   render() {
 
     const { tournaments, pointsBack } = this.props;
-    const { firstPlace, secondPlace, thirdPlace } = this.props.tournaments[0];
+    const { firstPlace, secondPlace, thirdPlace } = this.props.tournamentPlaces;
 
     const formatPoints = (pointsBack) => {
-      if (pointsBack === 0) return <p>Points Back: 0</p>
-      return <p>Points Back: -{pointsBack} </p>
+      if (pointsBack === 0) {
+        return <p>Points Back: 0</p>;
+      }
+      return <p>Points Back: -{pointsBack} </p>;
     }
 
     return (
@@ -28,8 +30,7 @@ import PropTypes from 'prop-types'
 
         <div className="player_score">
           <p>Total: {this.calculateTotal(tournaments)}</p>
-          {}
-          <p>{formatPoints(pointsBack)} </p>
+          {formatPoints(pointsBack)}
         </div>
         <div className="player_wins">
           <p>1st: {firstPlace} </p>
