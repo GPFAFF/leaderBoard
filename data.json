@@ -1,207 +1,360 @@
-[{
+[
+  {
     "user": "gapfaff",
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/greg.jpg",
-    "tournaments": [{
+    "tournamentPlaces": {
+      "firstPlace": "0",
+      "secondPlace": "0",
+      "thirdPlace": "0"
+    },
+    "tournaments": [
+      {
         "tournamentName": "WMO",
         "tournamentType": 1,
-        "tournamentScore": 440.50,
-        "firstPlace": "0",
-        "secondPlace": "0",
-        "thirdPlace": "0"
+        "tournamentScore": 440.50
+      },
+      {
+        "tournamentName": "ATT",
+        "tournamentType": 1,
+        "tournamentScore": 417.50
       }
     ]
   },
   {
     "user": "American-Dream",
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/kyle.png",
-    "tournaments": [{
-      "tournamentName": "WMO",
-      "tournamentType": 1,
-      "tournamentScore": 406.00,
+    "tournamentPlaces": {
       "firstPlace": "0",
       "secondPlace": "0",
       "thirdPlace": "0"
-    }]
+    },
+    "tournaments": [
+      {
+        "tournamentName": "WMO",
+        "tournamentType": 1,
+        "tournamentScore": 406.00
+      },
+      {
+        "tournamentName": "ATT",
+        "tournamentType": 1,
+        "tournamentScore": 430.50
+      }
+    ]
   },
   {
     "user": "boyewsky",
     "icon": "",
-    "tournaments": [{
-      "tournamentName": "WMO",
-      "tournamentType": 1,
-      "tournamentScore": 451.50,
+    "tournamentPlaces": {
       "firstPlace": "0",
       "secondPlace": "0",
       "thirdPlace": "1"
-    }]
+    },
+    "tournaments": [
+      {
+        "tournamentName": "WMO",
+        "tournamentType": 1,
+        "tournamentScore": 451.50
+      },
+      {
+        "tournamentName": "ATT",
+        "tournamentType": 1,
+        "tournamentScore": 386.50
+      }
+    ]
   },
   {
     "user": "chrisp1010",
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/chris.jpg",
-    "tournaments": [{
-      "tournamentName": "WMO",
-      "tournamentType": 1,
-      "tournamentScore": 510.50,
+    "tournamentPlaces": {
       "firstPlace": "1",
       "secondPlace": "0",
       "thirdPlace": "0"
-    }]
+    },
+    "tournaments": [
+      {
+        "tournamentName": "WMO",
+        "tournamentType": 1,
+        "tournamentScore": 510.50
+      },
+      {
+        "tournamentName": "ATT",
+        "tournamentType": 1,
+        "tournamentScore": 410.00
+      }
+    ]
   },
   {
     "user": "andcohen2525",
     "icon": "",
-    "tournaments": [{
-      "tournamentName": "WMO",
-      "tournamentType": 1,
-      "tournamentScore": 405.50,
+    "tournamentPlaces": {
       "firstPlace": "0",
       "secondPlace": "0",
       "thirdPlace": "0"
-    }]
+    },
+    "tournaments": [
+      {
+        "tournamentName": "WMO",
+        "tournamentType": 1,
+        "tournamentScore": 405.50
+      },
+      {
+        "tournamentName": "ATT",
+        "tournamentType": 1,
+        "tournamentScore": 373.00
+      }
+    ]
   },
   {
     "user": "It'sAllAboutTheMoney",
     "icon": "",
-    "tournaments": [{
-      "tournamentName": "WMO",
-      "tournamentType": 1,
-      "tournamentScore": 406.50,
-      "firstPlace": "0",
+    "tournamentPlaces": {
+      "firstPlace": "1",
       "secondPlace": "0",
       "thirdPlace": "0"
-    }]
+    },
+    "tournaments": [
+      {
+        "tournamentName": "WMO",
+        "tournamentType": 1,
+        "tournamentScore": 406.50
+      },
+      {
+        "tournamentName": "ATT",
+        "tournamentType": 1,
+        "tournamentScore": 450.50
+      }
+    ]
   },
   {
     "user": "jrmagner",
     "icon": "",
-    "tournaments": [{
-      "tournamentName": "WMO",
-      "tournamentType": 1,
-      "tournamentScore": 346.00,
+    "tournamentPlaces": {
       "firstPlace": "0",
       "secondPlace": "0",
       "thirdPlace": "0"
-    }]
+    },
+    "tournaments": [
+      {
+        "tournamentName": "WMO",
+        "tournamentType": 1,
+        "tournamentScore": 346.00
+      },
+      {
+        "tournamentName": "ATT",
+        "tournamentType": 1,
+        "tournamentScore": 322.50
+      }
+    ]
   },
   {
     "user": "CubyBlue",
     "icon": "",
-    "tournaments": [{
-      "tournamentName": "WMO",
-      "tournamentType": 1,
-      "tournamentScore": 406.50,
+    "tournamentPlaces": {
       "firstPlace": "0",
       "secondPlace": "0",
-      "thirdPlace": "0"
-    }]
+      "thirdPlace": "1"
+    },
+    "tournaments": [
+      {
+        "tournamentName": "WMO",
+        "tournamentType": 1,
+        "tournamentScore": 406.50
+      },
+      {
+        "tournamentName": "ATT",
+        "tournamentType": 1,
+        "tournamentScore": 442.50
+      }
+    ]
   },
   {
     "user": "garciar15",
     "icon": "",
-    "tournaments": [{
-      "tournamentName": "WMO",
-      "tournamentType": 1,
-      "tournamentScore": 441.00,
+    "tournamentPlaces": {
       "firstPlace": "0",
-      "secondPlace": "0",
+      "secondPlace": "2",
       "thirdPlace": "0"
-    }]
+    },
+    "tournaments": [
+      {
+        "tournamentName": "WMO",
+        "tournamentType": 1,
+        "tournamentScore": 441.00
+      },
+      {
+        "tournamentName": "ATT",
+        "tournamentType": 1,
+        "tournamentScore": 447.00
+      }
+    ]
   },
 
   {
     "user": "mlewicki",
     "icon": "",
-    "tournaments": [{
-      "tournamentName": "WMO",
-      "tournamentType": 1,
-      "tournamentScore": 357.00,
+    "tournamentPlaces": {
       "firstPlace": "0",
       "secondPlace": "0",
       "thirdPlace": "0"
-    }]
+    },
+    "tournaments": [
+      {
+        "tournamentName": "WMO",
+        "tournamentType": 1,
+        "tournamentScore": 357.00
+      },
+      {
+        "tournamentName": "ATT",
+        "tournamentType": 1,
+        "tournamentScore": 428.00
+      }
+    ]
   },
   {
     "user": "concord",
     "icon": "",
-    "tournaments": [{
-      "tournamentName": "WMO",
-      "tournamentType": 1,
-      "tournamentScore": 360.00,
+    "tournamentPlaces": {
       "firstPlace": "0",
       "secondPlace": "0",
       "thirdPlace": "0"
-    }]
+    },
+    "tournaments": [
+      {
+        "tournamentName": "WMO",
+        "tournamentType": 1,
+        "tournamentScore": 360.00
+      },
+      {
+        "tournamentName": "ATT",
+        "tournamentType": 1,
+        "tournamentScore": 320.00
+      }
+    ]
   },
   {
     "user": "belikemike247",
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/mike.jpg",
-    "tournaments": [{
-      "tournamentName": "WMO",
-      "tournamentType": 1,
-      "tournamentScore": 290.50,
+    "tournamentPlaces": {
       "firstPlace": "0",
       "secondPlace": "0",
       "thirdPlace": "0"
-    }]
+    },
+    "tournaments": [
+      {
+        "tournamentName": "WMO",
+        "tournamentType": 1,
+        "tournamentScore": 290.50
+      },
+      {
+        "tournamentName": "ATT",
+        "tournamentType": 1,
+        "tournamentScore": 361.50
+      }
+    ]
   },
   {
     "user": "chicagoputz",
     "icon": "",
-    "tournaments": [{
-      "tournamentName": "WMO",
-      "tournamentType": 1,
-      "tournamentScore": 350.00,
+    "tournamentPlaces": {
       "firstPlace": "0",
       "secondPlace": "0",
       "thirdPlace": "0"
-    }]
+    },
+    "tournaments": [
+      {
+        "tournamentName": "WMO",
+        "tournamentType": 1,
+        "tournamentScore": 350.00
+      },
+      {
+        "tournamentName": "ATT",
+        "tournamentType": 1,
+        "tournamentScore": 372.00
+      }
+    ]
   },
   {
     "user": "bgisel9",
     "icon": "",
-    "tournaments": [{
-      "tournamentName": "WMO",
-      "tournamentType": 1,
-      "tournamentScore": 382.50,
+    "tournamentPlaces": {
       "firstPlace": "0",
       "secondPlace": "0",
       "thirdPlace": "0"
-    }]
+    },
+    "tournaments": [
+      {
+        "tournamentName": "WMO",
+        "tournamentType": 1,
+        "tournamentScore": 382.50
+      },
+      {
+        "tournamentName": "ATT",
+        "tournamentType": 1,
+        "tournamentScore": 362.50
+      }
+    ]
   },
   {
     "user": "adamlouismiller",
     "icon": "",
-    "tournaments": [{
-      "tournamentName": "WMO",
-      "tournamentType": 1,
-      "tournamentScore": 343.50,
+    "tournamentPlaces": {
       "firstPlace": "0",
       "secondPlace": "0",
       "thirdPlace": "0"
-    }]
+    },
+    "tournaments": [
+      {
+        "tournamentName": "WMO",
+        "tournamentType": 1,
+        "tournamentScore": 343.50
+      },
+      {
+        "tournamentName": "ATT",
+        "tournamentType": 1,
+        "tournamentScore": 419.50
+      }
+    ]
   },
   {
     "user": "jph315",
     "icon": "",
-    "tournaments": [{
-      "tournamentName": "WMO",
-      "tournamentType": 1,
-      "tournamentScore": 465,
+    "tournamentPlaces": {
       "firstPlace": "0",
       "secondPlace": "1",
       "thirdPlace": "0"
-    }]
+    },
+    "tournaments": [
+      {
+        "tournamentName": "WMO",
+        "tournamentType": 1,
+        "tournamentScore": 465
+      },
+      {
+        "tournamentName": "ATT",
+        "tournamentType": 1,
+        "tournamentScore": 376.00
+      }
+    ]
   },
   {
     "user": "jbone2020",
     "icon": "",
-    "tournaments": [{
-      "tournamentName": "WMO",
-      "tournamentType": 1,
-      "tournamentScore": 378.50,
+    "tournamentPlaces": {
       "firstPlace": "0",
       "secondPlace": "0",
       "thirdPlace": "0"
-    }]
+    },
+    "tournaments": [
+      {
+        "tournamentName": "WMO",
+        "tournamentType": 1,
+        "tournamentScore": 378.50
+      },
+      {
+        "tournamentName": "ATT",
+        "tournamentType": 1,
+        "tournamentScore": 409.50
+      }
+    ]
   }
 ]
