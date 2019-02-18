@@ -5,7 +5,7 @@
     "tournamentPlaces": {
       "firstPlace": "0",
       "secondPlace": "0",
-      "thirdPlace": "0"
+      "thirdPlace": "1"
     },
     "tournaments": [
       {
@@ -17,6 +17,16 @@
         "tournamentName": "ATT",
         "tournamentType": 1,
         "tournamentScore": 417.50
+      },
+      {
+        "tournamentName": "RIV",
+        "tournamentType": 1,
+        "tournamentScore": 438
+      },
+      {
+        "tournamentName": "WGCMX",
+        "tournamentType": 2,
+        "tournamentScore": 0
       }
     ]
   },
@@ -38,6 +48,16 @@
         "tournamentName": "ATT",
         "tournamentType": 1,
         "tournamentScore": 430.50
+      },
+      {
+        "tournamentName": "RIV",
+        "tournamentType": 1,
+        "tournamentScore": 393.00
+      },
+      {
+        "tournamentName": "WGCMX",
+        "tournamentType": 2,
+        "tournamentScore": 0
       }
     ]
   },
@@ -59,6 +79,16 @@
         "tournamentName": "ATT",
         "tournamentType": 1,
         "tournamentScore": 386.50
+      },
+      {
+        "tournamentName": "RIV",
+        "tournamentType": 1,
+        "tournamentScore": 363
+      },
+      {
+        "tournamentName": "WGCMX",
+        "tournamentType": 2,
+        "tournamentScore": 0
       }
     ]
   },
@@ -80,6 +110,16 @@
         "tournamentName": "ATT",
         "tournamentType": 1,
         "tournamentScore": 410.00
+      },
+      {
+        "tournamentName": "RIV",
+        "tournamentType": 1,
+        "tournamentScore": 286.00
+      },
+      {
+        "tournamentName": "WGCMX",
+        "tournamentType": 2,
+        "tournamentScore": 0
       }
     ]
   },
@@ -101,6 +141,16 @@
         "tournamentName": "ATT",
         "tournamentType": 1,
         "tournamentScore": 373.00
+      },
+      {
+        "tournamentName": "RIV",
+        "tournamentType": 1,
+        "tournamentScore": 402
+      },
+      {
+        "tournamentName": "WGCMX",
+        "tournamentType": 2,
+        "tournamentScore": 0
       }
     ]
   },
@@ -108,7 +158,7 @@
     "user": "It'sAllAboutTheMoney",
     "icon": "",
     "tournamentPlaces": {
-      "firstPlace": "1",
+      "firstPlace": "2",
       "secondPlace": "0",
       "thirdPlace": "0"
     },
@@ -122,6 +172,16 @@
         "tournamentName": "ATT",
         "tournamentType": 1,
         "tournamentScore": 450.50
+      },
+      {
+        "tournamentName": "RIV",
+        "tournamentType": 1,
+        "tournamentScore": 484.00
+      },
+      {
+        "tournamentName": "WGCMX",
+        "tournamentType": 2,
+        "tournamentScore": 0
       }
     ]
   },
@@ -143,6 +203,16 @@
         "tournamentName": "ATT",
         "tournamentType": 1,
         "tournamentScore": 322.50
+      },
+      {
+        "tournamentName": "RIV",
+        "tournamentType": 1,
+        "tournamentScore": 337.00
+      },
+      {
+        "tournamentName": "WGCMX",
+        "tournamentType": 2,
+        "tournamentScore": 0
       }
     ]
   },
@@ -164,6 +234,16 @@
         "tournamentName": "ATT",
         "tournamentType": 1,
         "tournamentScore": 442.50
+      },
+      {
+        "tournamentName": "RIV",
+        "tournamentType": 1,
+        "tournamentScore": 403.50
+      },
+      {
+        "tournamentName": "WGCMX",
+        "tournamentType": 2,
+        "tournamentScore": 0
       }
     ]
   },
@@ -185,10 +265,19 @@
         "tournamentName": "ATT",
         "tournamentType": 1,
         "tournamentScore": 447.00
+      },
+      {
+        "tournamentName": "RIV",
+        "tournamentType": 1,
+        "tournamentScore": 341.50
+      },
+      {
+        "tournamentName": "WGCMX",
+        "tournamentType": 2,
+        "tournamentScore": 0
       }
     ]
   },
-
   {
     "user": "mlewicki",
     "icon": "",
@@ -207,6 +296,16 @@
         "tournamentName": "ATT",
         "tournamentType": 1,
         "tournamentScore": 428.00
+      },
+      {
+        "tournamentName": "RIV",
+        "tournamentType": 1,
+        "tournamentScore": 317.50
+      },
+      {
+        "tournamentName": "WGCMX",
+        "tournamentType": 2,
+        "tournamentScore": 0
       }
     ]
   },
@@ -228,6 +327,16 @@
         "tournamentName": "ATT",
         "tournamentType": 1,
         "tournamentScore": 320.00
+      },
+      {
+        "tournamentName": "RIV",
+        "tournamentType": 1,
+        "tournamentScore": 355.00
+      },
+      {
+        "tournamentName": "WGCMX",
+        "tournamentType": 2,
+        "tournamentScore": 0
       }
     ]
   },
@@ -249,6 +358,16 @@
         "tournamentName": "ATT",
         "tournamentType": 1,
         "tournamentScore": 361.50
+      },
+      {
+        "tournamentName": "RIV",
+        "tournamentType": 1,
+        "tournamentScore": 394.50
+      },
+      {
+        "tournamentName": "WGCMX",
+        "tournamentType": 2,
+        "tournamentScore": 0
       }
     ]
   },
@@ -270,6 +389,16 @@
         "tournamentName": "ATT",
         "tournamentType": 1,
         "tournamentScore": 372.00
+      },
+      {
+        "tournamentName": "RIV",
+        "tournamentType": 1,
+        "tournamentScore": 411.00
+      },
+      {
+        "tournamentName": "WGCMX",
+        "tournamentType": 2,
+        "tournamentScore": 0
       }
     ]
   },
@@ -278,7 +407,7 @@
     "icon": "",
     "tournamentPlaces": {
       "firstPlace": "0",
-      "secondPlace": "0",
+      "secondPlace": "1",
       "thirdPlace": "0"
     },
     "tournaments": [
@@ -291,6 +420,16 @@
         "tournamentName": "ATT",
         "tournamentType": 1,
         "tournamentScore": 362.50
+      },
+      {
+        "tournamentName": "RIV",
+        "tournamentType": 1,
+        "tournamentScore": 463.50
+      },
+      {
+        "tournamentName": "WGCMX",
+        "tournamentType": 2,
+        "tournamentScore": 0
       }
     ]
   },
@@ -312,6 +451,16 @@
         "tournamentName": "ATT",
         "tournamentType": 1,
         "tournamentScore": 419.50
+      },
+      {
+        "tournamentName": "RIV",
+        "tournamentType": 1,
+        "tournamentScore": 385.50
+      },
+      {
+        "tournamentName": "WGCMX",
+        "tournamentType": 2,
+        "tournamentScore": 0
       }
     ]
   },
@@ -333,6 +482,16 @@
         "tournamentName": "ATT",
         "tournamentType": 1,
         "tournamentScore": 376.00
+      },
+      {
+        "tournamentName": "RIV",
+        "tournamentType": 1,
+        "tournamentScore": 428.50
+      },
+      {
+        "tournamentName": "WGCMX",
+        "tournamentType": 2,
+        "tournamentScore": 0
       }
     ]
   },
@@ -354,6 +513,16 @@
         "tournamentName": "ATT",
         "tournamentType": 1,
         "tournamentScore": 409.50
+      },
+      {
+        "tournamentName": "RIV",
+        "tournamentType": 1,
+        "tournamentScore": 340.00
+      },
+      {
+        "tournamentName": "WGCMX",
+        "tournamentType": 2,
+        "tournamentScore": 0
       }
     ]
   }
