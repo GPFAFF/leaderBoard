@@ -26,6 +26,11 @@
       {
         "tournamentName": "WGCMX",
         "tournamentType": 2,
+        "tournamentScore": 360.00
+      },
+      {
+        "tournamentName": "HON",
+        "tournamentType": 1,
         "tournamentScore": 0
       }
     ]
@@ -57,6 +62,11 @@
       {
         "tournamentName": "WGCMX",
         "tournamentType": 2,
+        "tournamentScore": 429
+      },
+      {
+        "tournamentName": "HON",
+        "tournamentType": 1,
         "tournamentScore": 0
       }
     ]
@@ -88,6 +98,11 @@
       {
         "tournamentName": "WGCMX",
         "tournamentType": 2,
+        "tournamentScore": 432.50
+      },
+      {
+        "tournamentName": "HON",
+        "tournamentType": 1,
         "tournamentScore": 0
       }
     ]
@@ -119,6 +134,11 @@
       {
         "tournamentName": "WGCMX",
         "tournamentType": 2,
+        "tournamentScore": 426.00
+      },
+      {
+        "tournamentName": "HON",
+        "tournamentType": 1,
         "tournamentScore": 0
       }
     ]
@@ -150,6 +170,11 @@
       {
         "tournamentName": "WGCMX",
         "tournamentType": 2,
+        "tournamentScore": 394.50
+      },
+      {
+        "tournamentName": "HON",
+        "tournamentType": 1,
         "tournamentScore": 0
       }
     ]
@@ -181,6 +206,11 @@
       {
         "tournamentName": "WGCMX",
         "tournamentType": 2,
+        "tournamentScore": 404.00
+      },
+      {
+        "tournamentName": "HON",
+        "tournamentType": 1,
         "tournamentScore": 0
       }
     ]
@@ -212,6 +242,11 @@
       {
         "tournamentName": "WGCMX",
         "tournamentType": 2,
+        "tournamentScore": 371.00
+      },
+      {
+        "tournamentName": "HON",
+        "tournamentType": 1,
         "tournamentScore": 0
       }
     ]
@@ -243,6 +278,11 @@
       {
         "tournamentName": "WGCMX",
         "tournamentType": 2,
+        "tournamentScore": 382.00
+      },
+      {
+        "tournamentName": "HON",
+        "tournamentType": 1,
         "tournamentScore": 0
       }
     ]
@@ -251,7 +291,7 @@
     "user": "garciar15",
     "icon": "",
     "tournamentPlaces": {
-      "firstPlace": "0",
+      "firstPlace": "1",
       "secondPlace": "1",
       "thirdPlace": "0"
     },
@@ -274,6 +314,11 @@
       {
         "tournamentName": "WGCMX",
         "tournamentType": 2,
+        "tournamentScore": 496.00
+      },
+      {
+        "tournamentName": "HON",
+        "tournamentType": 1,
         "tournamentScore": 0
       }
     ]
@@ -305,6 +350,11 @@
       {
         "tournamentName": "WGCMX",
         "tournamentType": 2,
+        "tournamentScore": 421.50
+      },
+      {
+        "tournamentName": "HON",
+        "tournamentType": 1,
         "tournamentScore": 0
       }
     ]
@@ -336,6 +386,11 @@
       {
         "tournamentName": "WGCMX",
         "tournamentType": 2,
+        "tournamentScore": 428.50
+      },
+      {
+        "tournamentName": "HON",
+        "tournamentType": 1,
         "tournamentScore": 0
       }
     ]
@@ -345,7 +400,7 @@
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/mike.jpg",
     "tournamentPlaces": {
       "firstPlace": "0",
-      "secondPlace": "0",
+      "secondPlace": "1",
       "thirdPlace": "0"
     },
     "tournaments": [
@@ -367,6 +422,11 @@
       {
         "tournamentName": "WGCMX",
         "tournamentType": 2,
+        "tournamentScore": 473.50
+      },
+      {
+        "tournamentName": "HON",
+        "tournamentType": 1,
         "tournamentScore": 0
       }
     ]
@@ -398,6 +458,11 @@
       {
         "tournamentName": "WGCMX",
         "tournamentType": 2,
+        "tournamentScore": 367.50
+      },
+      {
+        "tournamentName": "HON",
+        "tournamentType": 1,
         "tournamentScore": 0
       }
     ]
@@ -429,6 +494,11 @@
       {
         "tournamentName": "WGCMX",
         "tournamentType": 2,
+        "tournamentScore": 399.50
+      },
+      {
+        "tournamentName": "HON",
+        "tournamentType": 1,
         "tournamentScore": 0
       }
     ]
@@ -439,7 +509,7 @@
     "tournamentPlaces": {
       "firstPlace": "0",
       "secondPlace": "0",
-      "thirdPlace": "0"
+      "thirdPlace": "1"
     },
     "tournaments": [
       {
@@ -460,6 +530,11 @@
       {
         "tournamentName": "WGCMX",
         "tournamentType": 2,
+        "tournamentScore": 450.50
+      },
+      {
+        "tournamentName": "HON",
+        "tournamentType": 1,
         "tournamentScore": 0
       }
     ]
@@ -491,6 +566,11 @@
       {
         "tournamentName": "WGCMX",
         "tournamentType": 2,
+        "tournamentScore": 392.00
+      },
+      {
+        "tournamentName": "HON",
+        "tournamentType": 1,
         "tournamentScore": 0
       }
     ]
@@ -522,6 +602,11 @@
       {
         "tournamentName": "WGCMX",
         "tournamentType": 2,
+        "tournamentScore": 411.00
+      },
+      {
+        "tournamentName": "HON",
+        "tournamentType": 1,
         "tournamentScore": 0
       }
     ]
