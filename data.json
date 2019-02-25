@@ -217,7 +217,7 @@
   },
   {
     "user": "jrmagner",
-    "icon": "",
+    "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/mags.jpg",
     "tournamentPlaces": {
       "firstPlace": "0",
       "secondPlace": "0",
@@ -505,7 +505,7 @@
   },
   {
     "user": "adamlouismiller",
-    "icon": "",
+    "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/miller.jpg",
     "tournamentPlaces": {
       "firstPlace": "0",
       "secondPlace": "0",
