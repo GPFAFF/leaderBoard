@@ -31,7 +31,7 @@
       {
         "tournamentName": "HON",
         "tournamentType": 1,
-        "tournamentScore": 0
+        "tournamentScore": 279.50
       }
     ]
   },
@@ -67,7 +67,7 @@
       {
         "tournamentName": "HON",
         "tournamentType": 1,
-        "tournamentScore": 0
+        "tournamentScore": 219.50
       }
     ]
   },
@@ -103,7 +103,7 @@
       {
         "tournamentName": "HON",
         "tournamentType": 1,
-        "tournamentScore": 0
+        "tournamentScore": 235.50
       }
     ]
   },
@@ -139,7 +139,7 @@
       {
         "tournamentName": "HON",
         "tournamentType": 1,
-        "tournamentScore": 0
+        "tournamentScore": 283.00
       }
     ]
   },
@@ -175,7 +175,7 @@
       {
         "tournamentName": "HON",
         "tournamentType": 1,
-        "tournamentScore": 0
+        "tournamentScore": 227.00
       }
     ]
   },
@@ -211,7 +211,7 @@
       {
         "tournamentName": "HON",
         "tournamentType": 1,
-        "tournamentScore": 0
+        "tournamentScore": 330.50
       }
     ]
   },
@@ -247,7 +247,7 @@
       {
         "tournamentName": "HON",
         "tournamentType": 1,
-        "tournamentScore": 0
+        "tournamentScore": 337.00
       }
     ]
   },
@@ -283,7 +283,7 @@
       {
         "tournamentName": "HON",
         "tournamentType": 1,
-        "tournamentScore": 0
+        "tournamentScore": 322.50
       }
     ]
   },
@@ -292,7 +292,7 @@
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/garcia.jpg",
     "tournamentPlaces": {
       "firstPlace": "1",
-      "secondPlace": "1",
+      "secondPlace": "2",
       "thirdPlace": "0"
     },
     "tournaments": [
@@ -319,7 +319,7 @@
       {
         "tournamentName": "HON",
         "tournamentType": 1,
-        "tournamentScore": 0
+        "tournamentScore": 370.00
       }
     ]
   },
@@ -355,7 +355,7 @@
       {
         "tournamentName": "HON",
         "tournamentType": 1,
-        "tournamentScore": 0
+        "tournamentScore": 246.50
       }
     ]
   },
@@ -365,7 +365,7 @@
     "tournamentPlaces": {
       "firstPlace": "0",
       "secondPlace": "0",
-      "thirdPlace": "0"
+      "thirdPlace": "1"
     },
     "tournaments": [
       {
@@ -391,7 +391,7 @@
       {
         "tournamentName": "HON",
         "tournamentType": 1,
-        "tournamentScore": 0
+        "tournamentScore": 346.00
       }
     ]
   },
@@ -427,7 +427,7 @@
       {
         "tournamentName": "HON",
         "tournamentType": 1,
-        "tournamentScore": 0
+        "tournamentScore": 273.00
       }
     ]
   },
@@ -435,7 +435,7 @@
     "user": "chicagoputz",
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/putz.jpg",
     "tournamentPlaces": {
-      "firstPlace": "0",
+      "firstPlace": "1",
       "secondPlace": "0",
       "thirdPlace": "0"
     },
@@ -463,7 +463,7 @@
       {
         "tournamentName": "HON",
         "tournamentType": 1,
-        "tournamentScore": 0
+        "tournamentScore": 378.00
       }
     ]
   },
@@ -499,7 +499,7 @@
       {
         "tournamentName": "HON",
         "tournamentType": 1,
-        "tournamentScore": 0
+        "tournamentScore": 309.50
       }
     ]
   },
@@ -535,7 +535,7 @@
       {
         "tournamentName": "HON",
         "tournamentType": 1,
-        "tournamentScore": 0
+        "tournamentScore": 256.00
       }
     ]
   },
@@ -571,7 +571,7 @@
       {
         "tournamentName": "HON",
         "tournamentType": 1,
-        "tournamentScore": 0
+        "tournamentScore": 329.00
       }
     ]
   },
@@ -607,7 +607,7 @@
       {
         "tournamentName": "HON",
         "tournamentType": 1,
-        "tournamentScore": 0
+        "tournamentScore": 305.50
       }
     ]
   }
