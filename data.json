@@ -32,6 +32,11 @@
         "tournamentName": "HON",
         "tournamentType": 1,
         "tournamentScore": 279.50
+      },
+      {
+        "tournamentName": "API",
+        "tournamentType": 1,
+        "tournamentScore": 386.00
       }
     ]
   },
@@ -68,6 +73,11 @@
         "tournamentName": "HON",
         "tournamentType": 1,
         "tournamentScore": 219.50
+      },
+      {
+        "tournamentName": "API",
+        "tournamentType": 1,
+        "tournamentScore": 319.50
       }
     ]
   },
@@ -104,6 +114,11 @@
         "tournamentName": "HON",
         "tournamentType": 1,
         "tournamentScore": 235.50
+      },
+      {
+        "tournamentName": "API",
+        "tournamentType": 1,
+        "tournamentScore": 213.50
       }
     ]
   },
@@ -113,7 +128,7 @@
     "tournamentPlaces": {
       "firstPlace": "1",
       "secondPlace": "0",
-      "thirdPlace": "0"
+      "thirdPlace": "1"
     },
     "tournaments": [
       {
@@ -140,6 +155,11 @@
         "tournamentName": "HON",
         "tournamentType": 1,
         "tournamentScore": 283.00
+      },
+      {
+        "tournamentName": "API",
+        "tournamentType": 1,
+        "tournamentScore": 422.00
       }
     ]
   },
@@ -176,6 +196,11 @@
         "tournamentName": "HON",
         "tournamentType": 1,
         "tournamentScore": 227.00
+      },
+      {
+        "tournamentName": "API",
+        "tournamentType": 1,
+        "tournamentScore": 323.50
       }
     ]
   },
@@ -212,6 +237,11 @@
         "tournamentName": "HON",
         "tournamentType": 1,
         "tournamentScore": 330.50
+      },
+      {
+        "tournamentName": "API",
+        "tournamentType": 1,
+        "tournamentScore": 382.50
       }
     ]
   },
@@ -248,6 +278,11 @@
         "tournamentName": "HON",
         "tournamentType": 1,
         "tournamentScore": 337.00
+      },
+      {
+        "tournamentName": "API",
+        "tournamentType": 1,
+        "tournamentScore": 379.00
       }
     ]
   },
@@ -284,6 +319,11 @@
         "tournamentName": "HON",
         "tournamentType": 1,
         "tournamentScore": 322.50
+      },
+      {
+        "tournamentName": "API",
+        "tournamentType": 1,
+        "tournamentScore": 203.00
       }
     ]
   },
@@ -320,6 +360,11 @@
         "tournamentName": "HON",
         "tournamentType": 1,
         "tournamentScore": 370.00
+      },
+      {
+        "tournamentName": "API",
+        "tournamentType": 1,
+        "tournamentScore": 257.50
       }
     ]
   },
@@ -356,6 +401,11 @@
         "tournamentName": "HON",
         "tournamentType": 1,
         "tournamentScore": 246.50
+      },
+      {
+        "tournamentName": "API",
+        "tournamentType": 1,
+        "tournamentScore": 412.00
       }
     ]
   },
@@ -392,6 +442,11 @@
         "tournamentName": "HON",
         "tournamentType": 1,
         "tournamentScore": 346.00
+      },
+      {
+        "tournamentName": "API",
+        "tournamentType": 1,
+        "tournamentScore": 309.00
       }
     ]
   },
@@ -428,6 +483,11 @@
         "tournamentName": "HON",
         "tournamentType": 1,
         "tournamentScore": 273.00
+      },
+      {
+        "tournamentName": "API",
+        "tournamentType": 1,
+        "tournamentScore": 259.00
       }
     ]
   },
@@ -464,6 +524,11 @@
         "tournamentName": "HON",
         "tournamentType": 1,
         "tournamentScore": 378.00
+      },
+      {
+        "tournamentName": "API",
+        "tournamentType": 1,
+        "tournamentScore": 377.00
       }
     ]
   },
@@ -472,7 +537,7 @@
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/giesel.jpeg",
     "tournamentPlaces": {
       "firstPlace": "0",
-      "secondPlace": "1",
+      "secondPlace": "2",
       "thirdPlace": "0"
     },
     "tournaments": [
@@ -500,6 +565,11 @@
         "tournamentName": "HON",
         "tournamentType": 1,
         "tournamentScore": 309.50
+      },
+      {
+        "tournamentName": "API",
+        "tournamentType": 1,
+        "tournamentScore": 449.00
       }
     ]
   },
@@ -536,6 +606,11 @@
         "tournamentName": "HON",
         "tournamentType": 1,
         "tournamentScore": 256.00
+      },
+      {
+        "tournamentName": "API",
+        "tournamentType": 1,
+        "tournamentScore": 386.50
       }
     ]
   },
@@ -572,6 +647,11 @@
         "tournamentName": "HON",
         "tournamentType": 1,
         "tournamentScore": 329.00
+      },
+      {
+        "tournamentName": "API",
+        "tournamentType": 1,
+        "tournamentScore": 347.50
       }
     ]
   },
@@ -579,7 +659,7 @@
     "user": "jbone2020",
     "icon": "",
     "tournamentPlaces": {
-      "firstPlace": "0",
+      "firstPlace": "1",
       "secondPlace": "0",
       "thirdPlace": "0"
     },
@@ -608,6 +688,11 @@
         "tournamentName": "HON",
         "tournamentType": 1,
         "tournamentScore": 305.50
+      },
+      {
+        "tournamentName": "API",
+        "tournamentType": 1,
+        "tournamentScore": 465.00
       }
     ]
   }
