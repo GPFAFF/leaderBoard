@@ -704,6 +704,11 @@
       {
         "tournamentName": "SAW",
         "tournamentType": 2,
+        "tournamentScore": 346.50
+      },
+      {
+        "tournamentName": "INNIS",
+        "tournamentType": 1,
         "tournamentScore": 0
       }
     ]
