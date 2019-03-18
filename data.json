@@ -551,7 +551,7 @@
       {
         "tournamentName": "SAW",
         "tournamentType": 2,
-        "tournamentScore": 520
+        "tournamentScore": 520.00
       },
       {
         "tournamentName": "INNIS",
@@ -766,7 +766,7 @@
       {
         "tournamentName": "WMO",
         "tournamentType": 1,
-        "tournamentScore": 465
+        "tournamentScore": 465.00
       },
       {
         "tournamentName": "ATT",
