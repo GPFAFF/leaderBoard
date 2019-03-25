@@ -4,7 +4,7 @@
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/greg.jpg",
     "tournamentPlaces": {
       "firstPlace": "0",
-      "secondPlace": "0",
+      "secondPlace": "1",
       "thirdPlace": "1"
     },
     "tournaments": [
@@ -46,6 +46,11 @@
       {
         "tournamentName": "INNIS",
         "tournamentType": 1,
+        "tournamentScore": 383.50
+      },
+      {
+        "tournamentName": "DELL",
+        "tournamentType": 2,
         "tournamentScore": 0
       }
     ]
@@ -54,7 +59,7 @@
     "user": "American-Dream",
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/kyle.png",
     "tournamentPlaces": {
-      "firstPlace": "0",
+      "firstPlace": "1",
       "secondPlace": "0",
       "thirdPlace": "0"
     },
@@ -97,6 +102,11 @@
       {
         "tournamentName": "INNIS",
         "tournamentType": 1,
+        "tournamentScore": 425.50
+      },
+      {
+        "tournamentName": "DELL",
+        "tournamentType": 2,
         "tournamentScore": 0
       }
     ]
@@ -148,6 +158,11 @@
       {
         "tournamentName": "INNIS",
         "tournamentType": 1,
+        "tournamentScore": 346.50
+      },
+      {
+        "tournamentName": "DELL",
+        "tournamentType": 2,
         "tournamentScore": 0
       }
     ]
@@ -199,6 +214,11 @@
       {
         "tournamentName": "INNIS",
         "tournamentType": 1,
+        "tournamentScore": 230.50
+      },
+      {
+        "tournamentName": "DELL",
+        "tournamentType": 2,
         "tournamentScore": 0
       }
     ]
@@ -250,6 +270,11 @@
       {
         "tournamentName": "INNIS",
         "tournamentType": 1,
+        "tournamentScore": 309.00
+      },
+      {
+        "tournamentName": "DELL",
+        "tournamentType": 2,
         "tournamentScore": 0
       }
     ]
@@ -301,6 +326,11 @@
       {
         "tournamentName": "INNIS",
         "tournamentType": 1,
+        "tournamentScore": 287.50
+      },
+      {
+        "tournamentName": "DELL",
+        "tournamentType": 2,
         "tournamentScore": 0
       }
     ]
@@ -352,6 +382,11 @@
       {
         "tournamentName": "INNIS",
         "tournamentType": 1,
+        "tournamentScore": 308.00
+      },
+      {
+        "tournamentName": "DELL",
+        "tournamentType": 2,
         "tournamentScore": 0
       }
     ]
@@ -403,6 +438,11 @@
       {
         "tournamentName": "INNIS",
         "tournamentType": 1,
+        "tournamentScore": 303.50
+      },
+      {
+        "tournamentName": "DELL",
+        "tournamentType": 2,
         "tournamentScore": 0
       }
     ]
@@ -454,6 +494,11 @@
       {
         "tournamentName": "INNIS",
         "tournamentType": 1,
+        "tournamentScore": 223.50
+      },
+      {
+        "tournamentName": "DELL",
+        "tournamentType": 2,
         "tournamentScore": 0
       }
     ]
@@ -505,6 +550,11 @@
       {
         "tournamentName": "INNIS",
         "tournamentType": 1,
+        "tournamentScore": 193.00
+      },
+      {
+        "tournamentName": "DELL",
+        "tournamentType": 2,
         "tournamentScore": 0
       }
     ]
@@ -556,6 +606,11 @@
       {
         "tournamentName": "INNIS",
         "tournamentType": 1,
+        "tournamentScore": 342.50
+      },
+      {
+        "tournamentName": "DELL",
+        "tournamentType": 2,
         "tournamentScore": 0
       }
     ]
@@ -607,7 +662,12 @@
       {
         "tournamentName": "INNIS",
         "tournamentType": 1,
-        "tournamentScore": 346.50
+        "tournamentScore": 278.50
+      },
+      {
+        "tournamentName": "DELL",
+        "tournamentType": 2,
+        "tournamentScore": 0
       }
     ]
   },
@@ -658,6 +718,11 @@
       {
         "tournamentName": "INNIS",
         "tournamentType": 1,
+        "tournamentScore": 301.50
+      },
+      {
+        "tournamentName": "DELL",
+        "tournamentType": 2,
         "tournamentScore": 0
       }
     ]
@@ -709,6 +774,11 @@
       {
         "tournamentName": "INNIS",
         "tournamentType": 1,
+        "tournamentScore": 268.00
+      },
+      {
+        "tournamentName": "DELL",
+        "tournamentType": 2,
         "tournamentScore": 0
       }
     ]
@@ -756,6 +826,16 @@
         "tournamentName": "SAW",
         "tournamentType": 2,
         "tournamentScore": 435.50
+      },
+      {
+        "tournamentName": "INNIS",
+        "tournamentType": 1,
+        "tournamentScore": 228.50
+      },
+      {
+        "tournamentName": "DELL",
+        "tournamentType": 2,
+        "tournamentScore": 0
       }
     ]
   },
@@ -765,7 +845,7 @@
     "tournamentPlaces": {
       "firstPlace": "0",
       "secondPlace": "2",
-      "thirdPlace": "0"
+      "thirdPlace": "1"
     },
     "tournaments": [
       {
@@ -806,6 +886,11 @@
       {
         "tournamentName": "INNIS",
         "tournamentType": 1,
+        "tournamentScore": 371.50
+      },
+      {
+        "tournamentName": "DELL",
+        "tournamentType": 2,
         "tournamentScore": 0
       }
     ]
@@ -857,6 +942,11 @@
       {
         "tournamentName": "INNIS",
         "tournamentType": 1,
+        "tournamentScore": 206.50
+      },
+      {
+        "tournamentName": "DELL",
+        "tournamentType": 2,
         "tournamentScore": 0
       }
     ]
