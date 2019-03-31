@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import PropTypes from 'prop-types'
 
- class TotalScore extends Component {
+class TotalScore extends Component {
 
   calculateTotal = scores => {
     const scoresArray = scores.reduce((acc, currentValue) => {
@@ -19,7 +19,7 @@ import PropTypes from 'prop-types'
     const { firstPlace, secondPlace, thirdPlace } = this.props.tournamentPlaces;
 
     const formatPoints = (pointsBack) => {
-      if (pointsBack === 0) {
+      if (pointsBack === 0 || -0.00) {
         return <p>Points Back: 0</p>;
       }
       return <p>Points Back: -{pointsBack} </p>;
