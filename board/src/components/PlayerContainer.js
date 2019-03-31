@@ -14,18 +14,19 @@ class PlayerContainer extends Component {
     }
 
     const players = this.props.data.map((item, i) => {
-      const newPlayer = {...item};
+      const newPlayer = { ...item };
       newPlayer.totalScore = newPlayer.tournaments.reduce((acc, currentValue) => {
-          return acc + currentValue.tournamentType * currentValue.tournamentScore;
-        }, 0)
-        return newPlayer;
-    }).sort((a,b) => {
+        return acc + currentValue.tournamentType * currentValue.tournamentScore;
+      }, 0)
+      return newPlayer;
+    }).sort((a, b) => {
       return b.totalScore - a.totalScore;
     });
 
     function pointsBack(player) {
       const leader = players[0].totalScore;
-      return leader - player.totalScore;
+      const playerScore = player.totalScore;
+      return (leader - playerScore).toFixed(2);
     }
 
     return (
