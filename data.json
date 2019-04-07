@@ -4,7 +4,7 @@
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/greg.jpg",
     "tournamentPlaces": {
       "firstPlace": "0",
-      "secondPlace": "2",
+      "secondPlace": "3",
       "thirdPlace": "1"
     },
     "tournaments": [
@@ -52,6 +52,16 @@
         "tournamentName": "DELL",
         "tournamentType": 2,
         "tournamentScore": 634.45
+      },
+      {
+        "tournamentName": "VALERO",
+        "tournamentType": 1,
+        "tournamentScore": 443.00
+      },
+      {
+        "tournamentName": "MASTERS",
+        "tournamentType": 3,
+        "tournamentScore": 0
       }
     ]
   },
@@ -108,6 +118,16 @@
         "tournamentName": "DELL",
         "tournamentType": 2,
         "tournamentScore": 420.90
+      },
+      {
+        "tournamentName": "VALERO",
+        "tournamentType": 1,
+        "tournamentScore": 324.50
+      },
+      {
+        "tournamentName": "MASTERS",
+        "tournamentType": 3,
+        "tournamentScore": 0
       }
     ]
   },
@@ -164,6 +184,16 @@
         "tournamentName": "DELL",
         "tournamentType": 2,
         "tournamentScore": 461.30
+      },
+      {
+        "tournamentName": "VALERO",
+        "tournamentType": 1,
+        "tournamentScore": 381.00
+      },
+      {
+        "tournamentName": "MASTERS",
+        "tournamentType": 3,
+        "tournamentScore": 0
       }
     ]
   },
@@ -171,7 +201,7 @@
     "user": "chrisp1010",
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/chris.jpg",
     "tournamentPlaces": {
-      "firstPlace": "1",
+      "firstPlace": "2",
       "secondPlace": "0",
       "thirdPlace": "1"
     },
@@ -220,6 +250,16 @@
         "tournamentName": "DELL",
         "tournamentType": 2,
         "tournamentScore": 562.00
+      },
+      {
+        "tournamentName": "VALERO",
+        "tournamentType": 1,
+        "tournamentScore": 471.50
+      },
+      {
+        "tournamentName": "MASTERS",
+        "tournamentType": 3,
+        "tournamentScore": 0
       }
     ]
   },
@@ -276,6 +316,16 @@
         "tournamentName": "DELL",
         "tournamentType": 2,
         "tournamentScore": 508.40
+      },
+      {
+        "tournamentName": "VALERO",
+        "tournamentType": 1,
+        "tournamentScore": 373.00
+      },
+      {
+        "tournamentName": "MASTERS",
+        "tournamentType": 3,
+        "tournamentScore": 0
       }
     ]
   },
@@ -332,6 +382,16 @@
         "tournamentName": "DELL",
         "tournamentType": 2,
         "tournamentScore": 570.10
+      },
+      {
+        "tournamentName": "VALERO",
+        "tournamentType": 1,
+        "tournamentScore": 356.50
+      },
+      {
+        "tournamentName": "MASTERS",
+        "tournamentType": 3,
+        "tournamentScore": 0
       }
     ]
   },
@@ -388,6 +448,16 @@
         "tournamentName": "DELL",
         "tournamentType": 2,
         "tournamentScore": 405.20
+      },
+      {
+        "tournamentName": "VALERO",
+        "tournamentType": 1,
+        "tournamentScore": 372.50
+      },
+      {
+        "tournamentName": "MASTERS",
+        "tournamentType": 3,
+        "tournamentScore": 0
       }
     ]
   },
@@ -444,6 +514,16 @@
         "tournamentName": "DELL",
         "tournamentType": 2,
         "tournamentScore": 562.00
+      },
+      {
+        "tournamentName": "VALERO",
+        "tournamentType": 1,
+        "tournamentScore": 324.00
+      },
+      {
+        "tournamentName": "MASTERS",
+        "tournamentType": 3,
+        "tournamentScore": 0
       }
     ]
   },
@@ -453,7 +533,7 @@
     "tournamentPlaces": {
       "firstPlace": "1",
       "secondPlace": "2",
-      "thirdPlace": "0"
+      "thirdPlace": "1"
     },
     "tournaments": [
       {
@@ -500,6 +580,16 @@
         "tournamentName": "DELL",
         "tournamentType": 2,
         "tournamentScore": 319.65
+      },
+      {
+        "tournamentName": "VALERO",
+        "tournamentType": 1,
+        "tournamentScore": 438.50
+      },
+      {
+        "tournamentName": "MASTERS",
+        "tournamentType": 3,
+        "tournamentScore": 0
       }
     ]
   },
@@ -556,6 +646,16 @@
         "tournamentName": "DELL",
         "tournamentType": 2,
         "tournamentScore": 492.50
+      },
+      {
+        "tournamentName": "VALERO",
+        "tournamentType": 1,
+        "tournamentScore": 394.00
+      },
+      {
+        "tournamentName": "MASTERS",
+        "tournamentType": 3,
+        "tournamentScore": 0
       }
     ]
   },
@@ -612,6 +712,16 @@
         "tournamentName": "DELL",
         "tournamentType": 2,
         "tournamentScore": 643.65
+      },
+      {
+        "tournamentName": "VALERO",
+        "tournamentType": 1,
+        "tournamentScore": 428.50
+      },
+      {
+        "tournamentName": "MASTERS",
+        "tournamentType": 3,
+        "tournamentScore": 0
       }
     ]
   },
@@ -668,6 +778,16 @@
         "tournamentName": "DELL",
         "tournamentType": 2,
         "tournamentScore": 536.50
+      },
+      {
+        "tournamentName": "VALERO",
+        "tournamentType": 1,
+        "tournamentScore": 436.00
+      },
+      {
+        "tournamentName": "MASTERS",
+        "tournamentType": 3,
+        "tournamentScore": 0
       }
     ]
   },
@@ -724,6 +844,16 @@
         "tournamentName": "DELL",
         "tournamentType": 2,
         "tournamentScore": 520.45
+      },
+      {
+        "tournamentName": "VALERO",
+        "tournamentType": 1,
+        "tournamentScore": 320.50
+      },
+      {
+        "tournamentName": "MASTERS",
+        "tournamentType": 3,
+        "tournamentScore": 0
       }
     ]
   },
@@ -780,6 +910,16 @@
         "tournamentName": "DELL",
         "tournamentType": 2,
         "tournamentScore": 502.10
+      },
+      {
+        "tournamentName": "VALERO",
+        "tournamentType": 1,
+        "tournamentScore": 352.00
+      },
+      {
+        "tournamentName": "MASTERS",
+        "tournamentType": 3,
+        "tournamentScore": 0
       }
     ]
   },
@@ -836,6 +976,16 @@
         "tournamentName": "DELL",
         "tournamentType": 2,
         "tournamentScore": 266.05
+      },
+      {
+        "tournamentName": "VALERO",
+        "tournamentType": 1,
+        "tournamentScore": 368.50
+      },
+      {
+        "tournamentName": "MASTERS",
+        "tournamentType": 3,
+        "tournamentScore": 0
       }
     ]
   },
@@ -892,6 +1042,16 @@
         "tournamentName": "DELL",
         "tournamentType": 2,
         "tournamentScore": 444.85
+      },
+      {
+        "tournamentName": "VALERO",
+        "tournamentType": 1,
+        "tournamentScore": 368.50
+      },
+      {
+        "tournamentName": "MASTERS",
+        "tournamentType": 3,
+        "tournamentScore": 0
       }
     ]
   },
@@ -948,6 +1108,16 @@
         "tournamentName": "DELL",
         "tournamentType": 2,
         "tournamentScore": 336.90
+      },
+      {
+        "tournamentName": "VALERO",
+        "tournamentType": 1,
+        "tournamentScore": 384.00
+      },
+      {
+        "tournamentName": "MASTERS",
+        "tournamentType": 3,
+        "tournamentScore": 0
       }
     ]
   }
