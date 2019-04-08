@@ -19,7 +19,8 @@ class TotalScore extends Component {
     const { firstPlace, secondPlace, thirdPlace } = this.props.tournamentPlaces;
 
     const formatPoints = (pointsBack) => {
-      if (pointsBack === 0 || pointsBack === -0.00) {
+      console.log(typeof pointsBack)
+      if (pointsBack === "0.00") {
         return <p>Points Back: 0</p>;
       }
       return <p>Points Back: -{pointsBack} </p>;
