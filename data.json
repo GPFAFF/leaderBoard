@@ -61,7 +61,7 @@
       {
         "tournamentName": "MASTERS",
         "tournamentType": 3,
-        "tournamentScore": 0
+        "tournamentScore": 344.00
       }
     ]
   },
@@ -127,7 +127,7 @@
       {
         "tournamentName": "MASTERS",
         "tournamentType": 3,
-        "tournamentScore": 0
+        "tournamentScore": 444.00
       }
     ]
   },
@@ -193,16 +193,16 @@
       {
         "tournamentName": "MASTERS",
         "tournamentType": 3,
-        "tournamentScore": 0
+        "tournamentScore": 381.00
       }
     ]
   },
   {
-    "user": "chrisp1010",
+    "user": "chrisp101010",
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/chris.jpg",
     "tournamentPlaces": {
       "firstPlace": "2",
-      "secondPlace": "0",
+      "secondPlace": "1",
       "thirdPlace": "1"
     },
     "tournaments": [
@@ -259,7 +259,7 @@
       {
         "tournamentName": "MASTERS",
         "tournamentType": 3,
-        "tournamentScore": 0
+        "tournamentScore": 478.00
       }
     ]
   },
@@ -325,7 +325,7 @@
       {
         "tournamentName": "MASTERS",
         "tournamentType": 3,
-        "tournamentScore": 0
+        "tournamentScore": 464.00
       }
     ]
   },
@@ -391,7 +391,7 @@
       {
         "tournamentName": "MASTERS",
         "tournamentType": 3,
-        "tournamentScore": 0
+        "tournamentScore": 474.00
       }
     ]
   },
@@ -457,7 +457,7 @@
       {
         "tournamentName": "MASTERS",
         "tournamentType": 3,
-        "tournamentScore": 0
+        "tournamentScore": 474.50
       }
     ]
   },
@@ -523,7 +523,7 @@
       {
         "tournamentName": "MASTERS",
         "tournamentType": 3,
-        "tournamentScore": 0
+        "tournamentScore": 419.50
       }
     ]
   },
@@ -589,7 +589,7 @@
       {
         "tournamentName": "MASTERS",
         "tournamentType": 3,
-        "tournamentScore": 0
+        "tournamentScore": 363.00
       }
     ]
   },
@@ -655,7 +655,7 @@
       {
         "tournamentName": "MASTERS",
         "tournamentType": 3,
-        "tournamentScore": 0
+        "tournamentScore": 460.00
       }
     ]
   },
@@ -721,7 +721,7 @@
       {
         "tournamentName": "MASTERS",
         "tournamentType": 3,
-        "tournamentScore": 0
+        "tournamentScore": 406.00
       }
     ]
   },
@@ -787,7 +787,7 @@
       {
         "tournamentName": "MASTERS",
         "tournamentType": 3,
-        "tournamentScore": 0
+        "tournamentScore": 457.00
       }
     ]
   },
@@ -795,7 +795,7 @@
     "user": "chicagoputz",
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/putz.jpg",
     "tournamentPlaces": {
-      "firstPlace": "1",
+      "firstPlace": "2",
       "secondPlace": "0",
       "thirdPlace": "0"
     },
@@ -853,7 +853,7 @@
       {
         "tournamentName": "MASTERS",
         "tournamentType": 3,
-        "tournamentScore": 0
+        "tournamentScore": 527.50
       }
     ]
   },
@@ -919,7 +919,7 @@
       {
         "tournamentName": "MASTERS",
         "tournamentType": 3,
-        "tournamentScore": 0
+        "tournamentScore": 395.50
       }
     ]
   },
@@ -985,7 +985,7 @@
       {
         "tournamentName": "MASTERS",
         "tournamentType": 3,
-        "tournamentScore": 0
+        "tournamentScore": 337.50
       }
     ]
   },
@@ -1051,7 +1051,7 @@
       {
         "tournamentName": "MASTERS",
         "tournamentType": 3,
-        "tournamentScore": 0
+        "tournamentScore": 371.50
       }
     ]
   },
@@ -1061,7 +1061,7 @@
     "tournamentPlaces": {
       "firstPlace": "1",
       "secondPlace": "0",
-      "thirdPlace": "1"
+      "thirdPlace": "2"
     },
     "tournaments": [
       {
@@ -1117,7 +1117,7 @@
       {
         "tournamentName": "MASTERS",
         "tournamentType": 3,
-        "tournamentScore": 0
+        "tournamentScore": 476.00
       }
     ]
   }
