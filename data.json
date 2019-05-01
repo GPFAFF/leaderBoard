@@ -62,11 +62,6 @@
         "tournamentName": "MASTERS",
         "tournamentType": 3,
         "tournamentScore": 344.0
-      },
-      {
-        "tournamentName": "RBC",
-        "tournamentType": 1,
-        "tournanmentScore": 238.0
       }
     ]
   },
@@ -133,11 +128,6 @@
         "tournamentName": "MASTERS",
         "tournamentType": 3,
         "tournamentScore": 444.0
-      },
-      {
-        "tournamentName": "RBC",
-        "tournamentType": 1,
-        "tournanmentScore": 325.0
       }
     ]
   },
@@ -204,11 +194,6 @@
         "tournamentName": "MASTERS",
         "tournamentType": 3,
         "tournamentScore": 381.0
-      },
-      {
-        "tournamentName": "RBC",
-        "tournamentType": 1,
-        "tournanmentScore": 154.125
       }
     ]
   },
@@ -275,11 +260,6 @@
         "tournamentName": "MASTERS",
         "tournamentType": 3,
         "tournamentScore": 478.0
-      },
-      {
-        "tournamentName": "RBC",
-        "tournamentType": 1,
-        "tournanmentScore": 297.5
       }
     ]
   },
@@ -346,11 +326,6 @@
         "tournamentName": "MASTERS",
         "tournamentType": 3,
         "tournamentScore": 464.0
-      },
-      {
-        "tournamentName": "RBC",
-        "tournamentType": 1,
-        "tournanmentScore": 360.0
       }
     ]
   },
@@ -417,11 +392,6 @@
         "tournamentName": "MASTERS",
         "tournamentType": 3,
         "tournamentScore": 474.0
-      },
-      {
-        "tournamentName": "RBC",
-        "tournamentType": 1,
-        "tournanmentScore": 154.125
       }
     ]
   },
@@ -488,11 +458,6 @@
         "tournamentName": "MASTERS",
         "tournamentType": 3,
         "tournamentScore": 474.5
-      },
-      {
-        "tournamentName": "RBC",
-        "tournamentType": 1,
-        "tournanmentScore": 279.0
       }
     ]
   },
@@ -559,11 +524,6 @@
         "tournamentName": "MASTERS",
         "tournamentType": 3,
         "tournamentScore": 419.5
-      },
-      {
-        "tournamentName": "RBC",
-        "tournamentType": 1,
-        "tournanmentScore": 343.5
       }
     ]
   },
@@ -630,11 +590,6 @@
         "tournamentName": "MASTERS",
         "tournamentType": 3,
         "tournamentScore": 363.0
-      },
-      {
-        "tournamentName": "RBC",
-        "tournamentType": 1,
-        "tournanmentScore": 284.5
       }
     ]
   },
@@ -701,11 +656,6 @@
         "tournamentName": "MASTERS",
         "tournamentType": 3,
         "tournamentScore": 460.0
-      },
-      {
-        "tournamentName": "RBC",
-        "tournamentType": 1,
-        "tournanmentScore": 365.0
       }
     ]
   },
@@ -772,11 +722,6 @@
         "tournamentName": "MASTERS",
         "tournamentType": 3,
         "tournamentScore": 406.0
-      },
-      {
-        "tournamentName": "RBC",
-        "tournamentType": 1,
-        "tournanmentScore": 345.5
       }
     ]
   },
@@ -843,11 +788,6 @@
         "tournamentName": "MASTERS",
         "tournamentType": 3,
         "tournamentScore": 457.0
-      },
-      {
-        "tournamentName": "RBC",
-        "tournamentType": 1,
-        "tournanmentScore": 384.5
       }
     ]
   },
@@ -914,11 +854,6 @@
         "tournamentName": "MASTERS",
         "tournamentType": 3,
         "tournamentScore": 527.5
-      },
-      {
-        "tournamentName": "RBC",
-        "tournamentType": 1,
-        "tournanmentScore": 287.0
       }
     ]
   },
@@ -985,11 +920,6 @@
         "tournamentName": "MASTERS",
         "tournamentType": 3,
         "tournamentScore": 395.5
-      },
-      {
-        "tournamentName": "RBC",
-        "tournamentType": 1,
-        "tournanmentScore": 205.5
       }
     ]
   },
@@ -1056,11 +986,6 @@
         "tournamentName": "MASTERS",
         "tournamentType": 3,
         "tournamentScore": 337.5
-      },
-      {
-        "tournamentName": "RBC",
-        "tournamentType": 1,
-        "tournanmentScore": 412.5
       }
     ]
   },
@@ -1127,11 +1052,6 @@
         "tournamentName": "MASTERS",
         "tournamentType": 3,
         "tournamentScore": 371.5
-      },
-      {
-        "tournamentName": "RBC",
-        "tournamentType": 1,
-        "tournanmentScore": 355.5
       }
     ]
   },
@@ -1198,11 +1118,6 @@
         "tournamentName": "MASTERS",
         "tournamentType": 3,
         "tournamentScore": 476.0
-      },
-      {
-        "tournamentName": "RBC",
-        "tournamentType": 1,
-        "tournanmentScore": 154.125
       }
     ]
   }
