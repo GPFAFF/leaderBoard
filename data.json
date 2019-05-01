@@ -11,12 +11,12 @@
       {
         "tournamentName": "WMO",
         "tournamentType": 1,
-        "tournamentScore": 440.50
+        "tournamentScore": 440.5
       },
       {
         "tournamentName": "ATT",
         "tournamentType": 1,
-        "tournamentScore": 417.50
+        "tournamentScore": 417.5
       },
       {
         "tournamentName": "RIV",
@@ -26,27 +26,27 @@
       {
         "tournamentName": "WGCMX",
         "tournamentType": 2,
-        "tournamentScore": 360.00
+        "tournamentScore": 360.0
       },
       {
         "tournamentName": "HON",
         "tournamentType": 1,
-        "tournamentScore": 279.50
+        "tournamentScore": 279.5
       },
       {
         "tournamentName": "API",
         "tournamentType": 1,
-        "tournamentScore": 386.00
+        "tournamentScore": 386.0
       },
       {
         "tournamentName": "SAW",
         "tournamentType": 2,
-        "tournamentScore": 373.50
+        "tournamentScore": 373.5
       },
       {
         "tournamentName": "INNIS",
         "tournamentType": 1,
-        "tournamentScore": 383.50
+        "tournamentScore": 383.5
       },
       {
         "tournamentName": "DELL",
@@ -56,12 +56,17 @@
       {
         "tournamentName": "VALERO",
         "tournamentType": 1,
-        "tournamentScore": 443.00
+        "tournamentScore": 443.0
       },
       {
         "tournamentName": "MASTERS",
         "tournamentType": 3,
-        "tournamentScore": 344.00
+        "tournamentScore": 344.0
+      },
+      {
+        "tournamentName": "RBC",
+        "tournamentType": 1,
+        "tournanmentScore": 238.0
       }
     ]
   },
@@ -77,17 +82,17 @@
       {
         "tournamentName": "WMO",
         "tournamentType": 1,
-        "tournamentScore": 406.00
+        "tournamentScore": 406.0
       },
       {
         "tournamentName": "ATT",
         "tournamentType": 1,
-        "tournamentScore": 430.50
+        "tournamentScore": 430.5
       },
       {
         "tournamentName": "RIV",
         "tournamentType": 1,
-        "tournamentScore": 393.00
+        "tournamentScore": 393.0
       },
       {
         "tournamentName": "WGCMX",
@@ -97,37 +102,42 @@
       {
         "tournamentName": "HON",
         "tournamentType": 1,
-        "tournamentScore": 219.50
+        "tournamentScore": 219.5
       },
       {
         "tournamentName": "API",
         "tournamentType": 1,
-        "tournamentScore": 319.50
+        "tournamentScore": 319.5
       },
       {
         "tournamentName": "SAW",
         "tournamentType": 2,
-        "tournamentScore": 350.00
+        "tournamentScore": 350.0
       },
       {
         "tournamentName": "INNIS",
         "tournamentType": 1,
-        "tournamentScore": 425.50
+        "tournamentScore": 425.5
       },
       {
         "tournamentName": "DELL",
         "tournamentType": 2,
-        "tournamentScore": 420.90
+        "tournamentScore": 420.9
       },
       {
         "tournamentName": "VALERO",
         "tournamentType": 1,
-        "tournamentScore": 324.50
+        "tournamentScore": 324.5
       },
       {
         "tournamentName": "MASTERS",
         "tournamentType": 3,
-        "tournamentScore": 444.00
+        "tournamentScore": 444.0
+      },
+      {
+        "tournamentName": "RBC",
+        "tournamentType": 1,
+        "tournanmentScore": 325.0
       }
     ]
   },
@@ -143,12 +153,12 @@
       {
         "tournamentName": "WMO",
         "tournamentType": 1,
-        "tournamentScore": 451.50
+        "tournamentScore": 451.5
       },
       {
         "tournamentName": "ATT",
         "tournamentType": 1,
-        "tournamentScore": 386.50
+        "tournamentScore": 386.5
       },
       {
         "tournamentName": "RIV",
@@ -158,42 +168,47 @@
       {
         "tournamentName": "WGCMX",
         "tournamentType": 2,
-        "tournamentScore": 432.50
+        "tournamentScore": 432.5
       },
       {
         "tournamentName": "HON",
         "tournamentType": 1,
-        "tournamentScore": 235.50
+        "tournamentScore": 235.5
       },
       {
         "tournamentName": "API",
         "tournamentType": 1,
-        "tournamentScore": 213.50
+        "tournamentScore": 213.5
       },
       {
         "tournamentName": "SAW",
         "tournamentType": 2,
-        "tournamentScore": 283.50
+        "tournamentScore": 283.5
       },
       {
         "tournamentName": "INNIS",
         "tournamentType": 1,
-        "tournamentScore": 346.50
+        "tournamentScore": 346.5
       },
       {
         "tournamentName": "DELL",
         "tournamentType": 2,
-        "tournamentScore": 461.30
+        "tournamentScore": 461.3
       },
       {
         "tournamentName": "VALERO",
         "tournamentType": 1,
-        "tournamentScore": 381.00
+        "tournamentScore": 381.0
       },
       {
         "tournamentName": "MASTERS",
         "tournamentType": 3,
-        "tournamentScore": 381.00
+        "tournamentScore": 381.0
+      },
+      {
+        "tournamentName": "RBC",
+        "tournamentType": 1,
+        "tournanmentScore": 154.125
       }
     ]
   },
@@ -209,57 +224,62 @@
       {
         "tournamentName": "WMO",
         "tournamentType": 1,
-        "tournamentScore": 510.50
+        "tournamentScore": 510.5
       },
       {
         "tournamentName": "ATT",
         "tournamentType": 1,
-        "tournamentScore": 410.00
+        "tournamentScore": 410.0
       },
       {
         "tournamentName": "RIV",
         "tournamentType": 1,
-        "tournamentScore": 286.00
+        "tournamentScore": 286.0
       },
       {
         "tournamentName": "WGCMX",
         "tournamentType": 2,
-        "tournamentScore": 426.00
+        "tournamentScore": 426.0
       },
       {
         "tournamentName": "HON",
         "tournamentType": 1,
-        "tournamentScore": 283.00
+        "tournamentScore": 283.0
       },
       {
         "tournamentName": "API",
         "tournamentType": 1,
-        "tournamentScore": 422.00
+        "tournamentScore": 422.0
       },
       {
         "tournamentName": "SAW",
         "tournamentType": 2,
-        "tournamentScore": 395.50
+        "tournamentScore": 395.5
       },
       {
         "tournamentName": "INNIS",
         "tournamentType": 1,
-        "tournamentScore": 230.50
+        "tournamentScore": 230.5
       },
       {
         "tournamentName": "DELL",
         "tournamentType": 2,
-        "tournamentScore": 562.00
+        "tournamentScore": 562.0
       },
       {
         "tournamentName": "VALERO",
         "tournamentType": 1,
-        "tournamentScore": 471.50
+        "tournamentScore": 471.5
       },
       {
         "tournamentName": "MASTERS",
         "tournamentType": 3,
-        "tournamentScore": 478.00
+        "tournamentScore": 478.0
+      },
+      {
+        "tournamentName": "RBC",
+        "tournamentType": 1,
+        "tournanmentScore": 297.5
       }
     ]
   },
@@ -275,12 +295,12 @@
       {
         "tournamentName": "WMO",
         "tournamentType": 1,
-        "tournamentScore": 405.50
+        "tournamentScore": 405.5
       },
       {
         "tournamentName": "ATT",
         "tournamentType": 1,
-        "tournamentScore": 373.00
+        "tournamentScore": 373.0
       },
       {
         "tournamentName": "RIV",
@@ -290,42 +310,47 @@
       {
         "tournamentName": "WGCMX",
         "tournamentType": 2,
-        "tournamentScore": 394.50
+        "tournamentScore": 394.5
       },
       {
         "tournamentName": "HON",
         "tournamentType": 1,
-        "tournamentScore": 227.00
+        "tournamentScore": 227.0
       },
       {
         "tournamentName": "API",
         "tournamentType": 1,
-        "tournamentScore": 323.50
+        "tournamentScore": 323.5
       },
       {
         "tournamentName": "SAW",
         "tournamentType": 2,
-        "tournamentScore": 341.00
+        "tournamentScore": 341.0
       },
       {
         "tournamentName": "INNIS",
         "tournamentType": 1,
-        "tournamentScore": 309.00
+        "tournamentScore": 309.0
       },
       {
         "tournamentName": "DELL",
         "tournamentType": 2,
-        "tournamentScore": 508.40
+        "tournamentScore": 508.4
       },
       {
         "tournamentName": "VALERO",
         "tournamentType": 1,
-        "tournamentScore": 373.00
+        "tournamentScore": 373.0
       },
       {
         "tournamentName": "MASTERS",
         "tournamentType": 3,
-        "tournamentScore": 464.00
+        "tournamentScore": 464.0
+      },
+      {
+        "tournamentName": "RBC",
+        "tournamentType": 1,
+        "tournanmentScore": 360.0
       }
     ]
   },
@@ -341,57 +366,62 @@
       {
         "tournamentName": "WMO",
         "tournamentType": 1,
-        "tournamentScore": 406.50
+        "tournamentScore": 406.5
       },
       {
         "tournamentName": "ATT",
         "tournamentType": 1,
-        "tournamentScore": 450.50
+        "tournamentScore": 450.5
       },
       {
         "tournamentName": "RIV",
         "tournamentType": 1,
-        "tournamentScore": 484.00
+        "tournamentScore": 484.0
       },
       {
         "tournamentName": "WGCMX",
         "tournamentType": 2,
-        "tournamentScore": 404.00
+        "tournamentScore": 404.0
       },
       {
         "tournamentName": "HON",
         "tournamentType": 1,
-        "tournamentScore": 330.50
+        "tournamentScore": 330.5
       },
       {
         "tournamentName": "API",
         "tournamentType": 1,
-        "tournamentScore": 382.50
+        "tournamentScore": 382.5
       },
       {
         "tournamentName": "SAW",
         "tournamentType": 2,
-        "tournamentScore": 415.50
+        "tournamentScore": 415.5
       },
       {
         "tournamentName": "INNIS",
         "tournamentType": 1,
-        "tournamentScore": 287.50
+        "tournamentScore": 287.5
       },
       {
         "tournamentName": "DELL",
         "tournamentType": 2,
-        "tournamentScore": 570.10
+        "tournamentScore": 570.1
       },
       {
         "tournamentName": "VALERO",
         "tournamentType": 1,
-        "tournamentScore": 356.50
+        "tournamentScore": 356.5
       },
       {
         "tournamentName": "MASTERS",
         "tournamentType": 3,
-        "tournamentScore": 474.00
+        "tournamentScore": 474.0
+      },
+      {
+        "tournamentName": "RBC",
+        "tournamentType": 1,
+        "tournanmentScore": 154.125
       }
     ]
   },
@@ -407,57 +437,62 @@
       {
         "tournamentName": "WMO",
         "tournamentType": 1,
-        "tournamentScore": 346.00
+        "tournamentScore": 346.0
       },
       {
         "tournamentName": "ATT",
         "tournamentType": 1,
-        "tournamentScore": 322.50
+        "tournamentScore": 322.5
       },
       {
         "tournamentName": "RIV",
         "tournamentType": 1,
-        "tournamentScore": 337.00
+        "tournamentScore": 337.0
       },
       {
         "tournamentName": "WGCMX",
         "tournamentType": 2,
-        "tournamentScore": 371.00
+        "tournamentScore": 371.0
       },
       {
         "tournamentName": "HON",
         "tournamentType": 1,
-        "tournamentScore": 337.00
+        "tournamentScore": 337.0
       },
       {
         "tournamentName": "API",
         "tournamentType": 1,
-        "tournamentScore": 379.00
+        "tournamentScore": 379.0
       },
       {
         "tournamentName": "SAW",
         "tournamentType": 2,
-        "tournamentScore": 417.00
+        "tournamentScore": 417.0
       },
       {
         "tournamentName": "INNIS",
         "tournamentType": 1,
-        "tournamentScore": 308.00
+        "tournamentScore": 308.0
       },
       {
         "tournamentName": "DELL",
         "tournamentType": 2,
-        "tournamentScore": 405.20
+        "tournamentScore": 405.2
       },
       {
         "tournamentName": "VALERO",
         "tournamentType": 1,
-        "tournamentScore": 372.50
+        "tournamentScore": 372.5
       },
       {
         "tournamentName": "MASTERS",
         "tournamentType": 3,
-        "tournamentScore": 474.50
+        "tournamentScore": 474.5
+      },
+      {
+        "tournamentName": "RBC",
+        "tournamentType": 1,
+        "tournanmentScore": 279.0
       }
     ]
   },
@@ -473,57 +508,62 @@
       {
         "tournamentName": "WMO",
         "tournamentType": 1,
-        "tournamentScore": 406.50
+        "tournamentScore": 406.5
       },
       {
         "tournamentName": "ATT",
         "tournamentType": 1,
-        "tournamentScore": 442.50
+        "tournamentScore": 442.5
       },
       {
         "tournamentName": "RIV",
         "tournamentType": 1,
-        "tournamentScore": 403.50
+        "tournamentScore": 403.5
       },
       {
         "tournamentName": "WGCMX",
         "tournamentType": 2,
-        "tournamentScore": 382.00
+        "tournamentScore": 382.0
       },
       {
         "tournamentName": "HON",
         "tournamentType": 1,
-        "tournamentScore": 322.50
+        "tournamentScore": 322.5
       },
       {
         "tournamentName": "API",
         "tournamentType": 1,
-        "tournamentScore": 203.00
+        "tournamentScore": 203.0
       },
       {
         "tournamentName": "SAW",
         "tournamentType": 2,
-        "tournamentScore": 318.50
+        "tournamentScore": 318.5
       },
       {
         "tournamentName": "INNIS",
         "tournamentType": 1,
-        "tournamentScore": 303.50
+        "tournamentScore": 303.5
       },
       {
         "tournamentName": "DELL",
         "tournamentType": 2,
-        "tournamentScore": 562.00
+        "tournamentScore": 562.0
       },
       {
         "tournamentName": "VALERO",
         "tournamentType": 1,
-        "tournamentScore": 324.00
+        "tournamentScore": 324.0
       },
       {
         "tournamentName": "MASTERS",
         "tournamentType": 3,
-        "tournamentScore": 419.50
+        "tournamentScore": 419.5
+      },
+      {
+        "tournamentName": "RBC",
+        "tournamentType": 1,
+        "tournanmentScore": 343.5
       }
     ]
   },
@@ -539,42 +579,42 @@
       {
         "tournamentName": "WMO",
         "tournamentType": 1,
-        "tournamentScore": 441.00
+        "tournamentScore": 441.0
       },
       {
         "tournamentName": "ATT",
         "tournamentType": 1,
-        "tournamentScore": 447.00
+        "tournamentScore": 447.0
       },
       {
         "tournamentName": "RIV",
         "tournamentType": 1,
-        "tournamentScore": 341.50
+        "tournamentScore": 341.5
       },
       {
         "tournamentName": "WGCMX",
         "tournamentType": 2,
-        "tournamentScore": 496.00
+        "tournamentScore": 496.0
       },
       {
         "tournamentName": "HON",
         "tournamentType": 1,
-        "tournamentScore": 370.00
+        "tournamentScore": 370.0
       },
       {
         "tournamentName": "API",
         "tournamentType": 1,
-        "tournamentScore": 257.50
+        "tournamentScore": 257.5
       },
       {
         "tournamentName": "SAW",
         "tournamentType": 2,
-        "tournamentScore": 361.50
+        "tournamentScore": 361.5
       },
       {
         "tournamentName": "INNIS",
         "tournamentType": 1,
-        "tournamentScore": 223.50
+        "tournamentScore": 223.5
       },
       {
         "tournamentName": "DELL",
@@ -584,12 +624,17 @@
       {
         "tournamentName": "VALERO",
         "tournamentType": 1,
-        "tournamentScore": 438.50
+        "tournamentScore": 438.5
       },
       {
         "tournamentName": "MASTERS",
         "tournamentType": 3,
-        "tournamentScore": 363.00
+        "tournamentScore": 363.0
+      },
+      {
+        "tournamentName": "RBC",
+        "tournamentType": 1,
+        "tournanmentScore": 284.5
       }
     ]
   },
@@ -599,63 +644,68 @@
     "tournamentPlaces": {
       "firstPlace": "0",
       "secondPlace": "0",
-      "thirdPlace": "0"
+      "thirdPlace": "1"
     },
     "tournaments": [
       {
         "tournamentName": "WMO",
         "tournamentType": 1,
-        "tournamentScore": 357.00
+        "tournamentScore": 357.0
       },
       {
         "tournamentName": "ATT",
         "tournamentType": 1,
-        "tournamentScore": 428.00
+        "tournamentScore": 428.0
       },
       {
         "tournamentName": "RIV",
         "tournamentType": 1,
-        "tournamentScore": 317.50
+        "tournamentScore": 317.5
       },
       {
         "tournamentName": "WGCMX",
         "tournamentType": 2,
-        "tournamentScore": 421.50
+        "tournamentScore": 421.5
       },
       {
         "tournamentName": "HON",
         "tournamentType": 1,
-        "tournamentScore": 246.50
+        "tournamentScore": 246.5
       },
       {
         "tournamentName": "API",
         "tournamentType": 1,
-        "tournamentScore": 412.00
+        "tournamentScore": 412.0
       },
       {
         "tournamentName": "SAW",
         "tournamentType": 2,
-        "tournamentScore": 355.50
+        "tournamentScore": 355.5
       },
       {
         "tournamentName": "INNIS",
         "tournamentType": 1,
-        "tournamentScore": 193.00
+        "tournamentScore": 193.0
       },
       {
         "tournamentName": "DELL",
         "tournamentType": 2,
-        "tournamentScore": 492.50
+        "tournamentScore": 492.5
       },
       {
         "tournamentName": "VALERO",
         "tournamentType": 1,
-        "tournamentScore": 394.00
+        "tournamentScore": 394.0
       },
       {
         "tournamentName": "MASTERS",
         "tournamentType": 3,
-        "tournamentScore": 460.00
+        "tournamentScore": 460.0
+      },
+      {
+        "tournamentName": "RBC",
+        "tournamentType": 1,
+        "tournanmentScore": 365.0
       }
     ]
   },
@@ -671,42 +721,42 @@
       {
         "tournamentName": "WMO",
         "tournamentType": 1,
-        "tournamentScore": 360.00
+        "tournamentScore": 360.0
       },
       {
         "tournamentName": "ATT",
         "tournamentType": 1,
-        "tournamentScore": 320.00
+        "tournamentScore": 320.0
       },
       {
         "tournamentName": "RIV",
         "tournamentType": 1,
-        "tournamentScore": 355.00
+        "tournamentScore": 355.0
       },
       {
         "tournamentName": "WGCMX",
         "tournamentType": 2,
-        "tournamentScore": 428.50
+        "tournamentScore": 428.5
       },
       {
         "tournamentName": "HON",
         "tournamentType": 1,
-        "tournamentScore": 346.00
+        "tournamentScore": 346.0
       },
       {
         "tournamentName": "API",
         "tournamentType": 1,
-        "tournamentScore": 309.00
+        "tournamentScore": 309.0
       },
       {
         "tournamentName": "SAW",
         "tournamentType": 2,
-        "tournamentScore": 520.00
+        "tournamentScore": 520.0
       },
       {
         "tournamentName": "INNIS",
         "tournamentType": 1,
-        "tournamentScore": 342.50
+        "tournamentScore": 342.5
       },
       {
         "tournamentName": "DELL",
@@ -716,12 +766,17 @@
       {
         "tournamentName": "VALERO",
         "tournamentType": 1,
-        "tournamentScore": 428.50
+        "tournamentScore": 428.5
       },
       {
         "tournamentName": "MASTERS",
         "tournamentType": 3,
-        "tournamentScore": 406.00
+        "tournamentScore": 406.0
+      },
+      {
+        "tournamentName": "RBC",
+        "tournamentType": 1,
+        "tournanmentScore": 345.5
       }
     ]
   },
@@ -730,64 +785,69 @@
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/mike.jpg",
     "tournamentPlaces": {
       "firstPlace": "0",
-      "secondPlace": "1",
+      "secondPlace": "2",
       "thirdPlace": "0"
     },
     "tournaments": [
       {
         "tournamentName": "WMO",
         "tournamentType": 1,
-        "tournamentScore": 290.50
+        "tournamentScore": 290.5
       },
       {
         "tournamentName": "ATT",
         "tournamentType": 1,
-        "tournamentScore": 361.50
+        "tournamentScore": 361.5
       },
       {
         "tournamentName": "RIV",
         "tournamentType": 1,
-        "tournamentScore": 394.50
+        "tournamentScore": 394.5
       },
       {
         "tournamentName": "WGCMX",
         "tournamentType": 2,
-        "tournamentScore": 473.50
+        "tournamentScore": 473.5
       },
       {
         "tournamentName": "HON",
         "tournamentType": 1,
-        "tournamentScore": 273.00
+        "tournamentScore": 273.0
       },
       {
         "tournamentName": "API",
         "tournamentType": 1,
-        "tournamentScore": 259.00
+        "tournamentScore": 259.0
       },
       {
         "tournamentName": "SAW",
         "tournamentType": 2,
-        "tournamentScore": 349.50
+        "tournamentScore": 349.5
       },
       {
         "tournamentName": "INNIS",
         "tournamentType": 1,
-        "tournamentScore": 278.50
+        "tournamentScore": 278.5
       },
       {
         "tournamentName": "DELL",
         "tournamentType": 2,
-        "tournamentScore": 536.50
+        "tournamentScore": 536.5
       },
       {
         "tournamentName": "VALERO",
         "tournamentType": 1,
-        "tournamentScore": 436.00
+        "tournamentScore": 436.0
       },
       {
         "tournamentName": "MASTERS",
         "tournamentType": 3,
-        "tournamentScore": 457.00
+        "tournamentScore": 457.0
+      },
+      {
+        "tournamentName": "RBC",
+        "tournamentType": 1,
+        "tournanmentScore": 384.5
       }
     ]
   },
@@ -803,42 +863,42 @@
       {
         "tournamentName": "WMO",
         "tournamentType": 1,
-        "tournamentScore": 350.00
+        "tournamentScore": 350.0
       },
       {
         "tournamentName": "ATT",
         "tournamentType": 1,
-        "tournamentScore": 372.00
+        "tournamentScore": 372.0
       },
       {
         "tournamentName": "RIV",
         "tournamentType": 1,
-        "tournamentScore": 411.00
+        "tournamentScore": 411.0
       },
       {
         "tournamentName": "WGCMX",
         "tournamentType": 2,
-        "tournamentScore": 367.50
+        "tournamentScore": 367.5
       },
       {
         "tournamentName": "HON",
         "tournamentType": 1,
-        "tournamentScore": 378.00
+        "tournamentScore": 378.0
       },
       {
         "tournamentName": "API",
         "tournamentType": 1,
-        "tournamentScore": 377.00
+        "tournamentScore": 377.0
       },
       {
         "tournamentName": "SAW",
         "tournamentType": 2,
-        "tournamentScore": 418.50
+        "tournamentScore": 418.5
       },
       {
         "tournamentName": "INNIS",
         "tournamentType": 1,
-        "tournamentScore": 301.50
+        "tournamentScore": 301.5
       },
       {
         "tournamentName": "DELL",
@@ -848,12 +908,17 @@
       {
         "tournamentName": "VALERO",
         "tournamentType": 1,
-        "tournamentScore": 320.50
+        "tournamentScore": 320.5
       },
       {
         "tournamentName": "MASTERS",
         "tournamentType": 3,
-        "tournamentScore": 527.50
+        "tournamentScore": 527.5
+      },
+      {
+        "tournamentName": "RBC",
+        "tournamentType": 1,
+        "tournanmentScore": 287.0
       }
     ]
   },
@@ -869,57 +934,62 @@
       {
         "tournamentName": "WMO",
         "tournamentType": 1,
-        "tournamentScore": 382.50
+        "tournamentScore": 382.5
       },
       {
         "tournamentName": "ATT",
         "tournamentType": 1,
-        "tournamentScore": 362.50
+        "tournamentScore": 362.5
       },
       {
         "tournamentName": "RIV",
         "tournamentType": 1,
-        "tournamentScore": 463.50
+        "tournamentScore": 463.5
       },
       {
         "tournamentName": "WGCMX",
         "tournamentType": 2,
-        "tournamentScore": 399.50
+        "tournamentScore": 399.5
       },
       {
         "tournamentName": "HON",
         "tournamentType": 1,
-        "tournamentScore": 309.50
+        "tournamentScore": 309.5
       },
       {
         "tournamentName": "API",
         "tournamentType": 1,
-        "tournamentScore": 449.00
+        "tournamentScore": 449.0
       },
       {
         "tournamentName": "SAW",
         "tournamentType": 2,
-        "tournamentScore": 346.50
+        "tournamentScore": 346.5
       },
       {
         "tournamentName": "INNIS",
         "tournamentType": 1,
-        "tournamentScore": 268.00
+        "tournamentScore": 268.0
       },
       {
         "tournamentName": "DELL",
         "tournamentType": 2,
-        "tournamentScore": 502.10
+        "tournamentScore": 502.1
       },
       {
         "tournamentName": "VALERO",
         "tournamentType": 1,
-        "tournamentScore": 352.00
+        "tournamentScore": 352.0
       },
       {
         "tournamentName": "MASTERS",
         "tournamentType": 3,
-        "tournamentScore": 395.50
+        "tournamentScore": 395.5
+      },
+      {
+        "tournamentName": "RBC",
+        "tournamentType": 1,
+        "tournanmentScore": 205.5
       }
     ]
   },
@@ -927,7 +997,7 @@
     "user": "adamlouismiller",
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/miller.jpg",
     "tournamentPlaces": {
-      "firstPlace": "0",
+      "firstPlace": "1",
       "secondPlace": "0",
       "thirdPlace": "1"
     },
@@ -935,42 +1005,42 @@
       {
         "tournamentName": "WMO",
         "tournamentType": 1,
-        "tournamentScore": 343.50
+        "tournamentScore": 343.5
       },
       {
         "tournamentName": "ATT",
         "tournamentType": 1,
-        "tournamentScore": 419.50
+        "tournamentScore": 419.5
       },
       {
         "tournamentName": "RIV",
         "tournamentType": 1,
-        "tournamentScore": 385.50
+        "tournamentScore": 385.5
       },
       {
         "tournamentName": "WGCMX",
         "tournamentType": 2,
-        "tournamentScore": 450.50
+        "tournamentScore": 450.5
       },
       {
         "tournamentName": "HON",
         "tournamentType": 1,
-        "tournamentScore": 256.00
+        "tournamentScore": 256.0
       },
       {
         "tournamentName": "API",
         "tournamentType": 1,
-        "tournamentScore": 386.50
+        "tournamentScore": 386.5
       },
       {
         "tournamentName": "SAW",
         "tournamentType": 2,
-        "tournamentScore": 435.50
+        "tournamentScore": 435.5
       },
       {
         "tournamentName": "INNIS",
         "tournamentType": 1,
-        "tournamentScore": 228.50
+        "tournamentScore": 228.5
       },
       {
         "tournamentName": "DELL",
@@ -980,12 +1050,17 @@
       {
         "tournamentName": "VALERO",
         "tournamentType": 1,
-        "tournamentScore": 368.50
+        "tournamentScore": 368.5
       },
       {
         "tournamentName": "MASTERS",
         "tournamentType": 3,
-        "tournamentScore": 337.50
+        "tournamentScore": 337.5
+      },
+      {
+        "tournamentName": "RBC",
+        "tournamentType": 1,
+        "tournanmentScore": 412.5
       }
     ]
   },
@@ -1001,42 +1076,42 @@
       {
         "tournamentName": "WMO",
         "tournamentType": 1,
-        "tournamentScore": 465.00
+        "tournamentScore": 465.0
       },
       {
         "tournamentName": "ATT",
         "tournamentType": 1,
-        "tournamentScore": 376.00
+        "tournamentScore": 376.0
       },
       {
         "tournamentName": "RIV",
         "tournamentType": 1,
-        "tournamentScore": 428.50
+        "tournamentScore": 428.5
       },
       {
         "tournamentName": "WGCMX",
         "tournamentType": 2,
-        "tournamentScore": 392.00
+        "tournamentScore": 392.0
       },
       {
         "tournamentName": "HON",
         "tournamentType": 1,
-        "tournamentScore": 329.00
+        "tournamentScore": 329.0
       },
       {
         "tournamentName": "API",
         "tournamentType": 1,
-        "tournamentScore": 347.50
+        "tournamentScore": 347.5
       },
       {
         "tournamentName": "SAW",
         "tournamentType": 2,
-        "tournamentScore": 484.50
+        "tournamentScore": 484.5
       },
       {
         "tournamentName": "INNIS",
         "tournamentType": 1,
-        "tournamentScore": 371.50
+        "tournamentScore": 371.5
       },
       {
         "tournamentName": "DELL",
@@ -1046,12 +1121,17 @@
       {
         "tournamentName": "VALERO",
         "tournamentType": 1,
-        "tournamentScore": 368.50
+        "tournamentScore": 368.5
       },
       {
         "tournamentName": "MASTERS",
         "tournamentType": 3,
-        "tournamentScore": 371.50
+        "tournamentScore": 371.5
+      },
+      {
+        "tournamentName": "RBC",
+        "tournamentType": 1,
+        "tournanmentScore": 355.5
       }
     ]
   },
@@ -1067,57 +1147,62 @@
       {
         "tournamentName": "WMO",
         "tournamentType": 1,
-        "tournamentScore": 378.50
+        "tournamentScore": 378.5
       },
       {
         "tournamentName": "ATT",
         "tournamentType": 1,
-        "tournamentScore": 409.50
+        "tournamentScore": 409.5
       },
       {
         "tournamentName": "RIV",
         "tournamentType": 1,
-        "tournamentScore": 340.00
+        "tournamentScore": 340.0
       },
       {
         "tournamentName": "WGCMX",
         "tournamentType": 2,
-        "tournamentScore": 411.00
+        "tournamentScore": 411.0
       },
       {
         "tournamentName": "HON",
         "tournamentType": 1,
-        "tournamentScore": 305.50
+        "tournamentScore": 305.5
       },
       {
         "tournamentName": "API",
         "tournamentType": 1,
-        "tournamentScore": 465.00
+        "tournamentScore": 465.0
       },
       {
         "tournamentName": "SAW",
         "tournamentType": 2,
-        "tournamentScore": 454.00
+        "tournamentScore": 454.0
       },
       {
         "tournamentName": "INNIS",
         "tournamentType": 1,
-        "tournamentScore": 206.50
+        "tournamentScore": 206.5
       },
       {
         "tournamentName": "DELL",
         "tournamentType": 2,
-        "tournamentScore": 336.90
+        "tournamentScore": 336.9
       },
       {
         "tournamentName": "VALERO",
         "tournamentType": 1,
-        "tournamentScore": 384.00
+        "tournamentScore": 384.0
       },
       {
         "tournamentName": "MASTERS",
         "tournamentType": 3,
-        "tournamentScore": 476.00
+        "tournamentScore": 476.0
+      },
+      {
+        "tournamentName": "RBC",
+        "tournamentType": 1,
+        "tournanmentScore": 154.125
       }
     ]
   }
