@@ -77,6 +77,11 @@
         "tournamentName": "BYRON",
         "tournamentType": 1,
         "tournamentScore": 338.0
+      },
+      {
+        "tournamentName": "PGACHAMP",
+        "tournamentType": 3,
+        "tournamentScore": 317.5
       }
     ]
   },
@@ -158,6 +163,11 @@
         "tournamentName": "BYRON",
         "tournamentType": 1,
         "tournamentScore": 465.5
+      },
+      {
+        "tournamentName": "PGACHAMP",
+        "tournamentType": 3,
+        "tournamentScore": 262.5
       }
     ]
   },
@@ -239,6 +249,11 @@
         "tournamentName": "BYRON",
         "tournamentType": 1,
         "tournamentScore": 320.0
+      },
+      {
+        "tournamentName": "PGACHAMP",
+        "tournamentType": 3,
+        "tournamentScore": 273.0
       }
     ]
   },
@@ -320,6 +335,11 @@
         "tournamentName": "BYRON",
         "tournamentType": 1,
         "tournamentScore": 440.0
+      },
+      {
+        "tournamentName": "PGACHAMP",
+        "tournamentType": 3,
+        "tournamentScore": 309.0
       }
     ]
   },
@@ -401,6 +421,11 @@
         "tournamentName": "BYRON",
         "tournamentType": 1,
         "tournamentScore": 333.5
+      },
+      {
+        "tournamentName": "PGACHAMP",
+        "tournamentType": 3,
+        "tournamentScore": 243.0
       }
     ]
   },
@@ -482,6 +507,11 @@
         "tournamentName": "BYRON",
         "tournamentType": 1,
         "tournamentScore": 433.0
+      },
+      {
+        "tournamentName": "PGACHAMP",
+        "tournamentType": 3,
+        "tournamentScore": 325.5
       }
     ]
   },
@@ -563,6 +593,11 @@
         "tournamentName": "BYRON",
         "tournamentType": 1,
         "tournamentScore": 464.5
+      },
+      {
+        "tournamentName": "PGACHAMP",
+        "tournamentType": 3,
+        "tournamentScore": 219.0
       }
     ]
   },
@@ -644,6 +679,11 @@
         "tournamentName": "BYRON",
         "tournamentType": 1,
         "tournamentScore": 449.0
+      },
+      {
+        "tournamentName": "PGACHAMP",
+        "tournamentType": 3,
+        "tournamentScore": 250.0
       }
     ]
   },
@@ -725,6 +765,11 @@
         "tournamentName": "BYRON",
         "tournamentType": 1,
         "tournamentScore": 379.0
+      },
+      {
+        "tournamentName": "PGACHAMP",
+        "tournamentType": 3,
+        "tournamentScore": 279.0
       }
     ]
   },
@@ -734,7 +779,7 @@
     "tournamentPlaces": {
       "firstPlace": "0",
       "secondPlace": "0",
-      "thirdPlace": "2"
+      "thirdPlace": "3"
     },
     "tournaments": [
       {
@@ -806,6 +851,11 @@
         "tournamentName": "BYRON",
         "tournamentType": 1,
         "tournamentScore": 525.5
+      },
+      {
+        "tournamentName": "PGACHAMP",
+        "tournamentType": 3,
+        "tournamentScore": 350.0
       }
     ]
   },
@@ -887,6 +937,11 @@
         "tournamentName": "BYRON",
         "tournamentType": 1,
         "tournamentScore": 431.5
+      },
+      {
+        "tournamentName": "PGACHAMP",
+        "tournamentType": 3,
+        "tournamentScore": 253.0
       }
     ]
   },
@@ -895,7 +950,7 @@
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/mike.jpg",
     "tournamentPlaces": {
       "firstPlace": "0",
-      "secondPlace": "2",
+      "secondPlace": "3",
       "thirdPlace": "1"
     },
     "tournaments": [
@@ -968,6 +1023,11 @@
         "tournamentName": "BYRON",
         "tournamentType": 1,
         "tournamentScore": 319.5
+      },
+      {
+        "tournamentName": "PGACHAMP",
+        "tournamentType": 3,
+        "tournamentScore": 356.5
       }
     ]
   },
@@ -975,7 +1035,7 @@
     "user": "chicagoputz",
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/putz.jpg",
     "tournamentPlaces": {
-      "firstPlace": "2",
+      "firstPlace": "3",
       "secondPlace": "1",
       "thirdPlace": "0"
     },
@@ -1049,6 +1109,11 @@
         "tournamentName": "BYRON",
         "tournamentType": 1,
         "tournamentScore": 540.0
+      },
+      {
+        "tournamentName": "PGACHAMP",
+        "tournamentType": 3,
+        "tournamentScore": 374.0
       }
     ]
   },
@@ -1130,6 +1195,11 @@
         "tournamentName": "BYRON",
         "tournamentType": 1,
         "tournamentScore": 495.0
+      },
+      {
+        "tournamentName": "PGACHAMP",
+        "tournamentType": 3,
+        "tournamentScore": 315.5
       }
     ]
   },
@@ -1211,6 +1281,11 @@
         "tournamentName": "BYRON",
         "tournamentType": 1,
         "tournamentScore": 355.5
+      },
+      {
+        "tournamentName": "PGACHAMP",
+        "tournamentType": 3,
+        "tournamentScore": 299.0
       }
     ]
   },
@@ -1292,6 +1367,11 @@
         "tournamentName": "BYRON",
         "tournamentType": 1,
         "tournamentScore": 406.0
+      },
+      {
+        "tournamentName": "PGACHAMP",
+        "tournamentType": 3,
+        "tournamentScore": 288.0
       }
     ]
   },
@@ -1373,6 +1453,11 @@
         "tournamentName": "BYRON",
         "tournamentType": 1,
         "tournamentScore": 565.5
+      },
+      {
+        "tournamentName": "PGACHAMP",
+        "tournamentType": 3,
+        "tournamentScore": 300.0
       }
     ]
   }
