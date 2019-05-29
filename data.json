@@ -82,6 +82,11 @@
         "tournamentName": "PGACHAMP",
         "tournamentType": 3,
         "tournamentScore": 317.5
+      },
+      {
+        "tournamentName": "COL",
+        "tournamentType": 1,
+        "tournamentScore": 328.0
       }
     ]
   },
@@ -91,7 +96,7 @@
     "tournamentPlaces": {
       "firstPlace": "1",
       "secondPlace": "0",
-      "thirdPlace": "0"
+      "thirdPlace": "1"
     },
     "tournaments": [
       {
@@ -168,6 +173,11 @@
         "tournamentName": "PGACHAMP",
         "tournamentType": 3,
         "tournamentScore": 262.5
+      },
+      {
+        "tournamentName": "COL",
+        "tournamentType": 1,
+        "tournamentScore": 361.0
       }
     ]
   },
@@ -176,7 +186,7 @@
     "icon": "",
     "tournamentPlaces": {
       "firstPlace": "0",
-      "secondPlace": "0",
+      "secondPlace": "1",
       "thirdPlace": "1"
     },
     "tournaments": [
@@ -254,6 +264,11 @@
         "tournamentName": "PGACHAMP",
         "tournamentType": 3,
         "tournamentScore": 273.0
+      },
+      {
+        "tournamentName": "COL",
+        "tournamentType": 1,
+        "tournamentScore": 363.0
       }
     ]
   },
@@ -340,6 +355,11 @@
         "tournamentName": "PGACHAMP",
         "tournamentType": 3,
         "tournamentScore": 309.0
+      },
+      {
+        "tournamentName": "COL",
+        "tournamentType": 1,
+        "tournamentScore": 350.5
       }
     ]
   },
@@ -426,6 +446,11 @@
         "tournamentName": "PGACHAMP",
         "tournamentType": 3,
         "tournamentScore": 243.0
+      },
+      {
+        "tournamentName": "COL",
+        "tournamentType": 1,
+        "tournamentScore": 141.75
       }
     ]
   },
@@ -512,6 +537,11 @@
         "tournamentName": "PGACHAMP",
         "tournamentType": 3,
         "tournamentScore": 325.5
+      },
+      {
+        "tournamentName": "COL",
+        "tournamentType": 1,
+        "tournamentScore": 309.5
       }
     ]
   },
@@ -598,6 +628,11 @@
         "tournamentName": "PGACHAMP",
         "tournamentType": 3,
         "tournamentScore": 219.0
+      },
+      {
+        "tournamentName": "COL",
+        "tournamentType": 1,
+        "tournamentScore": 334.0
       }
     ]
   },
@@ -605,7 +640,7 @@
     "user": "CubyBlue",
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/cuby.jpg",
     "tournamentPlaces": {
-      "firstPlace": "0",
+      "firstPlace": "1",
       "secondPlace": "0",
       "thirdPlace": "1"
     },
@@ -684,6 +719,11 @@
         "tournamentName": "PGACHAMP",
         "tournamentType": 3,
         "tournamentScore": 250.0
+      },
+      {
+        "tournamentName": "COL",
+        "tournamentType": 1,
+        "tournamentScore": 426.0
       }
     ]
   },
@@ -770,6 +810,11 @@
         "tournamentName": "PGACHAMP",
         "tournamentType": 3,
         "tournamentScore": 279.0
+      },
+      {
+        "tournamentName": "COL",
+        "tournamentType": 1,
+        "tournamentScore": 141.75
       }
     ]
   },
@@ -856,6 +901,11 @@
         "tournamentName": "PGACHAMP",
         "tournamentType": 3,
         "tournamentScore": 350.0
+      },
+      {
+        "tournamentName": "COL",
+        "tournamentType": 1,
+        "tournamentScore": 141.75
       }
     ]
   },
@@ -942,6 +992,11 @@
         "tournamentName": "PGACHAMP",
         "tournamentType": 3,
         "tournamentScore": 253.0
+      },
+      {
+        "tournamentName": "COL",
+        "tournamentType": 1,
+        "tournamentScore": 350.0
       }
     ]
   },
@@ -1028,6 +1083,11 @@
         "tournamentName": "PGACHAMP",
         "tournamentType": 3,
         "tournamentScore": 356.5
+      },
+      {
+        "tournamentName": "COL",
+        "tournamentType": 1,
+        "tournamentScore": 189.0
       }
     ]
   },
@@ -1114,6 +1174,11 @@
         "tournamentName": "PGACHAMP",
         "tournamentType": 3,
         "tournamentScore": 374.0
+      },
+      {
+        "tournamentName": "COL",
+        "tournamentType": 1,
+        "tournamentScore": 290.0
       }
     ]
   },
@@ -1200,6 +1265,11 @@
         "tournamentName": "PGACHAMP",
         "tournamentType": 3,
         "tournamentScore": 315.5
+      },
+      {
+        "tournamentName": "COL",
+        "tournamentType": 1,
+        "tournamentScore": 289.0
       }
     ]
   },
@@ -1286,6 +1356,11 @@
         "tournamentName": "PGACHAMP",
         "tournamentType": 3,
         "tournamentScore": 299.0
+      },
+      {
+        "tournamentName": "COL",
+        "tournamentType": 1,
+        "tournamentScore": 280.5
       }
     ]
   },
@@ -1372,6 +1447,11 @@
         "tournamentName": "PGACHAMP",
         "tournamentType": 3,
         "tournamentScore": 288.0
+      },
+      {
+        "tournamentName": "COL",
+        "tournamentType": 1,
+        "tournamentScore": 242.5
       }
     ]
   },
@@ -1458,6 +1538,11 @@
         "tournamentName": "PGACHAMP",
         "tournamentType": 3,
         "tournamentScore": 300.0
+      },
+      {
+        "tournamentName": "COL",
+        "tournamentType": 1,
+        "tournamentScore": 284.5
       }
     ]
   }
