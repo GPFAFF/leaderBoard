@@ -87,6 +87,11 @@
         "tournamentName": "COL",
         "tournamentType": 1,
         "tournamentScore": 328.0
+      },
+      {
+        "tournamentName": "MEM",
+        "tournamentType": 1,
+        "tournamentScore": 300.5
       }
     ]
   },
@@ -178,6 +183,11 @@
         "tournamentName": "COL",
         "tournamentType": 1,
         "tournamentScore": 361.0
+      },
+      {
+        "tournamentName": "MEM",
+        "tournamentType": 1,
+        "tournamentScore": 284.5
       }
     ]
   },
@@ -269,6 +279,11 @@
         "tournamentName": "COL",
         "tournamentType": 1,
         "tournamentScore": 363.0
+      },
+      {
+        "tournamentName": "MEM",
+        "tournamentType": 1,
+        "tournamentScore": 302.0
       }
     ]
   },
@@ -360,6 +375,11 @@
         "tournamentName": "COL",
         "tournamentType": 1,
         "tournamentScore": 350.5
+      },
+      {
+        "tournamentName": "MEM",
+        "tournamentType": 1,
+        "tournamentScore": 258.0
       }
     ]
   },
@@ -367,7 +387,7 @@
     "user": "andcohen2525",
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/cohen.jpeg",
     "tournamentPlaces": {
-      "firstPlace": "0",
+      "firstPlace": "1",
       "secondPlace": "1",
       "thirdPlace": "0"
     },
@@ -451,6 +471,11 @@
         "tournamentName": "COL",
         "tournamentType": 1,
         "tournamentScore": 141.75
+      },
+      {
+        "tournamentName": "MEM",
+        "tournamentType": 1,
+        "tournamentScore": 514.5
       }
     ]
   },
@@ -542,6 +567,11 @@
         "tournamentName": "COL",
         "tournamentType": 1,
         "tournamentScore": 309.5
+      },
+      {
+        "tournamentName": "MEM",
+        "tournamentType": 1,
+        "tournamentScore": 310.5
       }
     ]
   },
@@ -633,6 +663,11 @@
         "tournamentName": "COL",
         "tournamentType": 1,
         "tournamentScore": 334.0
+      },
+      {
+        "tournamentName": "MEM",
+        "tournamentType": 1,
+        "tournamentScore": 392.5
       }
     ]
   },
@@ -724,6 +759,11 @@
         "tournamentName": "COL",
         "tournamentType": 1,
         "tournamentScore": 426.0
+      },
+      {
+        "tournamentName": "MEM",
+        "tournamentType": 1,
+        "tournamentScore": 366.5
       }
     ]
   },
@@ -732,7 +772,7 @@
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/garcia.jpg",
     "tournamentPlaces": {
       "firstPlace": "1",
-      "secondPlace": "2",
+      "secondPlace": "3",
       "thirdPlace": "1"
     },
     "tournaments": [
@@ -815,6 +855,11 @@
         "tournamentName": "COL",
         "tournamentType": 1,
         "tournamentScore": 141.75
+      },
+      {
+        "tournamentName": "MEM",
+        "tournamentType": 1,
+        "tournamentScore": 434.0
       }
     ]
   },
@@ -906,6 +951,11 @@
         "tournamentName": "COL",
         "tournamentType": 1,
         "tournamentScore": 141.75
+      },
+      {
+        "tournamentName": "MEM",
+        "tournamentType": 1,
+        "tournamentScore": 275.5
       }
     ]
   },
@@ -997,6 +1047,11 @@
         "tournamentName": "COL",
         "tournamentType": 1,
         "tournamentScore": 350.0
+      },
+      {
+        "tournamentName": "MEM",
+        "tournamentType": 1,
+        "tournamentScore": 277.5
       }
     ]
   },
@@ -1006,7 +1061,7 @@
     "tournamentPlaces": {
       "firstPlace": "0",
       "secondPlace": "3",
-      "thirdPlace": "1"
+      "thirdPlace": "2"
     },
     "tournaments": [
       {
@@ -1088,6 +1143,11 @@
         "tournamentName": "COL",
         "tournamentType": 1,
         "tournamentScore": 189.0
+      },
+      {
+        "tournamentName": "MEM",
+        "tournamentType": 1,
+        "tournamentScore": 420.0
       }
     ]
   },
@@ -1179,6 +1239,11 @@
         "tournamentName": "COL",
         "tournamentType": 1,
         "tournamentScore": 290.0
+      },
+      {
+        "tournamentName": "MEM",
+        "tournamentType": 1,
+        "tournamentScore": 324.5
       }
     ]
   },
@@ -1268,6 +1333,11 @@
       },
       {
         "tournamentName": "COL",
+        "tournamentType": 1,
+        "tournamentScore": 289.0
+      },
+      {
+        "tournamentName": "MEM",
         "tournamentType": 1,
         "tournamentScore": 289.0
       }
@@ -1361,6 +1431,11 @@
         "tournamentName": "COL",
         "tournamentType": 1,
         "tournamentScore": 280.5
+      },
+      {
+        "tournamentName": "MEM",
+        "tournamentType": 1,
+        "tournamentScore": 399.0
       }
     ]
   },
@@ -1452,6 +1527,11 @@
         "tournamentName": "COL",
         "tournamentType": 1,
         "tournamentScore": 242.5
+      },
+      {
+        "tournamentName": "MEM",
+        "tournamentType": 1,
+        "tournamentScore": 305.5
       }
     ]
   },
@@ -1543,6 +1623,11 @@
         "tournamentName": "COL",
         "tournamentType": 1,
         "tournamentScore": 284.5
+      },
+      {
+        "tournamentName": "MEM",
+        "tournamentType": 1,
+        "tournamentScore": 406.0
       }
     ]
   }
