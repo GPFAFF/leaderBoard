@@ -4,7 +4,7 @@
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/greg.jpg",
     "tournamentPlaces": {
       "firstPlace": "1",
-      "secondPlace": "3",
+      "secondPlace": "4",
       "thirdPlace": "1"
     },
     "tournaments": [
@@ -97,6 +97,11 @@
         "tournamentName": "RBCCAN",
         "tournamentType": 1,
         "tournamentScore": 360.5
+      },
+      {
+        "tournamentName": "USOPEN",
+        "tournamentType": 3,
+        "tournamentScore": 447.0
       }
     ]
   },
@@ -198,6 +203,11 @@
         "tournamentName": "RBCCAN",
         "tournamentType": 1,
         "tournamentScore": 356.5
+      },
+      {
+        "tournamentName": "USOPEN",
+        "tournamentType": 3,
+        "tournamentScore": 368.0
       }
     ]
   },
@@ -207,7 +217,7 @@
     "tournamentPlaces": {
       "firstPlace": "0",
       "secondPlace": "1",
-      "thirdPlace": "1"
+      "thirdPlace": "2"
     },
     "tournaments": [
       {
@@ -299,6 +309,11 @@
         "tournamentName": "RBCCAN",
         "tournamentType": 1,
         "tournamentScore": 277.5
+      },
+      {
+        "tournamentName": "USOPEN",
+        "tournamentType": 3,
+        "tournamentScore": 435.0
       }
     ]
   },
@@ -400,6 +415,11 @@
         "tournamentName": "RBCCAN",
         "tournamentType": 1,
         "tournamentScore": 311.0
+      },
+      {
+        "tournamentName": "USOPEN",
+        "tournamentType": 3,
+        "tournamentScore": 349.5
       }
     ]
   },
@@ -501,6 +521,11 @@
         "tournamentName": "RBCCAN",
         "tournamentType": 1,
         "tournamentScore": 352.0
+      },
+      {
+        "tournamentName": "USOPEN",
+        "tournamentType": 3,
+        "tournamentScore": 278.5
       }
     ]
   },
@@ -602,6 +627,11 @@
         "tournamentName": "RBCCAN",
         "tournamentType": 1,
         "tournamentScore": 381.0
+      },
+      {
+        "tournamentName": "USOPEN",
+        "tournamentType": 3,
+        "tournamentScore": 354.5
       }
     ]
   },
@@ -703,6 +733,11 @@
         "tournamentName": "RBCCAN",
         "tournamentType": 1,
         "tournamentScore": 208.1
+      },
+      {
+        "tournamentName": "USOPEN",
+        "tournamentType": 3,
+        "tournamentScore": 343.5
       }
     ]
   },
@@ -804,6 +839,11 @@
         "tournamentName": "RBCCAN",
         "tournamentType": 1,
         "tournamentScore": 208.1
+      },
+      {
+        "tournamentName": "USOPEN",
+        "tournamentType": 3,
+        "tournamentScore": 310.0
       }
     ]
   },
@@ -811,7 +851,7 @@
     "user": "garciar15",
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/garcia.jpg",
     "tournamentPlaces": {
-      "firstPlace": "1",
+      "firstPlace": "2",
       "secondPlace": "4",
       "thirdPlace": "1"
     },
@@ -905,6 +945,11 @@
         "tournamentName": "RBCCAN",
         "tournamentType": 1,
         "tournamentScore": 440.0
+      },
+      {
+        "tournamentName": "USOPEN",
+        "tournamentType": 3,
+        "tournamentScore": 455.0
       }
     ]
   },
@@ -1006,6 +1051,11 @@
         "tournamentName": "RBCCAN",
         "tournamentType": 1,
         "tournamentScore": 208.1
+      },
+      {
+        "tournamentName": "USOPEN",
+        "tournamentType": 3,
+        "tournamentScore": 169.5
       }
     ]
   },
@@ -1107,6 +1157,11 @@
         "tournamentName": "RBCCAN",
         "tournamentType": 1,
         "tournamentScore": 424.5
+      },
+      {
+        "tournamentName": "USOPEN",
+        "tournamentType": 3,
+        "tournamentScore": 311.0
       }
     ]
   },
@@ -1208,6 +1263,11 @@
         "tournamentName": "RBCCAN",
         "tournamentType": 1,
         "tournamentScore": 361.0
+      },
+      {
+        "tournamentName": "USOPEN",
+        "tournamentType": 3,
+        "tournamentScore": 376.5
       }
     ]
   },
@@ -1309,6 +1369,11 @@
         "tournamentName": "RBCCAN",
         "tournamentType": 1,
         "tournamentScore": 320.0
+      },
+      {
+        "tournamentName": "USOPEN",
+        "tournamentType": 3,
+        "tournamentScore": 381.0
       }
     ]
   },
@@ -1410,6 +1475,11 @@
         "tournamentName": "RBCCAN",
         "tournamentType": 1,
         "tournamentScore": 462.5
+      },
+      {
+        "tournamentName": "USOPEN",
+        "tournamentType": 3,
+        "tournamentScore": 226.0
       }
     ]
   },
@@ -1511,6 +1581,11 @@
         "tournamentName": "RBCCAN",
         "tournamentType": 1,
         "tournamentScore": 430.0
+      },
+      {
+        "tournamentName": "USOPEN",
+        "tournamentType": 3,
+        "tournamentScore": 332.5
       }
     ]
   },
@@ -1612,6 +1687,11 @@
         "tournamentName": "RBCCAN",
         "tournamentType": 1,
         "tournamentScore": 312.5
+      },
+      {
+        "tournamentName": "USOPEN",
+        "tournamentType": 3,
+        "tournamentScore": 381.0
       }
     ]
   },
@@ -1713,6 +1793,11 @@
         "tournamentName": "RBCCAN",
         "tournamentType": 1,
         "tournamentScore": 328.0
+      },
+      {
+        "tournamentName": "USOPEN",
+        "tournamentType": 3,
+        "tournamentScore": 282.0
       }
     ]
   }
