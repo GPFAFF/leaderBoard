@@ -102,6 +102,11 @@
         "tournamentName": "USOPEN",
         "tournamentType": 3,
         "tournamentScore": 447.0
+      },
+      {
+        "tournamentName": "TPCRIVER",
+        "tournamentType": 1,
+        "tournamentScore": 427.5
       }
     ]
   },
@@ -111,7 +116,7 @@
     "tournamentPlaces": {
       "firstPlace": "1",
       "secondPlace": "0",
-      "thirdPlace": "1"
+      "thirdPlace": "2"
     },
     "tournaments": [
       {
@@ -208,6 +213,11 @@
         "tournamentName": "USOPEN",
         "tournamentType": 3,
         "tournamentScore": 368.0
+      },
+      {
+        "tournamentName": "TPCRIVER",
+        "tournamentType": 1,
+        "tournamentScore": 434.0
       }
     ]
   },
@@ -216,7 +226,7 @@
     "icon": "",
     "tournamentPlaces": {
       "firstPlace": "0",
-      "secondPlace": "1",
+      "secondPlace": "2",
       "thirdPlace": "2"
     },
     "tournaments": [
@@ -314,6 +324,11 @@
         "tournamentName": "USOPEN",
         "tournamentType": 3,
         "tournamentScore": 435.0
+      },
+      {
+        "tournamentName": "TPCRIVER",
+        "tournamentType": 1,
+        "tournamentScore": 455.0
       }
     ]
   },
@@ -420,6 +435,11 @@
         "tournamentName": "USOPEN",
         "tournamentType": 3,
         "tournamentScore": 349.5
+      },
+      {
+        "tournamentName": "TPCRIVER",
+        "tournamentType": 1,
+        "tournamentScore": 289.0
       }
     ]
   },
@@ -526,6 +546,11 @@
         "tournamentName": "USOPEN",
         "tournamentType": 3,
         "tournamentScore": 278.5
+      },
+      {
+        "tournamentName": "TPCRIVER",
+        "tournamentType": 1,
+        "tournamentScore": 216.25
       }
     ]
   },
@@ -632,6 +657,11 @@
         "tournamentName": "USOPEN",
         "tournamentType": 3,
         "tournamentScore": 354.5
+      },
+      {
+        "tournamentName": "TPCRIVER",
+        "tournamentType": 1,
+        "tournamentScore": 326.5
       }
     ]
   },
@@ -738,6 +768,11 @@
         "tournamentName": "USOPEN",
         "tournamentType": 3,
         "tournamentScore": 343.5
+      },
+      {
+        "tournamentName": "TPCRIVER",
+        "tournamentType": 1,
+        "tournamentScore": 216.25
       }
     ]
   },
@@ -844,6 +879,11 @@
         "tournamentName": "USOPEN",
         "tournamentType": 3,
         "tournamentScore": 310.0
+      },
+      {
+        "tournamentName": "TPCRIVER",
+        "tournamentType": 1,
+        "tournamentScore": 333.0
       }
     ]
   },
@@ -950,6 +990,11 @@
         "tournamentName": "USOPEN",
         "tournamentType": 3,
         "tournamentScore": 455.0
+      },
+      {
+        "tournamentName": "TPCRIVER",
+        "tournamentType": 1,
+        "tournamentScore": 373.5
       }
     ]
   },
@@ -1056,6 +1101,11 @@
         "tournamentName": "USOPEN",
         "tournamentType": 3,
         "tournamentScore": 169.5
+      },
+      {
+        "tournamentName": "TPCRIVER",
+        "tournamentType": 1,
+        "tournamentScore": 216.25
       }
     ]
   },
@@ -1162,6 +1212,11 @@
         "tournamentName": "USOPEN",
         "tournamentType": 3,
         "tournamentScore": 311.0
+      },
+      {
+        "tournamentName": "TPCRIVER",
+        "tournamentType": 1,
+        "tournamentScore": 389.0
       }
     ]
   },
@@ -1268,6 +1323,11 @@
         "tournamentName": "USOPEN",
         "tournamentType": 3,
         "tournamentScore": 376.5
+      },
+      {
+        "tournamentName": "TPCRIVER",
+        "tournamentType": 1,
+        "tournamentScore": 366.0
       }
     ]
   },
@@ -1275,7 +1335,7 @@
     "user": "chicagoputz",
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/putz.jpg",
     "tournamentPlaces": {
-      "firstPlace": "3",
+      "firstPlace": "4",
       "secondPlace": "1",
       "thirdPlace": "0"
     },
@@ -1374,6 +1434,11 @@
         "tournamentName": "USOPEN",
         "tournamentType": 3,
         "tournamentScore": 381.0
+      },
+      {
+        "tournamentName": "TPCRIVER",
+        "tournamentType": 1,
+        "tournamentScore": 481.0
       }
     ]
   },
@@ -1480,6 +1545,11 @@
         "tournamentName": "USOPEN",
         "tournamentType": 3,
         "tournamentScore": 226.0
+      },
+      {
+        "tournamentName": "TPCRIVER",
+        "tournamentType": 1,
+        "tournamentScore": 336.0
       }
     ]
   },
@@ -1586,6 +1656,11 @@
         "tournamentName": "USOPEN",
         "tournamentType": 3,
         "tournamentScore": 332.5
+      },
+      {
+        "tournamentName": "TPCRIVER",
+        "tournamentType": 1,
+        "tournamentScore": 346.5
       }
     ]
   },
@@ -1692,6 +1767,11 @@
         "tournamentName": "USOPEN",
         "tournamentType": 3,
         "tournamentScore": 381.0
+      },
+      {
+        "tournamentName": "TPCRIVER",
+        "tournamentType": 1,
+        "tournamentScore": 293.5
       }
     ]
   },
@@ -1798,6 +1878,11 @@
         "tournamentName": "USOPEN",
         "tournamentType": 3,
         "tournamentScore": 282.0
+      },
+      {
+        "tournamentName": "TPCRIVER",
+        "tournamentType": 1,
+        "tournamentScore": 216.25
       }
     ]
   }
