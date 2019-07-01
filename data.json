@@ -107,6 +107,11 @@
         "tournamentName": "TPCRIVER",
         "tournamentType": 1,
         "tournamentScore": 427.5
+      },
+      {
+        "tournamentName": "ROCKET",
+        "tournamnetType": 1,
+        "tournamentScore": 351.5
       }
     ]
   },
@@ -218,6 +223,11 @@
         "tournamentName": "TPCRIVER",
         "tournamentType": 1,
         "tournamentScore": 434.0
+      },
+      {
+        "tournamentName": "ROCKET",
+        "tournamnetType": 1,
+        "tournamentScore": 357.0
       }
     ]
   },
@@ -329,6 +339,11 @@
         "tournamentName": "TPCRIVER",
         "tournamentType": 1,
         "tournamentScore": 455.0
+      },
+      {
+        "tournamentName": "ROCKET",
+        "tournamnetType": 1,
+        "tournamentScore": 410.0
       }
     ]
   },
@@ -440,6 +455,11 @@
         "tournamentName": "TPCRIVER",
         "tournamentType": 1,
         "tournamentScore": 289.0
+      },
+      {
+        "tournamentName": "ROCKET",
+        "tournamnetType": 1,
+        "tournamentScore": 390.0
       }
     ]
   },
@@ -551,6 +571,11 @@
         "tournamentName": "TPCRIVER",
         "tournamentType": 1,
         "tournamentScore": 216.25
+      },
+      {
+        "tournamentName": "ROCKET",
+        "tournamnetType": 1,
+        "tournamentScore": 264.5
       }
     ]
   },
@@ -560,7 +585,7 @@
     "tournamentPlaces": {
       "firstPlace": "2",
       "secondPlace": "0",
-      "thirdPlace": "1"
+      "thirdPlace": "2"
     },
     "tournaments": [
       {
@@ -662,6 +687,11 @@
         "tournamentName": "TPCRIVER",
         "tournamentType": 1,
         "tournamentScore": 326.5
+      },
+      {
+        "tournamentName": "ROCKET",
+        "tournamnetType": 1,
+        "tournamentScore": 450.0
       }
     ]
   },
@@ -773,6 +803,11 @@
         "tournamentName": "TPCRIVER",
         "tournamentType": 1,
         "tournamentScore": 216.25
+      },
+      {
+        "tournamentName": "ROCKET",
+        "tournamnetType": 1,
+        "tournamentScore": 264.5
       }
     ]
   },
@@ -884,6 +919,11 @@
         "tournamentName": "TPCRIVER",
         "tournamentType": 1,
         "tournamentScore": 333.0
+      },
+      {
+        "tournamentName": "ROCKET",
+        "tournamnetType": 1,
+        "tournamentScore": 410.0
       }
     ]
   },
@@ -892,7 +932,7 @@
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/garcia.jpg",
     "tournamentPlaces": {
       "firstPlace": "2",
-      "secondPlace": "4",
+      "secondPlace": "5",
       "thirdPlace": "1"
     },
     "tournaments": [
@@ -995,6 +1035,11 @@
         "tournamentName": "TPCRIVER",
         "tournamentType": 1,
         "tournamentScore": 373.5
+      },
+      {
+        "tournamentName": "ROCKET",
+        "tournamnetType": 1,
+        "tournamentScore": 475.5
       }
     ]
   },
@@ -1106,6 +1151,11 @@
         "tournamentName": "TPCRIVER",
         "tournamentType": 1,
         "tournamentScore": 216.25
+      },
+      {
+        "tournamentName": "ROCKET",
+        "tournamnetType": 1,
+        "tournamentScore": 264.5
       }
     ]
   },
@@ -1217,6 +1267,11 @@
         "tournamentName": "TPCRIVER",
         "tournamentType": 1,
         "tournamentScore": 389.0
+      },
+      {
+        "tournamentName": "ROCKET",
+        "tournamnetType": 1,
+        "tournamentScore": 359.5
       }
     ]
   },
@@ -1328,6 +1383,11 @@
         "tournamentName": "TPCRIVER",
         "tournamentType": 1,
         "tournamentScore": 366.0
+      },
+      {
+        "tournamentName": "ROCKET",
+        "tournamnetType": 1,
+        "tournamentScore": 439.5
       }
     ]
   },
@@ -1439,6 +1499,11 @@
         "tournamentName": "TPCRIVER",
         "tournamentType": 1,
         "tournamentScore": 481.0
+      },
+      {
+        "tournamentName": "ROCKET",
+        "tournamnetType": 1,
+        "tournamentScore": 397.5
       }
     ]
   },
@@ -1550,6 +1615,11 @@
         "tournamentName": "TPCRIVER",
         "tournamentType": 1,
         "tournamentScore": 336.0
+      },
+      {
+        "tournamentName": "ROCKET",
+        "tournamnetType": 1,
+        "tournamentScore": 365.5
       }
     ]
   },
@@ -1661,6 +1731,11 @@
         "tournamentName": "TPCRIVER",
         "tournamentType": 1,
         "tournamentScore": 346.5
+      },
+      {
+        "tournamentName": "ROCKET",
+        "tournamnetType": 1,
+        "tournamentScore": 388.0
       }
     ]
   },
@@ -1772,6 +1847,11 @@
         "tournamentName": "TPCRIVER",
         "tournamentType": 1,
         "tournamentScore": 293.5
+      },
+      {
+        "tournamentName": "ROCKET",
+        "tournamnetType": 1,
+        "tournamentScore": 422.0
       }
     ]
   },
@@ -1779,7 +1859,7 @@
     "user": "jbone2020",
     "icon": "",
     "tournamentPlaces": {
-      "firstPlace": "2",
+      "firstPlace": "3",
       "secondPlace": "0",
       "thirdPlace": "2"
     },
@@ -1883,6 +1963,11 @@
         "tournamentName": "TPCRIVER",
         "tournamentType": 1,
         "tournamentScore": 216.25
+      },
+      {
+        "tournamentName": "ROCKET",
+        "tournamnetType": 1,
+        "tournamentScore": 485.5
       }
     ]
   }
