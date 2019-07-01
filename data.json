@@ -110,7 +110,7 @@
       },
       {
         "tournamentName": "ROCKET",
-        "tournamnetType": 1,
+        "tournamentType": 1,
         "tournamentScore": 351.5
       }
     ]
@@ -226,7 +226,7 @@
       },
       {
         "tournamentName": "ROCKET",
-        "tournamnetType": 1,
+        "tournamentType": 1,
         "tournamentScore": 357.0
       }
     ]
@@ -342,7 +342,7 @@
       },
       {
         "tournamentName": "ROCKET",
-        "tournamnetType": 1,
+        "tournamentType": 1,
         "tournamentScore": 410.0
       }
     ]
@@ -458,7 +458,7 @@
       },
       {
         "tournamentName": "ROCKET",
-        "tournamnetType": 1,
+        "tournamentType": 1,
         "tournamentScore": 390.0
       }
     ]
@@ -574,7 +574,7 @@
       },
       {
         "tournamentName": "ROCKET",
-        "tournamnetType": 1,
+        "tournamentType": 1,
         "tournamentScore": 264.5
       }
     ]
@@ -690,7 +690,7 @@
       },
       {
         "tournamentName": "ROCKET",
-        "tournamnetType": 1,
+        "tournamentType": 1,
         "tournamentScore": 450.0
       }
     ]
@@ -806,7 +806,7 @@
       },
       {
         "tournamentName": "ROCKET",
-        "tournamnetType": 1,
+        "tournamentType": 1,
         "tournamentScore": 264.5
       }
     ]
@@ -922,7 +922,7 @@
       },
       {
         "tournamentName": "ROCKET",
-        "tournamnetType": 1,
+        "tournamentType": 1,
         "tournamentScore": 410.0
       }
     ]
@@ -1038,7 +1038,7 @@
       },
       {
         "tournamentName": "ROCKET",
-        "tournamnetType": 1,
+        "tournamentType": 1,
         "tournamentScore": 475.5
       }
     ]
@@ -1154,7 +1154,7 @@
       },
       {
         "tournamentName": "ROCKET",
-        "tournamnetType": 1,
+        "tournamentType": 1,
         "tournamentScore": 264.5
       }
     ]
@@ -1270,7 +1270,7 @@
       },
       {
         "tournamentName": "ROCKET",
-        "tournamnetType": 1,
+        "tournamentType": 1,
         "tournamentScore": 359.5
       }
     ]
@@ -1386,7 +1386,7 @@
       },
       {
         "tournamentName": "ROCKET",
-        "tournamnetType": 1,
+        "tournamentType": 1,
         "tournamentScore": 439.5
       }
     ]
@@ -1502,7 +1502,7 @@
       },
       {
         "tournamentName": "ROCKET",
-        "tournamnetType": 1,
+        "tournamentType": 1,
         "tournamentScore": 397.5
       }
     ]
@@ -1618,7 +1618,7 @@
       },
       {
         "tournamentName": "ROCKET",
-        "tournamnetType": 1,
+        "tournamentType": 1,
         "tournamentScore": 365.5
       }
     ]
@@ -1734,7 +1734,7 @@
       },
       {
         "tournamentName": "ROCKET",
-        "tournamnetType": 1,
+        "tournamentType": 1,
         "tournamentScore": 388.0
       }
     ]
@@ -1850,7 +1850,7 @@
       },
       {
         "tournamentName": "ROCKET",
-        "tournamnetType": 1,
+        "tournamentType": 1,
         "tournamentScore": 422.0
       }
     ]
@@ -1966,7 +1966,7 @@
       },
       {
         "tournamentName": "ROCKET",
-        "tournamnetType": 1,
+        "tournamentType": 1,
         "tournamentScore": 485.5
       }
     ]
