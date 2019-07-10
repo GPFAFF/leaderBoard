@@ -112,6 +112,21 @@
         "tournamentName": "ROCKET",
         "tournamentType": 1,
         "tournamentScore": 351.5
+      },
+      {
+        "tournamentName": "3M",
+        "tournamentType": 1,
+        "tournamentScore": 432.0
+      },
+      {
+        "tournamentName": "JOHNDEERE",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "BRITISH",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
       }
     ]
   },
@@ -228,6 +243,21 @@
         "tournamentName": "ROCKET",
         "tournamentType": 1,
         "tournamentScore": 357.0
+      },
+      {
+        "tournamentName": "3M",
+        "tournamentType": 1,
+        "tournamentScore": 363.5
+      },
+      {
+        "tournamentName": "JOHNDEERE",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "BRITISH",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
       }
     ]
   },
@@ -344,6 +374,21 @@
         "tournamentName": "ROCKET",
         "tournamentType": 1,
         "tournamentScore": 410.0
+      },
+      {
+        "tournamentName": "3M",
+        "tournamentType": 1,
+        "tournamentScore": 512.5
+      },
+      {
+        "tournamentName": "JOHNDEERE",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "BRITISH",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
       }
     ]
   },
@@ -460,6 +505,21 @@
         "tournamentName": "ROCKET",
         "tournamentType": 1,
         "tournamentScore": 390.0
+      },
+      {
+        "tournamentName": "3M",
+        "tournamentType": 1,
+        "tournamentScore": 333.0
+      },
+      {
+        "tournamentName": "JOHNDEERE",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "BRITISH",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
       }
     ]
   },
@@ -576,6 +636,21 @@
         "tournamentName": "ROCKET",
         "tournamentType": 1,
         "tournamentScore": 264.5
+      },
+      {
+        "tournamentName": "3M",
+        "tournamentType": 1,
+        "tournamentScore": 455.0
+      },
+      {
+        "tournamentName": "JOHNDEERE",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "BRITISH",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
       }
     ]
   },
@@ -584,7 +659,7 @@
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/money.jpg",
     "tournamentPlaces": {
       "firstPlace": "2",
-      "secondPlace": "0",
+      "secondPlace": "1",
       "thirdPlace": "2"
     },
     "tournaments": [
@@ -692,6 +767,21 @@
         "tournamentName": "ROCKET",
         "tournamentType": 1,
         "tournamentScore": 450.0
+      },
+      {
+        "tournamentName": "3M",
+        "tournamentType": 1,
+        "tournamentScore": 531.0
+      },
+      {
+        "tournamentName": "JOHNDEERE",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "BRITISH",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
       }
     ]
   },
@@ -808,6 +898,21 @@
         "tournamentName": "ROCKET",
         "tournamentType": 1,
         "tournamentScore": 264.5
+      },
+      {
+        "tournamentName": "3M",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "JOHNDEERE",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "BRITISH",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
       }
     ]
   },
@@ -924,6 +1029,21 @@
         "tournamentName": "ROCKET",
         "tournamentType": 1,
         "tournamentScore": 410.0
+      },
+      {
+        "tournamentName": "3M",
+        "tournamentType": 1,
+        "tournamentScore": 441.5
+      },
+      {
+        "tournamentName": "JOHNDEERE",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "BRITISH",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
       }
     ]
   },
@@ -1040,6 +1160,21 @@
         "tournamentName": "ROCKET",
         "tournamentType": 1,
         "tournamentScore": 475.5
+      },
+      {
+        "tournamentName": "3M",
+        "tournamentType": 1,
+        "tournamentScore": 435.5
+      },
+      {
+        "tournamentName": "JOHNDEERE",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "BRITISH",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
       }
     ]
   },
@@ -1156,6 +1291,21 @@
         "tournamentName": "ROCKET",
         "tournamentType": 1,
         "tournamentScore": 264.5
+      },
+      {
+        "tournamentName": "3M",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "JOHNDEERE",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "BRITISH",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
       }
     ]
   },
@@ -1165,7 +1315,7 @@
     "tournamentPlaces": {
       "firstPlace": "2",
       "secondPlace": "0",
-      "thirdPlace": "1"
+      "thirdPlace": "2"
     },
     "tournaments": [
       {
@@ -1272,6 +1422,21 @@
         "tournamentName": "ROCKET",
         "tournamentType": 1,
         "tournamentScore": 359.5
+      },
+      {
+        "tournamentName": "3M",
+        "tournamentType": 1,
+        "tournamentScore": 522.0
+      },
+      {
+        "tournamentName": "JOHNDEERE",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "BRITISH",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
       }
     ]
   },
@@ -1279,7 +1444,7 @@
     "user": "belikemike247",
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/mike.jpg",
     "tournamentPlaces": {
-      "firstPlace": "0",
+      "firstPlace": "1",
       "secondPlace": "3",
       "thirdPlace": "2"
     },
@@ -1388,6 +1553,21 @@
         "tournamentName": "ROCKET",
         "tournamentType": 1,
         "tournamentScore": 439.5
+      },
+      {
+        "tournamentName": "3M",
+        "tournamentType": 1,
+        "tournamentScore": 540.5
+      },
+      {
+        "tournamentName": "JOHNDEERE",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "BRITISH",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
       }
     ]
   },
@@ -1504,6 +1684,21 @@
         "tournamentName": "ROCKET",
         "tournamentType": 1,
         "tournamentScore": 397.5
+      },
+      {
+        "tournamentName": "3M",
+        "tournamentType": 1,
+        "tournamentScore": 487.0
+      },
+      {
+        "tournamentName": "JOHNDEERE",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "BRITISH",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
       }
     ]
   },
@@ -1620,6 +1815,21 @@
         "tournamentName": "ROCKET",
         "tournamentType": 1,
         "tournamentScore": 365.5
+      },
+      {
+        "tournamentName": "3M",
+        "tournamentType": 1,
+        "tournamentScore": 361.0
+      },
+      {
+        "tournamentName": "JOHNDEERE",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "BRITISH",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
       }
     ]
   },
@@ -1736,6 +1946,21 @@
         "tournamentName": "ROCKET",
         "tournamentType": 1,
         "tournamentScore": 388.0
+      },
+      {
+        "tournamentName": "3M",
+        "tournamentType": 1,
+        "tournamentScore": 499.5
+      },
+      {
+        "tournamentName": "JOHNDEERE",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "BRITISH",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
       }
     ]
   },
@@ -1852,6 +2077,21 @@
         "tournamentName": "ROCKET",
         "tournamentType": 1,
         "tournamentScore": 422.0
+      },
+      {
+        "tournamentName": "3M",
+        "tournamentType": 1,
+        "tournamentScore": 421.0
+      },
+      {
+        "tournamentName": "JOHNDEERE",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "BRITISH",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
       }
     ]
   },
@@ -1968,6 +2208,21 @@
         "tournamentName": "ROCKET",
         "tournamentType": 1,
         "tournamentScore": 485.5
+      },
+      {
+        "tournamentName": "3M",
+        "tournamentType": 1,
+        "tournamentScore": 471.0
+      },
+      {
+        "tournamentName": "JOHNDEERE",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "BRITISH",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
       }
     ]
   }
