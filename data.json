@@ -121,7 +121,7 @@
       {
         "tournamentName": "JOHNDEERE",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 417.0
       },
       {
         "tournamentName": "BRITISH",
@@ -252,7 +252,7 @@
       {
         "tournamentName": "JOHNDEERE",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 454.0
       },
       {
         "tournamentName": "BRITISH",
@@ -383,7 +383,7 @@
       {
         "tournamentName": "JOHNDEERE",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 422.0
       },
       {
         "tournamentName": "BRITISH",
@@ -514,7 +514,7 @@
       {
         "tournamentName": "JOHNDEERE",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 318.5
       },
       {
         "tournamentName": "BRITISH",
@@ -776,7 +776,7 @@
       {
         "tournamentName": "JOHNDEERE",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 403.5
       },
       {
         "tournamentName": "BRITISH",
@@ -1038,7 +1038,7 @@
       {
         "tournamentName": "JOHNDEERE",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 357.0
       },
       {
         "tournamentName": "BRITISH",
@@ -1169,7 +1169,7 @@
       {
         "tournamentName": "JOHNDEERE",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 389.5
       },
       {
         "tournamentName": "BRITISH",
@@ -1315,7 +1315,7 @@
     "tournamentPlaces": {
       "firstPlace": "2",
       "secondPlace": "0",
-      "thirdPlace": "2"
+      "thirdPlace": "3"
     },
     "tournaments": [
       {
@@ -1431,7 +1431,7 @@
       {
         "tournamentName": "JOHNDEERE",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 465.5
       },
       {
         "tournamentName": "BRITISH",
@@ -1445,7 +1445,7 @@
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/mike.jpg",
     "tournamentPlaces": {
       "firstPlace": "1",
-      "secondPlace": "3",
+      "secondPlace": "4",
       "thirdPlace": "2"
     },
     "tournaments": [
@@ -1562,7 +1562,7 @@
       {
         "tournamentName": "JOHNDEERE",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 516.5
       },
       {
         "tournamentName": "BRITISH",
@@ -1693,7 +1693,7 @@
       {
         "tournamentName": "JOHNDEERE",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 385.5
       },
       {
         "tournamentName": "BRITISH",
@@ -1706,7 +1706,7 @@
     "user": "bgisel9",
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/giesel.jpeg",
     "tournamentPlaces": {
-      "firstPlace": "1",
+      "firstPlace": "2",
       "secondPlace": "2",
       "thirdPlace": "0"
     },
@@ -1824,7 +1824,7 @@
       {
         "tournamentName": "JOHNDEERE",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 532.0
       },
       {
         "tournamentName": "BRITISH",
@@ -1955,7 +1955,7 @@
       {
         "tournamentName": "JOHNDEERE",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 459.5
       },
       {
         "tournamentName": "BRITISH",
@@ -2086,7 +2086,7 @@
       {
         "tournamentName": "JOHNDEERE",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 388.0
       },
       {
         "tournamentName": "BRITISH",
@@ -2217,7 +2217,7 @@
       {
         "tournamentName": "JOHNDEERE",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 331.0
       },
       {
         "tournamentName": "BRITISH",
