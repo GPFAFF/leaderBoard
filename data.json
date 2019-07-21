@@ -126,7 +126,7 @@
       {
         "tournamentName": "BRITISH",
         "tournamentType": 3,
-        "tournamentScore": 0.0
+        "tournamentScore": 313.0
       }
     ]
   },
@@ -257,7 +257,7 @@
       {
         "tournamentName": "BRITISH",
         "tournamentType": 3,
-        "tournamentScore": 0.0
+        "tournamentScore": 291.50
       }
     ]
   },
@@ -388,7 +388,7 @@
       {
         "tournamentName": "BRITISH",
         "tournamentType": 3,
-        "tournamentScore": 0.0
+        "tournamentScore": 282.00
       }
     ]
   },
@@ -519,7 +519,7 @@
       {
         "tournamentName": "BRITISH",
         "tournamentType": 3,
-        "tournamentScore": 0.0
+        "tournamentScore": 374.50
       }
     ]
   },
@@ -650,7 +650,7 @@
       {
         "tournamentName": "BRITISH",
         "tournamentType": 3,
-        "tournamentScore": 0.0
+        "tournamentScore": 322.50
       }
     ]
   },
@@ -781,7 +781,7 @@
       {
         "tournamentName": "BRITISH",
         "tournamentType": 3,
-        "tournamentScore": 0.0
+        "tournamentScore": 252.0
       }
     ]
   },
@@ -789,7 +789,7 @@
     "user": "jrmagner",
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/mags.jpg",
     "tournamentPlaces": {
-      "firstPlace": "0",
+      "firstPlace": "1",
       "secondPlace": "0",
       "thirdPlace": "0"
     },
@@ -912,7 +912,7 @@
       {
         "tournamentName": "BRITISH",
         "tournamentType": 3,
-        "tournamentScore": 0.0
+        "tournamentScore": 423.50
       }
     ]
   },
@@ -1174,7 +1174,7 @@
       {
         "tournamentName": "BRITISH",
         "tournamentType": 3,
-        "tournamentScore": 0.0
+        "tournamentScore": 286.50
       }
     ]
   },
@@ -1305,7 +1305,7 @@
       {
         "tournamentName": "BRITISH",
         "tournamentType": 3,
-        "tournamentScore": 0.0
+        "tournamentScore": 213.00
       }
     ]
   },
@@ -1436,7 +1436,7 @@
       {
         "tournamentName": "BRITISH",
         "tournamentType": 3,
-        "tournamentScore": 0.0
+        "tournamentScore": 307.0
       }
     ]
   },
@@ -1567,7 +1567,7 @@
       {
         "tournamentName": "BRITISH",
         "tournamentType": 3,
-        "tournamentScore": 0.0
+        "tournamentScore": 279.00
       }
     ]
   },
@@ -1698,7 +1698,7 @@
       {
         "tournamentName": "BRITISH",
         "tournamentType": 3,
-        "tournamentScore": 0.0
+        "tournamentScore": 286.50
       }
     ]
   },
@@ -1829,7 +1829,7 @@
       {
         "tournamentName": "BRITISH",
         "tournamentType": 3,
-        "tournamentScore": 0.0
+        "tournamentScore": 343.0
       }
     ]
   },
@@ -1960,7 +1960,7 @@
       {
         "tournamentName": "BRITISH",
         "tournamentType": 3,
-        "tournamentScore": 0.0
+        "tournamentScore": 336.50
       }
     ]
   },
@@ -1970,7 +1970,7 @@
     "tournamentPlaces": {
       "firstPlace": "0",
       "secondPlace": "2",
-      "thirdPlace": "1"
+      "thirdPlace": "2"
     },
     "tournaments": [
       {
@@ -2091,7 +2091,7 @@
       {
         "tournamentName": "BRITISH",
         "tournamentType": 3,
-        "tournamentScore": 0.0
+        "tournamentScore": 377.50
       }
     ]
   },
@@ -2100,7 +2100,7 @@
     "icon": "",
     "tournamentPlaces": {
       "firstPlace": "3",
-      "secondPlace": "0",
+      "secondPlace": "1",
       "thirdPlace": "2"
     },
     "tournaments": [
@@ -2222,7 +2222,7 @@
       {
         "tournamentName": "BRITISH",
         "tournamentType": 3,
-        "tournamentScore": 0.0
+        "tournamentScore": 402.00
       }
     ]
   }
