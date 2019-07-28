@@ -127,6 +127,11 @@
         "tournamentName": "BRITISH",
         "tournamentType": 3,
         "tournamentScore": 313.0
+      },
+      {
+        "tournamentName": "WGCMEMPHIS",
+        "tournamentType": 2,
+        "tournamentScore": 361.00
       }
     ]
   },
@@ -258,6 +263,11 @@
         "tournamentName": "BRITISH",
         "tournamentType": 3,
         "tournamentScore": 291.50
+      },
+      {
+        "tournamentName": "WGCMEMPHIS",
+        "tournamentType": 2,
+        "tournamentScore": 433.50
       }
     ]
   },
@@ -266,7 +276,7 @@
     "icon": "",
     "tournamentPlaces": {
       "firstPlace": "0",
-      "secondPlace": "2",
+      "secondPlace": "3",
       "thirdPlace": "2"
     },
     "tournaments": [
@@ -389,6 +399,11 @@
         "tournamentName": "BRITISH",
         "tournamentType": 3,
         "tournamentScore": 282.00
+      },
+      {
+        "tournamentName": "WGCMEMPHIS",
+        "tournamentType": 2,
+        "tournamentScore": 477.50
       }
     ]
   },
@@ -396,7 +411,7 @@
     "user": "chrisp101010",
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/chris.jpg",
     "tournamentPlaces": {
-      "firstPlace": "2",
+      "firstPlace": "3",
       "secondPlace": "1",
       "thirdPlace": "1"
     },
@@ -520,6 +535,11 @@
         "tournamentName": "BRITISH",
         "tournamentType": 3,
         "tournamentScore": 374.50
+      },
+      {
+        "tournamentName": "WGCMEMPHIS",
+        "tournamentType": 2,
+        "tournamentScore": 529.50
       }
     ]
   },
@@ -782,6 +802,11 @@
         "tournamentName": "BRITISH",
         "tournamentType": 3,
         "tournamentScore": 252.0
+      },
+      {
+        "tournamentName": "WGCMEMPHIS",
+        "tournamentType": 2,
+        "tournamentScore": 374.00
       }
     ]
   },
@@ -1044,6 +1069,11 @@
         "tournamentName": "BRITISH",
         "tournamentType": 3,
         "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "WGCMEMPHIS",
+        "tournamentType": 2,
+        "tournamentScore": 397.00
       }
     ]
   },
@@ -1175,6 +1205,11 @@
         "tournamentName": "BRITISH",
         "tournamentType": 3,
         "tournamentScore": 286.50
+      },
+      {
+        "tournamentName": "WGCMEMPHIS",
+        "tournamentType": 2,
+        "tournamentScore": 444.50
       }
     ]
   },
@@ -1437,6 +1472,11 @@
         "tournamentName": "BRITISH",
         "tournamentType": 3,
         "tournamentScore": 307.0
+      },
+      {
+        "tournamentName": "WGCMEMPHIS",
+        "tournamentType": 2,
+        "tournamentScore": 403.50
       }
     ]
   },
@@ -1446,7 +1486,7 @@
     "tournamentPlaces": {
       "firstPlace": "1",
       "secondPlace": "4",
-      "thirdPlace": "2"
+      "thirdPlace": "3"
     },
     "tournaments": [
       {
@@ -1568,6 +1608,11 @@
         "tournamentName": "BRITISH",
         "tournamentType": 3,
         "tournamentScore": 279.00
+      },
+      {
+        "tournamentName": "WGCMEMPHIS",
+        "tournamentType": 2,
+        "tournamentScore": 469.00
       }
     ]
   },
@@ -1699,6 +1744,11 @@
         "tournamentName": "BRITISH",
         "tournamentType": 3,
         "tournamentScore": 286.50
+      },
+      {
+        "tournamentName": "WGCMEMPHIS",
+        "tournamentType": 2,
+        "tournamentScore": 429.00
       }
     ]
   },
@@ -1830,6 +1880,11 @@
         "tournamentName": "BRITISH",
         "tournamentType": 3,
         "tournamentScore": 343.0
+      },
+      {
+        "tournamentName": "WGCMEMPHIS",
+        "tournamentType": 2,
+        "tournamentScore": 385.50
       }
     ]
   },
@@ -1961,6 +2016,11 @@
         "tournamentName": "BRITISH",
         "tournamentType": 3,
         "tournamentScore": 336.50
+      },
+      {
+        "tournamentName": "WGCMEMPHIS",
+        "tournamentType": 2,
+        "tournamentScore": 415.00
       }
     ]
   },
@@ -2092,6 +2152,11 @@
         "tournamentName": "BRITISH",
         "tournamentType": 3,
         "tournamentScore": 377.50
+      },
+      {
+        "tournamentName": "WGCMEMPHIS",
+        "tournamentType": 2,
+        "tournamentScore": 401.00
       }
     ]
   },
@@ -2223,6 +2288,11 @@
         "tournamentName": "BRITISH",
         "tournamentType": 3,
         "tournamentScore": 402.00
+      },
+      {
+        "tournamentName": "WGCMEMPHIS",
+        "tournamentType": 2,
+        "tournamentScore": 464.50
       }
     ]
   }
