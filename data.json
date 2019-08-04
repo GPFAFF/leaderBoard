@@ -5,7 +5,7 @@
     "tournamentPlaces": {
       "firstPlace": "1",
       "secondPlace": "4",
-      "thirdPlace": "1"
+      "thirdPlace": "2"
     },
     "tournaments": [
       {
@@ -132,6 +132,11 @@
         "tournamentName": "WGCMEMPHIS",
         "tournamentType": 2,
         "tournamentScore": 361.00
+      },
+      {
+        "tournamentName": "WYNDHAM",
+        "tournamentType": 1,
+        "tournamentScore": 508.50
       }
     ]
   },
@@ -268,6 +273,11 @@
         "tournamentName": "WGCMEMPHIS",
         "tournamentType": 2,
         "tournamentScore": 433.50
+      },
+      {
+        "tournamentName": "WYNDHAM",
+        "tournamentType": 1,
+        "tournamentScore": 483.50
       }
     ]
   },
@@ -404,6 +414,11 @@
         "tournamentName": "WGCMEMPHIS",
         "tournamentType": 2,
         "tournamentScore": 477.50
+      },
+      {
+        "tournamentName": "WYNDHAM",
+        "tournamentType": 1,
+        "tournamentScore": 438.0
       }
     ]
   },
@@ -412,7 +427,7 @@
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/chris.jpg",
     "tournamentPlaces": {
       "firstPlace": "3",
-      "secondPlace": "1",
+      "secondPlace": "2",
       "thirdPlace": "1"
     },
     "tournaments": [
@@ -540,6 +555,11 @@
         "tournamentName": "WGCMEMPHIS",
         "tournamentType": 2,
         "tournamentScore": 529.50
+      },
+      {
+        "tournamentName": "WYNDHAM",
+        "tournamentType": 1,
+        "tournamentScore": 530.0
       }
     ]
   },
@@ -678,7 +698,7 @@
     "user": "It'sAllAboutTheMoney",
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/money.jpg",
     "tournamentPlaces": {
-      "firstPlace": "2",
+      "firstPlace": "3",
       "secondPlace": "1",
       "thirdPlace": "2"
     },
@@ -807,6 +827,11 @@
         "tournamentName": "WGCMEMPHIS",
         "tournamentType": 2,
         "tournamentScore": 374.00
+      },
+      {
+        "tournamentName": "WYNDHAM",
+        "tournamentType": 1,
+        "tournamentScore": 548.00
       }
     ]
   },
@@ -1074,6 +1099,11 @@
         "tournamentName": "WGCMEMPHIS",
         "tournamentType": 2,
         "tournamentScore": 397.00
+      },
+      {
+        "tournamentName": "WYNDHAM",
+        "tournamentType": 1,
+        "tournamentScore": 483.50
       }
     ]
   },
@@ -1210,6 +1240,11 @@
         "tournamentName": "WGCMEMPHIS",
         "tournamentType": 2,
         "tournamentScore": 444.50
+      },
+      {
+        "tournamentName": "WYNDHAM",
+        "tournamentType": 1,
+        "tournamentScore": 456.0
       }
     ]
   },
@@ -1477,6 +1512,11 @@
         "tournamentName": "WGCMEMPHIS",
         "tournamentType": 2,
         "tournamentScore": 403.50
+      },
+      {
+        "tournamentName": "WYNDHAM",
+        "tournamentType": 1,
+        "tournamentScore": 464.0
       }
     ]
   },
@@ -1613,6 +1653,11 @@
         "tournamentName": "WGCMEMPHIS",
         "tournamentType": 2,
         "tournamentScore": 469.00
+      },
+      {
+        "tournamentName": "WYNDHAM",
+        "tournamentType": 1,
+        "tournamentScore": 488.0
       }
     ]
   },
@@ -1749,6 +1794,11 @@
         "tournamentName": "WGCMEMPHIS",
         "tournamentType": 2,
         "tournamentScore": 429.00
+      },
+      {
+        "tournamentName": "WYNDHAM",
+        "tournamentType": 1,
+        "tournamentScore": 422.50
       }
     ]
   },
@@ -1885,6 +1935,11 @@
         "tournamentName": "WGCMEMPHIS",
         "tournamentType": 2,
         "tournamentScore": 385.50
+      },
+      {
+        "tournamentName": "WYNDHAM",
+        "tournamentType": 1,
+        "tournamentScore": 495.0
       }
     ]
   },
@@ -2021,6 +2076,11 @@
         "tournamentName": "WGCMEMPHIS",
         "tournamentType": 2,
         "tournamentScore": 415.00
+      },
+      {
+        "tournamentName": "WYNDHAM",
+        "tournamentType": 1,
+        "tournamentScore": 417.0
       }
     ]
   },
@@ -2157,6 +2217,11 @@
         "tournamentName": "WGCMEMPHIS",
         "tournamentType": 2,
         "tournamentScore": 401.00
+      },
+      {
+        "tournamentName": "WYNDHAM",
+        "tournamentType": 1,
+        "tournamentScore": 469.50
       }
     ]
   },
@@ -2293,6 +2358,11 @@
         "tournamentName": "WGCMEMPHIS",
         "tournamentType": 2,
         "tournamentScore": 464.50
+      },
+      {
+        "tournamentName": "WYNDHAM",
+        "tournamentType": 1,
+        "tournamentScore": 445.50
       }
     ]
   }
