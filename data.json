@@ -11,7 +11,132 @@
       {
         "tournamentName": "WMO",
         "tournamentType": 1,
-        "tournamnetScore": 375.0
+        "tournamentScore": 375.0
+      },
+      {
+        "tournamentName": "ATT",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "RIV",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "WGCMX",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "HON",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "API",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "SAW",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "INNIS",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "DELL",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "VALERO",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "MASTERS",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "RBC",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "WELLS",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "BYRON",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "PGACHAMP",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "COL",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "MEM",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "RBCCAN",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "USOPEN",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "TPCRIVER",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "ROCKET",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "3M",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "JOHNDEERE",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "BRITISH",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "WGCMEMPHIS",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "WYNDHAM",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
       }
     ]
   },
@@ -27,7 +152,132 @@
       {
         "tournamentName": "WMO",
         "tournamentType": 1,
-        "tournamnetScore": 462.5
+        "tournamentScore": 462.50
+      },
+      {
+        "tournamentName": "ATT",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "RIV",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "WGCMX",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "HON",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "API",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "SAW",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "INNIS",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "DELL",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "VALERO",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "MASTERS",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "RBC",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "WELLS",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "BYRON",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "PGACHAMP",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "COL",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "MEM",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "RBCCAN",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "USOPEN",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "TPCRIVER",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "ROCKET",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "3M",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "JOHNDEERE",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "BRITISH",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "WGCMEMPHIS",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "WYNDHAM",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
       }
     ]
   },
@@ -43,7 +293,132 @@
       {
         "tournamentName": "WMO",
         "tournamentType": 1,
-        "tournamnetScore": 338.5
+        "tournamentScore": 338.50
+      },
+      {
+        "tournamentName": "ATT",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "RIV",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "WGCMX",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "HON",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "API",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "SAW",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "INNIS",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "DELL",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "VALERO",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "MASTERS",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "RBC",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "WELLS",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "BYRON",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "PGACHAMP",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "COL",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "MEM",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "RBCCAN",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "USOPEN",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "TPCRIVER",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "ROCKET",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "3M",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "JOHNDEERE",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "BRITISH",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "WGCMEMPHIS",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "WYNDHAM",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
       }
     ]
   },
@@ -59,7 +434,132 @@
       {
         "tournamentName": "WMO",
         "tournamentType": 1,
-        "tournamnetScore": 376.0
+        "tournamentScore": 376.0
+      },
+      {
+        "tournamentName": "ATT",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "RIV",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "WGCMX",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "HON",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "API",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "SAW",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "INNIS",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "DELL",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "VALERO",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "MASTERS",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "RBC",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "WELLS",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "BYRON",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "PGACHAMP",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "COL",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "MEM",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "RBCCAN",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "USOPEN",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "TPCRIVER",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "ROCKET",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "3M",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "JOHNDEERE",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "BRITISH",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "WGCMEMPHIS",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "WYNDHAM",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
       }
     ]
   },
@@ -75,7 +575,122 @@
       {
         "tournamentName": "WMO",
         "tournamentType": 1,
-        "tournamnetScore": 400.0
+        "tournamentScore": 400.0
+      },
+      {
+        "tournamentName": "ATT",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "RIV",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "WGCMX",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "HON",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "API",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "SAW",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "INNIS",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "DELL",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "VALERO",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "MASTERS",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "RBC",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "WELLS",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "BYRON",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "PGACHAMP",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "COL",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "MEM",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "RBCCAN",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "USOPEN",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "TPCRIVER",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "ROCKET",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "3M",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "JOHNDEERE",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "BRITISH",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
       }
     ]
   },
@@ -91,13 +706,138 @@
       {
         "tournamentName": "WMO",
         "tournamentType": 1,
-        "tournamnetScore": 355.0
+        "tournamentScore": 355.0
+      },
+      {
+        "tournamentName": "ATT",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "RIV",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "WGCMX",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "HON",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "API",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "SAW",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "INNIS",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "DELL",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "VALERO",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "MASTERS",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "RBC",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "WELLS",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "BYRON",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "PGACHAMP",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "COL",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "MEM",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "RBCCAN",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "USOPEN",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "TPCRIVER",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "ROCKET",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "3M",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "JOHNDEERE",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "BRITISH",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "WGCMEMPHIS",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "WYNDHAM",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
       }
     ]
   },
   {
     "user": "BlindBetJack",
-    "icon": "",
+    "icon": "#",
     "tournamentPlaces": {
       "firstPlace": "0",
       "secondPlace": "0",
@@ -107,7 +847,122 @@
       {
         "tournamentName": "WMO",
         "tournamentType": 1,
-        "tournamnetScore": 349.0
+        "tournamentScore": 349.0
+      },
+      {
+        "tournamentName": "ATT",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "RIV",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "WGCMX",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "HON",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "API",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "SAW",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "INNIS",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "DELL",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "VALERO",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "MASTERS",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "RBC",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "WELLS",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "BYRON",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "PGACHAMP",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "COL",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "MEM",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "RBCCAN",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "USOPEN",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "TPCRIVER",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "ROCKET",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "3M",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "JOHNDEERE",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "BRITISH",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
       }
     ]
   },
@@ -123,7 +978,132 @@
       {
         "tournamentName": "WMO",
         "tournamentType": 1,
-        "tournamnetScore": 210.0
+        "tournamentScore": 210.0
+      },
+      {
+        "tournamentName": "ATT",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "RIV",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "WGCMX",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "HON",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "API",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "SAW",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "INNIS",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "DELL",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "VALERO",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "MASTERS",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "RBC",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "WELLS",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "BYRON",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "PGACHAMP",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "COL",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "MEM",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "RBCCAN",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "USOPEN",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "TPCRIVER",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "ROCKET",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "3M",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "JOHNDEERE",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "BRITISH",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "WGCMEMPHIS",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "WYNDHAM",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
       }
     ]
   },
@@ -139,7 +1119,132 @@
       {
         "tournamentName": "WMO",
         "tournamentType": 1,
-        "tournamnetScore": 350.5
+        "tournamentScore": 350.50
+      },
+      {
+        "tournamentName": "ATT",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "RIV",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "WGCMX",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "HON",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "API",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "SAW",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "INNIS",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "DELL",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "VALERO",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "MASTERS",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "RBC",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "WELLS",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "BYRON",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "PGACHAMP",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "COL",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "MEM",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "RBCCAN",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "USOPEN",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "TPCRIVER",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "ROCKET",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "3M",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "JOHNDEERE",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "BRITISH",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "WGCMEMPHIS",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "WYNDHAM",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
       }
     ]
   },
@@ -155,7 +1260,122 @@
       {
         "tournamentName": "WMO",
         "tournamentType": 1,
-        "tournamnetScore": 445.0
+        "tournamentScore": 445.0
+      },
+      {
+        "tournamentName": "ATT",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "RIV",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "WGCMX",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "HON",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "API",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "SAW",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "INNIS",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "DELL",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "VALERO",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "MASTERS",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "RBC",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "WELLS",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "BYRON",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "PGACHAMP",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "COL",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "MEM",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "RBCCAN",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "USOPEN",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "TPCRIVER",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "ROCKET",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "3M",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "JOHNDEERE",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "BRITISH",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
       }
     ]
   },
@@ -171,7 +1391,132 @@
       {
         "tournamentName": "WMO",
         "tournamentType": 1,
-        "tournamnetScore": 490.0
+        "tournamentScore": 490.0
+      },
+      {
+        "tournamentName": "ATT",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "RIV",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "WGCMX",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "HON",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "API",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "SAW",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "INNIS",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "DELL",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "VALERO",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "MASTERS",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "RBC",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "WELLS",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "BYRON",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "PGACHAMP",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "COL",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "MEM",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "RBCCAN",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "USOPEN",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "TPCRIVER",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "ROCKET",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "3M",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "JOHNDEERE",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "BRITISH",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "WGCMEMPHIS",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "WYNDHAM",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
       }
     ]
   },
@@ -187,7 +1532,132 @@
       {
         "tournamentName": "WMO",
         "tournamentType": 1,
-        "tournamnetScore": 363.5
+        "tournamentScore": 363.50
+      },
+      {
+        "tournamentName": "ATT",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "RIV",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "WGCMX",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "HON",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "API",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "SAW",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "INNIS",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "DELL",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "VALERO",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "MASTERS",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "RBC",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "WELLS",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "BYRON",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "PGACHAMP",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "COL",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "MEM",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "RBCCAN",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "USOPEN",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "TPCRIVER",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "ROCKET",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "3M",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "JOHNDEERE",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "BRITISH",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "WGCMEMPHIS",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "WYNDHAM",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
       }
     ]
   },
@@ -203,7 +1673,132 @@
       {
         "tournamentName": "WMO",
         "tournamentType": 1,
-        "tournamnetScore": 374.5
+        "tournamentScore": 374.50
+      },
+      {
+        "tournamentName": "ATT",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "RIV",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "WGCMX",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "HON",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "API",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "SAW",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "INNIS",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "DELL",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "VALERO",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "MASTERS",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "RBC",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "WELLS",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "BYRON",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "PGACHAMP",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "COL",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "MEM",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "RBCCAN",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "USOPEN",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "TPCRIVER",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "ROCKET",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "3M",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "JOHNDEERE",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "BRITISH",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "WGCMEMPHIS",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "WYNDHAM",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
       }
     ]
   },
@@ -219,13 +1814,138 @@
       {
         "tournamentName": "WMO",
         "tournamentType": 1,
-        "tournamnetScore": 413.0
+        "tournamentScore": 413.0
+      },
+      {
+        "tournamentName": "ATT",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "RIV",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "WGCMX",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "HON",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "API",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "SAW",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "INNIS",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "DELL",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "VALERO",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "MASTERS",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "RBC",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "WELLS",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "BYRON",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "PGACHAMP",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "COL",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "MEM",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "RBCCAN",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "USOPEN",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "TPCRIVER",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "ROCKET",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "3M",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "JOHNDEERE",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "BRITISH",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "WGCMEMPHIS",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "WYNDHAM",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
       }
     ]
   },
   {
     "user": "rtprice33",
-    "icon": "",
+    "icon": "#",
     "tournamentPlaces": {
       "firstPlace": "0",
       "secondPlace": "0",
@@ -235,7 +1955,132 @@
       {
         "tournamentName": "WMO",
         "tournamentType": 1,
-        "tournamnetScore": 488.0
+        "tournamentScore": 488.0
+      },
+      {
+        "tournamentName": "ATT",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "RIV",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "WGCMX",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "HON",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "API",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "SAW",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "INNIS",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "DELL",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "VALERO",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "MASTERS",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "RBC",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "WELLS",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "BYRON",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "PGACHAMP",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "COL",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "MEM",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "RBCCAN",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "USOPEN",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "TPCRIVER",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "ROCKET",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "3M",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "JOHNDEERE",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "BRITISH",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "WGCMEMPHIS",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "WYNDHAM",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
       }
     ]
   },
@@ -251,7 +2096,132 @@
       {
         "tournamentName": "WMO",
         "tournamentType": 1,
-        "tournamnetScore": 392.0
+        "tournamentScore": 392.0
+      },
+      {
+        "tournamentName": "ATT",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "RIV",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "WGCMX",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "HON",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "API",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "SAW",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "INNIS",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "DELL",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "VALERO",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "MASTERS",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "RBC",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "WELLS",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "BYRON",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "PGACHAMP",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "COL",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "MEM",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "RBCCAN",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "USOPEN",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "TPCRIVER",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "ROCKET",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "3M",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "JOHNDEERE",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "BRITISH",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "WGCMEMPHIS",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "WYNDHAM",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
       }
     ]
   },
@@ -267,7 +2237,132 @@
       {
         "tournamentName": "WMO",
         "tournamentType": 1,
-        "tournamnetScore": 496.50
+        "tournamentScore": 496.50
+      },
+      {
+        "tournamentName": "ATT",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "RIV",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "WGCMX",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "HON",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "API",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "SAW",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "INNIS",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "DELL",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "VALERO",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "MASTERS",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "RBC",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "WELLS",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "BYRON",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "PGACHAMP",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "COL",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "MEM",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "RBCCAN",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "USOPEN",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "TPCRIVER",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "ROCKET",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "3M",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "JOHNDEERE",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "BRITISH",
+        "tournamentType": 3,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "WGCMEMPHIS",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "WYNDHAM",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
       }
     ]
   }
