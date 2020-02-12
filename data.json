@@ -16,7 +16,7 @@
       {
         "tournamentName": "ATT",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 323.0
       },
       {
         "tournamentName": "RIV",
@@ -145,7 +145,7 @@
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/kyle.jpg",
     "tournamentPlaces": {
       "firstPlace": "0",
-      "secondPlace": "0",
+      "secondPlace": "1",
       "thirdPlace": "0"
     },
     "tournaments": [
@@ -157,7 +157,7 @@
       {
         "tournamentName": "ATT",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 456.0
       },
       {
         "tournamentName": "RIV",
@@ -298,7 +298,7 @@
       {
         "tournamentName": "ATT",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 364.0
       },
       {
         "tournamentName": "RIV",
@@ -439,7 +439,7 @@
       {
         "tournamentName": "ATT",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 397.0
       },
       {
         "tournamentName": "RIV",
@@ -580,7 +580,7 @@
       {
         "tournamentName": "ATT",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 424.50
       },
       {
         "tournamentName": "RIV",
@@ -711,7 +711,7 @@
       {
         "tournamentName": "ATT",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 419.50
       },
       {
         "tournamentName": "RIV",
@@ -852,7 +852,7 @@
       {
         "tournamentName": "ATT",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 454.0
       },
       {
         "tournamentName": "RIV",
@@ -983,7 +983,7 @@
       {
         "tournamentName": "ATT",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 359.0
       },
       {
         "tournamentName": "RIV",
@@ -1113,7 +1113,7 @@
     "tournamentPlaces": {
       "firstPlace": "0",
       "secondPlace": "0",
-      "thirdPlace": "0"
+      "thirdPlace": "1"
     },
     "tournaments": [
       {
@@ -1124,7 +1124,7 @@
       {
         "tournamentName": "ATT",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 455.50
       },
       {
         "tournamentName": "RIV",
@@ -1265,7 +1265,7 @@
       {
         "tournamentName": "ATT",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 378.0
       },
       {
         "tournamentName": "RIV",
@@ -1383,7 +1383,7 @@
     "user": "concord",
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/concord.jpg",
     "tournamentPlaces": {
-      "firstPlace": "0",
+      "firstPlace": "1",
       "secondPlace": "1",
       "thirdPlace": "0"
     },
@@ -1396,7 +1396,7 @@
       {
         "tournamentName": "ATT",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 469.50
       },
       {
         "tournamentName": "RIV",
@@ -1537,7 +1537,7 @@
       {
         "tournamentName": "ATT",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 356.50
       },
       {
         "tournamentName": "RIV",
@@ -1678,7 +1678,7 @@
       {
         "tournamentName": "ATT",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 349.0
       },
       {
         "tournamentName": "RIV",
@@ -1819,7 +1819,7 @@
       {
         "tournamentName": "ATT",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 354.0
       },
       {
         "tournamentName": "RIV",
@@ -1960,7 +1960,7 @@
       {
         "tournamentName": "ATT",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 401.0
       },
       {
         "tournamentName": "RIV",
@@ -2101,7 +2101,7 @@
       {
         "tournamentName": "ATT",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 349.0
       },
       {
         "tournamentName": "RIV",
@@ -2242,7 +2242,7 @@
       {
         "tournamentName": "ATT",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 414.0
       },
       {
         "tournamentName": "RIV",
