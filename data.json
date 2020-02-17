@@ -21,7 +21,7 @@
       {
         "tournamentName": "RIV",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 242.0
       },
       {
         "tournamentName": "WGCMX",
@@ -162,7 +162,7 @@
       {
         "tournamentName": "RIV",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 340.0
       },
       {
         "tournamentName": "WGCMX",
@@ -303,7 +303,7 @@
       {
         "tournamentName": "RIV",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 346.50
       },
       {
         "tournamentName": "WGCMX",
@@ -444,7 +444,7 @@
       {
         "tournamentName": "RIV",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 231.0
       },
       {
         "tournamentName": "WGCMX",
@@ -585,7 +585,7 @@
       {
         "tournamentName": "RIV",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 381.0
       },
       {
         "tournamentName": "WGCMX",
@@ -716,7 +716,7 @@
       {
         "tournamentName": "RIV",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 341.50
       },
       {
         "tournamentName": "WGCMX",
@@ -857,7 +857,7 @@
       {
         "tournamentName": "RIV",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 342.0
       },
       {
         "tournamentName": "WGCMX",
@@ -988,7 +988,7 @@
       {
         "tournamentName": "RIV",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 338.0
       },
       {
         "tournamentName": "WGCMX",
@@ -1129,7 +1129,7 @@
       {
         "tournamentName": "RIV",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 361.50
       },
       {
         "tournamentName": "WGCMX",
@@ -1254,7 +1254,7 @@
     "tournamentPlaces": {
       "firstPlace": "0",
       "secondPlace": "0",
-      "thirdPlace": "0"
+      "thirdPlace": "1"
     },
     "tournaments": [
       {
@@ -1270,7 +1270,7 @@
       {
         "tournamentName": "RIV",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 421.0
       },
       {
         "tournamentName": "WGCMX",
@@ -1384,7 +1384,7 @@
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/concord.jpg",
     "tournamentPlaces": {
       "firstPlace": "1",
-      "secondPlace": "1",
+      "secondPlace": "2",
       "thirdPlace": "0"
     },
     "tournaments": [
@@ -1401,7 +1401,7 @@
       {
         "tournamentName": "RIV",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 426.50
       },
       {
         "tournamentName": "WGCMX",
@@ -1542,7 +1542,7 @@
       {
         "tournamentName": "RIV",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 315.50
       },
       {
         "tournamentName": "WGCMX",
@@ -1683,7 +1683,7 @@
       {
         "tournamentName": "RIV",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 270.0
       },
       {
         "tournamentName": "WGCMX",
@@ -1824,7 +1824,7 @@
       {
         "tournamentName": "RIV",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 357.0
       },
       {
         "tournamentName": "WGCMX",
@@ -1965,7 +1965,7 @@
       {
         "tournamentName": "RIV",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 338.50
       },
       {
         "tournamentName": "WGCMX",
@@ -2106,7 +2106,7 @@
       {
         "tournamentName": "RIV",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 463.0
       },
       {
         "tournamentName": "WGCMX",
@@ -2247,7 +2247,7 @@
       {
         "tournamentName": "RIV",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 275.0
       },
       {
         "tournamentName": "WGCMX",
