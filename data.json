@@ -26,7 +26,7 @@
       {
         "tournamentName": "WGCMX",
         "tournamentType": 2,
-        "tournamentScore": 0.0
+        "tournamentScore": 486.5
       },
       {
         "tournamentName": "HON",
@@ -152,7 +152,7 @@
       {
         "tournamentName": "WMO",
         "tournamentType": 1,
-        "tournamentScore": 462.50
+        "tournamentScore": 462.5
       },
       {
         "tournamentName": "ATT",
@@ -167,7 +167,7 @@
       {
         "tournamentName": "WGCMX",
         "tournamentType": 2,
-        "tournamentScore": 0.0
+        "tournamentScore": 462.5
       },
       {
         "tournamentName": "HON",
@@ -293,7 +293,7 @@
       {
         "tournamentName": "WMO",
         "tournamentType": 1,
-        "tournamentScore": 338.50
+        "tournamentScore": 338.5
       },
       {
         "tournamentName": "ATT",
@@ -303,12 +303,12 @@
       {
         "tournamentName": "RIV",
         "tournamentType": 1,
-        "tournamentScore": 346.50
+        "tournamentScore": 346.5
       },
       {
         "tournamentName": "WGCMX",
         "tournamentType": 2,
-        "tournamentScore": 0.0
+        "tournamentScore": 485.5
       },
       {
         "tournamentName": "HON",
@@ -449,7 +449,7 @@
       {
         "tournamentName": "WGCMX",
         "tournamentType": 2,
-        "tournamentScore": 0.0
+        "tournamentScore": 431.0
       },
       {
         "tournamentName": "HON",
@@ -580,7 +580,7 @@
       {
         "tournamentName": "ATT",
         "tournamentType": 1,
-        "tournamentScore": 424.50
+        "tournamentScore": 424.5
       },
       {
         "tournamentName": "RIV",
@@ -590,7 +590,7 @@
       {
         "tournamentName": "WGCMX",
         "tournamentType": 2,
-        "tournamentScore": 0.0
+        "tournamentScore": 485.0
       },
       {
         "tournamentName": "HON",
@@ -711,17 +711,17 @@
       {
         "tournamentName": "ATT",
         "tournamentType": 1,
-        "tournamentScore": 419.50
+        "tournamentScore": 419.5
       },
       {
         "tournamentName": "RIV",
         "tournamentType": 1,
-        "tournamentScore": 341.50
+        "tournamentScore": 341.5
       },
       {
         "tournamentName": "WGCMX",
         "tournamentType": 2,
-        "tournamentScore": 0.0
+        "tournamentScore": 456.5
       },
       {
         "tournamentName": "HON",
@@ -862,7 +862,7 @@
       {
         "tournamentName": "WGCMX",
         "tournamentType": 2,
-        "tournamentScore": 0.0
+        "tournamentScore": 380.0
       },
       {
         "tournamentName": "HON",
@@ -993,7 +993,7 @@
       {
         "tournamentName": "WGCMX",
         "tournamentType": 2,
-        "tournamentScore": 0.0
+        "tournamentScore": 476.0
       },
       {
         "tournamentName": "HON",
@@ -1119,22 +1119,22 @@
       {
         "tournamentName": "WMO",
         "tournamentType": 1,
-        "tournamentScore": 350.50
+        "tournamentScore": 350.5
       },
       {
         "tournamentName": "ATT",
         "tournamentType": 1,
-        "tournamentScore": 455.50
+        "tournamentScore": 455.5
       },
       {
         "tournamentName": "RIV",
         "tournamentType": 1,
-        "tournamentScore": 361.50
+        "tournamentScore": 361.5
       },
       {
         "tournamentName": "WGCMX",
         "tournamentType": 2,
-        "tournamentScore": 0.0
+        "tournamentScore": 469.5
       },
       {
         "tournamentName": "HON",
@@ -1254,7 +1254,7 @@
     "tournamentPlaces": {
       "firstPlace": "0",
       "secondPlace": "0",
-      "thirdPlace": "1"
+      "thirdPlace": "2"
     },
     "tournaments": [
       {
@@ -1275,7 +1275,7 @@
       {
         "tournamentName": "WGCMX",
         "tournamentType": 2,
-        "tournamentScore": 0.0
+        "tournamentScore": 491.5
       },
       {
         "tournamentName": "HON",
@@ -1383,7 +1383,7 @@
     "user": "concord",
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/concord.jpg",
     "tournamentPlaces": {
-      "firstPlace": "1",
+      "firstPlace": "2",
       "secondPlace": "2",
       "thirdPlace": "0"
     },
@@ -1396,17 +1396,17 @@
       {
         "tournamentName": "ATT",
         "tournamentType": 1,
-        "tournamentScore": 469.50
+        "tournamentScore": 469.5
       },
       {
         "tournamentName": "RIV",
         "tournamentType": 1,
-        "tournamentScore": 426.50
+        "tournamentScore": 426.5
       },
       {
         "tournamentName": "WGCMX",
         "tournamentType": 2,
-        "tournamentScore": 0.0
+        "tournamentScore": 516.0
       },
       {
         "tournamentName": "HON",
@@ -1532,22 +1532,22 @@
       {
         "tournamentName": "WMO",
         "tournamentType": 1,
-        "tournamentScore": 363.50
+        "tournamentScore": 363.5
       },
       {
         "tournamentName": "ATT",
         "tournamentType": 1,
-        "tournamentScore": 356.50
+        "tournamentScore": 356.5
       },
       {
         "tournamentName": "RIV",
         "tournamentType": 1,
-        "tournamentScore": 315.50
+        "tournamentScore": 315.5
       },
       {
         "tournamentName": "WGCMX",
         "tournamentType": 2,
-        "tournamentScore": 0.0
+        "tournamentScore": 487.0
       },
       {
         "tournamentName": "HON",
@@ -1673,7 +1673,7 @@
       {
         "tournamentName": "WMO",
         "tournamentType": 1,
-        "tournamentScore": 374.50
+        "tournamentScore": 374.5
       },
       {
         "tournamentName": "ATT",
@@ -1688,7 +1688,7 @@
       {
         "tournamentName": "WGCMX",
         "tournamentType": 2,
-        "tournamentScore": 0.0
+        "tournamentScore": 465.0
       },
       {
         "tournamentName": "HON",
@@ -1807,7 +1807,7 @@
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/giesel.jpeg",
     "tournamentPlaces": {
       "firstPlace": "0",
-      "secondPlace": "0",
+      "secondPlace": "1",
       "thirdPlace": "0"
     },
     "tournaments": [
@@ -1829,7 +1829,7 @@
       {
         "tournamentName": "WGCMX",
         "tournamentType": 2,
-        "tournamentScore": 0.0
+        "tournamentScore": 495.0
       },
       {
         "tournamentName": "HON",
@@ -1965,12 +1965,12 @@
       {
         "tournamentName": "RIV",
         "tournamentType": 1,
-        "tournamentScore": 338.50
+        "tournamentScore": 338.5
       },
       {
         "tournamentName": "WGCMX",
         "tournamentType": 2,
-        "tournamentScore": 0.0
+        "tournamentScore": 422.5
       },
       {
         "tournamentName": "HON",
@@ -2088,7 +2088,7 @@
     "user": "jph315",
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/jph.jpg",
     "tournamentPlaces": {
-      "firstPlace": "0",
+      "firstPlace": "1",
       "secondPlace": "0",
       "thirdPlace": "0"
     },
@@ -2111,7 +2111,7 @@
       {
         "tournamentName": "WGCMX",
         "tournamentType": 2,
-        "tournamentScore": 0.0
+        "tournamentScore": 471.5
       },
       {
         "tournamentName": "HON",
@@ -2237,7 +2237,7 @@
       {
         "tournamentName": "WMO",
         "tournamentType": 1,
-        "tournamentScore": 496.50
+        "tournamentScore": 496.5
       },
       {
         "tournamentName": "ATT",
@@ -2252,7 +2252,7 @@
       {
         "tournamentName": "WGCMX",
         "tournamentType": 2,
-        "tournamentScore": 0.0
+        "tournamentScore": 437.5
       },
       {
         "tournamentName": "HON",
