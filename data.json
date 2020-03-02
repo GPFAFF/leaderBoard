@@ -31,7 +31,7 @@
       {
         "tournamentName": "HON",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 235.50
       },
       {
         "tournamentName": "API",
@@ -172,7 +172,7 @@
       {
         "tournamentName": "HON",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 264.50
       },
       {
         "tournamentName": "API",
@@ -313,7 +313,7 @@
       {
         "tournamentName": "HON",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 311.50
       },
       {
         "tournamentName": "API",
@@ -454,7 +454,7 @@
       {
         "tournamentName": "HON",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 209.50
       },
       {
         "tournamentName": "API",
@@ -595,7 +595,7 @@
       {
         "tournamentName": "HON",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 289.50
       },
       {
         "tournamentName": "API",
@@ -726,7 +726,7 @@
       {
         "tournamentName": "HON",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 387.0
       },
       {
         "tournamentName": "API",
@@ -867,7 +867,7 @@
       {
         "tournamentName": "HON",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 358.50
       },
       {
         "tournamentName": "API",
@@ -998,7 +998,7 @@
       {
         "tournamentName": "HON",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 305.50
       },
       {
         "tournamentName": "API",
@@ -1139,7 +1139,7 @@
       {
         "tournamentName": "HON",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 230.50
       },
       {
         "tournamentName": "API",
@@ -1280,7 +1280,7 @@
       {
         "tournamentName": "HON",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 236.0
       },
       {
         "tournamentName": "API",
@@ -1385,7 +1385,7 @@
     "tournamentPlaces": {
       "firstPlace": "2",
       "secondPlace": "2",
-      "thirdPlace": "0"
+      "thirdPlace": "1"
     },
     "tournaments": [
       {
@@ -1411,7 +1411,7 @@
       {
         "tournamentName": "HON",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 363.0
       },
       {
         "tournamentName": "API",
@@ -1525,7 +1525,7 @@
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/mike.jpg",
     "tournamentPlaces": {
       "firstPlace": "0",
-      "secondPlace": "0",
+      "secondPlace": "1",
       "thirdPlace": "0"
     },
     "tournaments": [
@@ -1552,7 +1552,7 @@
       {
         "tournamentName": "HON",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 375.50
       },
       {
         "tournamentName": "API",
@@ -1693,7 +1693,7 @@
       {
         "tournamentName": "HON",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 309.0
       },
       {
         "tournamentName": "API",
@@ -1834,7 +1834,7 @@
       {
         "tournamentName": "HON",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 269.0
       },
       {
         "tournamentName": "API",
@@ -1975,7 +1975,7 @@
       {
         "tournamentName": "HON",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 327.0
       },
       {
         "tournamentName": "API",
@@ -2116,7 +2116,7 @@
       {
         "tournamentName": "HON",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 306.00
       },
       {
         "tournamentName": "API",
@@ -2257,7 +2257,7 @@
       {
         "tournamentName": "HON",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 309.0
       },
       {
         "tournamentName": "API",
