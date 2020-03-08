@@ -4,7 +4,7 @@
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/greg.jpg",
     "tournamentPlaces": {
       "firstPlace": "0",
-      "secondPlace": "0",
+      "secondPlace": "1",
       "thirdPlace": "0"
     },
     "tournaments": [
@@ -36,7 +36,7 @@
       {
         "tournamentName": "API",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 349.50
       },
       {
         "tournamentName": "SAW",
@@ -177,7 +177,7 @@
       {
         "tournamentName": "API",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 326.50
       },
       {
         "tournamentName": "SAW",
@@ -318,7 +318,7 @@
       {
         "tournamentName": "API",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 275.50
       },
       {
         "tournamentName": "SAW",
@@ -459,7 +459,7 @@
       {
         "tournamentName": "API",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 237.50
       },
       {
         "tournamentName": "SAW",
@@ -600,7 +600,7 @@
       {
         "tournamentName": "API",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 289.50
       },
       {
         "tournamentName": "SAW",
@@ -731,7 +731,7 @@
       {
         "tournamentName": "API",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 250.50
       },
       {
         "tournamentName": "SAW",
@@ -872,7 +872,7 @@
       {
         "tournamentName": "API",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 237.0
       },
       {
         "tournamentName": "SAW",
@@ -1003,7 +1003,7 @@
       {
         "tournamentName": "API",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 227.50
       },
       {
         "tournamentName": "SAW",
@@ -1144,7 +1144,7 @@
       {
         "tournamentName": "API",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 224.0
       },
       {
         "tournamentName": "SAW",
@@ -1285,7 +1285,7 @@
       {
         "tournamentName": "API",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 249.50
       },
       {
         "tournamentName": "SAW",
@@ -1383,7 +1383,7 @@
     "user": "concord",
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/concord.jpg",
     "tournamentPlaces": {
-      "firstPlace": "2",
+      "firstPlace": "3",
       "secondPlace": "2",
       "thirdPlace": "1"
     },
@@ -1416,7 +1416,7 @@
       {
         "tournamentName": "API",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 355.50
       },
       {
         "tournamentName": "SAW",
@@ -1557,7 +1557,7 @@
       {
         "tournamentName": "API",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 258.50
       },
       {
         "tournamentName": "SAW",
@@ -1698,7 +1698,7 @@
       {
         "tournamentName": "API",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 241.50
       },
       {
         "tournamentName": "SAW",
@@ -1839,7 +1839,7 @@
       {
         "tournamentName": "API",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 331.0
       },
       {
         "tournamentName": "SAW",
@@ -1980,7 +1980,7 @@
       {
         "tournamentName": "API",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 309.50
       },
       {
         "tournamentName": "SAW",
@@ -2090,7 +2090,7 @@
     "tournamentPlaces": {
       "firstPlace": "1",
       "secondPlace": "0",
-      "thirdPlace": "0"
+      "thirdPlace": "1"
     },
     "tournaments": [
       {
@@ -2121,7 +2121,7 @@
       {
         "tournamentName": "API",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 338.50
       },
       {
         "tournamentName": "SAW",
@@ -2262,7 +2262,7 @@
       {
         "tournamentName": "API",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 191.0
       },
       {
         "tournamentName": "SAW",
