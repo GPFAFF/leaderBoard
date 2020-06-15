@@ -46,7 +46,7 @@
       {
         "tournamentName": "INNIS",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 281.50
       },
       {
         "tournamentName": "DELL",
@@ -187,7 +187,7 @@
       {
         "tournamentName": "INNIS",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 333.0
       },
       {
         "tournamentName": "DELL",
@@ -328,7 +328,7 @@
       {
         "tournamentName": "INNIS",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 331.50
       },
       {
         "tournamentName": "DELL",
@@ -469,7 +469,7 @@
       {
         "tournamentName": "INNIS",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 374.50
       },
       {
         "tournamentName": "DELL",
@@ -610,7 +610,7 @@
       {
         "tournamentName": "INNIS",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 447.0
       },
       {
         "tournamentName": "DELL",
@@ -699,7 +699,7 @@
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/money.jpg",
     "tournamentPlaces": {
       "firstPlace": "0",
-      "secondPlace": "0",
+      "secondPlace": "1",
       "thirdPlace": "0"
     },
     "tournaments": [
@@ -741,7 +741,7 @@
       {
         "tournamentName": "INNIS",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 519.0
       },
       {
         "tournamentName": "DELL",
@@ -882,7 +882,7 @@
       {
         "tournamentName": "INNIS",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 418.0
       },
       {
         "tournamentName": "DELL",
@@ -1013,7 +1013,7 @@
       {
         "tournamentName": "INNIS",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 308.50
       },
       {
         "tournamentName": "DELL",
@@ -1111,7 +1111,7 @@
     "user": "garciar15",
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/garcia.jpg",
     "tournamentPlaces": {
-      "firstPlace": "0",
+      "firstPlace": "1",
       "secondPlace": "0",
       "thirdPlace": "1"
     },
@@ -1154,7 +1154,7 @@
       {
         "tournamentName": "INNIS",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 524.0
       },
       {
         "tournamentName": "DELL",
@@ -1295,7 +1295,7 @@
       {
         "tournamentName": "INNIS",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 412.0
       },
       {
         "tournamentName": "DELL",
@@ -1426,7 +1426,7 @@
       {
         "tournamentName": "INNIS",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 249.0
       },
       {
         "tournamentName": "DELL",
@@ -1567,7 +1567,7 @@
       {
         "tournamentName": "INNIS",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 460.0
       },
       {
         "tournamentName": "DELL",
@@ -1708,7 +1708,7 @@
       {
         "tournamentName": "INNIS",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 424.0
       },
       {
         "tournamentName": "DELL",
@@ -1849,7 +1849,7 @@
       {
         "tournamentName": "INNIS",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 390.0
       },
       {
         "tournamentName": "DELL",
@@ -1990,7 +1990,7 @@
       {
         "tournamentName": "INNIS",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 391.0
       },
       {
         "tournamentName": "DELL",
@@ -2090,7 +2090,7 @@
     "tournamentPlaces": {
       "firstPlace": "1",
       "secondPlace": "0",
-      "thirdPlace": "1"
+      "thirdPlace": "2"
     },
     "tournaments": [
       {
@@ -2131,7 +2131,7 @@
       {
         "tournamentName": "INNIS",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 478.50
       },
       {
         "tournamentName": "DELL",
