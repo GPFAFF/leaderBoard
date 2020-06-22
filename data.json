@@ -66,7 +66,7 @@
       {
         "tournamentName": "RBC",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 498.50
       },
       {
         "tournamentName": "WELLS",
@@ -207,7 +207,7 @@
       {
         "tournamentName": "RBC",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 509.50
       },
       {
         "tournamentName": "WELLS",
@@ -285,7 +285,7 @@
     "user": "boyewsky",
     "icon": "",
     "tournamentPlaces": {
-      "firstPlace": "0",
+      "firstPlace": "1",
       "secondPlace": "0",
       "thirdPlace": "0"
     },
@@ -348,7 +348,7 @@
       {
         "tournamentName": "RBC",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 579.50
       },
       {
         "tournamentName": "WELLS",
@@ -489,7 +489,7 @@
       {
         "tournamentName": "RBC",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 439.0
       },
       {
         "tournamentName": "WELLS",
@@ -630,7 +630,7 @@
       {
         "tournamentName": "RBC",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 510.0
       },
       {
         "tournamentName": "WELLS",
@@ -761,7 +761,7 @@
       {
         "tournamentName": "RBC",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 435.50
       },
       {
         "tournamentName": "WELLS",
@@ -902,7 +902,7 @@
       {
         "tournamentName": "RBC",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 463.50
       },
       {
         "tournamentName": "WELLS",
@@ -1033,7 +1033,7 @@
       {
         "tournamentName": "RBC",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 569.0
       },
       {
         "tournamentName": "WELLS",
@@ -1113,7 +1113,7 @@
     "tournamentPlaces": {
       "firstPlace": "1",
       "secondPlace": "0",
-      "thirdPlace": "1"
+      "thirdPlace": "2"
     },
     "tournaments": [
       {
@@ -1174,7 +1174,7 @@
       {
         "tournamentName": "RBC",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 572.0
       },
       {
         "tournamentName": "WELLS",
@@ -1315,7 +1315,7 @@
       {
         "tournamentName": "RBC",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 456.50
       },
       {
         "tournamentName": "WELLS",
@@ -1446,7 +1446,7 @@
       {
         "tournamentName": "RBC",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 550.0
       },
       {
         "tournamentName": "WELLS",
@@ -1525,7 +1525,7 @@
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/mike.jpg",
     "tournamentPlaces": {
       "firstPlace": "0",
-      "secondPlace": "1",
+      "secondPlace": "2",
       "thirdPlace": "0"
     },
     "tournaments": [
@@ -1587,7 +1587,7 @@
       {
         "tournamentName": "RBC",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 577.0
       },
       {
         "tournamentName": "WELLS",
@@ -1728,7 +1728,7 @@
       {
         "tournamentName": "RBC",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 480.50
       },
       {
         "tournamentName": "WELLS",
@@ -1869,7 +1869,7 @@
       {
         "tournamentName": "RBC",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 477.0
       },
       {
         "tournamentName": "WELLS",
@@ -2010,7 +2010,7 @@
       {
         "tournamentName": "RBC",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 461.50
       },
       {
         "tournamentName": "WELLS",
@@ -2151,7 +2151,7 @@
       {
         "tournamentName": "RBC",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 386.0
       },
       {
         "tournamentName": "WELLS",
@@ -2292,7 +2292,7 @@
       {
         "tournamentName": "RBC",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 482.50
       },
       {
         "tournamentName": "WELLS",
