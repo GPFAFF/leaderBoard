@@ -4,7 +4,7 @@
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/greg.jpg",
     "tournamentPlaces": {
       "firstPlace": "0",
-      "secondPlace": "1",
+      "secondPlace": "2",
       "thirdPlace": "0"
     },
     "tournaments": [
@@ -109,9 +109,14 @@
         "tournamentScore": 0.0
       },
       {
+        "tournamentName": "TRAVELERS",
+        "tournamentType": 1,
+        "tournamentScore": 284.50
+      },
+      {
         "tournamentName": "ROCKET",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 519.50
       },
       {
         "tournamentName": "3M",
@@ -250,9 +255,14 @@
         "tournamentScore": 0.0
       },
       {
+        "tournamentName": "TRAVELERS",
+        "tournamentType": 1,
+        "tournamentScore": 282.50
+      },
+      {
         "tournamentName": "ROCKET",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 385.50
       },
       {
         "tournamentName": "3M",
@@ -393,7 +403,12 @@
       {
         "tournamentName": "ROCKET",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 476.5
+      },
+      {
+        "tournamentName": "TRAVELERS",
+        "tournamentType": 1,
+        "tournamentScore": 271.50
       },
       {
         "tournamentName": "3M",
@@ -426,7 +441,7 @@
     "user": "chrisp101010",
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/chris.jpg",
     "tournamentPlaces": {
-      "firstPlace": "0",
+      "firstPlace": "1",
       "secondPlace": "0",
       "thirdPlace": "0"
     },
@@ -532,9 +547,14 @@
         "tournamentScore": 0.0
       },
       {
+        "tournamentName": "TRAVELERS",
+        "tournamentType": 1,
+        "tournamentScore": 498.0
+      },
+      {
         "tournamentName": "ROCKET",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 387.0
       },
       {
         "tournamentName": "3M",
@@ -673,9 +693,14 @@
         "tournamentScore": 0.0
       },
       {
+        "tournamentName": "TRAVELERS",
+        "tournamentType": 1,
+        "tournamentScore": 432.50
+      },
+      {
         "tournamentName": "ROCKET",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 339.0
       },
       {
         "tournamentName": "3M",
@@ -804,9 +829,14 @@
         "tournamentScore": 0.0
       },
       {
+        "tournamentName": "TRAVELERS",
+        "tournamentType": 1,
+        "tournamentScore": 290.0
+      },
+      {
         "tournamentName": "ROCKET",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 362.5
       },
       {
         "tournamentName": "3M",
@@ -905,6 +935,11 @@
         "tournamentScore": 463.50
       },
       {
+        "tournamentName": "TRAVELERS",
+        "tournamentType": 1,
+        "tournamentScore": 248.0
+      },
+      {
         "tournamentName": "WELLS",
         "tournamentType": 1,
         "tournamentScore": 0.0
@@ -947,7 +982,7 @@
       {
         "tournamentName": "ROCKET",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 422.50
       },
       {
         "tournamentName": "3M",
@@ -1076,9 +1111,14 @@
         "tournamentScore": 0.0
       },
       {
+        "tournamentName": "TRAVELERS",
+        "tournamentType": 1,
+        "tournamentScore": 388.50
+      },
+      {
         "tournamentName": "ROCKET",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 350.0
       },
       {
         "tournamentName": "3M",
@@ -1111,7 +1151,7 @@
     "user": "garciar15",
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/garcia.jpg",
     "tournamentPlaces": {
-      "firstPlace": "1",
+      "firstPlace": "2",
       "secondPlace": "0",
       "thirdPlace": "2"
     },
@@ -1217,9 +1257,14 @@
         "tournamentScore": 0.0
       },
       {
+        "tournamentName": "TRAVELERS",
+        "tournamentType": 1,
+        "tournamentScore": 441.0
+      },
+      {
         "tournamentName": "ROCKET",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 562.0
       },
       {
         "tournamentName": "3M",
@@ -1358,9 +1403,14 @@
         "tournamentScore": 0.0
       },
       {
+        "tournamentName": "TRAVELERS",
+        "tournamentType": 1,
+        "tournamentScore": 378.0
+      },
+      {
         "tournamentName": "ROCKET",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 367.0
       },
       {
         "tournamentName": "3M",
@@ -1385,7 +1435,7 @@
     "tournamentPlaces": {
       "firstPlace": "3",
       "secondPlace": "2",
-      "thirdPlace": "1"
+      "thirdPlace": "2"
     },
     "tournaments": [
       {
@@ -1489,9 +1539,14 @@
         "tournamentScore": 0.0
       },
       {
+        "tournamentName": "TRAVELERS",
+        "tournamentType": 1,
+        "tournamentScore": 442.50
+      },
+      {
         "tournamentName": "ROCKET",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 407.5
       },
       {
         "tournamentName": "3M",
@@ -1526,7 +1581,7 @@
     "tournamentPlaces": {
       "firstPlace": "0",
       "secondPlace": "2",
-      "thirdPlace": "0"
+      "thirdPlace": "1"
     },
     "tournaments": [
       {
@@ -1630,9 +1685,14 @@
         "tournamentScore": 0.0
       },
       {
+        "tournamentName": "TRAVELERS",
+        "tournamentType": 1,
+        "tournamentScore": 322.0
+      },
+      {
         "tournamentName": "ROCKET",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 515.5
       },
       {
         "tournamentName": "3M",
@@ -1746,6 +1806,11 @@
         "tournamentScore": 0.0
       },
       {
+        "tournamentName": "TRAVELERS",
+        "tournamentType": 1,
+        "tournamentScore": 198.0
+      },
+      {
         "tournamentName": "COL",
         "tournamentType": 1,
         "tournamentScore": 0.0
@@ -1773,7 +1838,7 @@
       {
         "tournamentName": "ROCKET",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 410.5
       },
       {
         "tournamentName": "3M",
@@ -1912,9 +1977,14 @@
         "tournamentScore": 0.0
       },
       {
+        "tournamentName": "TRAVELERS",
+        "tournamentType": 1,
+        "tournamentScore": 414.50
+      },
+      {
         "tournamentName": "ROCKET",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 426.0
       },
       {
         "tournamentName": "3M",
@@ -1948,7 +2018,7 @@
     "icon": "",
     "tournamentPlaces": {
       "firstPlace": "0",
-      "secondPlace": "0",
+      "secondPlace": "1",
       "thirdPlace": "1"
     },
     "tournaments": [
@@ -2053,9 +2123,14 @@
         "tournamentScore": 0.0
       },
       {
+        "tournamentName": "TRAVELERS",
+        "tournamentType": 1,
+        "tournamentScore": 473.0
+      },
+      {
         "tournamentName": "ROCKET",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 484.5
       },
       {
         "tournamentName": "3M",
@@ -2194,9 +2269,14 @@
         "tournamentScore": 0.0
       },
       {
+        "tournamentName": "TRAVELERS",
+        "tournamentType": 1,
+        "tournamentScore": 377.0
+      },
+      {
         "tournamentName": "ROCKET",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 479.0
       },
       {
         "tournamentName": "3M",
@@ -2335,9 +2415,14 @@
         "tournamentScore": 0.0
       },
       {
+        "tournamentName": "TRAVELERS",
+        "tournamentType": 1,
+        "tournamentScore": 345.50
+      },
+      {
         "tournamentName": "ROCKET",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 422.0
       },
       {
         "tournamentName": "3M",
