@@ -90,8 +90,8 @@
       },
       {
         "tournamentName": "MEM",
-        "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentType": 2,
+        "tournamentScore": 284.0
       },
       {
         "tournamentName": "RBCCAN",
@@ -236,8 +236,8 @@
       },
       {
         "tournamentName": "MEM",
-        "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentType": 2,
+        "tournamentScore": 322.0
       },
       {
         "tournamentName": "RBCCAN",
@@ -382,8 +382,8 @@
       },
       {
         "tournamentName": "MEM",
-        "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentType": 2,
+        "tournamentScore": 260.50
       },
       {
         "tournamentName": "RBCCAN",
@@ -528,8 +528,8 @@
       },
       {
         "tournamentName": "MEM",
-        "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentType": 2,
+        "tournamentScore": 269.50
       },
       {
         "tournamentName": "RBCCAN",
@@ -674,8 +674,8 @@
       },
       {
         "tournamentName": "MEM",
-        "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentType": 2,
+        "tournamentScore": 293.50
       },
       {
         "tournamentName": "RBCCAN",
@@ -724,7 +724,7 @@
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/money.jpg",
     "tournamentPlaces": {
       "firstPlace": "0",
-      "secondPlace": "1",
+      "secondPlace": "2",
       "thirdPlace": "0"
     },
     "tournaments": [
@@ -810,8 +810,8 @@
       },
       {
         "tournamentName": "MEM",
-        "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentType": 2,
+        "tournamentScore": 384.50
       },
       {
         "tournamentName": "RBCCAN",
@@ -961,8 +961,8 @@
       },
       {
         "tournamentName": "MEM",
-        "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentType": 2,
+        "tournamentScore": 205.0
       },
       {
         "tournamentName": "RBCCAN",
@@ -1092,8 +1092,8 @@
       },
       {
         "tournamentName": "MEM",
-        "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentType": 2,
+        "tournamentScore": 289.50
       },
       {
         "tournamentName": "RBCCAN",
@@ -1151,7 +1151,7 @@
     "user": "garciar15",
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/garcia.jpg",
     "tournamentPlaces": {
-      "firstPlace": "2",
+      "firstPlace": "3",
       "secondPlace": "0",
       "thirdPlace": "3"
     },
@@ -1238,8 +1238,8 @@
       },
       {
         "tournamentName": "MEM",
-        "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentType": 2,
+        "tournamentScore": 402.0
       },
       {
         "tournamentName": "RBCCAN",
@@ -1384,8 +1384,8 @@
       },
       {
         "tournamentName": "MEM",
-        "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentType": 2,
+        "tournamentScore": 259.0
       },
       {
         "tournamentName": "RBCCAN",
@@ -1520,8 +1520,8 @@
       },
       {
         "tournamentName": "MEM",
-        "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentType": 2,
+        "tournamentScore": 361.0
       },
       {
         "tournamentName": "RBCCAN",
@@ -1666,8 +1666,8 @@
       },
       {
         "tournamentName": "MEM",
-        "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentType": 2,
+        "tournamentScore": 238.50
       },
       {
         "tournamentName": "RBCCAN",
@@ -1727,7 +1727,7 @@
     "tournamentPlaces": {
       "firstPlace": "0",
       "secondPlace": "0",
-      "thirdPlace": "0"
+      "thirdPlace": "1"
     },
     "tournaments": [
       {
@@ -1817,8 +1817,8 @@
       },
       {
         "tournamentName": "MEM",
-        "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentType": 2,
+        "tournamentScore": 367.0
       },
       {
         "tournamentName": "RBCCAN",
@@ -1958,8 +1958,8 @@
       },
       {
         "tournamentName": "MEM",
-        "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentType": 2,
+        "tournamentScore": 285.0
       },
       {
         "tournamentName": "RBCCAN",
@@ -2104,8 +2104,8 @@
       },
       {
         "tournamentName": "MEM",
-        "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentType": 2,
+        "tournamentScore": 301.50
       },
       {
         "tournamentName": "RBCCAN",
@@ -2250,8 +2250,8 @@
       },
       {
         "tournamentName": "MEM",
-        "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentType": 2,
+        "tournamentScore": 287.0
       },
       {
         "tournamentName": "RBCCAN",
@@ -2396,8 +2396,8 @@
       },
       {
         "tournamentName": "MEM",
-        "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentType": 2,
+        "tournamentScore": 322.50
       },
       {
         "tournamentName": "RBCCAN",
