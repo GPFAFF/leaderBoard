@@ -1,46 +1,32 @@
-import React, { Component } from 'react';
-import PlayerContainer from './components/PlayerContainer';
-import fetch from "isomorphic-fetch";
+import React from 'react';
+import {
+  Route,
+  Switch,
+  BrowserRouter as Router
+} from 'react-router-dom';
+import Home from './components/Home';
+import Fedex from './components/Fedex';
+import Season from './components/Season';
+
 import './App.scss';
 
-class App extends Component {
-  constructor(props) {
-    super();
-
-    this.state = {
-      data: [],
-      loading: true
-    }
-  }
-  loadDependency = async () => {
-
-    const response = await fetch('https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/data.json')
-    .then(res => res.json());
-
-    this.setState({
-      data: response,
-      loading: false
-    });
-  }
-
-  componentDidMount() {
-    this.loadDependency();
-  }
-
-  render() {
-
-    return (
-      <div className="App">
-        <header className="App-header">
-          <h1 className="App-title">Golf Leaderboard</h1>
-        </header>
-        <PlayerContainer
-          data={this.state.data}
-          loading={this.state.loading}
-        />
-      </div>
-    );
-  }
+const App = () => {
+  return (
+    <Router>
+      <Switch>
+        <Route exact path="/">
+          <Home />
+        </Route>
+        <Route path="/season">
+          <Season />
+        </Route>
+        <Route path="/fedex">
+          <Fedex />
+        </Route>
+      </Switch>
+    </Router>
+  )
 }
 
 export default App;
+

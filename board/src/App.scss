@@ -16,8 +16,43 @@
   text-shadow: 2px 2px 2px black;
 }
 
-.App-title {
+.container, .league-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.container {
+  height: 100vh;
+}
+
+.loader {
+  text-align: center;
+}
+
+.navigation-button {
+  border: 1px solid black;
+  padding: 20px;
+  color: black;
+  text-decoration: none;
+  text-transform: uppercase;
+  border-radius: 4px;
+  margin: 20px;
+  width: 200px;
+  text-align: center;
+
+  &:hover {
+    background-color: black;
+    color: white;
+    border: 1px solid black;
+    transition: 0.2s ease-in background-color;
+  }
+}
+
+.App-title, .season-title {
   font-size: 30px;
+  text-align: center;
 
   @media (min-width: 480px) {
     font-size: 40px;

@@ -1,0 +1,18 @@
+[
+  {
+    "user": "gapfaff",
+    "icon": "",
+    "tournamentPlaces": {
+      "firstPlace": "0",
+      "secondPlace": "2",
+      "thirdPlace": "0"
+    },
+    "tournaments": [
+      {
+        "tournamentName": "ABC",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      }
+    ]
+  }
+]
