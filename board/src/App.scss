@@ -12,7 +12,9 @@
   height: auto;
   padding: 20px;
   color: white;
+  display: flex;
   text-transform: uppercase;
+  justify-content: center;
   text-shadow: 2px 2px 2px black;
 }
 
@@ -81,6 +83,10 @@
   }
 }
 
+.flag {
+  width: 100px;
+  margin-left: 20px;
+}
 
 .player {
   margin: 30px;
@@ -109,7 +115,7 @@
     flex-direction: column;
   }
 
-  h2, {
+  h2 {
     display: block;
     padding-bottom: 20px;
     text-align: center;

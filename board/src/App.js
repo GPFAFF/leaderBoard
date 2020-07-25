@@ -8,7 +8,6 @@ import Home from './components/Home';
 import Fedex from './components/Fedex';
 import Season from './components/Season';
 
-
 import './App.scss';
 
 const App = () => {

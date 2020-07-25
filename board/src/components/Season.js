@@ -1,6 +1,8 @@
 import React, { useEffect, useState } from 'react'
 import { Link } from 'react-router-dom';
 import PlayerContainer from './PlayerContainer';
+import Header from './Header';
+
 import axios from 'axios';
 
 const Season = () => {
@@ -16,9 +18,7 @@ const Season = () => {
 
   return (
     <div>
-      <header className="App-header">
-        <h1 className="App-title">Golf Leaderboard</h1>
-      </header>
+      <Header />
       <div className="league-container">
         <Link className="navigation-button" to="/">Home</Link>
         <h2 className="season-title">Regular Season</h2>
