@@ -141,7 +141,7 @@
       {
         "tournamentName": "WYNDHAM",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 389.50
       }
     ]
   },
@@ -151,7 +151,7 @@
     "tournamentPlaces": {
       "firstPlace": "0",
       "secondPlace": "1",
-      "thirdPlace": "0"
+      "thirdPlace": "1"
     },
     "tournaments": [
       {
@@ -287,7 +287,7 @@
       {
         "tournamentName": "WYNDHAM",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 511.0
       }
     ]
   },
@@ -433,7 +433,7 @@
       {
         "tournamentName": "WYNDHAM",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 465.5
       }
     ]
   },
@@ -579,7 +579,7 @@
       {
         "tournamentName": "WYNDHAM",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 320.50
       }
     ]
   },
@@ -721,6 +721,11 @@
         "tournamentName": "WGCMEMPHIS",
         "tournamentType": 2,
         "tournamentScore": 411.00
+      },
+      {
+        "tournamentName": "WYNDHAM",
+        "tournamentType": 1,
+        "tournamentScore": 213.50
       }
     ]
   },
@@ -866,7 +871,7 @@
       {
         "tournamentName": "WYNDHAM",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 510.0
       }
     ]
   },
@@ -1008,6 +1013,11 @@
         "tournamentName": "WGCMEMPHIS",
         "tournamentType": 2,
         "tournamentScore": 452.50
+      },
+      {
+        "tournamentName": "WYNDHAM",
+        "tournamentType": 1,
+        "tournamentScore": 497.50
       }
     ]
   },
@@ -1153,7 +1163,7 @@
       {
         "tournamentName": "WYNDHAM",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 285.0
       }
     ]
   },
@@ -1299,7 +1309,7 @@
       {
         "tournamentName": "WYNDHAM",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 510.0
       }
     ]
   },
@@ -1441,6 +1451,11 @@
         "tournamentName": "BRITISH",
         "tournamentType": 3,
         "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "WYNDHAM",
+        "tournamentType": 1,
+        "tournamentScore": 464.50
       }
     ]
   },
@@ -1586,7 +1601,7 @@
       {
         "tournamentName": "WYNDHAM",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 430.0
       }
     ]
   },
@@ -1595,7 +1610,7 @@
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/mike.jpg",
     "tournamentPlaces": {
       "firstPlace": "2",
-      "secondPlace": "4",
+      "secondPlace": "5",
       "thirdPlace": "1"
     },
     "tournaments": [
@@ -1732,7 +1747,7 @@
       {
         "tournamentName": "WYNDHAM",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 534.0
       }
     ]
   },
@@ -1878,7 +1893,7 @@
       {
         "tournamentName": "WYNDHAM",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 461.0
       }
     ]
   },
@@ -2024,7 +2039,7 @@
       {
         "tournamentName": "WYNDHAM",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 285.0
       }
     ]
   },
@@ -2170,7 +2185,7 @@
       {
         "tournamentName": "WYNDHAM",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 472.0
       }
     ]
   },
@@ -2178,7 +2193,7 @@
     "user": "jph315",
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/jph.jpg",
     "tournamentPlaces": {
-      "firstPlace": "1",
+      "firstPlace": "2",
       "secondPlace": "1",
       "thirdPlace": "2"
     },
@@ -2316,7 +2331,7 @@
       {
         "tournamentName": "WYNDHAM",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 536.0
       }
     ]
   },
@@ -2462,7 +2477,7 @@
       {
         "tournamentName": "WYNDHAM",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 329.50
       }
     ]
   }
