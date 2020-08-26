@@ -106,7 +106,7 @@
       {
         "tournamentName": "TPCRIVER",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 326.0
       },
       {
         "tournamentName": "TRAVELERS",
@@ -150,7 +150,7 @@
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/kyle.jpg",
     "tournamentPlaces": {
       "firstPlace": "0",
-      "secondPlace": "1",
+      "secondPlace": "2",
       "thirdPlace": "1"
     },
     "tournaments": [
@@ -252,7 +252,7 @@
       {
         "tournamentName": "TPCRIVER",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 496.0
       },
       {
         "tournamentName": "TRAVELERS",
@@ -398,7 +398,7 @@
       {
         "tournamentName": "TPCRIVER",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 211.50
       },
       {
         "tournamentName": "ROCKET",
@@ -544,7 +544,7 @@
       {
         "tournamentName": "TPCRIVER",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 459.50
       },
       {
         "tournamentName": "TRAVELERS",
@@ -690,7 +690,7 @@
       {
         "tournamentName": "TPCRIVER",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 319.50
       },
       {
         "tournamentName": "TRAVELERS",
@@ -836,7 +836,7 @@
       {
         "tournamentName": "TPCRIVER",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 395.0
       },
       {
         "tournamentName": "TRAVELERS",
@@ -987,7 +987,7 @@
       {
         "tournamentName": "TPCRIVER",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 359.0
       },
       {
         "tournamentName": "ROCKET",
@@ -1027,7 +1027,7 @@
     "tournamentPlaces": {
       "firstPlace": "0",
       "secondPlace": "0",
-      "thirdPlace": "0"
+      "thirdPlace": "1"
     },
     "tournaments": [
       {
@@ -1128,7 +1128,7 @@
       {
         "tournamentName": "TPCRIVER",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 483.50
       },
       {
         "tournamentName": "TRAVELERS",
@@ -1274,7 +1274,7 @@
       {
         "tournamentName": "TPCRIVER",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 363.50
       },
       {
         "tournamentName": "TRAVELERS",
@@ -1420,7 +1420,7 @@
       {
         "tournamentName": "TPCRIVER",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 269.0
       },
       {
         "tournamentName": "TRAVELERS",
@@ -1463,7 +1463,7 @@
     "user": "concord",
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/concord.jpg",
     "tournamentPlaces": {
-      "firstPlace": "3",
+      "firstPlace": "4",
       "secondPlace": "2",
       "thirdPlace": "2"
     },
@@ -1566,7 +1566,7 @@
       {
         "tournamentName": "TPCRIVER",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 535.50
       },
       {
         "tournamentName": "TRAVELERS",
@@ -1712,7 +1712,7 @@
       {
         "tournamentName": "TPCRIVER",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 307.50
       },
       {
         "tournamentName": "TRAVELERS",
@@ -1863,7 +1863,7 @@
       {
         "tournamentName": "TPCRIVER",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 321.0
       },
       {
         "tournamentName": "ROCKET",
@@ -2040,6 +2040,11 @@
         "tournamentName": "WYNDHAM",
         "tournamentType": 1,
         "tournamentScore": 285.0
+      },
+      {
+        "tournamentName": "TPCRIVER",
+        "tournamentType": 1,
+        "tournamentScore": 296.50
       }
     ]
   },
@@ -2150,7 +2155,7 @@
       {
         "tournamentName": "TPCRIVER",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 480.50
       },
       {
         "tournamentName": "TRAVELERS",
@@ -2296,7 +2301,7 @@
       {
         "tournamentName": "TPCRIVER",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 344.0
       },
       {
         "tournamentName": "TRAVELERS",
@@ -2442,7 +2447,7 @@
       {
         "tournamentName": "TPCRIVER",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 284.0
       },
       {
         "tournamentName": "TRAVELERS",
