@@ -142,6 +142,11 @@
         "tournamentName": "WYNDHAM",
         "tournamentType": 1,
         "tournamentScore": 389.50
+      },
+      {
+        "tournamentName": "BMW",
+        "tournamentType": 2,
+        "tournamentScore": 300.0
       }
     ]
   },
@@ -288,6 +293,11 @@
         "tournamentName": "WYNDHAM",
         "tournamentType": 1,
         "tournamentScore": 511.0
+      },
+      {
+        "tournamentName": "BMW",
+        "tournamentType": 2,
+        "tournamentScore": 283.50
       }
     ]
   },
@@ -434,6 +444,11 @@
         "tournamentName": "WYNDHAM",
         "tournamentType": 1,
         "tournamentScore": 465.5
+      },
+      {
+        "tournamentName": "BMW",
+        "tournamentType": 2,
+        "tournamentScore": 321.50
       }
     ]
   },
@@ -580,6 +595,11 @@
         "tournamentName": "WYNDHAM",
         "tournamentType": 1,
         "tournamentScore": 320.50
+      },
+      {
+        "tournamentName": "BMW",
+        "tournamentType": 2,
+        "tournamentScore": 278.50
       }
     ]
   },
@@ -726,6 +746,11 @@
         "tournamentName": "WYNDHAM",
         "tournamentType": 1,
         "tournamentScore": 213.50
+      },
+      {
+        "tournamentName": "BMW",
+        "tournamentType": 2,
+        "tournamentScore": 314.0
       }
     ]
   },
@@ -872,6 +897,11 @@
         "tournamentName": "WYNDHAM",
         "tournamentType": 1,
         "tournamentScore": 510.0
+      },
+      {
+        "tournamentName": "BMW",
+        "tournamentType": 2,
+        "tournamentScore": 274.0
       }
     ]
   },
@@ -879,7 +909,7 @@
     "user": "BlindBetJack",
     "icon": "",
     "tournamentPlaces": {
-      "firstPlace": "0",
+      "firstPlace": "1",
       "secondPlace": "0",
       "thirdPlace": "0"
     },
@@ -1018,6 +1048,11 @@
         "tournamentName": "WYNDHAM",
         "tournamentType": 1,
         "tournamentScore": 497.50
+      },
+      {
+        "tournamentName": "BMW",
+        "tournamentType": 2,
+        "tournamentScore": 347.0
       }
     ]
   },
@@ -1164,6 +1199,11 @@
         "tournamentName": "WYNDHAM",
         "tournamentType": 1,
         "tournamentScore": 285.0
+      },
+      {
+        "tournamentName": "BMW",
+        "tournamentType": 2,
+        "tournamentScore": 314.50
       }
     ]
   },
@@ -1456,6 +1496,16 @@
         "tournamentName": "WYNDHAM",
         "tournamentType": 1,
         "tournamentScore": 464.50
+      },
+      {
+        "tournamentName": "BMW",
+        "tournamentType": 2,
+        "tournamentScore": 309.0
+      },
+      {
+        "tournamentName": "BMW",
+        "tournamentType": 2,
+        "tournamentScore": 289.50
       }
     ]
   },
@@ -1602,6 +1652,11 @@
         "tournamentName": "WYNDHAM",
         "tournamentType": 1,
         "tournamentScore": 430.0
+      },
+      {
+        "tournamentName": "BMW",
+        "tournamentType": 2,
+        "tournamentScore": 316.50
       }
     ]
   },
@@ -1610,7 +1665,7 @@
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/mike.jpg",
     "tournamentPlaces": {
       "firstPlace": "2",
-      "secondPlace": "5",
+      "secondPlace": "6",
       "thirdPlace": "1"
     },
     "tournaments": [
@@ -1748,6 +1803,11 @@
         "tournamentName": "WYNDHAM",
         "tournamentType": 1,
         "tournamentScore": 534.0
+      },
+      {
+        "tournamentName": "BMW",
+        "tournamentType": 2,
+        "tournamentScore": 341.0
       }
     ]
   },
@@ -1894,6 +1954,11 @@
         "tournamentName": "WYNDHAM",
         "tournamentType": 1,
         "tournamentScore": 461.0
+      },
+      {
+        "tournamentName": "BMW",
+        "tournamentType": 2,
+        "tournamentScore": 286.0
       }
     ]
   },
@@ -2040,6 +2105,11 @@
         "tournamentName": "TPCRIVER",
         "tournamentType": 2,
         "tournamentScore": 296.50
+      },
+      {
+        "tournamentName": "BMW",
+        "tournamentType": 2,
+        "tournamentScore": 273.50
       }
     ]
   },
@@ -2186,6 +2256,11 @@
         "tournamentName": "WYNDHAM",
         "tournamentType": 1,
         "tournamentScore": 472.0
+      },
+      {
+        "tournamentName": "BMW",
+        "tournamentType": 2,
+        "tournamentScore": 304.0
       }
     ]
   },
@@ -2332,6 +2407,11 @@
         "tournamentName": "WYNDHAM",
         "tournamentType": 1,
         "tournamentScore": 536.0
+      },
+      {
+        "tournamentName": "BMW",
+        "tournamentType": 2,
+        "tournamentScore": 322.0
       }
     ]
   },
@@ -2341,7 +2421,7 @@
     "tournamentPlaces": {
       "firstPlace": "1",
       "secondPlace": "0",
-      "thirdPlace": "0"
+      "thirdPlace": "1"
     },
     "tournaments": [
       {
@@ -2478,6 +2558,11 @@
         "tournamentName": "WYNDHAM",
         "tournamentType": 1,
         "tournamentScore": 329.50
+      },
+      {
+        "tournamentName": "BMW",
+        "tournamentType": 2,
+        "tournamentScore": 338.0
       }
     ]
   }
