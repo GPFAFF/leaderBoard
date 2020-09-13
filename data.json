@@ -4,7 +4,7 @@
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/greg.jpg",
     "tournamentPlaces": {
       "firstPlace": "0",
-      "secondPlace": "2",
+      "secondPlace": "3",
       "thirdPlace": "0"
     },
     "tournaments": [
@@ -147,6 +147,11 @@
         "tournamentName": "BMW",
         "tournamentType": 2,
         "tournamentScore": 300.0
+      },
+      {
+        "tournamentName": "ATL",
+        "tournamentType": 2,
+        "tournamentScore": 508.0
       }
     ]
   },
@@ -298,6 +303,11 @@
         "tournamentName": "BMW",
         "tournamentType": 2,
         "tournamentScore": 283.50
+      },
+      {
+        "tournamentName": "ATL",
+        "tournamentType": 2,
+        "tournamentScore": 453.0
       }
     ]
   },
@@ -449,6 +459,11 @@
         "tournamentName": "BMW",
         "tournamentType": 2,
         "tournamentScore": 321.50
+      },
+      {
+        "tournamentName": "ATL",
+        "tournamentType": 2,
+        "tournamentScore": 458.0
       }
     ]
   },
@@ -600,6 +615,11 @@
         "tournamentName": "BMW",
         "tournamentType": 2,
         "tournamentScore": 278.50
+      },
+      {
+        "tournamentName": "ATL",
+        "tournamentType": 2,
+        "tournamentScore": 447.50
       }
     ]
   },
@@ -751,6 +771,11 @@
         "tournamentName": "BMW",
         "tournamentType": 2,
         "tournamentScore": 314.0
+      },
+      {
+        "tournamentName": "ATL",
+        "tournamentType": 2,
+        "tournamentScore": 460.50
       }
     ]
   },
@@ -902,6 +927,11 @@
         "tournamentName": "BMW",
         "tournamentType": 2,
         "tournamentScore": 274.0
+      },
+      {
+        "tournamentName": "ATL",
+        "tournamentType": 2,
+        "tournamentScore": 498.0
       }
     ]
   },
@@ -911,7 +941,7 @@
     "tournamentPlaces": {
       "firstPlace": "1",
       "secondPlace": "0",
-      "thirdPlace": "0"
+      "thirdPlace": "1"
     },
     "tournaments": [
       {
@@ -1053,6 +1083,11 @@
         "tournamentName": "BMW",
         "tournamentType": 2,
         "tournamentScore": 347.0
+      },
+      {
+        "tournamentName": "ATL",
+        "tournamentType": 2,
+        "tournamentScore": 506.0
       }
     ]
   },
@@ -1204,6 +1239,11 @@
         "tournamentName": "BMW",
         "tournamentType": 2,
         "tournamentScore": 314.50
+      },
+      {
+        "tournamentName": "ATL",
+        "tournamentType": 2,
+        "tournamentScore": 479.0
       }
     ]
   },
@@ -1350,6 +1390,11 @@
         "tournamentName": "WYNDHAM",
         "tournamentType": 1,
         "tournamentScore": 510.0
+      },
+      {
+        "tournamentName": "ATL",
+        "tournamentType": 2,
+        "tournamentScore": 444.0
       }
     ]
   },
@@ -1506,6 +1551,11 @@
         "tournamentName": "BMW",
         "tournamentType": 2,
         "tournamentScore": 289.50
+      },
+      {
+        "tournamentName": "ATL",
+        "tournamentType": 2,
+        "tournamentScore": 315.75
       }
     ]
   },
@@ -1657,6 +1707,11 @@
         "tournamentName": "BMW",
         "tournamentType": 2,
         "tournamentScore": 316.50
+      },
+      {
+        "tournamentName": "ATL",
+        "tournamentType": 2,
+        "tournamentScore": 492.0
       }
     ]
   },
@@ -1808,6 +1863,11 @@
         "tournamentName": "BMW",
         "tournamentType": 2,
         "tournamentScore": 341.0
+      },
+      {
+        "tournamentName": "ATL",
+        "tournamentType": 2,
+        "tournamentScore": 459.0
       }
     ]
   },
@@ -1959,6 +2019,11 @@
         "tournamentName": "BMW",
         "tournamentType": 2,
         "tournamentScore": 286.0
+      },
+      {
+        "tournamentName": "ATL",
+        "tournamentType": 2,
+        "tournamentScore": 431.0
       }
     ]
   },
@@ -2110,6 +2175,11 @@
         "tournamentName": "BMW",
         "tournamentType": 2,
         "tournamentScore": 273.50
+      },
+      {
+        "tournamentName": "ATL",
+        "tournamentType": 2,
+        "tournamentScore": 442.50
       }
     ]
   },
@@ -2117,7 +2187,7 @@
     "user": "rtprice33",
     "icon": "",
     "tournamentPlaces": {
-      "firstPlace": "0",
+      "firstPlace": "1",
       "secondPlace": "1",
       "thirdPlace": "1"
     },
@@ -2261,6 +2331,11 @@
         "tournamentName": "BMW",
         "tournamentType": 2,
         "tournamentScore": 304.0
+      },
+      {
+        "tournamentName": "ATL",
+        "tournamentType": 2,
+        "tournamentScore": 521.0
       }
     ]
   },
@@ -2412,6 +2487,11 @@
         "tournamentName": "BMW",
         "tournamentType": 2,
         "tournamentScore": 322.0
+      },
+      {
+        "tournamentName": "ATL",
+        "tournamentType": 2,
+        "tournamentScore": 458.0
       }
     ]
   },
@@ -2563,6 +2643,11 @@
         "tournamentName": "BMW",
         "tournamentType": 2,
         "tournamentScore": 338.0
+      },
+      {
+        "tournamentName": "ATL",
+        "tournamentType": 2,
+        "tournamentScore": 421.0
       }
     ]
   }
