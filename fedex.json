@@ -32,6 +32,11 @@
         "tournamentName": "ABC",
         "tournamentType": 1,
         "tournamentScore": 475.5
+      },
+      {
+        "tournamentName": "ABC",
+        "tournamentType": 1,
+        "tournamentScore": 273.50
       }
     ]
   },
@@ -68,6 +73,11 @@
         "tournamentName": "ABC",
         "tournamentType": 1,
         "tournamentScore": 453.0
+      },
+      {
+        "tournamentName": "ABC",
+        "tournamentType": 1,
+        "tournamentScore": 283.0
       }
     ]
   },
@@ -77,7 +87,7 @@
     "tournamentPlaces": {
       "firstPlace": "0",
       "secondPlace": "1",
-      "thirdPlace": "1"
+      "thirdPlace": "2"
     },
     "tournaments": [
       {
@@ -104,6 +114,11 @@
         "tournamentName": "ABC",
         "tournamentType": 1,
         "tournamentScore": 477.0
+      },
+      {
+        "tournamentName": "ABC",
+        "tournamentType": 1,
+        "tournamentScore": 289.50
       }
     ]
   },
@@ -140,6 +155,11 @@
         "tournamentName": "ABC",
         "tournamentType": 1,
         "tournamentScore": 459.0
+      },
+      {
+        "tournamentName": "ABC",
+        "tournamentType": 1,
+        "tournamentScore": 254.0
       }
     ]
   },
@@ -176,6 +196,11 @@
         "tournamentName": "ABC",
         "tournamentType": 1,
         "tournamentScore": 498.0
+      },
+      {
+        "tournamentName": "ABC",
+        "tournamentType": 1,
+        "tournamentScore": 235.50
       }
     ]
   },
@@ -212,6 +237,11 @@
         "tournamentName": "ABC",
         "tournamentType": 1,
         "tournamentScore": 458.0
+      },
+      {
+        "tournamentName": "ABC",
+        "tournamentType": 1,
+        "tournamentScore": 222.0
       }
     ]
   },
@@ -219,7 +249,7 @@
     "user": "andcohen2525",
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/cohen.jpeg",
     "tournamentPlaces": {
-      "firstPlace": "0",
+      "firstPlace": "1",
       "secondPlace": "1",
       "thirdPlace": "1"
     },
@@ -248,6 +278,11 @@
         "tournamentName": "ABC",
         "tournamentType": 1,
         "tournamentScore": 494.0
+      },
+      {
+        "tournamentName": "ABC",
+        "tournamentType": 1,
+        "tournamentScore": 310.0
       }
     ]
   },
@@ -284,6 +319,11 @@
         "tournamentName": "ABC",
         "tournamentType": 1,
         "tournamentScore": 491.5
+      },
+      {
+        "tournamentName": "ABC",
+        "tournamentType": 1,
+        "tournamentScore": 235.50
       }
     ]
   },
@@ -320,6 +360,11 @@
         "tournamentName": "ABC",
         "tournamentType": 1,
         "tournamentScore": 531.5
+      },
+      {
+        "tournamentName": "ABC",
+        "tournamentType": 1,
+        "tournamentScore": 193.50
       }
     ]
   },
@@ -356,6 +401,11 @@
         "tournamentName": "ABC",
         "tournamentType": 1,
         "tournamentScore": 421.0
+      },
+      {
+        "tournamentName": "ABC",
+        "tournamentType": 1,
+        "tournamentScore": 228.50
       }
     ]
   },
@@ -364,7 +414,7 @@
     "icon": "",
     "tournamentPlaces": {
       "firstPlace": "0",
-      "secondPlace": "0",
+      "secondPlace": "1",
       "thirdPlace": "0"
     },
     "tournaments": [
@@ -392,6 +442,11 @@
         "tournamentName": "ABC",
         "tournamentType": 1,
         "tournamentScore": 458.0
+      },
+      {
+        "tournamentName": "ABC",
+        "tournamentType": 1,
+        "tournamentScore": 297.50
       }
     ]
   },
@@ -428,6 +483,11 @@
         "tournamentName": "ABC",
         "tournamentType": 1,
         "tournamentScore": 458.5
+      },
+      {
+        "tournamentName": "ABC",
+        "tournamentType": 1,
+        "tournamentScore": 252.0
       }
     ]
   }

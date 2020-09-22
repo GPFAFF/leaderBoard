@@ -4,7 +4,7 @@
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/greg.jpg",
     "tournamentPlaces": {
       "firstPlace": "0",
-      "secondPlace": "3",
+      "secondPlace": "4",
       "thirdPlace": "0"
     },
     "tournaments": [
@@ -152,6 +152,16 @@
         "tournamentName": "ATL",
         "tournamentType": 2,
         "tournamentScore": 508.0
+      },
+      {
+        "tournamentName": "NAP",
+        "tournamentType": 1,
+        "tournamentScore": 403.5
+      },
+      {
+        "tournamentName": "USOPEN",
+        "tournamentType": 3,
+        "tournamentScore": 311.0
       }
     ]
   },
@@ -308,6 +318,16 @@
         "tournamentName": "ATL",
         "tournamentType": 2,
         "tournamentScore": 453.0
+      },
+      {
+        "tournamentName": "NAP",
+        "tournamentType": 1,
+        "tournamentScore": 351.0
+      },
+      {
+        "tournamentName": "USOPEN",
+        "tournamentType": 3,
+        "tournamentScore": 283.0
       }
     ]
   },
@@ -317,7 +337,7 @@
     "tournamentPlaces": {
       "firstPlace": "2",
       "secondPlace": "0",
-      "thirdPlace": "0"
+      "thirdPlace": "1"
     },
     "tournaments": [
       {
@@ -464,6 +484,16 @@
         "tournamentName": "ATL",
         "tournamentType": 2,
         "tournamentScore": 458.0
+      },
+      {
+        "tournamentName": "NAP",
+        "tournamentType": 1,
+        "tournamentScore": 372.0
+      },
+      {
+        "tournamentName": "USOPEN",
+        "tournamentType": 3,
+        "tournamentScore": 297.50
       }
     ]
   },
@@ -620,6 +650,16 @@
         "tournamentName": "ATL",
         "tournamentType": 2,
         "tournamentScore": 447.50
+      },
+      {
+        "tournamentName": "NAP",
+        "tournamentType": 1,
+        "tournamentScore": 180.0
+      },
+      {
+        "tournamentName": "USOPEN",
+        "tournamentType": 3,
+        "tournamentScore": 191.50
       }
     ]
   },
@@ -776,6 +816,16 @@
         "tournamentName": "ATL",
         "tournamentType": 2,
         "tournamentScore": 460.50
+      },
+      {
+        "tournamentName": "NAP",
+        "tournamentType": 1,
+        "tournamentScore": 353.5
+      },
+      {
+        "tournamentName": "USOPEN",
+        "tournamentType": 3,
+        "tournamentScore": 273.0
       }
     ]
   },
@@ -932,6 +982,16 @@
         "tournamentName": "ATL",
         "tournamentType": 2,
         "tournamentScore": 498.0
+      },
+      {
+        "tournamentName": "NAP",
+        "tournamentType": 1,
+        "tournamentScore": 267.0
+      },
+      {
+        "tournamentName": "USOPEN",
+        "tournamentType": 3,
+        "tournamentScore": 173.0
       }
     ]
   },
@@ -939,7 +999,7 @@
     "user": "BlindBetJack",
     "icon": "",
     "tournamentPlaces": {
-      "firstPlace": "1",
+      "firstPlace": "2",
       "secondPlace": "0",
       "thirdPlace": "1"
     },
@@ -1088,6 +1148,16 @@
         "tournamentName": "ATL",
         "tournamentType": 2,
         "tournamentScore": 506.0
+      },
+      {
+        "tournamentName": "NAP",
+        "tournamentType": 1,
+        "tournamentScore": 317.5
+      },
+      {
+        "tournamentName": "USOPEN",
+        "tournamentType": 3,
+        "tournamentScore": 344.50
       }
     ]
   },
@@ -1244,6 +1314,16 @@
         "tournamentName": "ATL",
         "tournamentType": 2,
         "tournamentScore": 479.0
+      },
+      {
+        "tournamentName": "NAP",
+        "tournamentType": 1,
+        "tournamentScore": 240.0
+      },
+      {
+        "tournamentName": "USOPEN",
+        "tournamentType": 3,
+        "tournamentScore": 228.50
       }
     ]
   },
@@ -1252,7 +1332,7 @@
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/garcia.jpg",
     "tournamentPlaces": {
       "firstPlace": "3",
-      "secondPlace": "0",
+      "secondPlace": "1",
       "thirdPlace": "3"
     },
     "tournaments": [
@@ -1395,6 +1475,16 @@
         "tournamentName": "ATL",
         "tournamentType": 2,
         "tournamentScore": 444.0
+      },
+      {
+        "tournamentName": "NAP",
+        "tournamentType": 1,
+        "tournamentScore": 445.5
+      },
+      {
+        "tournamentName": "USOPEN",
+        "tournamentType": 3,
+        "tournamentScore": 243.0
       }
     ]
   },
@@ -1402,7 +1492,7 @@
     "user": "mlewicki",
     "icon": "",
     "tournamentPlaces": {
-      "firstPlace": "0",
+      "firstPlace": "1",
       "secondPlace": "0",
       "thirdPlace": "3"
     },
@@ -1556,6 +1646,16 @@
         "tournamentName": "ATL",
         "tournamentType": 2,
         "tournamentScore": 315.75
+      },
+      {
+        "tournamentName": "NAP",
+        "tournamentType": 1,
+        "tournamentScore": 465.0
+      },
+      {
+        "tournamentName": "USOPEN",
+        "tournamentType": 3,
+        "tournamentScore":266.50
       }
     ]
   },
@@ -1712,6 +1812,16 @@
         "tournamentName": "ATL",
         "tournamentType": 2,
         "tournamentScore": 492.0
+      },
+      {
+        "tournamentName": "NAP",
+        "tournamentType": 1,
+        "tournamentScore": 420.5
+      },
+      {
+        "tournamentName": "USOPEN",
+        "tournamentType": 3,
+        "tournamentScore": 239.50
       }
     ]
   },
@@ -1868,6 +1978,16 @@
         "tournamentName": "ATL",
         "tournamentType": 2,
         "tournamentScore": 459.0
+      },
+      {
+        "tournamentName": "NAP",
+        "tournamentType": 1,
+        "tournamentScore": 364.5
+      },
+      {
+        "tournamentName": "USOPEN",
+        "tournamentType": 3,
+        "tournamentScore": 254.0
       }
     ]
   },
@@ -1877,7 +1997,7 @@
     "tournamentPlaces": {
       "firstPlace": "1",
       "secondPlace": "0",
-      "thirdPlace": "2"
+      "thirdPlace": "3"
     },
     "tournaments": [
       {
@@ -2024,6 +2144,16 @@
         "tournamentName": "ATL",
         "tournamentType": 2,
         "tournamentScore": 431.0
+      },
+      {
+        "tournamentName": "NAP",
+        "tournamentType": 1,
+        "tournamentScore": 431.5
+      },
+      {
+        "tournamentName": "USOPEN",
+        "tournamentType": 3,
+        "tournamentScore": 242.50
       }
     ]
   },
@@ -2180,6 +2310,16 @@
         "tournamentName": "ATL",
         "tournamentType": 2,
         "tournamentScore": 442.50
+      },
+      {
+        "tournamentName": "NAP",
+        "tournamentType": 1,
+        "tournamentScore": 357.5
+      },
+      {
+        "tournamentName": "USOPEN",
+        "tournamentType": 3,
+        "tournamentScore": 215.0
       }
     ]
   },
@@ -2336,6 +2476,16 @@
         "tournamentName": "ATL",
         "tournamentType": 2,
         "tournamentScore": 521.0
+      },
+      {
+        "tournamentName": "NAP",
+        "tournamentType": 1,
+        "tournamentScore": 314.0
+      },
+      {
+        "tournamentName": "USOPEN",
+        "tournamentType": 3,
+        "tournamentScore": 258.0
       }
     ]
   },
@@ -2492,6 +2642,16 @@
         "tournamentName": "ATL",
         "tournamentType": 2,
         "tournamentScore": 458.0
+      },
+      {
+        "tournamentName": "NAP",
+        "tournamentType": 1,
+        "tournamentScore": 331.5
+      },
+      {
+        "tournamentName": "USOPEN",
+        "tournamentType": 3,
+        "tournamentScore": 255.0
       }
     ]
   },
@@ -2648,6 +2808,16 @@
         "tournamentName": "ATL",
         "tournamentType": 2,
         "tournamentScore": 421.0
+      },
+      {
+        "tournamentName": "NAP",
+        "tournamentType": 1,
+        "tournamentScore": 364.0
+      },
+      {
+        "tournamentName": "USOPEN",
+        "tournamentType": 3,
+        "tournamentScore": 228.50
       }
     ]
   }
