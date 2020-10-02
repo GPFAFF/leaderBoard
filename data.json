@@ -9,6 +9,11 @@
     },
     "tournaments": [
       {
+        "tournamentName": "PR",
+        "tournamentType": 1,
+        "tournamentScore": 363.50
+      },
+      {
         "tournamentName": "WMO",
         "tournamentType": 1,
         "tournamentScore": 375.0
@@ -174,6 +179,11 @@
       "thirdPlace": "1"
     },
     "tournaments": [
+      {
+        "tournamentName": "PR",
+        "tournamentType": 1,
+        "tournamentScore": 348.0
+      },
       {
         "tournamentName": "WMO",
         "tournamentType": 1,
@@ -341,6 +351,11 @@
     },
     "tournaments": [
       {
+        "tournamentName": "PR",
+        "tournamentType": 1,
+        "tournamentScore": 399.0
+      },
+      {
         "tournamentName": "WMO",
         "tournamentType": 1,
         "tournamentScore": 338.5
@@ -506,6 +521,11 @@
       "thirdPlace": "0"
     },
     "tournaments": [
+      {
+        "tournamentName": "PR",
+        "tournamentType": 1,
+        "tournamentScore": 384.0
+      },
       {
         "tournamentName": "WMO",
         "tournamentType": 1,
@@ -673,6 +693,11 @@
     },
     "tournaments": [
       {
+        "tournamentName": "PR",
+        "tournamentType": 1,
+        "tournamentScore": 328.50
+      },
+      {
         "tournamentName": "WMO",
         "tournamentType": 1,
         "tournamentScore": 400.0
@@ -835,9 +860,14 @@
     "tournamentPlaces": {
       "firstPlace": "0",
       "secondPlace": "2",
-      "thirdPlace": "0"
+      "thirdPlace": "1"
     },
     "tournaments": [
+      {
+        "tournamentName": "PR",
+        "tournamentType": 1,
+        "tournamentScore": 410.00
+      },
       {
         "tournamentName": "WMO",
         "tournamentType": 1,
@@ -1005,6 +1035,11 @@
     },
     "tournaments": [
       {
+        "tournamentName": "PR",
+        "tournamentType": 1,
+        "tournamentScore": 225.5
+      },
+      {
         "tournamentName": "WMO",
         "tournamentType": 1,
         "tournamentScore": 349.0
@@ -1170,6 +1205,11 @@
       "thirdPlace": "1"
     },
     "tournaments": [
+      {
+        "tournamentName": "PR",
+        "tournamentType": 1,
+        "tournamentScore": 306.0
+      },
       {
         "tournamentName": "WMO",
         "tournamentType": 1,
@@ -1337,6 +1377,11 @@
     },
     "tournaments": [
       {
+        "tournamentName": "PR",
+        "tournamentType": 1,
+        "tournamentScore": 385.50
+      },
+      {
         "tournamentName": "WMO",
         "tournamentType": 1,
         "tournamentScore": 350.5
@@ -1493,10 +1538,15 @@
     "icon": "",
     "tournamentPlaces": {
       "firstPlace": "1",
-      "secondPlace": "0",
+      "secondPlace": "1",
       "thirdPlace": "3"
     },
     "tournaments": [
+      {
+        "tournamentName": "PR",
+        "tournamentType": 1,
+        "tournamentScore": 427.0
+      },
       {
         "tournamentName": "WMO",
         "tournamentType": 1,
@@ -1669,6 +1719,11 @@
     },
     "tournaments": [
       {
+        "tournamentName": "PR",
+        "tournamentType": 1,
+        "tournamentScore": 382.0
+      },
+      {
         "tournamentName": "WMO",
         "tournamentType": 1,
         "tournamentScore": 490.0
@@ -1834,6 +1889,11 @@
       "thirdPlace": "1"
     },
     "tournaments": [
+      {
+        "tournamentName": "PR",
+        "tournamentType": 1,
+        "tournamentScore": 225.5
+      },
       {
         "tournamentName": "WMO",
         "tournamentType": 1,
@@ -2001,6 +2061,11 @@
     },
     "tournaments": [
       {
+        "tournamentName": "PR",
+        "tournamentType": 1,
+        "tournamentScore": 364.0
+      },
+      {
         "tournamentName": "WMO",
         "tournamentType": 1,
         "tournamentScore": 374.5
@@ -2166,6 +2231,11 @@
       "thirdPlace": "1"
     },
     "tournaments": [
+      {
+        "tournamentName": "PR",
+        "tournamentType": 1,
+        "tournamentScore": 405.0
+      },
       {
         "tournamentName": "WMO",
         "tournamentType": 1,
@@ -2333,6 +2403,11 @@
     },
     "tournaments": [
       {
+        "tournamentName": "PR",
+        "tournamentType": 1,
+        "tournamentScore": 405.50
+      },
+      {
         "tournamentName": "WMO",
         "tournamentType": 1,
         "tournamentScore": 488.0
@@ -2499,6 +2574,11 @@
     },
     "tournaments": [
       {
+        "tournamentName": "PR",
+        "tournamentType": 1,
+        "tournamentScore": 225.5
+      },
+      {
         "tournamentName": "WMO",
         "tournamentType": 1,
         "tournamentScore": 392.0
@@ -2659,11 +2739,16 @@
     "user": "darksidefan",
     "icon": "",
     "tournamentPlaces": {
-      "firstPlace": "1",
+      "firstPlace": "2",
       "secondPlace": "0",
       "thirdPlace": "1"
     },
     "tournaments": [
+      {
+        "tournamentName": "PR",
+        "tournamentType": 1,
+        "tournamentScore": 474.50
+      },
       {
         "tournamentName": "WMO",
         "tournamentType": 1,
