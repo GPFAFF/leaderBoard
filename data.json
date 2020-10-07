@@ -11,6 +11,11 @@
       {
         "tournamentName": "PR",
         "tournamentType": 1,
+        "tournamentScore": 392.0
+      },
+      {
+        "tournamentName": "PR",
+        "tournamentType": 1,
         "tournamentScore": 363.50
       },
       {
@@ -182,6 +187,11 @@
       {
         "tournamentName": "PR",
         "tournamentType": 1,
+        "tournamentScore": 290.0
+      },
+      {
+        "tournamentName": "PR",
+        "tournamentType": 1,
         "tournamentScore": 348.0
       },
       {
@@ -346,10 +356,15 @@
     "icon": "",
     "tournamentPlaces": {
       "firstPlace": "2",
-      "secondPlace": "0",
+      "secondPlace": "1",
       "thirdPlace": "1"
     },
     "tournaments": [
+      {
+        "tournamentName": "PR",
+        "tournamentType": 1,
+        "tournamentScore": 460.0
+      },
       {
         "tournamentName": "PR",
         "tournamentType": 1,
@@ -524,6 +539,11 @@
       {
         "tournamentName": "PR",
         "tournamentType": 1,
+        "tournamentScore": 182.25
+      },
+      {
+        "tournamentName": "PR",
+        "tournamentType": 1,
         "tournamentScore": 384.0
       },
       {
@@ -695,6 +715,11 @@
       {
         "tournamentName": "PR",
         "tournamentType": 1,
+        "tournamentScore": 260.0
+      },
+      {
+        "tournamentName": "PR",
+        "tournamentType": 1,
         "tournamentScore": 328.50
       },
       {
@@ -860,9 +885,14 @@
     "tournamentPlaces": {
       "firstPlace": "0",
       "secondPlace": "2",
-      "thirdPlace": "1"
+      "thirdPlace": "2"
     },
     "tournaments": [
+      {
+        "tournamentName": "PR",
+        "tournamentType": 1,
+        "tournamentScore": 445.50
+      },
       {
         "tournamentName": "PR",
         "tournamentType": 1,
@@ -1037,6 +1067,11 @@
       {
         "tournamentName": "PR",
         "tournamentType": 1,
+        "tournamentScore": 317.00
+      },
+      {
+        "tournamentName": "PR",
+        "tournamentType": 1,
         "tournamentScore": 225.5
       },
       {
@@ -1200,11 +1235,16 @@
     "user": "CubyBlue",
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/cuby.jpg",
     "tournamentPlaces": {
-      "firstPlace": "0",
+      "firstPlace": "1",
       "secondPlace": "0",
       "thirdPlace": "1"
     },
     "tournaments": [
+      {
+        "tournamentName": "PR",
+        "tournamentType": 1,
+        "tournamentScore": 557.0
+      },
       {
         "tournamentName": "PR",
         "tournamentType": 1,
@@ -1379,6 +1419,11 @@
       {
         "tournamentName": "PR",
         "tournamentType": 1,
+        "tournamentScore": 411.0
+      },
+      {
+        "tournamentName": "PR",
+        "tournamentType": 1,
         "tournamentScore": 385.50
       },
       {
@@ -1542,6 +1587,11 @@
       "thirdPlace": "3"
     },
     "tournaments": [
+      {
+        "tournamentName": "PR",
+        "tournamentType": 1,
+        "tournamentScore": 243.0
+      },
       {
         "tournamentName": "PR",
         "tournamentType": 1,
@@ -1721,6 +1771,11 @@
       {
         "tournamentName": "PR",
         "tournamentType": 1,
+        "tournamentScore": 307.5
+      },
+      {
+        "tournamentName": "PR",
+        "tournamentType": 1,
         "tournamentScore": 382.0
       },
       {
@@ -1889,6 +1944,11 @@
       "thirdPlace": "1"
     },
     "tournaments": [
+      {
+        "tournamentName": "PR",
+        "tournamentType": 1,
+        "tournamentScore": 428.50
+      },
       {
         "tournamentName": "PR",
         "tournamentType": 1,
@@ -2063,6 +2123,11 @@
       {
         "tournamentName": "PR",
         "tournamentType": 1,
+        "tournamentScore": 363.0
+      },
+      {
+        "tournamentName": "PR",
+        "tournamentType": 1,
         "tournamentScore": 364.0
       },
       {
@@ -2231,6 +2296,11 @@
       "thirdPlace": "1"
     },
     "tournaments": [
+      {
+        "tournamentName": "PR",
+        "tournamentType": 1,
+        "tournamentScore": 182.25
+      },
       {
         "tournamentName": "PR",
         "tournamentType": 1,
@@ -2405,6 +2475,11 @@
       {
         "tournamentName": "PR",
         "tournamentType": 1,
+        "tournamentScore": 273.0
+      },
+      {
+        "tournamentName": "PR",
+        "tournamentType": 1,
         "tournamentScore": 405.50
       },
       {
@@ -2576,6 +2651,11 @@
       {
         "tournamentName": "PR",
         "tournamentType": 1,
+        "tournamentScore": 439.50
+      },
+      {
+        "tournamentName": "PR",
+        "tournamentType": 1,
         "tournamentScore": 225.5
       },
       {
@@ -2744,6 +2824,11 @@
       "thirdPlace": "1"
     },
     "tournaments": [
+      {
+        "tournamentName": "PR",
+        "tournamentType": 1,
+        "tournamentScore": 367.0
+      },
       {
         "tournamentName": "PR",
         "tournamentType": 1,
