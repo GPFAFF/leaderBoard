@@ -9,6 +9,11 @@
     },
     "tournaments": [
       {
+        "tournamentName": "HOU",
+        "tournamentType": 1,
+        "tournamentScore": 256.50
+      },
+      {
         "tournamentName": "WMO",
         "tournamentType": 1,
         "tournamentScore": 331.0
@@ -205,6 +210,11 @@
     },
     "tournaments": [
       {
+        "tournamentName": "HOU",
+        "tournamentType": 1,
+        "tournamentScore": 234.0
+      },
+      {
         "tournamentName": "WMO",
         "tournamentType": 1,
         "tournamentScore": 353.50
@@ -400,6 +410,11 @@
       "thirdPlace": "2"
     },
     "tournaments": [
+      {
+        "tournamentName": "HOU",
+        "tournamentType": 1,
+        "tournamentScore": 196.0
+      },
       {
         "tournamentName": "WMO",
         "tournamentType": 1,
@@ -773,6 +788,11 @@
     },
     "tournaments": [
       {
+        "tournamentName": "HOU",
+        "tournamentType": 1,
+        "tournamentScore": 310.0
+      },
+      {
         "tournamentName": "WMO",
         "tournamentType": 1,
         "tournamentScore": 213.50
@@ -969,6 +989,11 @@
     },
     "tournaments": [
       {
+        "tournamentName": "HOU",
+        "tournamentType": 1,
+        "tournamentScore": 189.50
+      },
+      {
         "tournamentName": "WMO",
         "tournamentType": 1,
         "tournamentScore": 384.0
@@ -1161,9 +1186,14 @@
     "tournamentPlaces": {
       "firstPlace": "2",
       "secondPlace": "0",
-      "thirdPlace": "1"
+      "thirdPlace": "2"
     },
     "tournaments": [
+      {
+        "tournamentName": "HOU",
+        "tournamentType": 1,
+        "tournamentScore": 361.00
+      },
       {
         "tournamentName": "WMO",
         "tournamentType": 1,
@@ -1361,6 +1391,11 @@
     },
     "tournaments": [
       {
+        "tournamentName": "HOU",
+        "tournamentType": 1,
+        "tournamentScore": 354.50
+      },
+      {
         "tournamentName": "WMO",
         "tournamentType": 1,
         "tournamentScore": 294.50
@@ -1546,6 +1581,11 @@
       "thirdPlace": "5"
     },
     "tournaments": [
+      {
+        "tournamentName": "HOU",
+        "tournamentType": 1,
+        "tournamentScore": 310.0
+      },
       {
         "tournamentName": "WMO",
         "tournamentType": 1,
@@ -1737,6 +1777,11 @@
       "thirdPlace": "3"
     },
     "tournaments": [
+      {
+        "tournamentName": "HOU",
+        "tournamentType": 1,
+        "tournamentScore": 353.0
+      },
       {
         "tournamentName": "WMO",
         "tournamentType": 1,
@@ -1933,15 +1978,15 @@
     "user": "concord",
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/concord.jpg",
     "tournamentPlaces": {
-      "firstPlace": "4",
+      "firstPlace": "5",
       "secondPlace": "3",
       "thirdPlace": "2"
     },
     "tournaments": [
       {
-        "tournamentName": "WMO",
+        "tournamentName": "HOU",
         "tournamentType": 1,
-        "tournamentScore": 430.50
+        "tournamentScore": 427.00
       },
       {
         "tournamentName": "PR",
@@ -2134,6 +2179,11 @@
       "thirdPlace": "1"
     },
     "tournaments": [
+      {
+        "tournamentName": "HOU",
+        "tournamentType": 1,
+        "tournamentScore": 256.50
+      },
       {
         "tournamentName": "WMO",
         "tournamentType": 1,
@@ -2331,6 +2381,11 @@
     },
     "tournaments": [
       {
+        "tournamentName": "HOU",
+        "tournamentType": 1,
+        "tournamentScore": 334.50
+      },
+      {
         "tournamentName": "WMO",
         "tournamentType": 1,
         "tournamentScore": 362.0
@@ -2526,6 +2581,11 @@
       "thirdPlace": "1"
     },
     "tournaments": [
+      {
+        "tournamentName": "HOU",
+        "tournamentType": 1,
+        "tournamentScore": 223.50
+      },
       {
         "tournamentName": "WMO",
         "tournamentType": 1,
@@ -2723,6 +2783,11 @@
     },
     "tournaments": [
       {
+        "tournamentName": "HOU",
+        "tournamentType": 1,
+        "tournamentScore": 262.50
+      },
+      {
         "tournamentName": "WMO",
         "tournamentType": 1,
         "tournamentScore": 427.0
@@ -2914,10 +2979,15 @@
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/jph.jpg",
     "tournamentPlaces": {
       "firstPlace": "3",
-      "secondPlace": "1",
+      "secondPlace": "2",
       "thirdPlace": "2"
     },
     "tournaments": [
+      {
+        "tournamentName": "HOU",
+        "tournamentType": 1,
+        "tournamentScore": 374.00
+      },
       {
         "tournamentName": "WMO",
         "tournamentType": 1,
@@ -3114,6 +3184,11 @@
       "thirdPlace": "1"
     },
     "tournaments": [
+      {
+        "tournamentName": "HOU",
+        "tournamentType": 1,
+        "tournamentScore": 302.00
+      },
       {
         "tournamentName": "WMO",
         "tournamentType": 1,
