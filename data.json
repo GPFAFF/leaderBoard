@@ -1279,7 +1279,7 @@
       {
         "tournamentName": "WYNDHAM",
         "tournamentType": 1,
-        "tournamentScore": 510
+        "tournamentScore": 510.0
       },
       {
         "tournamentName": "PGA",
