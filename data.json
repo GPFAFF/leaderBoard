@@ -2037,6 +2037,11 @@
     },
     "tournaments": [
       {
+        "tournamentName": "MASTERS",
+        "tournamentType": 3,
+        "tournamentScore": 373.0
+      },
+      {
         "tournamentName": "HOU",
         "tournamentType": 1,
         "tournamentScore": 223.50
