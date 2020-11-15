@@ -9,6 +9,11 @@
     },
     "tournaments": [
       {
+        "tournamentName": "MASTERS",
+        "tournamentType": 3,
+        "tournamentScore": 446.5
+      },
+      {
         "tournamentName": "HOU",
         "tournamentType": 1,
         "tournamentScore": 256.5
@@ -159,6 +164,11 @@
       "thirdPlace": "0"
     },
     "tournaments": [
+      {
+        "tournamentName": "MASTERS",
+        "tournamentType": 3,
+        "tournamentScore": 413.5
+      },
       {
         "tournamentName": "HOU",
         "tournamentType": 1,
@@ -311,6 +321,11 @@
     },
     "tournaments": [
       {
+        "tournamentName": "MASTERS",
+        "tournamentType": 3,
+        "tournamentScore": 401.5
+      },
+      {
         "tournamentName": "HOU",
         "tournamentType": 1,
         "tournamentScore": 142.0
@@ -461,6 +476,11 @@
       "thirdPlace": "0"
     },
     "tournaments": [
+      {
+        "tournamentName": "MASTERS",
+        "tournamentType": 3,
+        "tournamentScore": 343.5
+      },
       {
         "tournamentName": "HOU",
         "tournamentType": 1,
@@ -613,6 +633,11 @@
     },
     "tournaments": [
       {
+        "tournamentName": "MASTERS",
+        "tournamentType": 3,
+        "tournamentScore": 343.5
+      },
+      {
         "tournamentName": "HOU",
         "tournamentType": 1,
         "tournamentScore": 310.0
@@ -763,6 +788,11 @@
       "thirdPlace": "3"
     },
     "tournaments": [
+      {
+        "tournamentName": "MASTERS",
+        "tournamentType": 3,
+        "tournamentScore": 362.0
+      },
       {
         "tournamentName": "HOU",
         "tournamentType": 1,
@@ -915,6 +945,11 @@
     },
     "tournaments": [
       {
+        "tournamentName": "MASTERS",
+        "tournamentType": 3,
+        "tournamentScore": 409.0
+      },
+      {
         "tournamentName": "HOU",
         "tournamentType": 1,
         "tournamentScore": 361.0
@@ -1065,6 +1100,11 @@
       "thirdPlace": "1"
     },
     "tournaments": [
+      {
+        "tournamentName": "MASTERS",
+        "tournamentType": 3,
+        "tournamentScore": 362.5
+      },
      {
         "tournamentName": "HOU",
         "tournamentType": 1,
@@ -1216,6 +1256,11 @@
       "thirdPlace": "2"
     },
     "tournaments": [
+      {
+        "tournamentName": "MASTERS",
+        "tournamentType": 3,
+        "tournamentScore": 394.0
+      },
      {
         "tournamentName": "HOU",
         "tournamentType": 1,
@@ -1368,6 +1413,11 @@
     },
     "tournaments": [
       {
+        "tournamentName": "MASTERS",
+        "tournamentType": 3,
+        "tournamentScore": 388.5
+      },
+      {
         "tournamentName": "HOU",
         "tournamentType": 1,
         "tournamentScore": 353.0
@@ -1519,6 +1569,11 @@
     },
     "tournaments": [
       {
+        "tournamentName": "MASTERS",
+        "tournamentType": 3,
+        "tournamentScore": 438.0
+      },
+      {
         "tournamentName": "HOU",
         "tournamentType": 1,
         "tournamentScore": 427.0
@@ -1669,6 +1724,11 @@
       "thirdPlace": "1"
     },
     "tournaments": [
+      {
+        "tournamentName": "MASTERS",
+        "tournamentType": 3,
+        "tournamentScore": 494.5
+      },
      {
         "tournamentName": "HOU",
         "tournamentType": 1,
@@ -1820,6 +1880,11 @@
       "thirdPlace": "0"
     },
     "tournaments": [
+      {
+        "tournamentName": "MASTERS",
+        "tournamentType": 3,
+        "tournamentScore": 387.0
+      },
       {
         "tournamentName": "HOU",
         "tournamentType": 1,
@@ -2123,6 +2188,11 @@
     },
     "tournaments": [
       {
+        "tournamentName": "MASTERS",
+        "tournamentType": 3,
+        "tournamentScore": 418.0
+      },
+      {
         "tournamentName": "HOU",
         "tournamentType": 1,
         "tournamentScore": 262.50
@@ -2273,7 +2343,12 @@
       "thirdPlace": "0"
     },
     "tournaments": [
-    {
+      {
+        "tournamentName": "MASTERS",
+        "tournamentType": 3,
+        "tournamentScore": 359.5
+      },
+      {
         "tournamentName": "HOU",
         "tournamentType": 1,
         "tournamentScore": 374.0
@@ -2424,6 +2499,11 @@
       "thirdPlace": "1"
     },
     "tournaments": [
+      {
+        "tournamentName": "MASTERS",
+        "tournamentType": 3,
+        "tournamentScore": 378.5
+      },
       {
         "tournamentName": "HOU",
         "tournamentType": 1,
