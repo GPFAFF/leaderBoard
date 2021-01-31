@@ -1,50 +1,23 @@
-import React, { Component } from 'react'
-import PropTypes from 'prop-types'
+import React from 'react'
+import { useCalculateTotal, useFormatPoints } from '../hooks';
 
-class TotalScore extends Component {
-
-  calculateTotal = scores => {
-    const scoresArray = scores.reduce((acc, currentValue) => {
-      const total =
-        acc + currentValue.tournamentScore * currentValue.tournamentType;
-      return total;
-    }, 0);
-
-    return scoresArray;
-  };
-
-  render() {
-
-    const { tournaments, pointsBack } = this.props;
-    const { firstPlace, secondPlace, thirdPlace } = this.props.tournamentPlaces;
-
-    const formatPoints = (pointsBack) => {
-      if (pointsBack === "0.00") {
-        return <p>Points Back: 0</p>;
-      }
-      return <p>Points Back: -{pointsBack} </p>;
-    }
-
-    return (
-      <React.Fragment>
-
-        <div className="player_score">
-          <p>Total: {this.calculateTotal(tournaments)}</p>
-          {formatPoints(pointsBack)}
-        </div>
-        <div className="player_wins">
-          <p>1st: {firstPlace} </p>
-          <p>2nd: {secondPlace} </p>
-          <p>3rd: {thirdPlace} </p>
-        </div>
-
-      </React.Fragment>
-    )
-  }
+const TotalScore = ({ tournaments, pointsBack, tournamentPlaces }) => {
+  const { firstPlace, secondPlace, thirdPlace, fourthPlace, fifthPlace } = tournamentPlaces;
+  return (
+    <React.Fragment>
+      <div className="player_score">
+        <p>Total: {useCalculateTotal(tournaments)}</p>
+        {useFormatPoints(pointsBack)}
+      </div>
+      <div className="player_wins">
+        <p>1st: {firstPlace} </p>
+        <p>2nd: {secondPlace} </p>
+        <p>3rd: {thirdPlace} </p>
+        <p>4th: {fourthPlace} </p>
+        <p>5th: {fifthPlace} </p>
+      </div>
+    </React.Fragment>
+  )
 }
-
-TotalScore.propTypes = {
-  tournaments: PropTypes.array
-};
 
 export default TotalScore;

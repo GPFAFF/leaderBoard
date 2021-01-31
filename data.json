@@ -3,467 +3,17 @@
     "user": "gapfaff",
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/greg.jpg",
     "tournamentPlaces": {
-      "firstPlace": "1",
-      "secondPlace": "0",
-      "thirdPlace": "0"
-    },
-    "tournaments": [
-      {
-        "tournamentName": "MASTERS",
-        "tournamentType": 3,
-        "tournamentScore": 446.5
-      },
-      {
-        "tournamentName": "HOU",
-        "tournamentType": 1,
-        "tournamentScore": 256.5
-      },
-      {
-        "tournamentName": "BER",
-        "tournamentType": 1,
-        "tournamentScore": 331.0
-      },
-      {
-        "tournamentName": "ZOZO",
-        "tournamentType": 2,
-        "tournamentScore": 671.50
-      },
-      {
-        "tournamentName": "CJCUP",
-        "tournamentType": 1,
-        "tournamentScore": 489.0
-      },
-      {
-        "tournamentName": "SHRINERS",
-        "tournamentType": 1,
-        "tournamentScore": 570.0
-      },
-      {
-        "tournamentName": "SANDERSON",
-        "tournamentType": 1,
-        "tournamentScore": 392.0
-      },
-      {
-        "tournamentName": "PUNTACANA",
-        "tournamentType": 1,
-        "tournamentScore": 363.50
-      },
-      {
-        "tournamentName": "USOPEN",
-        "tournamentType": 3,
-        "tournamentScore": 311.0
-      },
-      {
-        "tournamentName": "SAFEWAY",
-        "tournamentType": 1,
-        "tournamentScore": 403.5
-      },
-      {
-        "tournamentName": "TOUR",
-        "tournamentType": 2,
-        "tournamentScore": 508.0
-      },
-      {
-        "tournamentName": "BMW",
-        "tournamentType": 2,
-        "tournamentScore": 300
-      },
-      {
-        "tournamentName": "NT",
-        "tournamentType": 2,
-        "tournamentScore": 326.0
-      },
-      {
-        "tournamentName": "WYNDHAM",
-        "tournamentType": 1,
-        "tournamentScore": 389.5
-      },
-      {
-        "tournamentName": "PGA",
-        "tournamentType": 3,
-        "tournamentScore": 430.5
-      },
-      {
-        "tournamentName": "WGCMEM",
-        "tournamentType": 2,
-        "tournamentScore": 476.5
-      },
-      {
-        "tournamentName": "3M",
-        "tournamentType": 1,
-        "tournamentScore": 272.0
-      },
-      {
-        "tournamentName": "MEMORIAL",
-        "tournamentType": 2,
-        "tournamentScore": 284.0
-      },
-      {
-        "tournamentName": "WORKDAY",
-        "tournamentType": 1,
-        "tournamentScore": 306.5
-      },
-      {
-        "tournamentName": "ROCKET",
-        "tournamentType": 1,
-        "tournamentScore": 519.5
-      },
-      {
-        "tournamentName": "TRAVELERS",
-        "tournamentType": 1,
-        "tournamentScore": 284.5
-      },
-      {
-        "tournamentName": "RBC",
-        "tournamentType": 1,
-        "tournamentScore": 498.5
-      },
-      {
-        "tournamentName": "SCHWAB",
-        "tournamentType": 1,
-        "tournamentScore": 281.5
-      },
-      {
-        "tournamentName": "API",
-        "tournamentType": 1,
-        "tournamentScore": 349.5
-      },
-      {
-        "tournamentName": "HONDA",
-        "tournamentType": 1,
-        "tournamentScore": 235.5
-      },
-      {
-        "tournamentName": "WGCMEX",
-        "tournamentType": 2,
-        "tournamentScore": 486.5
-      },
-      {
-        "tournamentName": "GENESIS",
-        "tournamentType": 1,
-        "tournamentScore": 242.0
-      },
-      {
-        "tournamentName": "PEBBLE",
-        "tournamentType": 1,
-        "tournamentScore": 323.0
-      },
-      {
-        "tournamentName": "WMO",
-        "tournamentType": 1,
-        "tournamentScore": 375.5
-      }
-    ]
-  },
-  {
-    "user": "American-Dream",
-    "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/kyle.jpg",
-    "tournamentPlaces": {
       "firstPlace": "0",
-      "secondPlace": "1",
-      "thirdPlace": "0"
+      "secondPlace": "0",
+      "thirdPlace": "0",
+      "fourthPlace": "0",
+      "fifthPlace": "0"
     },
     "tournaments": [
       {
-        "tournamentName": "MASTERS",
-        "tournamentType": 3,
-        "tournamentScore": 413.5
-      },
-      {
-        "tournamentName": "HOU",
+        "tournamentName": "FARMERS",
         "tournamentType": 1,
-        "tournamentScore": 234.0
-      },
-      {
-        "tournamentName": "BER",
-        "tournamentType": 1,
-        "tournamentScore": 353.50
-      },
-      {
-        "tournamentName": "ZOZO",
-        "tournamentType": 2,
-        "tournamentScore": 650.5
-      },
-      {
-        "tournamentName": "CJCUP",
-        "tournamentType": 1,
-        "tournamentScore": 439.5
-      },
-      {
-        "tournamentName": "SHRINERS",
-        "tournamentType": 1,
-        "tournamentScore": 417.0
-      },
-      {
-        "tournamentName": "SANDERSON",
-        "tournamentType": 1,
-        "tournamentScore": 290.0
-      },
-      {
-        "tournamentName": "PUNTACANA",
-        "tournamentType": 1,
-        "tournamentScore": 348.0
-      },
-      {
-        "tournamentName": "USOPEN",
-        "tournamentType": 3,
-        "tournamentScore": 283.0
-      },
-      {
-        "tournamentName": "SAFEWAY",
-        "tournamentType": 1,
-        "tournamentScore": 351.0
-      },
-      {
-        "tournamentName": "TOUR",
-        "tournamentType": 2,
-        "tournamentScore": 453.0
-      },
-      {
-        "tournamentName": "BMW",
-        "tournamentType": 2,
-        "tournamentScore": 283.5
-      },
-      {
-        "tournamentName": "NT",
-        "tournamentType": 2,
-        "tournamentScore": 496.0
-      },
-      {
-        "tournamentName": "WYNDHAM",
-        "tournamentType": 1,
-        "tournamentScore": 511.0
-      },
-      {
-        "tournamentName": "PGA",
-        "tournamentType": 3,
-        "tournamentScore": 407.0
-      },
-      {
-        "tournamentName": "WGCMEM",
-        "tournamentType": 2,
-        "tournamentScore": 462.0
-      },
-      {
-        "tournamentName": "3M",
-        "tournamentType": 1,
-        "tournamentScore": 421.5
-      },
-      {
-        "tournamentName": "MEMORIAL",
-        "tournamentType": 2,
-        "tournamentScore": 322.0
-      },
-      {
-        "tournamentName": "WORKDAY",
-        "tournamentType": 1,
-        "tournamentScore": 393.5
-      },
-      {
-        "tournamentName": "ROCKET",
-        "tournamentType": 1,
-        "tournamentScore": 385.5
-      },
-      {
-        "tournamentName": "TRAVELERS",
-        "tournamentType": 1,
-        "tournamentScore": 282.5
-      },
-      {
-        "tournamentName": "RBC",
-        "tournamentType": 1,
-        "tournamentScore": 509.5
-      },
-      {
-        "tournamentName": "SCHWAB",
-        "tournamentType": 1,
-        "tournamentScore": 333.0
-      },
-      {
-        "tournamentName": "API",
-        "tournamentType": 1,
-        "tournamentScore": 326.5
-      },
-      {
-        "tournamentName": "HONDA",
-        "tournamentType": 1,
-        "tournamentScore": 264.5
-      },
-      {
-        "tournamentName": "WGCMEX",
-        "tournamentType": 2,
-        "tournamentScore": 462.5
-      },
-      {
-        "tournamentName": "GENESIS",
-        "tournamentType": 1,
-        "tournamentScore": 340.0
-      },
-      {
-        "tournamentName": "PEBBLE",
-        "tournamentType": 1,
-        "tournamentScore": 456.0
-      },
-      {
-        "tournamentName": "WMO",
-        "tournamentType": 1,
-        "tournamentScore": 462.5
-      }
-    ]
-  },
-  {
-    "user": "boyewsky",
-    "icon": "",
-    "tournamentPlaces": {
-      "firstPlace": "1",
-      "secondPlace": "1",
-      "thirdPlace": "1"
-    },
-    "tournaments": [
-      {
-        "tournamentName": "MASTERS",
-        "tournamentType": 3,
-        "tournamentScore": 401.5
-      },
-      {
-        "tournamentName": "HOU",
-        "tournamentType": 1,
-        "tournamentScore": 142.0
-      },
-      {
-        "tournamentName": "BER",
-        "tournamentType": 1,
-        "tournamentScore": 385.50
-      },
-      {
-        "tournamentName": "ZOZO",
-        "tournamentType": 2,
-        "tournamentScore": 622.50
-      },
-      {
-        "tournamentName": "CJCUP",
-        "tournamentType": 1,
-        "tournamentScore": 528.50
-      },
-      {
-        "tournamentName": "SHRINERS",
-        "tournamentType": 1,
-        "tournamentScore": 500.5
-      },
-      {
-        "tournamentName": "SANDERSON",
-        "tournamentType": 1,
-        "tournamentScore": 460.0
-      },
-      {
-        "tournamentName": "PUNTACANA",
-        "tournamentType": 1,
-        "tournamentScore": 399.0
-      },
-      {
-        "tournamentName": "USOPEN",
-        "tournamentType": 3,
-        "tournamentScore": 297.50
-      },
-      {
-        "tournamentName": "SAFEWAY",
-        "tournamentType": 1,
-        "tournamentScore": 372.0
-      },
-      {
-        "tournamentName": "TOUR",
-        "tournamentType": 2,
-        "tournamentScore": 458.0
-      },
-      {
-        "tournamentName": "BMW",
-        "tournamentType": 2,
-        "tournamentScore": 321.5
-      },
-      {
-        "tournamentName": "NT",
-        "tournamentType": 2,
-        "tournamentScore": 211.5
-      },
-      {
-        "tournamentName": "WYNDHAM",
-        "tournamentType": 1,
-        "tournamentScore": 465.5
-      },
-      {
-        "tournamentName": "PGA",
-        "tournamentType": 3,
-        "tournamentScore": 492.5
-      },
-      {
-        "tournamentName": "WGCMEM",
-        "tournamentType": 2,
-        "tournamentScore": 389.5
-      },
-      {
-        "tournamentName": "3M",
-        "tournamentType": 1,
-        "tournamentScore": 391.5
-      },
-      {
-        "tournamentName": "MEMORIAL",
-        "tournamentType": 2,
-        "tournamentScore": 260.5
-      },
-      {
-        "tournamentName": "WORKDAY",
-        "tournamentType": 1,
-        "tournamentScore": 352.5
-      },
-      {
-        "tournamentName": "ROCKET",
-        "tournamentType": 1,
-        "tournamentScore": 476.5
-      },
-      {
-        "tournamentName": "TRAVELERS",
-        "tournamentType": 1,
-        "tournamentScore": 271.5
-      },
-      {
-        "tournamentName": "RBC",
-        "tournamentType": 1,
-        "tournamentScore": 579.5
-      },
-      {
-        "tournamentName": "SCHWAB",
-        "tournamentType": 1,
-        "tournamentScore": 331.5
-      },
-      {
-        "tournamentName": "API",
-        "tournamentType": 1,
-        "tournamentScore": 275.5
-      },
-      {
-        "tournamentName": "HONDA",
-        "tournamentType": 1,
-        "tournamentScore": 311.5
-      },
-      {
-        "tournamentName": "WGCMEX",
-        "tournamentType": 2,
-        "tournamentScore": 485.5
-      },
-      {
-        "tournamentName": "GENESIS",
-        "tournamentType": 1,
-        "tournamentScore": 346.50
-      },
-      {
-        "tournamentName": "PEBBLE",
-        "tournamentType": 1,
-        "tournamentScore": 364.0
-      },
-      {
-        "tournamentName": "WMO",
-        "tournamentType": 1,
-        "tournamentScore": 338.5
+        "tournamentScore": 309.50
       }
     ]
   },
@@ -471,155 +21,35 @@
     "user": "chrisp101010",
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/chris.jpg",
     "tournamentPlaces": {
-      "firstPlace": "1",
+      "firstPlace": "0",
       "secondPlace": "0",
-      "thirdPlace": "0"
+      "thirdPlace": "0",
+      "fourthPlace": "0",
+      "fifthPlace": "0"
     },
     "tournaments": [
       {
-        "tournamentName": "MASTERS",
-        "tournamentType": 3,
-        "tournamentScore": 343.5
-      },
-      {
-        "tournamentName": "HOU",
+        "tournamentName": "FARMERS",
         "tournamentType": 1,
-        "tournamentScore": 142.0
-      },
+        "tournamentScore": 405.0
+      }
+    ]
+  },
+  {
+    "user": "Syvretzky",
+    "icon": "",
+    "tournamentPlaces": {
+      "firstPlace": "0",
+      "secondPlace": "0",
+      "thirdPlace": "0",
+      "fourthPlace": "0",
+      "fifthPlace": "0"
+    },
+    "tournaments": [
       {
-        "tournamentName": "BER",
+        "tournamentName": "FARMERS",
         "tournamentType": 1,
-        "tournamentScore": 160.0
-      },
-       {
-        "tournamentName": "ZOZO",
-        "tournamentType": 2,
-        "tournamentScore": 392.0
-      },
-      {
-        "tournamentName": "CJCUP",
-        "tournamentType": 1,
-        "tournamentScore": 323.0
-      },
-      {
-        "tournamentName": "SHRINERS",
-        "tournamentType": 1,
-        "tournamentScore": 293.0
-      },
-      {
-        "tournamentName": "SANDERSON",
-        "tournamentType": 1,
-        "tournamentScore": 182.0
-      },
-      {
-        "tournamentName": "PUNTACANA",
-        "tournamentType": 1,
-        "tournamentScore": 384.0
-      },
-      {
-        "tournamentName": "USOPEN",
-        "tournamentType": 3,
-        "tournamentScore": 191.5
-      },
-      {
-        "tournamentName": "SAFEWAY",
-        "tournamentType": 1,
-        "tournamentScore": 180.0
-      },
-      {
-        "tournamentName": "TOUR",
-        "tournamentType": 2,
-        "tournamentScore": 447.5
-      },
-      {
-        "tournamentName": "BMW",
-        "tournamentType": 2,
-        "tournamentScore": 278.5
-      },
-      {
-        "tournamentName": "NT",
-        "tournamentType": 2,
-        "tournamentScore": 459.5
-      },
-      {
-        "tournamentName": "WYNDHAM",
-        "tournamentType": 1,
-        "tournamentScore": 320.5
-      },
-      {
-        "tournamentName": "PGA",
-        "tournamentType": 3,
-        "tournamentScore": 321.5
-      },
-      {
-        "tournamentName": "WGCMEM",
-        "tournamentType": 2,
-        "tournamentScore": 420.5
-      },
-      {
-        "tournamentName": "3M",
-        "tournamentType": 1,
-        "tournamentScore": 417.0
-      },
-      {
-        "tournamentName": "MEMORIAL",
-        "tournamentType": 2,
-        "tournamentScore": 269.5
-      },
-      {
-        "tournamentName": "WORKDAY",
-        "tournamentType": 1,
-        "tournamentScore": 378.5
-      },
-      {
-        "tournamentName": "ROCKET",
-        "tournamentType": 1,
-        "tournamentScore": 387.0
-      },
-      {
-        "tournamentName": "TRAVELERS",
-        "tournamentType": 1,
-        "tournamentScore": 498.0
-      },
-      {
-        "tournamentName": "RBC",
-        "tournamentType": 1,
-        "tournamentScore": 439.0
-      },
-      {
-        "tournamentName": "SCHWAB",
-        "tournamentType": 1,
-        "tournamentScore": 374.5
-      },
-      {
-        "tournamentName": "API",
-        "tournamentType": 1,
-        "tournamentScore": 237.5
-      },
-      {
-        "tournamentName": "HONDA",
-        "tournamentType": 1,
-        "tournamentScore": 209.5
-      },
-      {
-        "tournamentName": "WGCMEX",
-        "tournamentType": 2,
-        "tournamentScore": 431.0
-      },
-      {
-        "tournamentName": "GENESIS",
-        "tournamentType": 1,
-        "tournamentScore": 231.0
-      },
-      {
-        "tournamentName": "PEBBLE",
-        "tournamentType": 1,
-        "tournamentScore": 397.0
-      },
-      {
-        "tournamentName": "WMO",
-        "tournamentType": 1,
-        "tournamentScore": 376.0
+        "tournamentScore": 385.50
       }
     ]
   },
@@ -628,154 +58,16 @@
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/cohen.jpeg",
     "tournamentPlaces": {
       "firstPlace": "0",
-      "secondPlace": "1",
-      "thirdPlace": "0"
+      "secondPlace": "0",
+      "thirdPlace": "0",
+      "fourthPlace": "0",
+      "fifthPlace": "0"
     },
     "tournaments": [
       {
-        "tournamentName": "MASTERS",
-        "tournamentType": 3,
-        "tournamentScore": 343.5
-      },
-      {
-        "tournamentName": "HOU",
+        "tournamentName": "FARMERS",
         "tournamentType": 1,
-        "tournamentScore": 310.0
-      },
-      {
-        "tournamentName": "BER",
-        "tournamentType": 1,
-        "tournamentScore": 213.50
-      },
-      {
-        "tournamentName": "ZOZO",
-        "tournamentType": 2,
-        "tournamentScore": 607.0
-      },
-      {
-        "tournamentName": "CJCUP",
-        "tournamentType": 1,
-        "tournamentScore": 487.0
-      },
-      {
-        "tournamentName": "SHRINERS",
-        "tournamentType": 1,
-        "tournamentScore": 481.0
-      },
-      {
-        "tournamentName": "SANDERSON",
-        "tournamentType": 1,
-        "tournamentScore": 260.0
-      },
-      {
-        "tournamentName": "PUNTACANA",
-        "tournamentType": 1,
-        "tournamentScore": 325.5
-      },
-      {
-        "tournamentName": "USOPEN",
-        "tournamentType": 3,
-        "tournamentScore": 273.0
-      },
-      {
-        "tournamentName": "SAFEWAY",
-        "tournamentType": 1,
-        "tournamentScore": 353.5
-      },
-      {
-        "tournamentName": "TOUR",
-        "tournamentType": 2,
-        "tournamentScore": 460.50
-      },
-      {
-        "tournamentName": "BMW",
-        "tournamentType": 2,
-        "tournamentScore": 314.0
-      },
-      {
-        "tournamentName": "NT",
-        "tournamentType": 2,
-        "tournamentScore": 319.5
-      },
-      {
-        "tournamentName": "WYNDHAM",
-        "tournamentType": 1,
-        "tournamentScore": 214.0
-      },
-      {
-        "tournamentName": "PGA",
-        "tournamentType": 3,
-        "tournamentScore": 305.5
-      },
-      {
-        "tournamentName": "WGCMEM",
-        "tournamentType": 2,
-        "tournamentScore": 411.0
-      },
-      {
-        "tournamentName": "3M",
-        "tournamentType": 1,
-        "tournamentScore": 397.0
-      },
-      {
-        "tournamentName": "MEMORIAL",
-        "tournamentType": 2,
-        "tournamentScore": 293.5
-      },
-      {
-        "tournamentName": "WORKDAY",
-        "tournamentType": 1,
-        "tournamentScore": 441.0
-      },
-      {
-        "tournamentName": "ROCKET",
-        "tournamentType": 1,
-        "tournamentScore": 339.0
-      },
-      {
-        "tournamentName": "TRAVELERS",
-        "tournamentType": 1,
-        "tournamentScore": 432.5
-      },
-      {
-        "tournamentName": "RBC",
-        "tournamentType": 1,
-        "tournamentScore": 510.0
-      },
-      {
-        "tournamentName": "SCHWAB",
-        "tournamentType": 1,
-        "tournamentScore": 447.0
-      },
-      {
-        "tournamentName": "API",
-        "tournamentType": 1,
-        "tournamentScore": 289.5
-      },
-      {
-        "tournamentName": "HONDA",
-        "tournamentType": 1,
-        "tournamentScore": 289.5
-      },
-      {
-        "tournamentName": "WGCMEX",
-        "tournamentType": 2,
-        "tournamentScore": 485.0
-      },
-      {
-        "tournamentName": "GENESIS",
-        "tournamentType": 1,
-        "tournamentScore": 381.0
-      },
-      {
-        "tournamentName": "PEBBLE",
-        "tournamentType": 1,
-        "tournamentScore": 424.50
-      },
-      {
-        "tournamentName": "WMO",
-        "tournamentType": 1,
-        "tournamentScore": 400.0
+        "tournamentScore": 263.0
       }
     ]
   },
@@ -784,154 +76,16 @@
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/money.jpg",
     "tournamentPlaces": {
       "firstPlace": "0",
-      "secondPlace": "1",
-      "thirdPlace": "3"
+      "secondPlace": "0",
+      "thirdPlace": "0",
+      "fourthPlace": "0",
+      "fifthPlace": "0"
     },
     "tournaments": [
       {
-        "tournamentName": "MASTERS",
-        "tournamentType": 3,
-        "tournamentScore": 362.0
-      },
-      {
-        "tournamentName": "HOU",
+        "tournamentName": "FARMERS",
         "tournamentType": 1,
-        "tournamentScore": 189.50
-      },
-      {
-        "tournamentName": "BER",
-        "tournamentType": 1,
-        "tournamentScore": 384.0
-      },
-      {
-        "tournamentName": "ZOZO",
-        "tournamentType": 2,
-        "tournamentScore": 601.5
-      },
-      {
-        "tournamentName": "CJCUP",
-        "tournamentType": 1,
-        "tournamentScore": 512.0
-      },
-      {
-        "tournamentName": "SHRINERS",
-        "tournamentType": 1,
-        "tournamentScore": 445.5
-      },
-      {
-        "tournamentName": "SANDERSON",
-        "tournamentType": 1,
-        "tournamentScore": 445.5
-      },
-      {
-        "tournamentName": "PUNTACANA",
-        "tournamentType": 1,
-        "tournamentScore": 410.0
-      },
-      {
-        "tournamentName": "USOPEN",
-        "tournamentType": 3,
-        "tournamentScore": 173.0
-      },
-      {
-        "tournamentName": "SAFEWAY",
-        "tournamentType": 1,
-        "tournamentScore": 267.0
-      },
-      {
-        "tournamentName": "TOUR",
-        "tournamentType": 2,
-        "tournamentScore": 498.0
-      },
-      {
-        "tournamentName": "BMW",
-        "tournamentType": 2,
-        "tournamentScore": 274.0
-      },
-      {
-        "tournamentName": "NT",
-        "tournamentType": 2,
-        "tournamentScore": 395.0
-      },
-      {
-        "tournamentName": "WYNDHAM",
-        "tournamentType": 1,
-        "tournamentScore": 510.0
-      },
-      {
-        "tournamentName": "PGA",
-        "tournamentType": 3,
-        "tournamentScore": 410.0
-      },
-      {
-        "tournamentName": "WGCMEM",
-        "tournamentType": 2,
-        "tournamentScore": 405.5
-      },
-      {
-        "tournamentName": "3M",
-        "tournamentType": 1,
-        "tournamentScore": 306.5
-      },
-      {
-        "tournamentName": "MEMORIAL",
-        "tournamentType": 2,
-        "tournamentScore": 384.5
-      },
-      {
-        "tournamentName": "WORKDAY",
-        "tournamentType": 1,
-        "tournamentScore": 335.0
-      },
-      {
-        "tournamentName": "ROCKET",
-        "tournamentType": 1,
-        "tournamentScore": 362.5
-      },
-      {
-        "tournamentName": "TRAVELERS",
-        "tournamentType": 1,
-        "tournamentScore": 290.0
-      },
-      {
-        "tournamentName": "RBC",
-        "tournamentType": 1,
-        "tournamentScore": 435.5
-      },
-      {
-        "tournamentName": "SCHWAB",
-        "tournamentType": 1,
-        "tournamentScore": 519.0
-      },
-      {
-        "tournamentName": "API",
-        "tournamentType": 1,
-        "tournamentScore": 250.5
-      },
-      {
-        "tournamentName": "HONDA",
-        "tournamentType": 1,
-        "tournamentScore": 387.0
-      },
-      {
-        "tournamentName": "WGCMEX",
-        "tournamentType": 2,
-        "tournamentScore": 456.5
-      },
-      {
-        "tournamentName": "GENESIS",
-        "tournamentType": 1,
-        "tournamentScore": 341.50
-      },
-      {
-        "tournamentName": "PEBBLE",
-        "tournamentType": 1,
-        "tournamentScore": 419.50
-      },
-      {
-        "tournamentName": "WMO",
-        "tournamentType": 1,
-        "tournamentScore": 355.0
+        "tournamentScore": 380.50
       }
     ]
   },
@@ -941,153 +95,51 @@
     "tournamentPlaces": {
       "firstPlace": "0",
       "secondPlace": "0",
-      "thirdPlace": "1"
+      "thirdPlace": "0",
+      "fourthPlace": "0",
+      "fifthPlace": "0"
     },
     "tournaments": [
       {
-        "tournamentName": "MASTERS",
-        "tournamentType": 3,
-        "tournamentScore": 409.0
-      },
-      {
-        "tournamentName": "HOU",
+        "tournamentName": "FARMERS",
         "tournamentType": 1,
-        "tournamentScore": 361.0
-      },
+        "tournamentScore": 274.0
+      }
+    ]
+  },
+  {
+    "user": "American-Dream",
+    "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/kyle.jpg",
+    "tournamentPlaces": {
+      "firstPlace": "0",
+      "secondPlace": "0",
+      "thirdPlace": "0",
+      "fourthPlace": "0",
+      "fifthPlace": "0"
+    },
+    "tournaments": [
       {
-        "tournamentName": "BER",
-        "tournamentType": 1,
-        "tournamentScore": 349.5
-      },
-      {
-        "tournamentName": "ZOZO",
-        "tournamentType": 2,
-        "tournamentScore": 616.50
-      },
-      {
-        "tournamentName": "CJCUP",
-        "tournamentType": 1,
-        "tournamentScore": 457.0
-      },
-      {
-        "tournamentName": "SHRINERS",
-        "tournamentType": 1,
-        "tournamentScore": 451.5
-      },
-      {
-        "tournamentName": "SANDERSON",
-        "tournamentType": 1,
-        "tournamentScore": 317.0
-      },
-      {
-        "tournamentName": "PUNTACANA",
-        "tournamentType": 1,
-        "tournamentScore": 225.0
-      },
-      {
-        "tournamentName": "USOPEN",
-        "tournamentType": 3,
-        "tournamentScore": 344.5
-      },
-      {
-        "tournamentName": "SAFEWAY",
-        "tournamentType": 1,
-        "tournamentScore": 317.5
-      },
-      {
-        "tournamentName": "TOUR",
-        "tournamentType": 2,
-        "tournamentScore": 506
-      },
-      {
-        "tournamentName": "BMW",
-        "tournamentType": 2,
-        "tournamentScore": 347.0
-      },
-      {
-        "tournamentName": "NT",
-        "tournamentType": 2,
-        "tournamentScore": 359.0
-      },
-      {
-        "tournamentName": "WYNDHAM",
-        "tournamentType": 1,
-        "tournamentScore": 497.5
-      },
-      {
-        "tournamentName": "PGA",
-        "tournamentType": 3,
-        "tournamentScore": 387.00
-      },
-      {
-        "tournamentName": "WGCMEM",
-        "tournamentType": 2,
-        "tournamentScore": 452.5
-      },
-      {
-        "tournamentName": "3M",
-        "tournamentType": 1,
-        "tournamentScore": 409.5
-      },
-      {
-        "tournamentName": "MEMORIAL",
-        "tournamentType": 2,
-        "tournamentScore": 205.0
-      },
-      {
-        "tournamentName": "WORKDAY",
-        "tournamentType": 1,
-        "tournamentScore": 430.0
-      },
-      {
-        "tournamentName": "ROCKET",
-        "tournamentType": 1,
-        "tournamentScore": 422.5
-      },
-      {
-        "tournamentName": "TRAVELERS",
-        "tournamentType": 1,
-        "tournamentScore": 248.0
-      },
-      {
-        "tournamentName": "RBC",
-        "tournamentType": 1,
-        "tournamentScore": 463.5
-      },
-      {
-        "tournamentName": "SCHWAB",
-        "tournamentType": 1,
-        "tournamentScore": 418.0
-      },
-      {
-        "tournamentName": "API",
-        "tournamentType": 1,
-        "tournamentScore": 237.0
-      },
-      {
-        "tournamentName": "HONDA",
-        "tournamentType": 1,
-        "tournamentScore": 358.5
-      },
-      {
-        "tournamentName": "WGCMEX",
-        "tournamentType": 2,
-        "tournamentScore": 380.0
-      },
-      {
-        "tournamentName": "GENESIS",
-        "tournamentType": 1,
-        "tournamentScore": 342.0
-      },
-      {
-        "tournamentName": "PEBBLE",
-        "tournamentType": 1,
-        "tournamentScore": 454.0
-      },
-      {
-        "tournamentName": "WMO",
+        "tournamentName": "FARMERS",
         "tournamentType": 1,
         "tournamentScore": 349.0
+      }
+    ]
+  },
+  {
+    "user": "boyewsky",
+    "icon": "",
+    "tournamentPlaces": {
+      "firstPlace": "0",
+      "secondPlace": "0",
+      "thirdPlace": "0",
+      "fourthPlace": "0",
+      "fifthPlace": "0"
+    },
+    "tournaments": [
+      {
+        "tournamentName": "FARMERS",
+        "tournamentType": 1,
+        "tournamentScore": 373.0
       }
     ]
   },
@@ -1095,155 +147,17 @@
     "user": "CubyBlue",
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/cuby.jpg",
     "tournamentPlaces": {
-      "firstPlace": "2",
+      "firstPlace": "0",
       "secondPlace": "0",
-      "thirdPlace": "1"
+      "thirdPlace": "0",
+      "fourthPlace": "0",
+      "fifthPlace": "0"
     },
     "tournaments": [
       {
-        "tournamentName": "MASTERS",
-        "tournamentType": 3,
-        "tournamentScore": 362.5
-      },
-     {
-        "tournamentName": "HOU",
+        "tournamentName": "FARMERS",
         "tournamentType": 1,
-        "tournamentScore": 354.50
-      },
-      {
-        "tournamentName": "BER",
-        "tournamentType": 1,
-        "tournamentScore": 294.50
-      },
-      {
-        "tournamentName": "ZOZO",
-        "tournamentType": 2,
-        "tournamentScore": 392.0
-      },
-      {
-        "tournamentName": "CJCUP",
-        "tournamentType": 1,
-        "tournamentScore": 323.0
-      },
-      {
-        "tournamentName": "SHRINERS",
-        "tournamentType": 1,
-        "tournamentScore": 482.0
-      },
-      {
-        "tournamentName": "SANDERSON",
-        "tournamentType": 1,
-        "tournamentScore": 557.50
-      },
-      {
-        "tournamentName": "PUNTACANA",
-        "tournamentType": 1,
-        "tournamentScore": 306.0
-      },
-      {
-        "tournamentName": "USOPEN",
-        "tournamentType": 3,
-        "tournamentScore": 228.5
-      },
-      {
-        "tournamentName": "SAFEWAY",
-        "tournamentType": 1,
-        "tournamentScore": 240.0
-      },
-      {
-        "tournamentName": "TOUR",
-        "tournamentType": 2,
-        "tournamentScore": 479.0
-      },
-      {
-        "tournamentName": "BMW",
-        "tournamentType": 2,
-        "tournamentScore": 314.5
-      },
-      {
-        "tournamentName": "NT",
-        "tournamentType": 2,
-        "tournamentScore": 483.5
-      },
-      {
-        "tournamentName": "WYNDHAM",
-        "tournamentType": 1,
-        "tournamentScore": 214.0
-      },
-      {
-        "tournamentName": "PGA",
-        "tournamentType": 3,
-        "tournamentScore": 317.0
-      },
-      {
-        "tournamentName": "WGCMEM",
-        "tournamentType": 2,
-        "tournamentScore": 279.0
-      },
-      {
-        "tournamentName": "3M",
-        "tournamentType": 1,
-        "tournamentScore": 417.5
-      },
-      {
-        "tournamentName": "MEMORIAL",
-        "tournamentType": 2,
-        "tournamentScore": 289.5
-      },
-      {
-        "tournamentName": "WORKDAY",
-        "tournamentType": 1,
-        "tournamentScore": 216.0
-      },
-      {
-        "tournamentName": "ROCKET",
-        "tournamentType": 1,
-        "tournamentScore": 350.0
-      },
-      {
-        "tournamentName": "TRAVELERS",
-        "tournamentType": 1,
-        "tournamentScore": 388.5
-      },
-      {
-        "tournamentName": "RBC",
-        "tournamentType": 1,
-        "tournamentScore": 569.0
-      },
-      {
-        "tournamentName": "SCHWAB",
-        "tournamentType": 1,
-        "tournamentScore": 308.5
-      },
-      {
-        "tournamentName": "API",
-        "tournamentType": 1,
-        "tournamentScore": 227.5
-      },
-      {
-        "tournamentName": "HONDA",
-        "tournamentType": 1,
-        "tournamentScore": 305.5
-      },
-      {
-        "tournamentName": "WGCMEX",
-        "tournamentType": 2,
-        "tournamentScore": 476.0
-      },
-      {
-        "tournamentName": "GENESIS",
-        "tournamentType": 1,
-        "tournamentScore": 338.0
-      },
-      {
-        "tournamentName": "PEBBLE",
-        "tournamentType": 1,
-        "tournamentScore": 359.0
-      },
-      {
-        "tournamentName": "WMO",
-        "tournamentType": 1,
-        "tournamentScore": 210.0
+        "tournamentScore": 285.50
       }
     ]
   },
@@ -1253,153 +167,33 @@
     "tournamentPlaces": {
       "firstPlace": "0",
       "secondPlace": "0",
-      "thirdPlace": "2"
+      "thirdPlace": "0",
+      "fourthPlace": "0",
+      "fifthPlace": "0"
     },
     "tournaments": [
       {
-        "tournamentName": "MASTERS",
-        "tournamentType": 3,
-        "tournamentScore": 394.0
-      },
-     {
-        "tournamentName": "HOU",
+        "tournamentName": "FARMERS",
         "tournamentType": 1,
-        "tournamentScore": 310.0
-      },
+        "tournamentScore": 364.5
+      }
+    ]
+  },
+  {
+    "user": "rhup",
+    "icon": "",
+    "tournamentPlaces": {
+      "firstPlace": "0",
+      "secondPlace": "0",
+      "thirdPlace": "0",
+      "fourthPlace": "0",
+      "fifthPlace": "0"
+    },
+    "tournaments": [
       {
-        "tournamentName": "BER",
+        "tournamentName": "FARMERS",
         "tournamentType": 1,
-        "tournamentScore": 366.50
-      },
-      {
-        "tournamentName": "ZOZO",
-        "tournamentType": 2,
-        "tournamentScore": 523.0
-      },
-      {
-        "tournamentName": "CJCUP",
-        "tournamentType": 1,
-        "tournamentScore": 498.0
-      },
-      {
-        "tournamentName": "SHRINERS",
-        "tournamentType": 1,
-        "tournamentScore": 520.50
-      },
-      {
-        "tournamentName": "SANDERSON",
-        "tournamentType": 1,
-        "tournamentScore": 411.0
-      },
-      {
-        "tournamentName": "PUNTACANA",
-        "tournamentType": 1,
-        "tournamentScore": 385.5
-      },
-      {
-        "tournamentName": "USOPEN",
-        "tournamentType": 3,
-        "tournamentScore": 243.0
-      },
-      {
-        "tournamentName": "SAFEWAY",
-        "tournamentType": 1,
-        "tournamentScore": 444.5
-      },
-      {
-        "tournamentName": "TOUR",
-        "tournamentType": 2,
-        "tournamentScore": 444.0
-      },
-      {
-        "tournamentName": "BMW",
-        "tournamentType": 2,
-        "tournamentScore": 289.5
-      },
-      {
-        "tournamentName": "NT",
-        "tournamentType": 2,
-        "tournamentScore": 363.5
-      },
-      {
-        "tournamentName": "WYNDHAM",
-        "tournamentType": 1,
-        "tournamentScore": 510.0
-      },
-      {
-        "tournamentName": "PGA",
-        "tournamentType": 3,
-        "tournamentScore": 431.5
-      },
-      {
-        "tournamentName": "WGCMEM",
-        "tournamentType": 2,
-        "tournamentScore": 460.0
-      },
-      {
-        "tournamentName": "3M",
-        "tournamentType": 1,
-        "tournamentScore": 308.5
-      },
-      {
-        "tournamentName": "MEMORIAL",
-        "tournamentType": 2,
-        "tournamentScore": 402.0
-      },
-      {
-        "tournamentName": "WORKDAY",
-        "tournamentType": 1,
-        "tournamentScore": 434.5
-      },
-      {
-        "tournamentName": "ROCKET",
-        "tournamentType": 1,
-        "tournamentScore": 562.0
-      },
-      {
-        "tournamentName": "TRAVELERS",
-        "tournamentType": 1,
-        "tournamentScore": 441.0
-      },
-      {
-        "tournamentName": "RBC",
-        "tournamentType": 1,
-        "tournamentScore": 572.0
-      },
-      {
-        "tournamentName": "SCHWAB",
-        "tournamentType": 1,
-        "tournamentScore": 524.0
-      },
-      {
-        "tournamentName": "API",
-        "tournamentType": 1,
-        "tournamentScore": 224.0
-      },
-      {
-        "tournamentName": "HONDA",
-        "tournamentType": 1,
-        "tournamentScore": 230.50
-      },
-      {
-        "tournamentName": "WGCMEX",
-        "tournamentType": 2,
-        "tournamentScore": 469.50
-      },
-      {
-        "tournamentName": "GENESIS",
-        "tournamentType": 1,
-        "tournamentScore": 361.50
-      },
-      {
-        "tournamentName": "PEBBLE",
-        "tournamentType": 1,
-        "tournamentScore": 455.50
-      },
-      {
-        "tournamentName": "WMO",
-        "tournamentType": 1,
-        "tournamentScore": 350.5
+        "tournamentScore": 355.0
       }
     ]
   },
@@ -1407,155 +201,17 @@
     "user": "mlewicki",
     "icon": "",
     "tournamentPlaces": {
-      "firstPlace": "1",
-      "secondPlace": "1",
-      "thirdPlace": "3"
+      "firstPlace": "0",
+      "secondPlace": "0",
+      "thirdPlace": "0",
+      "fourthPlace": "1",
+      "fifthPlace": "0"
     },
     "tournaments": [
       {
-        "tournamentName": "MASTERS",
-        "tournamentType": 3,
-        "tournamentScore": 388.5
-      },
-      {
-        "tournamentName": "HOU",
+        "tournamentName": "FARMERS",
         "tournamentType": 1,
-        "tournamentScore": 353.0
-      },
-      {
-        "tournamentName": "BER",
-        "tournamentType": 1,
-        "tournamentScore": 356.50
-      },
-      {
-        "tournamentName": "ZOZO",
-        "tournamentType": 2,
-        "tournamentScore": 392.0
-      },
-      {
-        "tournamentName": "CJCUP",
-        "tournamentType": 1,
-        "tournamentScore": 474.5
-      },
-      {
-        "tournamentName": "SHRINERS",
-        "tournamentType": 1,
-        "tournamentScore": 281.50
-      },
-      {
-        "tournamentName": "SANDERSON",
-        "tournamentType": 1,
-        "tournamentScore": 243.0
-      },
-      {
-        "tournamentName": "PUNTACANA",
-        "tournamentType": 1,
-        "tournamentScore": 427.0
-      },
-      {
-        "tournamentName": "USOPEN",
-        "tournamentType": 3,
-        "tournamentScore": 266.5
-      },
-      {
-        "tournamentName": "SAFEWAY",
-        "tournamentType": 1,
-        "tournamentScore": 465.0
-      },
-      {
-        "tournamentName": "TOUR",
-        "tournamentType": 2,
-        "tournamentScore": 316.0
-      },
-      {
-        "tournamentName": "BMW",
-        "tournamentType": 2,
-        "tournamentScore": 309.0
-      },
-      {
-        "tournamentName": "NT",
-        "tournamentType": 2,
-        "tournamentScore": 269.0
-      },
-      {
-        "tournamentName": "WYNDHAM",
-        "tournamentType": 1,
-        "tournamentScore": 464.5
-      },
-      {
-        "tournamentName": "PGA",
-        "tournamentType": 3,
-        "tournamentScore": 435.5
-      },
-      {
-        "tournamentName": "WGCMEM",
-        "tournamentType": 2,
-        "tournamentScore": 372.5
-      },
-      {
-        "tournamentName": "3M",
-        "tournamentType": 1,
-        "tournamentScore": 360.0
-      },
-      {
-        "tournamentName": "MEMORIAL",
-        "tournamentType": 2,
-        "tournamentScore": 259.0
-      },
-      {
-        "tournamentName": "WORKDAY",
-        "tournamentType": 1,
-        "tournamentScore": 360.0
-      },
-      {
-        "tournamentName": "ROCKET",
-        "tournamentType": 1,
-        "tournamentScore": 367.0
-      },
-      {
-        "tournamentName": "TRAVELERS",
-        "tournamentType": 1,
-        "tournamentScore": 378.0
-      },
-      {
-        "tournamentName": "RBC",
-        "tournamentType": 1,
-        "tournamentScore": 456.5
-      },
-      {
-        "tournamentName": "SCHWAB",
-        "tournamentType": 1,
-        "tournamentScore": 412.0
-      },
-      {
-        "tournamentName": "API",
-        "tournamentType": 1,
-        "tournamentScore": 249.5
-      },
-      {
-        "tournamentName": "HONDA",
-        "tournamentType": 1,
-        "tournamentScore": 236.0
-      },
-      {
-        "tournamentName": "WGCMEX",
-        "tournamentType": 2,
-        "tournamentScore": 491.5
-      },
-      {
-        "tournamentName": "GENESIS",
-        "tournamentType": 1,
-        "tournamentScore": 421.0
-      },
-      {
-        "tournamentName": "PEBBLE",
-        "tournamentType": 1,
-        "tournamentScore": 378.0
-      },
-      {
-        "tournamentName": "WMO",
-        "tournamentType": 1,
-        "tournamentScore": 445.0
+        "tournamentScore": 418.50
       }
     ]
   },
@@ -1563,155 +219,17 @@
     "user": "concord",
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/concord.jpg",
     "tournamentPlaces": {
-      "firstPlace": "1",
-      "secondPlace": "1",
-      "thirdPlace": "0"
+      "firstPlace": "0",
+      "secondPlace": "0",
+      "thirdPlace": "0",
+      "fourthPlace": "0",
+      "fifthPlace": "1"
     },
     "tournaments": [
       {
-        "tournamentName": "MASTERS",
-        "tournamentType": 3,
-        "tournamentScore": 438.0
-      },
-      {
-        "tournamentName": "HOU",
+        "tournamentName": "FARMERS",
         "tournamentType": 1,
-        "tournamentScore": 427.0
-      },
-      {
-        "tournamentName": "BER",
-        "tournamentType": 1,
-        "tournamentScore": 430.50
-      },
-      {
-        "tournamentName": "ZOZO",
-        "tournamentType": 2,
-        "tournamentScore": 616.0
-      },
-      {
-        "tournamentName": "CJCUP",
-        "tournamentType": 1,
-        "tournamentScore": 486.0
-      },
-      {
-        "tournamentName": "SHRINERS",
-        "tournamentType": 1,
-        "tournamentScore": 419.0
-      },
-      {
-        "tournamentName": "SANDERSON",
-        "tournamentType": 1,
-        "tournamentScore": 307.5
-      },
-      {
-        "tournamentName": "PUNTACANA",
-        "tournamentType": 1,
-        "tournamentScore": 382.0
-      },
-      {
-        "tournamentName": "USOPEN",
-        "tournamentType": 3,
-        "tournamentScore": 239.5
-      },
-      {
-        "tournamentName": "SAFEWAY",
-        "tournamentType": 1,
-        "tournamentScore": 420.5
-      },
-      {
-        "tournamentName": "TOUR",
-        "tournamentType": 2,
-        "tournamentScore": 492.0
-      },
-      {
-        "tournamentName": "BMW",
-        "tournamentType": 2,
-        "tournamentScore": 316.5
-      },
-      {
-        "tournamentName": "NT",
-        "tournamentType": 2,
-        "tournamentScore": 535.5
-      },
-      {
-        "tournamentName": "WYNDHAM",
-        "tournamentType": 1,
-        "tournamentScore": 430.0
-      },
-      {
-        "tournamentName": "PGA",
-        "tournamentType": 3,
-        "tournamentScore": 421.0
-      },
-      {
-        "tournamentName": "WGCMEM",
-        "tournamentType": 2,
-        "tournamentScore": 475.0
-      },
-      {
-        "tournamentName": "3M",
-        "tournamentType": 1,
-        "tournamentScore": 314.5
-      },
-      {
-        "tournamentName": "MEMORIAL",
-        "tournamentType": 2,
-        "tournamentScore": 361.0
-      },
-      {
-        "tournamentName": "WORKDAY",
-        "tournamentType": 1,
-        "tournamentScore": 427.5
-      },
-      {
-        "tournamentName": "ROCKET",
-        "tournamentType": 1,
-        "tournamentScore": 407.5
-      },
-      {
-        "tournamentName": "TRAVELERS",
-        "tournamentType": 1,
-        "tournamentScore": 422.5
-      },
-      {
-        "tournamentName": "RBC",
-        "tournamentType": 1,
-        "tournamentScore": 550.0
-      },
-      {
-        "tournamentName": "SCHWAB",
-        "tournamentType": 1,
-        "tournamentScore": 249.0
-      },
-      {
-        "tournamentName": "API",
-        "tournamentType": 1,
-        "tournamentScore": 355.5
-      },
-      {
-        "tournamentName": "HONDA",
-        "tournamentType": 1,
-        "tournamentScore": 363.0
-      },
-      {
-        "tournamentName": "WGCMEX",
-        "tournamentType": 2,
-        "tournamentScore": 516.0
-      },
-      {
-        "tournamentName": "GENESIS",
-        "tournamentType": 1,
-        "tournamentScore": 426.5
-      },
-      {
-        "tournamentName": "PEBBLE",
-        "tournamentType": 1,
-        "tournamentScore": 469.50
-      },
-      {
-        "tournamentName": "WMO",
-        "tournamentType": 1,
-        "tournamentScore": 490.0
+        "tournamentScore": 407.50
       }
     ]
   },
@@ -1719,155 +237,35 @@
     "user": "belikemike247",
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/mike.jpg",
     "tournamentPlaces": {
-      "firstPlace": "2",
-      "secondPlace": "6",
-      "thirdPlace": "1"
+      "firstPlace": "0",
+      "secondPlace": "0",
+      "thirdPlace": "0",
+      "fourthPlace": "0",
+      "fifthPlace": "0"
     },
     "tournaments": [
       {
-        "tournamentName": "MASTERS",
-        "tournamentType": 3,
-        "tournamentScore": 494.5
-      },
-     {
-        "tournamentName": "HOU",
+        "tournamentName": "FARMERS",
         "tournamentType": 1,
-        "tournamentScore": 256.5
-      },
+        "tournamentScore": 235.0
+      }
+    ]
+  },
+  {
+    "user": "JonBuc1",
+    "icon": "",
+    "tournamentPlaces": {
+      "firstPlace": "0",
+      "secondPlace": "0",
+      "thirdPlace": "0",
+      "fourthPlace": "0",
+      "fifthPlace": "0"
+    },
+    "tournaments": [
       {
-        "tournamentName": "BER",
+        "tournamentName": "FARMERS",
         "tournamentType": 1,
-        "tournamentScore": 317.0
-      },
-      {
-        "tournamentName": "ZOZO",
-        "tournamentType": 2,
-        "tournamentScore": 533.0
-      },
-      {
-        "tournamentName": "CJCUP",
-        "tournamentType": 1,
-        "tournamentScore": 449.0
-      },
-      {
-        "tournamentName": "SHRINERS",
-        "tournamentType": 1,
-        "tournamentScore": 367.50
-      },
-      {
-        "tournamentName": "SANDERSON",
-        "tournamentType": 1,
-        "tournamentScore": 428.5
-      },
-      {
-        "tournamentName": "PUNTACANA",
-        "tournamentType": 1,
-        "tournamentScore": 225.0
-      },
-      {
-        "tournamentName": "USOPEN",
-        "tournamentType": 3,
-        "tournamentScore": 254.0
-      },
-      {
-        "tournamentName": "SAFEWAY",
-        "tournamentType": 1,
-        "tournamentScore": 364.5
-      },
-      {
-        "tournamentName": "TOUR",
-        "tournamentType": 2,
-        "tournamentScore": 459.0
-      },
-      {
-        "tournamentName": "BMW",
-        "tournamentType": 2,
-        "tournamentScore": 341.0
-      },
-      {
-        "tournamentName": "NT",
-        "tournamentType": 2,
-        "tournamentScore": 307.5
-      },
-      {
-        "tournamentName": "WYNDHAM",
-        "tournamentType": 1,
-        "tournamentScore": 534.0
-      },
-      {
-        "tournamentName": "PGA",
-        "tournamentType": 3,
-        "tournamentScore": 472.0
-      },
-      {
-        "tournamentName": "WGCMEM",
-        "tournamentType": 2,
-        "tournamentScore": 485.0
-      },
-      {
-        "tournamentName": "3M",
-        "tournamentType": 1,
-        "tournamentScore": 492.5
-      },
-      {
-        "tournamentName": "MEMORIAL",
-        "tournamentType": 2,
-        "tournamentScore": 238.5
-      },
-      {
-        "tournamentName": "WORKDAY",
-        "tournamentType": 1,
-        "tournamentScore": 488.0
-      },
-      {
-        "tournamentName": "ROCKET",
-        "tournamentType": 1,
-        "tournamentScore": 515.5
-      },
-      {
-        "tournamentName": "TRAVELERS",
-        "tournamentType": 1,
-        "tournamentScore": 322.0
-      },
-      {
-        "tournamentName": "RBC",
-        "tournamentType": 1,
-        "tournamentScore": 577.0
-      },
-      {
-        "tournamentName": "SCHWAB",
-        "tournamentType": 1,
-        "tournamentScore": 460.0
-      },
-      {
-        "tournamentName": "API",
-        "tournamentType": 1,
-        "tournamentScore": 258.5
-      },
-      {
-        "tournamentName": "HONDA",
-        "tournamentType": 1,
-        "tournamentScore": 375.5
-      },
-      {
-        "tournamentName": "WGCMEX",
-        "tournamentType": 2,
-        "tournamentScore": 487.0
-      },
-      {
-        "tournamentName": "GENESIS",
-        "tournamentType": 1,
-        "tournamentScore": 315.5
-      },
-      {
-        "tournamentName": "PEBBLE",
-        "tournamentType": 1,
-        "tournamentScore": 356.50
-      },
-      {
-        "tournamentName": "WMO",
-        "tournamentType": 1,
-        "tournamentScore": 363.5
+        "tournamentScore": 247.0
       }
     ]
   },
@@ -1877,153 +275,33 @@
     "tournamentPlaces": {
       "firstPlace": "0",
       "secondPlace": "0",
-      "thirdPlace": "0"
+      "thirdPlace": "0",
+      "fourthPlace": "0",
+      "fifthPlace": "0"
     },
     "tournaments": [
       {
-        "tournamentName": "MASTERS",
-        "tournamentType": 3,
-        "tournamentScore": 387.0
-      },
-      {
-        "tournamentName": "HOU",
+        "tournamentName": "FARMERS",
         "tournamentType": 1,
-        "tournamentScore": 334.50
-      },
+        "tournamentScore": 384.0
+      }
+    ]
+  },
+  {
+    "user": "hupfdaddy",
+    "icon": "",
+    "tournamentPlaces": {
+      "firstPlace": "0",
+      "secondPlace": "0",
+      "thirdPlace": "0",
+      "fourthPlace": "0",
+      "fifthPlace": "0"
+    },
+    "tournaments": [
       {
-        "tournamentName": "BER",
+        "tournamentName": "FARMERS",
         "tournamentType": 1,
-        "tournamentScore": 362.0
-      },
-      {
-        "tournamentName": "ZOZO",
-        "tournamentType": 2,
-        "tournamentScore": 531.0
-      },
-      {
-        "tournamentName": "CJCUP",
-        "tournamentType": 1,
-        "tournamentScore": 431.0
-      },
-      {
-        "tournamentName": "SHRINERS",
-        "tournamentType": 1,
-        "tournamentScore": 498.5
-      },
-      {
-        "tournamentName": "SANDERSON",
-        "tournamentType": 1,
-        "tournamentScore": 363.0
-      },
-      {
-        "tournamentName": "PUNTACANA",
-        "tournamentType": 1,
-        "tournamentScore": 364.0
-      },
-      {
-        "tournamentName": "USOPEN",
-        "tournamentType": 3,
-        "tournamentScore": 242.5
-      },
-      {
-        "tournamentName": "SAFEWAY",
-        "tournamentType": 1,
-        "tournamentScore": 431.5
-      },
-      {
-        "tournamentName": "TOUR",
-        "tournamentType": 2,
-        "tournamentScore": 431.0
-      },
-      {
-        "tournamentName": "BMW",
-        "tournamentType": 2,
-        "tournamentScore": 286.0
-      },
-      {
-        "tournamentName": "NT",
-        "tournamentType": 2,
-        "tournamentScore": 321.0
-      },
-      {
-        "tournamentName": "WYNDHAM",
-        "tournamentType": 1,
-        "tournamentScore": 461.0
-      },
-      {
-        "tournamentName": "PGA",
-        "tournamentType": 3,
-        "tournamentScore": 355.5
-      },
-      {
-        "tournamentName": "WGCMEM",
-        "tournamentType": 2,
-        "tournamentScore": 519.0
-      },
-      {
-        "tournamentName": "3M",
-        "tournamentType": 1,
-        "tournamentScore": 461.0
-      },
-      {
-        "tournamentName": "MEMORIAL",
-        "tournamentType": 2,
-        "tournamentScore": 367.0
-      },
-      {
-        "tournamentName": "WORKDAY",
-        "tournamentType": 1,
-        "tournamentScore": 405.0
-      },
-      {
-        "tournamentName": "ROCKET",
-        "tournamentType": 1,
-        "tournamentScore": 410.5
-      },
-      {
-        "tournamentName": "TRAVELERS",
-        "tournamentType": 1,
-        "tournamentScore": 198.0
-      },
-      {
-        "tournamentName": "RBC",
-        "tournamentType": 1,
-        "tournamentScore": 480.5
-      },
-      {
-        "tournamentName": "SCHWAB",
-        "tournamentType": 1,
-        "tournamentScore": 424.0
-      },
-      {
-        "tournamentName": "API",
-        "tournamentType": 1,
-        "tournamentScore": 241.5
-      },
-      {
-        "tournamentName": "HONDA",
-        "tournamentType": 1,
-        "tournamentScore": 309.0
-      },
-      {
-        "tournamentName": "WGCMEX",
-        "tournamentType": 2,
-        "tournamentScore": 465.0
-      },
-      {
-        "tournamentName": "GENESIS",
-        "tournamentType": 1,
-        "tournamentScore": 270.0
-      },
-      {
-        "tournamentName": "PEBBLE",
-        "tournamentType": 1,
-        "tournamentScore": 349.0
-      },
-      {
-        "tournamentName": "WMO",
-        "tournamentType": 1,
-        "tournamentScore": 374.5
+        "tournamentScore": 382.50
       }
     ]
   },
@@ -2032,154 +310,16 @@
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/giesel.jpeg",
     "tournamentPlaces": {
       "firstPlace": "0",
-      "secondPlace": "1",
-      "thirdPlace": "1"
+      "secondPlace": "0",
+      "thirdPlace": "0",
+      "fourthPlace": "0",
+      "fifthPlace": "0"
     },
     "tournaments": [
       {
-        "tournamentName": "MASTERS",
-        "tournamentType": 3,
-        "tournamentScore": 373.0
-      },
-      {
-        "tournamentName": "HOU",
+        "tournamentName": "FARMERS",
         "tournamentType": 1,
-        "tournamentScore": 223.50
-      },
-      {
-        "tournamentName": "BER",
-        "tournamentType": 1,
-        "tournamentScore": 239.50
-      },
-      {
-        "tournamentName": "ZOZO",
-        "tournamentType": 2,
-        "tournamentScore": 604.0
-      },
-      {
-        "tournamentName": "CJCUP",
-        "tournamentType": 1,
-        "tournamentScore": 465.0
-      },
-      {
-        "tournamentName": "SHRINERS",
-        "tournamentType": 1,
-        "tournamentScore": 293.0
-      },
-      {
-        "tournamentName": "SANDERSON",
-        "tournamentType": 1,
-        "tournamentScore": 182.0
-      },
-      {
-        "tournamentName": "PUNTACANA",
-        "tournamentType": 1,
-        "tournamentScore": 405.0
-      },
-      {
-        "tournamentName": "USOPEN",
-        "tournamentType": 3,
-        "tournamentScore": 215.0
-      },
-      {
-        "tournamentName": "SAFEWAY",
-        "tournamentType": 1,
-        "tournamentScore": 357.5
-      },
-      {
-        "tournamentName": "TOUR",
-        "tournamentType": 2,
-        "tournamentScore": 442.5
-      },
-      {
-        "tournamentName": "BMW",
-        "tournamentType": 2,
-        "tournamentScore": 273.5
-      },
-      {
-        "tournamentName": "NT",
-        "tournamentType": 2,
-        "tournamentScore": 296.5
-      },
-      {
-        "tournamentName": "WYNDHAM",
-        "tournamentType": 1,
-        "tournamentScore": 285.0
-      },
-      {
-        "tournamentName": "PGA",
-        "tournamentType": 3,
-        "tournamentScore": 412.5
-      },
-      {
-        "tournamentName": "WGCMEM",
-        "tournamentType": 2,
-        "tournamentScore": 480.0
-      },
-      {
-        "tournamentName": "3M",
-        "tournamentType": 1,
-        "tournamentScore": 195.5
-      },
-      {
-        "tournamentName": "MEMORIAL",
-        "tournamentType": 2,
-        "tournamentScore": 285.0
-      },
-      {
-        "tournamentName": "WORKDAY",
-        "tournamentType": 1,
-        "tournamentScore": 216.0
-      },
-      {
-        "tournamentName": "ROCKET",
-        "tournamentType": 1,
-        "tournamentScore": 426.0
-      },
-      {
-        "tournamentName": "TRAVELERS",
-        "tournamentType": 1,
-        "tournamentScore": 414.5
-      },
-      {
-        "tournamentName": "RBC",
-        "tournamentType": 1,
-        "tournamentScore": 477.00
-      },
-      {
-        "tournamentName": "SCHWAB",
-        "tournamentType": 1,
-        "tournamentScore": 390.0
-      },
-      {
-        "tournamentName": "API",
-        "tournamentType": 1,
-        "tournamentScore": 331.0
-      },
-      {
-        "tournamentName": "HONDA",
-        "tournamentType": 1,
-        "tournamentScore": 269.0
-      },
-      {
-        "tournamentName": "WGCMEX",
-        "tournamentType": 2,
-        "tournamentScore": 495.0
-      },
-      {
-        "tournamentName": "GENESIS",
-        "tournamentType": 1,
-        "tournamentScore": 357.0
-      },
-      {
-        "tournamentName": "PEBBLE",
-        "tournamentType": 1,
-        "tournamentScore": 354.0
-      },
-      {
-        "tournamentName": "WMO",
-        "tournamentType": 1,
-        "tournamentScore": 413.0
+        "tournamentScore": 293.50
       }
     ]
   },
@@ -2187,155 +327,17 @@
     "user": "rtprice33",
     "icon": "",
     "tournamentPlaces": {
-      "firstPlace": "0",
-      "secondPlace": "1",
-      "thirdPlace": "1"
+      "firstPlace": "1",
+      "secondPlace": "0",
+      "thirdPlace": "0",
+      "fourthPlace": "0",
+      "fifthPlace": "0"
     },
     "tournaments": [
       {
-        "tournamentName": "MASTERS",
-        "tournamentType": 3,
-        "tournamentScore": 418.0
-      },
-      {
-        "tournamentName": "HOU",
-        "tournamentType": 1,
-        "tournamentScore": 262.50
-      },
-      {
-        "tournamentName": "BER",
-        "tournamentType": 1,
-        "tournamentScore": 427.0
-      },
-      {
-        "tournamentName": "ZOZO",
-        "tournamentType": 2,
-        "tournamentScore": 542.00
-      },
-      {
-        "tournamentName": "CJCUP",
-        "tournamentType": 1,
-        "tournamentScore": 478.0
-      },
-      {
-        "tournamentName": "SHRINERS",
-        "tournamentType": 1,
-        "tournamentScore": 541.5
-      },
-      {
-        "tournamentName": "SANDERSON",
-        "tournamentType": 1,
-        "tournamentScore": 273.0
-      },
-      {
-        "tournamentName": "PUNTACANA",
-        "tournamentType": 1,
-        "tournamentScore": 405.5
-      },
-      {
-        "tournamentName": "USOPEN",
-        "tournamentType": 3,
-        "tournamentScore": 258.0
-      },
-      {
-        "tournamentName": "SAFEWAY",
-        "tournamentType": 1,
-        "tournamentScore": 314.0
-      },
-      {
-        "tournamentName": "TOUR",
-        "tournamentType": 2,
-        "tournamentScore": 521.0
-      },
-      {
-        "tournamentName": "BMW",
-        "tournamentType": 2,
-        "tournamentScore": 304.0
-      },
-      {
-        "tournamentName": "NT",
-        "tournamentType": 2,
-        "tournamentScore": 480.5
-      },
-      {
-        "tournamentName": "WYNDHAM",
-        "tournamentType": 1,
-        "tournamentScore": 472.0
-      },
-      {
-        "tournamentName": "PGA",
-        "tournamentType": 3,
-        "tournamentScore": 358.0
-      },
-      {
-        "tournamentName": "WGCMEM",
-        "tournamentType": 2,
-        "tournamentScore": 389.5
-      },
-      {
-        "tournamentName": "3M",
-        "tournamentType": 1,
-        "tournamentScore": 310.5
-      },
-      {
-        "tournamentName": "MEMORIAL",
-        "tournamentType": 2,
-        "tournamentScore": 301.5
-      },
-      {
-        "tournamentName": "WORKDAY",
-        "tournamentType": 1,
-        "tournamentScore": 376.5
-      },
-      {
-        "tournamentName": "ROCKET",
-        "tournamentType": 1,
-        "tournamentScore": 484.5
-      },
-      {
-        "tournamentName": "TRAVELERS",
+        "tournamentName": "FARMERS",
         "tournamentType": 1,
         "tournamentScore": 473.0
-      },
-      {
-        "tournamentName": "RBC",
-        "tournamentType": 1,
-        "tournamentScore": 461.5
-      },
-      {
-        "tournamentName": "SCHWAB",
-        "tournamentType": 1,
-        "tournamentScore": 391.0
-      },
-      {
-        "tournamentName": "API",
-        "tournamentType": 1,
-        "tournamentScore": 309.5
-      },
-      {
-        "tournamentName": "HONDA",
-        "tournamentType": 1,
-        "tournamentScore": 327.0
-      },
-      {
-        "tournamentName": "WGCMEX",
-        "tournamentType": 2,
-        "tournamentScore": 422.5
-      },
-      {
-        "tournamentName": "GENESIS",
-        "tournamentType": 1,
-        "tournamentScore": 338.50
-      },
-      {
-        "tournamentName": "PEBBLE",
-        "tournamentType": 1,
-        "tournamentScore": 401.0
-      },
-      {
-        "tournamentName": "WMO",
-        "tournamentType": 1,
-        "tournamentScore": 488.0
       }
     ]
   },
@@ -2343,155 +345,35 @@
     "user": "jph315",
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/jph.jpg",
     "tournamentPlaces": {
-      "firstPlace": "1",
+      "firstPlace": "0",
       "secondPlace": "1",
-      "thirdPlace": "0"
+      "thirdPlace": "0",
+      "fourthPlace": "0",
+      "fifthPlace": "0"
     },
     "tournaments": [
       {
-        "tournamentName": "MASTERS",
-        "tournamentType": 3,
-        "tournamentScore": 359.5
-      },
-      {
-        "tournamentName": "HOU",
+        "tournamentName": "FARMERS",
         "tournamentType": 1,
-        "tournamentScore": 374.0
-      },
+        "tournamentScore": 433.50
+      }
+    ]
+  },
+  {
+    "user": "arob",
+    "icon": "",
+    "tournamentPlaces": {
+      "firstPlace": "0",
+      "secondPlace": "0",
+      "thirdPlace": "0",
+      "fourthPlace": "0",
+      "fifthPlace": "0"
+    },
+    "tournaments": [
       {
-        "tournamentName": "BER",
+        "tournamentName": "FARMERS",
         "tournamentType": 1,
-        "tournamentScore": 472.5
-      },
-      {
-        "tournamentName": "ZOZO",
-        "tournamentType": 2,
-        "tournamentScore": 532.0
-      },
-      {
-        "tournamentName": "CJCUP",
-        "tournamentType": 1,
-        "tournamentScore": 485.0
-      },
-      {
-        "tournamentName": "SHRINERS",
-        "tournamentType": 1,
-        "tournamentScore": 502.5
-      },
-      {
-        "tournamentName": "SANDERSON",
-        "tournamentType": 1,
-        "tournamentScore": 439.5
-      },
-      {
-        "tournamentName": "PUNTACANA",
-        "tournamentType": 1,
-        "tournamentScore": 300.5
-      },
-      {
-        "tournamentName": "USOPEN",
-        "tournamentType": 3,
-        "tournamentScore": 255.5
-      },
-      {
-        "tournamentName": "SAFEWAY",
-        "tournamentType": 1,
-        "tournamentScore": 331.5
-      },
-      {
-        "tournamentName": "TOUR",
-        "tournamentType": 2,
-        "tournamentScore": 458.0
-      },
-      {
-        "tournamentName": "BMW",
-        "tournamentType": 2,
-        "tournamentScore": 322.0
-      },
-      {
-        "tournamentName": "NT",
-        "tournamentType": 2,
-        "tournamentScore": 344.0
-      },
-      {
-        "tournamentName": "WYNDHAM",
-        "tournamentType": 1,
-        "tournamentScore": 536.0
-      },
-      {
-        "tournamentName": "PGA",
-        "tournamentType": 3,
-        "tournamentScore": 271.5
-      },
-      {
-        "tournamentName": "WGCMEM",
-        "tournamentType": 2,
-        "tournamentScore": 452.5
-      },
-      {
-        "tournamentName": "3M",
-        "tournamentType": 1,
-        "tournamentScore": 492.0
-      },
-      {
-        "tournamentName": "MEMORIAL",
-        "tournamentType": 2,
-        "tournamentScore": 287.0
-      },
-      {
-        "tournamentName": "WORKDAY",
-        "tournamentType": 1,
-        "tournamentScore": 395.0
-      },
-      {
-        "tournamentName": "ROCKET",
-        "tournamentType": 1,
-        "tournamentScore": 479.0
-      },
-      {
-        "tournamentName": "TRAVELERS",
-        "tournamentType": 1,
-        "tournamentScore": 377.0
-      },
-      {
-        "tournamentName": "RBC",
-        "tournamentType": 1,
-        "tournamentScore": 386.0
-      },
-      {
-        "tournamentName": "SCHWAB",
-        "tournamentType": 1,
-        "tournamentScore": 478.5
-      },
-      {
-        "tournamentName": "API",
-        "tournamentType": 1,
-        "tournamentScore": 338.5
-      },
-      {
-        "tournamentName": "HONDA",
-        "tournamentType": 1,
-        "tournamentScore": 306.0
-      },
-      {
-        "tournamentName": "WGCMEX",
-        "tournamentType": 2,
-        "tournamentScore": 471.5
-      },
-      {
-        "tournamentName": "GENESIS",
-        "tournamentType": 1,
-        "tournamentScore": 463.0
-      },
-      {
-        "tournamentName": "PEBBLE",
-        "tournamentType": 1,
-        "tournamentScore": 349.0
-      },
-      {
-        "tournamentName": "WMO",
-        "tournamentType": 1,
-        "tournamentScore": 392.0
+        "tournamentScore": 422.5
       }
     ]
   },
@@ -2499,155 +381,17 @@
     "user": "darksidefan",
     "icon": "",
     "tournamentPlaces": {
-      "firstPlace": "2",
+      "firstPlace": "0",
       "secondPlace": "0",
-      "thirdPlace": "1"
+      "thirdPlace": "0",
+      "fourthPlace": "0",
+      "fifthPlace": "0"
     },
     "tournaments": [
       {
-        "tournamentName": "MASTERS",
-        "tournamentType": 3,
-        "tournamentScore": 378.5
-      },
-      {
-        "tournamentName": "HOU",
+        "tournamentName": "FARMERS",
         "tournamentType": 1,
-        "tournamentScore": 302.0
-      },
-      {
-        "tournamentName": "BER",
-        "tournamentType": 1,
-        "tournamentScore": 274.50
-      },
-      {
-        "tournamentName": "ZOZO",
-        "tournamentType": 2,
-        "tournamentScore": 588.0
-      },
-      {
-        "tournamentName": "CJCUP",
-        "tournamentType": 1,
-        "tournamentScore": 436.5
-      },
-      {
-        "tournamentName": "SHRINERS",
-        "tournamentType": 1,
-        "tournamentScore": 391.0
-      },
-      {
-        "tournamentName": "SANDERSON",
-        "tournamentType": 1,
-        "tournamentScore": 367.0
-      },
-      {
-        "tournamentName": "PUNTACANA",
-        "tournamentType": 1,
-        "tournamentScore": 474.5
-      },
-      {
-        "tournamentName": "USOPEN",
-        "tournamentType": 3,
-        "tournamentScore": 228.5
-      },
-      {
-        "tournamentName": "SAFEWAY",
-        "tournamentType": 1,
-        "tournamentScore": 364.0
-      },
-      {
-        "tournamentName": "TOUR",
-        "tournamentType": 2,
-        "tournamentScore": 421.0
-      },
-      {
-        "tournamentName": "BMW",
-        "tournamentType": 2,
-        "tournamentScore": 338.0
-      },
-      {
-        "tournamentName": "NT",
-        "tournamentType": 2,
-        "tournamentScore": 284.0
-      },
-      {
-        "tournamentName": "WYNDHAM",
-        "tournamentType": 1,
-        "tournamentScore": 329.5
-      },
-      {
-        "tournamentName": "PGA",
-        "tournamentType": 3,
-        "tournamentScore": 339.0
-      },
-      {
-        "tournamentName": "WGCMEM",
-        "tournamentType": 2,
-        "tournamentScore": 416.0
-      },
-      {
-        "tournamentName": "3M",
-        "tournamentType": 1,
-        "tournamentScore": 334.5
-      },
-      {
-        "tournamentName": "MEMORIAL",
-        "tournamentType": 2,
-        "tournamentScore": 322.5
-      },
-      {
-        "tournamentName": "WORKDAY",
-        "tournamentType": 1,
-        "tournamentScore": 287.5
-      },
-      {
-        "tournamentName": "ROCKET",
-        "tournamentType": 1,
-        "tournamentScore": 422.0
-      },
-      {
-        "tournamentName": "TRAVELERS",
-        "tournamentType": 1,
-        "tournamentScore": 345.5
-      },
-      {
-        "tournamentName": "RBC",
-        "tournamentType": 1,
-        "tournamentScore": 482.5
-      },
-      {
-        "tournamentName": "SCHWAB",
-        "tournamentType": 1,
-        "tournamentScore": 187.0
-      },
-      {
-        "tournamentName": "API",
-        "tournamentType": 1,
-        "tournamentScore": 191.0
-      },
-      {
-        "tournamentName": "HONDA",
-        "tournamentType": 1,
-        "tournamentScore": 309.0
-      },
-      {
-        "tournamentName": "WGCMEX",
-        "tournamentType": 2,
-        "tournamentScore": 437.5
-      },
-      {
-        "tournamentName": "GENESIS",
-        "tournamentType": 1,
-        "tournamentScore": 275.0
-      },
-      {
-        "tournamentName": "PEBBLE",
-        "tournamentType": 1,
-        "tournamentScore": 414.0
-      },
-      {
-        "tournamentName": "WMO",
-        "tournamentType": 1,
-        "tournamentScore": 496.5
+        "tournamentScore": 407.0
       }
     ]
   }
