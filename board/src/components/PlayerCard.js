@@ -13,7 +13,7 @@ const PlayerCard = ({ player, pointsBack, value }) => {
         </h2>
         {icon
           ? <img className="player_row__icon" src={icon} alt="icon" />
-          : <img className="player_row__icon" src="https://github.com/GPFAFF/leaderBoard/blob/master/img/poop.jpg" alt="icon" />
+          : <img className="player_row__icon" src="https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/poop.jpg" alt="icon" />
         }
       </div>
       <TotalScore
