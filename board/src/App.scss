@@ -138,7 +138,13 @@
   }
 }
 
+.image-banner {
+  width: 200px;
 
+  @media (min-width: 480px) {
+    width: 400px;
+  }
+}
 
 .player_score, .player_wins {
   padding: 20px;
