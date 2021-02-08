@@ -175,6 +175,11 @@
         "tournamentName": "FARMERS",
         "tournamentType": 1,
         "tournamentScore": 373.0
+      },
+      {
+        "tournamentName": "WM",
+        "tournamentType": 1,
+        "tournamentScore": 374.50
       }
     ]
   },
