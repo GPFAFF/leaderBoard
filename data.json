@@ -14,6 +14,11 @@
         "tournamentName": "FARMERS",
         "tournamentType": 1,
         "tournamentScore": 309.50
+      },
+      {
+        "tournamentName": "WM",
+        "tournamentType": 1,
+        "tournamentScore": 443.0
       }
     ]
   },
@@ -23,7 +28,7 @@
     "tournamentPlaces": {
       "firstPlace": "0",
       "secondPlace": "0",
-      "thirdPlace": "0",
+      "thirdPlace": "1",
       "fourthPlace": "0",
       "fifthPlace": "0"
     },
@@ -32,6 +37,11 @@
         "tournamentName": "FARMERS",
         "tournamentType": 1,
         "tournamentScore": 405.0
+      },
+      {
+        "tournamentName": "WM",
+        "tournamentType": 1,
+        "tournamentScore": 517.0
       }
     ]
   },
@@ -50,6 +60,11 @@
         "tournamentName": "FARMERS",
         "tournamentType": 1,
         "tournamentScore": 385.50
+      },
+      {
+        "tournamentName": "WM",
+        "tournamentType": 1,
+        "tournamentScore": 471.50
       }
     ]
   },
@@ -68,6 +83,11 @@
         "tournamentName": "FARMERS",
         "tournamentType": 1,
         "tournamentScore": 263.0
+      },
+      {
+        "tournamentName": "WM",
+        "tournamentType": 1,
+        "tournamentScore": 355.0
       }
     ]
   },
@@ -86,6 +106,11 @@
         "tournamentName": "FARMERS",
         "tournamentType": 1,
         "tournamentScore": 380.50
+      },
+      {
+        "tournamentName": "WM",
+        "tournamentType": 1,
+        "tournamentScore": 360.0
       }
     ]
   },
@@ -104,6 +129,11 @@
         "tournamentName": "FARMERS",
         "tournamentType": 1,
         "tournamentScore": 274.0
+      },
+      {
+        "tournamentName": "WM",
+        "tournamentType": 1,
+        "tournamentScore": 445.50
       }
     ]
   },
@@ -122,6 +152,11 @@
         "tournamentName": "FARMERS",
         "tournamentType": 1,
         "tournamentScore": 349.0
+      },
+      {
+        "tournamentName": "WM",
+        "tournamentType": 1,
+        "tournamentScore": 401.0
       }
     ]
   },
@@ -148,7 +183,7 @@
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/cuby.jpg",
     "tournamentPlaces": {
       "firstPlace": "0",
-      "secondPlace": "0",
+      "secondPlace": "1",
       "thirdPlace": "0",
       "fourthPlace": "0",
       "fifthPlace": "0"
@@ -158,6 +193,11 @@
         "tournamentName": "FARMERS",
         "tournamentType": 1,
         "tournamentScore": 285.50
+      },
+      {
+        "tournamentName": "WM",
+        "tournamentType": 1,
+        "tournamentScore": 519.50
       }
     ]
   },
@@ -176,6 +216,11 @@
         "tournamentName": "FARMERS",
         "tournamentType": 1,
         "tournamentScore": 364.5
+      },
+      {
+        "tournamentName": "WM",
+        "tournamentType": 1,
+        "tournamentScore": 345.0
       }
     ]
   },
@@ -194,6 +239,11 @@
         "tournamentName": "FARMERS",
         "tournamentType": 1,
         "tournamentScore": 355.0
+      },
+      {
+        "tournamentName": "WM",
+        "tournamentType": 1,
+        "tournamentScore": 409.0
       }
     ]
   },
@@ -212,6 +262,11 @@
         "tournamentName": "FARMERS",
         "tournamentType": 1,
         "tournamentScore": 418.50
+      },
+      {
+        "tournamentName": "WM",
+        "tournamentType": 1,
+        "tournamentScore": 362.50
       }
     ]
   },
@@ -222,7 +277,7 @@
       "firstPlace": "0",
       "secondPlace": "0",
       "thirdPlace": "0",
-      "fourthPlace": "0",
+      "fourthPlace": "1",
       "fifthPlace": "1"
     },
     "tournaments": [
@@ -230,6 +285,11 @@
         "tournamentName": "FARMERS",
         "tournamentType": 1,
         "tournamentScore": 407.50
+      },
+      {
+        "tournamentName": "WM",
+        "tournamentType": 1,
+        "tournamentScore": 483.0
       }
     ]
   },
@@ -248,6 +308,11 @@
         "tournamentName": "FARMERS",
         "tournamentType": 1,
         "tournamentScore": 235.0
+      },
+      {
+        "tournamentName": "WM",
+        "tournamentType": 1,
+        "tournamentScore": 303.50
       }
     ]
   },
@@ -266,6 +331,11 @@
         "tournamentName": "FARMERS",
         "tournamentType": 1,
         "tournamentScore": 247.0
+      },
+      {
+        "tournamentName": "WM",
+        "tournamentType": 1,
+        "tournamentScore": 472.5
       }
     ]
   },
@@ -273,7 +343,7 @@
     "user": "chicagoputz",
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/putz.jpg",
     "tournamentPlaces": {
-      "firstPlace": "0",
+      "firstPlace": "1",
       "secondPlace": "0",
       "thirdPlace": "0",
       "fourthPlace": "0",
@@ -284,6 +354,11 @@
         "tournamentName": "FARMERS",
         "tournamentType": 1,
         "tournamentScore": 384.0
+      },
+      {
+        "tournamentName": "WM",
+        "tournamentType": 1,
+        "tournamentScore": 531.5
       }
     ]
   },
@@ -295,13 +370,18 @@
       "secondPlace": "0",
       "thirdPlace": "0",
       "fourthPlace": "0",
-      "fifthPlace": "0"
+      "fifthPlace": "1"
     },
     "tournaments": [
       {
         "tournamentName": "FARMERS",
         "tournamentType": 1,
         "tournamentScore": 382.50
+      },
+      {
+        "tournamentName": "WM",
+        "tournamentType": 1,
+        "tournamentScore": 478.50
       }
     ]
   },
@@ -320,6 +400,11 @@
         "tournamentName": "FARMERS",
         "tournamentType": 1,
         "tournamentScore": 293.50
+      },
+      {
+        "tournamentName": "WM",
+        "tournamentType": 1,
+        "tournamentScore": 390.50
       }
     ]
   },
@@ -338,6 +423,11 @@
         "tournamentName": "FARMERS",
         "tournamentType": 1,
         "tournamentScore": 473.0
+      },
+      {
+        "tournamentName": "WM",
+        "tournamentType": 1,
+        "tournamentScore": 374.50
       }
     ]
   },
@@ -356,6 +446,11 @@
         "tournamentName": "FARMERS",
         "tournamentType": 1,
         "tournamentScore": 433.50
+      },
+      {
+        "tournamentName": "WM",
+        "tournamentType": 1,
+        "tournamentScore": 404.50
       }
     ]
   },
@@ -374,6 +469,11 @@
         "tournamentName": "FARMERS",
         "tournamentType": 1,
         "tournamentScore": 422.5
+      },
+      {
+        "tournamentName": "WM",
+        "tournamentType": 1,
+        "tournamentScore": 290.0
       }
     ]
   },
@@ -392,6 +492,11 @@
         "tournamentName": "FARMERS",
         "tournamentType": 1,
         "tournamentScore": 407.0
+      },
+      {
+        "tournamentName": "WM",
+        "tournamentType": 1,
+        "tournamentScore": 435.50
       }
     ]
   }
