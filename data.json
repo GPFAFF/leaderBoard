@@ -19,6 +19,11 @@
         "tournamentName": "WM",
         "tournamentType": 1,
         "tournamentScore": 443.0
+      },
+      {
+        "tournamentName": "RIV",
+        "tournamentType": 1,
+        "tournamentScore": 411.50
       }
     ]
   },
@@ -42,6 +47,11 @@
         "tournamentName": "WM",
         "tournamentType": 1,
         "tournamentScore": 517.0
+      },
+     {
+        "tournamentName": "RIV",
+        "tournamentType": 1,
+        "tournamentScore": 316.50
       }
     ]
   },
@@ -65,6 +75,11 @@
         "tournamentName": "WM",
         "tournamentType": 1,
         "tournamentScore": 471.50
+      },
+      {
+        "tournamentName": "RIV",
+        "tournamentType": 1,
+        "tournamentScore": 313.50
       }
     ]
   },
@@ -73,7 +88,7 @@
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/cohen.jpeg",
     "tournamentPlaces": {
       "firstPlace": "0",
-      "secondPlace": "0",
+      "secondPlace": "1",
       "thirdPlace": "0",
       "fourthPlace": "0",
       "fifthPlace": "0"
@@ -88,6 +103,11 @@
         "tournamentName": "WM",
         "tournamentType": 1,
         "tournamentScore": 355.0
+      },
+      {
+        "tournamentName": "RIV",
+        "tournamentType": 1,
+        "tournamentScore": 436.50
       }
     ]
   },
@@ -111,6 +131,11 @@
         "tournamentName": "WM",
         "tournamentType": 1,
         "tournamentScore": 360.0
+      },
+      {
+        "tournamentName": "RIV",
+        "tournamentType": 1,
+        "tournamentScore": 381.0
       }
     ]
   },
@@ -134,6 +159,11 @@
         "tournamentName": "WM",
         "tournamentType": 1,
         "tournamentScore": 445.50
+      },
+      {
+        "tournamentName": "RIV",
+        "tournamentType": 1,
+        "tournamentScore": 340.50
       }
     ]
   },
@@ -157,6 +187,11 @@
         "tournamentName": "WM",
         "tournamentType": 1,
         "tournamentScore": 401.0
+      },
+      {
+        "tournamentName": "RIV",
+        "tournamentType": 1,
+        "tournamentScore": 282.50
       }
     ]
   },
@@ -180,6 +215,11 @@
         "tournamentName": "WM",
         "tournamentType": 1,
         "tournamentScore": 374.50
+      },
+      {
+        "tournamentName": "RIV",
+        "tournamentType": 1,
+        "tournamentScore": 345.0
       }
     ]
   },
@@ -190,7 +230,7 @@
       "firstPlace": "0",
       "secondPlace": "1",
       "thirdPlace": "0",
-      "fourthPlace": "0",
+      "fourthPlace": "1",
       "fifthPlace": "0"
     },
     "tournaments": [
@@ -203,6 +243,11 @@
         "tournamentName": "WM",
         "tournamentType": 1,
         "tournamentScore": 519.50
+      },
+      {
+        "tournamentName": "RIV",
+        "tournamentType": 1,
+        "tournamentScore": 426.50
       }
     ]
   },
@@ -226,6 +271,11 @@
         "tournamentName": "WM",
         "tournamentType": 1,
         "tournamentScore": 345.0
+      },
+      {
+        "tournamentName": "RIV",
+        "tournamentType": 1,
+        "tournamentScore": 366.0
       }
     ]
   },
@@ -249,6 +299,11 @@
         "tournamentName": "WM",
         "tournamentType": 1,
         "tournamentScore": 409.0
+      },
+      {
+        "tournamentName": "RIV",
+        "tournamentType": 1,
+        "tournamentScore": 0.00
       }
     ]
   },
@@ -272,6 +327,11 @@
         "tournamentName": "WM",
         "tournamentType": 1,
         "tournamentScore": 362.50
+      },
+      {
+        "tournamentName": "RIV",
+        "tournamentType": 1,
+        "tournamentScore": 322.0
       }
     ]
   },
@@ -295,6 +355,11 @@
         "tournamentName": "WM",
         "tournamentType": 1,
         "tournamentScore": 483.0
+      },
+      {
+        "tournamentName": "RIV",
+        "tournamentType": 1,
+        "tournamentScore": 313.00
       }
     ]
   },
@@ -318,6 +383,11 @@
         "tournamentName": "WM",
         "tournamentType": 1,
         "tournamentScore": 303.50
+      },
+      {
+        "tournamentName": "RIV",
+        "tournamentType": 1,
+        "tournamentScore": 417.50
       }
     ]
   },
@@ -341,6 +411,11 @@
         "tournamentName": "WM",
         "tournamentType": 1,
         "tournamentScore": 472.5
+      },
+      {
+        "tournamentName": "RIV",
+        "tournamentType": 1,
+        "tournamentScore": 375.0
       }
     ]
   },
@@ -364,6 +439,11 @@
         "tournamentName": "WM",
         "tournamentType": 1,
         "tournamentScore": 531.5
+      },
+      {
+        "tournamentName": "RIV",
+        "tournamentType": 1,
+        "tournamentScore": 273.00
       }
     ]
   },
@@ -371,7 +451,7 @@
     "user": "hupfdaddy",
     "icon": "",
     "tournamentPlaces": {
-      "firstPlace": "0",
+      "firstPlace": "1",
       "secondPlace": "0",
       "thirdPlace": "0",
       "fourthPlace": "0",
@@ -387,6 +467,11 @@
         "tournamentName": "WM",
         "tournamentType": 1,
         "tournamentScore": 478.50
+      },
+      {
+        "tournamentName": "RIV",
+        "tournamentType": 1,
+        "tournamentScore": 449.0
       }
     ]
   },
@@ -410,6 +495,11 @@
         "tournamentName": "WM",
         "tournamentType": 1,
         "tournamentScore": 390.50
+      },
+      {
+        "tournamentName": "RIV",
+        "tournamentType": 1,
+        "tournamentScore": 393.0
       }
     ]
   },
@@ -433,6 +523,11 @@
         "tournamentName": "WM",
         "tournamentType": 1,
         "tournamentScore": 374.50
+      },
+      {
+        "tournamentName": "RIV",
+        "tournamentType": 1,
+        "tournamentScore": 316.50
       }
     ]
   },
@@ -456,16 +551,21 @@
         "tournamentName": "WM",
         "tournamentType": 1,
         "tournamentScore": 404.50
+      },
+      {
+        "tournamentName": "RIV",
+        "tournamentType": 1,
+        "tournamentScore": 281.00
       }
     ]
   },
   {
-    "user": "arob",
+    "user": "arob92",
     "icon": "",
     "tournamentPlaces": {
       "firstPlace": "0",
       "secondPlace": "0",
-      "thirdPlace": "1",
+      "thirdPlace": "2",
       "fourthPlace": "0",
       "fifthPlace": "0"
     },
@@ -479,6 +579,11 @@
         "tournamentName": "WM",
         "tournamentType": 1,
         "tournamentScore": 290.0
+      },
+      {
+        "tournamentName": "RIV",
+        "tournamentType": 1,
+        "tournamentScore": 430.50
       }
     ]
   },
@@ -490,7 +595,7 @@
       "secondPlace": "0",
       "thirdPlace": "0",
       "fourthPlace": "0",
-      "fifthPlace": "0"
+      "fifthPlace": "1"
     },
     "tournaments": [
       {
@@ -502,6 +607,11 @@
         "tournamentName": "WM",
         "tournamentType": 1,
         "tournamentScore": 435.50
+      },
+      {
+        "tournamentName": "RIV",
+        "tournamentType": 1,
+        "tournamentScore": 418.0
       }
     ]
   }
