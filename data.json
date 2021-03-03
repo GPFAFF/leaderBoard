@@ -29,6 +29,11 @@
         "tournamentName": "RIV",
         "tournamentType": 1,
         "tournamentScore": 411.50
+      },
+      {
+        "tournamentName": "WGCFLA",
+        "tournamentType": 2,
+        "tournamentScore": 465.5
       }
     ]
   },
@@ -62,6 +67,11 @@
         "tournamentName": "RIV",
         "tournamentType": 1,
         "tournamentScore": 316.50
+      },
+      {
+        "tournamentName": "WGCFLA",
+        "tournamentType": 2,
+        "tournamentScore": 452.5
       }
     ]
   },
@@ -95,6 +105,11 @@
         "tournamentName": "RIV",
         "tournamentType": 1,
         "tournamentScore": 313.50
+      },
+      {
+        "tournamentName": "WGCFLA",
+        "tournamentType": 2,
+        "tournamentScore": 503.50
       }
     ]
   },
@@ -128,6 +143,11 @@
         "tournamentName": "RIV",
         "tournamentType": 1,
         "tournamentScore": 436.50
+      },
+      {
+        "tournamentName": "WGCFLA",
+        "tournamentType": 2,
+        "tournamentScore": 465.5
       }
     ]
   },
@@ -136,7 +156,7 @@
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/money.jpg",
     "tournamentPlaces": {
       "firstPlace": "0",
-      "secondPlace": "0",
+      "secondPlace": "1",
       "thirdPlace": "0",
       "fourthPlace": "0",
       "fifthPlace": "0"
@@ -161,6 +181,11 @@
         "tournamentName": "RIV",
         "tournamentType": 1,
         "tournamentScore": 381.0
+      },
+      {
+        "tournamentName": "WGCFLA",
+        "tournamentType": 2,
+        "tournamentScore": 559.0
       }
     ]
   },
@@ -194,6 +219,11 @@
         "tournamentName": "RIV",
         "tournamentType": 1,
         "tournamentScore": 340.50
+      },
+      {
+        "tournamentName": "WGCFLA",
+        "tournamentType": 2,
+        "tournamentScore": 428.0
       }
     ]
   },
@@ -205,7 +235,7 @@
       "secondPlace": "0",
       "thirdPlace": "0",
       "fourthPlace": "0",
-      "fifthPlace": "0"
+      "fifthPlace": "1"
     },
     "tournaments": [
       {
@@ -227,6 +257,11 @@
         "tournamentName": "RIV",
         "tournamentType": 1,
         "tournamentScore": 282.50
+      },
+      {
+        "tournamentName": "WGCFLA",
+        "tournamentType": 2,
+        "tournamentScore": 523.0
       }
     ]
   },
@@ -260,6 +295,11 @@
         "tournamentName": "RIV",
         "tournamentType": 1,
         "tournamentScore": 345.0
+      },
+      {
+        "tournamentName": "WGCFLA",
+        "tournamentType": 2,
+        "tournamentScore": 457.0
       }
     ]
   },
@@ -293,6 +333,11 @@
         "tournamentName": "RIV",
         "tournamentType": 1,
         "tournamentScore": 426.50
+      },
+      {
+        "tournamentName": "WGCFLA",
+        "tournamentType": 2,
+        "tournamentScore": 454.5
       }
     ]
   },
@@ -326,6 +371,11 @@
         "tournamentName": "RIV",
         "tournamentType": 1,
         "tournamentScore": 366.0
+      },
+      {
+        "tournamentName": "WGCFLA",
+        "tournamentType": 2,
+        "tournamentScore": 436.5
       }
     ]
   },
@@ -358,7 +408,12 @@
       {
         "tournamentName": "RIV",
         "tournamentType": 1,
-        "tournamentScore": 0.00
+        "tournamentScore": 262.0
+      },
+      {
+        "tournamentName": "WGCFLA",
+        "tournamentType": 2,
+        "tournamentScore": 488.00
       }
     ]
   },
@@ -369,7 +424,7 @@
       "firstPlace": "0",
       "secondPlace": "0",
       "thirdPlace": "0",
-      "fourthPlace": "1",
+      "fourthPlace": "2",
       "fifthPlace": "0"
     },
     "tournaments": [
@@ -392,6 +447,11 @@
         "tournamentName": "RIV",
         "tournamentType": 1,
         "tournamentScore": 322.0
+      },
+      {
+        "tournamentName": "WGCFLA",
+        "tournamentType": 2,
+        "tournamentScore": 524.50
       }
     ]
   },
@@ -399,7 +459,7 @@
     "user": "concord",
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/concord.jpg",
     "tournamentPlaces": {
-      "firstPlace": "0",
+      "firstPlace": "1",
       "secondPlace": "0",
       "thirdPlace": "0",
       "fourthPlace": "1",
@@ -425,6 +485,11 @@
         "tournamentName": "RIV",
         "tournamentType": 1,
         "tournamentScore": 313.00
+      },
+      {
+        "tournamentName": "WGCFLA",
+        "tournamentType": 2,
+        "tournamentScore": 597.0
       }
     ]
   },
@@ -434,7 +499,7 @@
     "tournamentPlaces": {
       "firstPlace": "0",
       "secondPlace": "0",
-      "thirdPlace": "0",
+      "thirdPlace": "1",
       "fourthPlace": "0",
       "fifthPlace": "0"
     },
@@ -458,6 +523,11 @@
         "tournamentName": "RIV",
         "tournamentType": 1,
         "tournamentScore": 417.50
+      },
+      {
+        "tournamentName": "WGCFLA",
+        "tournamentType": 2,
+        "tournamentScore": 528.0
       }
     ]
   },
@@ -491,6 +561,11 @@
         "tournamentName": "RIV",
         "tournamentType": 1,
         "tournamentScore": 375.0
+      },
+      {
+        "tournamentName": "WGCFLA",
+        "tournamentType": 2,
+        "tournamentScore": 361.5
       }
     ]
   },
@@ -524,6 +599,11 @@
         "tournamentName": "RIV",
         "tournamentType": 1,
         "tournamentScore": 273.00
+      },
+      {
+        "tournamentName": "WGCFLA",
+        "tournamentType": 2,
+        "tournamentScore": 420.0
       }
     ]
   },
@@ -557,6 +637,11 @@
         "tournamentName": "RIV",
         "tournamentType": 1,
         "tournamentScore": 449.0
+      },
+      {
+        "tournamentName": "WGCFLA",
+        "tournamentType": 2,
+        "tournamentScore": 489.5
       }
     ]
   },
@@ -590,6 +675,11 @@
         "tournamentName": "RIV",
         "tournamentType": 1,
         "tournamentScore": 393.0
+      },
+      {
+        "tournamentName": "WGCFLA",
+        "tournamentType": 2,
+        "tournamentScore": 507.00
       }
     ]
   },
@@ -623,6 +713,11 @@
         "tournamentName": "RIV",
         "tournamentType": 1,
         "tournamentScore": 316.50
+      },
+      {
+        "tournamentName": "WGCFLA",
+        "tournamentType": 2,
+        "tournamentScore": 458.0
       }
     ]
   },
@@ -656,6 +751,11 @@
         "tournamentName": "RIV",
         "tournamentType": 1,
         "tournamentScore": 281.00
+      },
+      {
+        "tournamentName": "WGCFLA",
+        "tournamentType": 2,
+        "tournamentScore": 422.0
       }
     ]
   },
@@ -689,6 +789,11 @@
         "tournamentName": "RIV",
         "tournamentType": 1,
         "tournamentScore": 430.50
+      },
+      {
+        "tournamentName": "WGCFLA",
+        "tournamentType": 2,
+        "tournamentScore": 426.0
       }
     ]
   },
@@ -722,6 +827,11 @@
         "tournamentName": "RIV",
         "tournamentType": 1,
         "tournamentScore": 418.0
+      },
+      {
+        "tournamentName": "WGCFLA",
+        "tournamentType": 2,
+        "tournamentScore": 523.0
       }
     ]
   }
