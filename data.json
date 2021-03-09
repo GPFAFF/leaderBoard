@@ -34,6 +34,16 @@
         "tournamentName": "WGCFLA",
         "tournamentType": 2,
         "tournamentScore": 465.5
+      },
+      {
+        "tournamentName": "BAYHILL",
+        "tournamentType": 1,
+        "tournamentScore": 369.50
+      },
+      {
+        "tournamentName": "TPCSAWGRASS",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
       }
     ]
   },
@@ -72,6 +82,16 @@
         "tournamentName": "WGCFLA",
         "tournamentType": 2,
         "tournamentScore": 452.5
+      },
+      {
+        "tournamentName": "BAYHILL",
+        "tournamentType": 1,
+        "tournamentScore": 260.0
+      },
+      {
+        "tournamentName": "TPCSAWGRASS",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
       }
     ]
   },
@@ -110,6 +130,16 @@
         "tournamentName": "WGCFLA",
         "tournamentType": 2,
         "tournamentScore": 503.50
+      },
+      {
+        "tournamentName": "BAYHILL",
+        "tournamentType": 1,
+        "tournamentScore": 249.0
+      },
+      {
+        "tournamentName": "TPCSAWGRASS",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
       }
     ]
   },
@@ -148,6 +178,16 @@
         "tournamentName": "WGCFLA",
         "tournamentType": 2,
         "tournamentScore": 465.5
+      },
+      {
+        "tournamentName": "BAYHILL",
+        "tournamentType": 1,
+        "tournamentScore": 252.0
+      },
+      {
+        "tournamentName": "TPCSAWGRASS",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
       }
     ]
   },
@@ -186,6 +226,16 @@
         "tournamentName": "WGCFLA",
         "tournamentType": 2,
         "tournamentScore": 559.0
+      },
+      {
+        "tournamentName": "BAYHILL",
+        "tournamentType": 1,
+        "tournamentScore": 321.50
+      },
+      {
+        "tournamentName": "TPCSAWGRASS",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
       }
     ]
   },
@@ -224,6 +274,16 @@
         "tournamentName": "WGCFLA",
         "tournamentType": 2,
         "tournamentScore": 428.0
+      },
+      {
+        "tournamentName": "BAYHILL",
+        "tournamentType": 1,
+        "tournamentScore": 245.50
+      },
+      {
+        "tournamentName": "TPCSAWGRASS",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
       }
     ]
   },
@@ -262,6 +322,16 @@
         "tournamentName": "WGCFLA",
         "tournamentType": 2,
         "tournamentScore": 523.0
+      },
+      {
+        "tournamentName": "BAYHILL",
+        "tournamentType": 1,
+        "tournamentScore": 299.0
+      },
+      {
+        "tournamentName": "TPCSAWGRASS",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
       }
     ]
   },
@@ -300,6 +370,16 @@
         "tournamentName": "WGCFLA",
         "tournamentType": 2,
         "tournamentScore": 457.0
+      },
+      {
+        "tournamentName": "BAYHILL",
+        "tournamentType": 1,
+        "tournamentScore": 289.50
+      },
+      {
+        "tournamentName": "TPCSAWGRASS",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
       }
     ]
   },
@@ -338,6 +418,16 @@
         "tournamentName": "WGCFLA",
         "tournamentType": 2,
         "tournamentScore": 454.5
+      },
+      {
+        "tournamentName": "BAYHILL",
+        "tournamentType": 1,
+        "tournamentScore": 329.50
+      },
+      {
+        "tournamentName": "TPCSAWGRASS",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
       }
     ]
   },
@@ -376,6 +466,16 @@
         "tournamentName": "WGCFLA",
         "tournamentType": 2,
         "tournamentScore": 436.5
+      },
+      {
+        "tournamentName": "BAYHILL",
+        "tournamentType": 1,
+        "tournamentScore": 326.0
+      },
+      {
+        "tournamentName": "TPCSAWGRASS",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
       }
     ]
   },
@@ -414,6 +514,16 @@
         "tournamentName": "WGCFLA",
         "tournamentType": 2,
         "tournamentScore": 488.00
+      },
+      {
+        "tournamentName": "BAYHILL",
+        "tournamentType": 1,
+        "tournamentScore": 338.0
+      },
+      {
+        "tournamentName": "TPCSAWGRASS",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
       }
     ]
   },
@@ -452,6 +562,16 @@
         "tournamentName": "WGCFLA",
         "tournamentType": 2,
         "tournamentScore": 524.50
+      },
+      {
+        "tournamentName": "BAYHILL",
+        "tournamentType": 1,
+        "tournamentScore": 0.0
+      },
+      {
+        "tournamentName": "TPCSAWGRASS",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
       }
     ]
   },
@@ -490,6 +610,16 @@
         "tournamentName": "WGCFLA",
         "tournamentType": 2,
         "tournamentScore": 597.0
+      },
+      {
+        "tournamentName": "BAYHILL",
+        "tournamentType": 1,
+        "tournamentScore": 280.0
+      },
+      {
+        "tournamentName": "TPCSAWGRASS",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
       }
     ]
   },
@@ -501,7 +631,7 @@
       "secondPlace": "0",
       "thirdPlace": "1",
       "fourthPlace": "0",
-      "fifthPlace": "0"
+      "fifthPlace": "1"
     },
     "tournaments": [
       {
@@ -528,6 +658,16 @@
         "tournamentName": "WGCFLA",
         "tournamentType": 2,
         "tournamentScore": 528.0
+      },
+      {
+        "tournamentName": "BAYHILL",
+        "tournamentType": 1,
+        "tournamentScore": 354.50
+      },
+      {
+        "tournamentName": "TPCSAWGRASS",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
       }
     ]
   },
@@ -536,7 +676,7 @@
     "icon": "",
     "tournamentPlaces": {
       "firstPlace": "0",
-      "secondPlace": "0",
+      "secondPlace": "1",
       "thirdPlace": "0",
       "fourthPlace": "0",
       "fifthPlace": "1"
@@ -566,6 +706,16 @@
         "tournamentName": "WGCFLA",
         "tournamentType": 2,
         "tournamentScore": 361.5
+      },
+      {
+        "tournamentName": "BAYHILL",
+        "tournamentType": 1,
+        "tournamentScore": 380.0
+      },
+      {
+        "tournamentName": "TPCSAWGRASS",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
       }
     ]
   },
@@ -604,6 +754,16 @@
         "tournamentName": "WGCFLA",
         "tournamentType": 2,
         "tournamentScore": 420.0
+      },
+      {
+        "tournamentName": "BAYHILL",
+        "tournamentType": 1,
+        "tournamentScore": 288.0
+      },
+      {
+        "tournamentName": "TPCSAWGRASS",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
       }
     ]
   },
@@ -642,6 +802,16 @@
         "tournamentName": "WGCFLA",
         "tournamentType": 2,
         "tournamentScore": 489.5
+      },
+      {
+        "tournamentName": "BAYHILL",
+        "tournamentType": 1,
+        "tournamentScore": 318.50
+      },
+      {
+        "tournamentName": "TPCSAWGRASS",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
       }
     ]
   },
@@ -680,6 +850,16 @@
         "tournamentName": "WGCFLA",
         "tournamentType": 2,
         "tournamentScore": 507.00
+      },
+      {
+        "tournamentName": "BAYHILL",
+        "tournamentType": 1,
+        "tournamentScore": 305.0
+      },
+      {
+        "tournamentName": "TPCSAWGRASS",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
       }
     ]
   },
@@ -690,7 +870,7 @@
       "firstPlace": "1",
       "secondPlace": "0",
       "thirdPlace": "0",
-      "fourthPlace": "1",
+      "fourthPlace": "2",
       "fifthPlace": "0"
     },
     "tournaments": [
@@ -718,6 +898,16 @@
         "tournamentName": "WGCFLA",
         "tournamentType": 2,
         "tournamentScore": 458.0
+      },
+      {
+        "tournamentName": "BAYHILL",
+        "tournamentType": 1,
+        "tournamentScore": 358.50
+      },
+      {
+        "tournamentName": "TPCSAWGRASS",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
       }
     ]
   },
@@ -725,7 +915,7 @@
     "user": "jph315",
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/jph.jpg",
     "tournamentPlaces": {
-      "firstPlace": "0",
+      "firstPlace": "1",
       "secondPlace": "1",
       "thirdPlace": "0",
       "fourthPlace": "0",
@@ -756,6 +946,16 @@
         "tournamentName": "WGCFLA",
         "tournamentType": 2,
         "tournamentScore": 422.0
+      },
+      {
+        "tournamentName": "BAYHILL",
+        "tournamentType": 1,
+        "tournamentScore": 433.0
+      },
+      {
+        "tournamentName": "TPCSAWGRASS",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
       }
     ]
   },
@@ -794,6 +994,16 @@
         "tournamentName": "WGCFLA",
         "tournamentType": 2,
         "tournamentScore": 426.0
+      },
+      {
+        "tournamentName": "BAYHILL",
+        "tournamentType": 1,
+        "tournamentScore": 271.50
+      },
+      {
+        "tournamentName": "TPCSAWGRASS",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
       }
     ]
   },
@@ -832,6 +1042,16 @@
         "tournamentName": "WGCFLA",
         "tournamentType": 2,
         "tournamentScore": 523.0
+      },
+      {
+        "tournamentName": "BAYHILL",
+        "tournamentType": 1,
+        "tournamentScore": 330.50
+      },
+      {
+        "tournamentName": "TPCSAWGRASS",
+        "tournamentType": 2,
+        "tournamentScore": 0.0
       }
     ]
   }
