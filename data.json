@@ -533,7 +533,7 @@
     "tournamentPlaces": {
       "firstPlace": "0",
       "secondPlace": "0",
-      "thirdPlace": "0",
+      "thirdPlace": "1",
       "fourthPlace": "2",
       "fifthPlace": "0"
     },
@@ -566,7 +566,7 @@
       {
         "tournamentName": "BAYHILL",
         "tournamentType": 1,
-        "tournamentScore": 0.0
+        "tournamentScore": 376.0
       },
       {
         "tournamentName": "TPCSAWGRASS",
