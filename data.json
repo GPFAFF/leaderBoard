@@ -42,8 +42,8 @@
       },
       {
         "tournamentName": "TPCSAWGRASS",
-        "tournamentType": 2,
-        "tournamentScore": 0.0
+        "tournamentType": 3,
+        "tournamentScore": 254.50
       }
     ]
   },
@@ -90,8 +90,8 @@
       },
       {
         "tournamentName": "TPCSAWGRASS",
-        "tournamentType": 2,
-        "tournamentScore": 0.0
+        "tournamentType": 3,
+        "tournamentScore": 362.5
       }
     ]
   },
@@ -100,7 +100,7 @@
     "icon": "",
     "tournamentPlaces": {
       "firstPlace": "0",
-      "secondPlace": "0",
+      "secondPlace": "1",
       "thirdPlace": "0",
       "fourthPlace": "0",
       "fifthPlace": "0"
@@ -138,8 +138,8 @@
       },
       {
         "tournamentName": "TPCSAWGRASS",
-        "tournamentType": 2,
-        "tournamentScore": 0.0
+        "tournamentType": 3,
+        "tournamentScore": 486.0
       }
     ]
   },
@@ -186,8 +186,8 @@
       },
       {
         "tournamentName": "TPCSAWGRASS",
-        "tournamentType": 2,
-        "tournamentScore": 0.0
+        "tournamentType": 3,
+        "tournamentScore": 288.50
       }
     ]
   },
@@ -234,8 +234,8 @@
       },
       {
         "tournamentName": "TPCSAWGRASS",
-        "tournamentType": 2,
-        "tournamentScore": 0.0
+        "tournamentType": 3,
+        "tournamentScore": 365.5
       }
     ]
   },
@@ -282,8 +282,8 @@
       },
       {
         "tournamentName": "TPCSAWGRASS",
-        "tournamentType": 2,
-        "tournamentScore": 0.0
+        "tournamentType": 3,
+        "tournamentScore": 317.50
       }
     ]
   },
@@ -330,8 +330,8 @@
       },
       {
         "tournamentName": "TPCSAWGRASS",
-        "tournamentType": 2,
-        "tournamentScore": 0.0
+        "tournamentType": 3,
+        "tournamentScore": 277.0
       }
     ]
   },
@@ -378,8 +378,8 @@
       },
       {
         "tournamentName": "TPCSAWGRASS",
-        "tournamentType": 2,
-        "tournamentScore": 0.0
+        "tournamentType": 3,
+        "tournamentScore": 345.0
       }
     ]
   },
@@ -390,7 +390,7 @@
       "firstPlace": "0",
       "secondPlace": "1",
       "thirdPlace": "0",
-      "fourthPlace": "1",
+      "fourthPlace": "2",
       "fifthPlace": "0"
     },
     "tournaments": [
@@ -426,8 +426,8 @@
       },
       {
         "tournamentName": "TPCSAWGRASS",
-        "tournamentType": 2,
-        "tournamentScore": 0.0
+        "tournamentType": 3,
+        "tournamentScore": 440.0
       }
     ]
   },
@@ -474,8 +474,8 @@
       },
       {
         "tournamentName": "TPCSAWGRASS",
-        "tournamentType": 2,
-        "tournamentScore": 0.0
+        "tournamentType": 3,
+        "tournamentScore": 237.0
       }
     ]
   },
@@ -522,8 +522,8 @@
       },
       {
         "tournamentName": "TPCSAWGRASS",
-        "tournamentType": 2,
-        "tournamentScore": 0.0
+        "tournamentType": 3,
+        "tournamentScore": 234.0
       }
     ]
   },
@@ -570,8 +570,8 @@
       },
       {
         "tournamentName": "TPCSAWGRASS",
-        "tournamentType": 2,
-        "tournamentScore": 0.0
+        "tournamentType": 3,
+        "tournamentScore": 374.0
       }
     ]
   },
@@ -579,7 +579,7 @@
     "user": "concord",
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/concord.jpg",
     "tournamentPlaces": {
-      "firstPlace": "1",
+      "firstPlace": "2",
       "secondPlace": "0",
       "thirdPlace": "0",
       "fourthPlace": "1",
@@ -618,8 +618,8 @@
       },
       {
         "tournamentName": "TPCSAWGRASS",
-        "tournamentType": 2,
-        "tournamentScore": 0.0
+        "tournamentType": 3,
+        "tournamentScore": 491.50
       }
     ]
   },
@@ -666,8 +666,8 @@
       },
       {
         "tournamentName": "TPCSAWGRASS",
-        "tournamentType": 2,
-        "tournamentScore": 0.0
+        "tournamentType": 3,
+        "tournamentScore": 292.50
       }
     ]
   },
@@ -714,8 +714,8 @@
       },
       {
         "tournamentName": "TPCSAWGRASS",
-        "tournamentType": 2,
-        "tournamentScore": 0.0
+        "tournamentType": 3,
+        "tournamentScore": 229.50
       }
     ]
   },
@@ -725,7 +725,7 @@
     "tournamentPlaces": {
       "firstPlace": "1",
       "secondPlace": "0",
-      "thirdPlace": "0",
+      "thirdPlace": "1",
       "fourthPlace": "0",
       "fifthPlace": "0"
     },
@@ -762,8 +762,8 @@
       },
       {
         "tournamentName": "TPCSAWGRASS",
-        "tournamentType": 2,
-        "tournamentScore": 0.0
+        "tournamentType": 3,
+        "tournamentScore": 471.50
       }
     ]
   },
@@ -810,8 +810,8 @@
       },
       {
         "tournamentName": "TPCSAWGRASS",
-        "tournamentType": 2,
-        "tournamentScore": 0.0
+        "tournamentType": 3,
+        "tournamentScore": 280.0
       }
     ]
   },
@@ -858,8 +858,8 @@
       },
       {
         "tournamentName": "TPCSAWGRASS",
-        "tournamentType": 2,
-        "tournamentScore": 0.0
+        "tournamentType": 3,
+        "tournamentScore": 283.50
       }
     ]
   },
@@ -906,8 +906,8 @@
       },
       {
         "tournamentName": "TPCSAWGRASS",
-        "tournamentType": 2,
-        "tournamentScore": 0.0
+        "tournamentType": 3,
+        "tournamentScore": 237.50
       }
     ]
   },
@@ -954,8 +954,8 @@
       },
       {
         "tournamentName": "TPCSAWGRASS",
-        "tournamentType": 2,
-        "tournamentScore": 0.0
+        "tournamentType": 3,
+        "tournamentScore": 271.0
       }
     ]
   },
@@ -1002,8 +1002,8 @@
       },
       {
         "tournamentName": "TPCSAWGRASS",
-        "tournamentType": 2,
-        "tournamentScore": 0.0
+        "tournamentType": 3,
+        "tournamentScore": 372.0
       }
     ]
   },
@@ -1015,7 +1015,7 @@
       "secondPlace": "1",
       "thirdPlace": "0",
       "fourthPlace": "0",
-      "fifthPlace": "1"
+      "fifthPlace": "2"
     },
     "tournaments": [
       {
@@ -1050,8 +1050,8 @@
       },
       {
         "tournamentName": "TPCSAWGRASS",
-        "tournamentType": 2,
-        "tournamentScore": 0.0
+        "tournamentType": 3,
+        "tournamentScore": 377.0
       }
     ]
   }
