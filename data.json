@@ -5,9 +5,9 @@
     "tournamentPlaces": {
       "firstPlace": "0",
       "secondPlace": "0",
-      "thirdPlace": "0",
-      "fourthPlace": "0",
-      "fifthPlace": "0"
+      "thirdPlace": "1",
+      "fourthPlace": "1",
+      "fifthPlace": "1"
     },
     "tournaments": [
       {
@@ -49,6 +49,11 @@
         "tournamentName": "HONDA",
         "tournamentType": 1,
         "tournamentScore": 373.50
+      },
+      {
+        "tournamentName": "WGCMATCH",
+        "tournamentType": 2,
+        "tournamentScore": 519.75
       }
     ]
   },
@@ -102,6 +107,11 @@
         "tournamentName": "HONDA",
         "tournamentType": 1,
         "tournamentScore": 277.50
+      },
+      {
+        "tournamentName": "WGCMATCH",
+        "tournamentType": 2,
+        "tournamentScore": 427.40
       }
     ]
   },
@@ -110,7 +120,7 @@
     "icon": "",
     "tournamentPlaces": {
       "firstPlace": "0",
-      "secondPlace": "1",
+      "secondPlace": "2",
       "thirdPlace": "0",
       "fourthPlace": "0",
       "fifthPlace": "0"
@@ -155,6 +165,11 @@
         "tournamentName": "HONDA",
         "tournamentType": 1,
         "tournamentScore": 206.50
+      },
+      {
+        "tournamentName": "WGCMATCH",
+        "tournamentType": 2,
+        "tournamentScore": 598.0
       }
     ]
   },
@@ -208,6 +223,11 @@
         "tournamentName": "HONDA",
         "tournamentType": 1,
         "tournamentScore": 230.0
+      },
+      {
+        "tournamentName": "WGCMATCH",
+        "tournamentType": 2,
+        "tournamentScore": 447.25
       }
     ]
   },
@@ -261,6 +281,11 @@
         "tournamentName": "HONDA",
         "tournamentType": 1,
         "tournamentScore": 357.0
+      },
+      {
+        "tournamentName": "WGCMATCH",
+        "tournamentType": 2,
+        "tournamentScore": 493.25
       }
     ]
   },
@@ -314,6 +339,11 @@
         "tournamentName": "HONDA",
         "tournamentType": 1,
         "tournamentScore": 349.50
+      },
+      {
+        "tournamentName": "WGCMATCH",
+        "tournamentType": 2,
+        "tournamentScore": 454.45
       }
     ]
   },
@@ -324,7 +354,7 @@
       "firstPlace": "0",
       "secondPlace": "0",
       "thirdPlace": "0",
-      "fourthPlace": "0",
+      "fourthPlace": "1",
       "fifthPlace": "1"
     },
     "tournaments": [
@@ -367,6 +397,11 @@
         "tournamentName": "HONDA",
         "tournamentType": 1,
         "tournamentScore": 260.50
+      },
+      {
+        "tournamentName": "WGCMATCH",
+        "tournamentType": 2,
+        "tournamentScore": 523.7
       }
     ]
   },
@@ -420,6 +455,11 @@
         "tournamentName": "HONDA",
         "tournamentType": 1,
         "tournamentScore": 268.0
+      },
+      {
+        "tournamentName": "WGCMATCH",
+        "tournamentType": 2,
+        "tournamentScore": 395.55
       }
     ]
   },
@@ -473,6 +513,11 @@
         "tournamentName": "HONDA",
         "tournamentType": 1,
         "tournamentScore": 311.50
+      },
+      {
+        "tournamentName": "WGCMATCH",
+        "tournamentType": 2,
+        "tournamentScore": 412.35
       }
     ]
   },
@@ -526,6 +571,11 @@
         "tournamentName": "HONDA",
         "tournamentType": 1,
         "tournamentScore": 381.0
+      },
+      {
+        "tournamentName": "WGCMATCH",
+        "tournamentType": 2,
+        "tournamentScore": 466.30
       }
     ]
   },
@@ -579,6 +629,11 @@
         "tournamentName": "HONDA",
         "tournamentType": 1,
         "tournamentScore": 384.0
+      },
+      {
+        "tournamentName": "WGCMATCH",
+        "tournamentType": 2,
+        "tournamentScore": 442.85
       }
     ]
   },
@@ -632,6 +687,11 @@
         "tournamentName": "HONDA",
         "tournamentType": 1,
         "tournamentScore": 354.0
+      },
+      {
+        "tournamentName": "WGCMATCH",
+        "tournamentType": 2,
+        "tournamentScore": 475.20
       }
     ]
   },
@@ -685,6 +745,11 @@
         "tournamentName": "HONDA",
         "tournamentType": 1,
         "tournamentScore": 391.50
+      },
+      {
+        "tournamentName": "WGCMATCH",
+        "tournamentType": 2,
+        "tournamentScore": 517.35
       }
     ]
   },
@@ -738,6 +803,11 @@
         "tournamentName": "HONDA",
         "tournamentType": 1,
         "tournamentScore": 320.0
+      },
+      {
+        "tournamentName": "WGCMATCH",
+        "tournamentType": 2,
+        "tournamentScore": 488.75
       }
     ]
   },
@@ -791,6 +861,11 @@
         "tournamentName": "HONDA",
         "tournamentType": 1,
         "tournamentScore": 412.50
+      },
+      {
+        "tournamentName": "WGCMATCH",
+        "tournamentType": 2,
+        "tournamentScore": 431.45
       }
     ]
   },
@@ -844,6 +919,11 @@
         "tournamentName": "HONDA",
         "tournamentType": 1,
         "tournamentScore": 316.5
+      },
+      {
+        "tournamentName": "WGCMATCH",
+        "tournamentType": 2,
+        "tournamentScore": 352.80
       }
     ]
   },
@@ -897,6 +977,11 @@
         "tournamentName": "HONDA",
         "tournamentType": 1,
         "tournamentScore": 321.0
+      },
+      {
+        "tournamentName": "WGCMATCH",
+        "tournamentType": 2,
+        "tournamentScore": 411.9
       }
     ]
   },
@@ -950,6 +1035,11 @@
         "tournamentName": "HONDA",
         "tournamentType": 1,
         "tournamentScore": 442.50
+      },
+      {
+        "tournamentName": "WGCMATCH",
+        "tournamentType": 2,
+        "tournamentScore": 459.1
       }
     ]
   },
@@ -959,7 +1049,7 @@
     "tournamentPlaces": {
       "firstPlace": "1",
       "secondPlace": "0",
-      "thirdPlace": "0",
+      "thirdPlace": "1",
       "fourthPlace": "2",
       "fifthPlace": "0"
     },
@@ -1003,6 +1093,11 @@
         "tournamentName": "HONDA",
         "tournamentType": 1,
         "tournamentScore": 289.50
+      },
+      {
+        "tournamentName": "WGCMATCH",
+        "tournamentType": 2,
+        "tournamentScore": 535.25
       }
     ]
   },
@@ -1056,6 +1151,11 @@
         "tournamentName": "HONDA",
         "tournamentType": 1,
         "tournamentScore": 350.0
+      },
+      {
+        "tournamentName": "WGCMATCH",
+        "tournamentType": 2,
+        "tournamentScore": 509.20
       }
     ]
   },
@@ -1109,6 +1209,11 @@
         "tournamentName": "HONDA",
         "tournamentType": 1,
         "tournamentScore": 277.0
+      },
+      {
+        "tournamentName": "WGCMATCH",
+        "tournamentType": 2,
+        "tournamentScore": 482.30
       }
     ]
   },
@@ -1116,7 +1221,7 @@
     "user": "darksidefan",
     "icon": "",
     "tournamentPlaces": {
-      "firstPlace": "0",
+      "firstPlace": "1",
       "secondPlace": "1",
       "thirdPlace": "0",
       "fourthPlace": "0",
@@ -1162,6 +1267,11 @@
         "tournamentName": "HONDA",
         "tournamentType": 1,
         "tournamentScore": 278.50
+      },
+      {
+        "tournamentName": "WGCMATCH",
+        "tournamentType": 2,
+        "tournamentScore": 649.65
       }
     ]
   }
