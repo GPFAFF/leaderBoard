@@ -54,6 +54,16 @@
         "tournamentName": "WGCMATCH",
         "tournamentType": 2,
         "tournamentScore": 519.75
+      },
+      {
+        "tournamentName": "VALERO",
+        "tournamentType": 1,
+        "tournamentScore": 226.0
+      },
+      {
+        "tournamentName": "MASTERS",
+        "tournamentType": 4,
+        "tournamentScore": 0
       }
     ]
   },
@@ -112,6 +122,16 @@
         "tournamentName": "WGCMATCH",
         "tournamentType": 2,
         "tournamentScore": 427.40
+      },
+      {
+        "tournamentName": "VALERO",
+        "tournamentType": 1,
+        "tournamentScore": 326.0
+      },
+      {
+        "tournamentName": "MASTERS",
+        "tournamentType": 4,
+        "tournamentScore": 0
       }
     ]
   },
@@ -170,6 +190,16 @@
         "tournamentName": "WGCMATCH",
         "tournamentType": 2,
         "tournamentScore": 598.0
+      },
+      {
+        "tournamentName": "VALERO",
+        "tournamentType": 1,
+        "tournamentScore": 294.5
+      },
+      {
+        "tournamentName": "MASTERS",
+        "tournamentType": 4,
+        "tournamentScore": 0
       }
     ]
   },
@@ -228,6 +258,16 @@
         "tournamentName": "WGCMATCH",
         "tournamentType": 2,
         "tournamentScore": 447.25
+      },
+      {
+        "tournamentName": "VALERO",
+        "tournamentType": 1,
+        "tournamentScore": 353.5
+      },
+      {
+        "tournamentName": "MASTERS",
+        "tournamentType": 4,
+        "tournamentScore": 0
       }
     ]
   },
@@ -286,6 +326,16 @@
         "tournamentName": "WGCMATCH",
         "tournamentType": 2,
         "tournamentScore": 493.25
+      },
+      {
+        "tournamentName": "VALERO",
+        "tournamentType": 1,
+        "tournamentScore": 375.5
+      },
+      {
+        "tournamentName": "MASTERS",
+        "tournamentType": 4,
+        "tournamentScore": 0
       }
     ]
   },
@@ -344,6 +394,16 @@
         "tournamentName": "WGCMATCH",
         "tournamentType": 2,
         "tournamentScore": 454.45
+      },
+      {
+        "tournamentName": "VALERO",
+        "tournamentType": 1,
+        "tournamentScore": 339.0
+      },
+      {
+        "tournamentName": "MASTERS",
+        "tournamentType": 4,
+        "tournamentScore": 0
       }
     ]
   },
@@ -355,7 +415,7 @@
       "secondPlace": "0",
       "thirdPlace": "0",
       "fourthPlace": "1",
-      "fifthPlace": "1"
+      "fifthPlace": "2"
     },
     "tournaments": [
       {
@@ -402,6 +462,16 @@
         "tournamentName": "WGCMATCH",
         "tournamentType": 2,
         "tournamentScore": 523.7
+      },
+      {
+        "tournamentName": "VALERO",
+        "tournamentType": 1,
+        "tournamentScore": 400.0
+      },
+      {
+        "tournamentName": "MASTERS",
+        "tournamentType": 4,
+        "tournamentScore": 0
       }
     ]
   },
@@ -460,6 +530,16 @@
         "tournamentName": "WGCMATCH",
         "tournamentType": 2,
         "tournamentScore": 395.55
+      },
+      {
+        "tournamentName": "VALERO",
+        "tournamentType": 1,
+        "tournamentScore": 286.5
+      },
+      {
+        "tournamentName": "MASTERS",
+        "tournamentType": 4,
+        "tournamentScore": 0
       }
     ]
   },
@@ -518,6 +598,16 @@
         "tournamentName": "WGCMATCH",
         "tournamentType": 2,
         "tournamentScore": 412.35
+      },
+      {
+        "tournamentName": "VALERO",
+        "tournamentType": 1,
+        "tournamentScore": 0
+      },
+      {
+        "tournamentName": "MASTERS",
+        "tournamentType": 4,
+        "tournamentScore": 0
       }
     ]
   },
@@ -576,6 +666,16 @@
         "tournamentName": "WGCMATCH",
         "tournamentType": 2,
         "tournamentScore": 466.30
+      },
+      {
+        "tournamentName": "VALERO",
+        "tournamentType": 1,
+        "tournamentScore": 371.5
+      },
+      {
+        "tournamentName": "MASTERS",
+        "tournamentType": 4,
+        "tournamentScore": 0
       }
     ]
   },
@@ -634,6 +734,16 @@
         "tournamentName": "WGCMATCH",
         "tournamentType": 2,
         "tournamentScore": 442.85
+      },
+      {
+        "tournamentName": "VALERO",
+        "tournamentType": 1,
+        "tournamentScore": 301.5
+      },
+      {
+        "tournamentName": "MASTERS",
+        "tournamentType": 4,
+        "tournamentScore": 0
       }
     ]
   },
@@ -642,7 +752,7 @@
     "icon": "",
     "tournamentPlaces": {
       "firstPlace": "0",
-      "secondPlace": "0",
+      "secondPlace": "1",
       "thirdPlace": "1",
       "fourthPlace": "2",
       "fifthPlace": "0"
@@ -692,6 +802,16 @@
         "tournamentName": "WGCMATCH",
         "tournamentType": 2,
         "tournamentScore": 475.20
+      },
+      {
+        "tournamentName": "VALERO",
+        "tournamentType": 1,
+        "tournamentScore": 433.0
+      },
+      {
+        "tournamentName": "MASTERS",
+        "tournamentType": 4,
+        "tournamentScore": 0
       }
     ]
   },
@@ -750,6 +870,16 @@
         "tournamentName": "WGCMATCH",
         "tournamentType": 2,
         "tournamentScore": 517.35
+      },
+      {
+        "tournamentName": "VALERO",
+        "tournamentType": 1,
+        "tournamentScore": 336.0
+      },
+      {
+        "tournamentName": "MASTERS",
+        "tournamentType": 4,
+        "tournamentScore": 0
       }
     ]
   },
@@ -808,6 +938,16 @@
         "tournamentName": "WGCMATCH",
         "tournamentType": 2,
         "tournamentScore": 488.75
+      },
+      {
+        "tournamentName": "VALERO",
+        "tournamentType": 1,
+        "tournamentScore": 330.0
+      },
+      {
+        "tournamentName": "MASTERS",
+        "tournamentType": 4,
+        "tournamentScore": 0
       }
     ]
   },
@@ -817,7 +957,7 @@
     "tournamentPlaces": {
       "firstPlace": "0",
       "secondPlace": "2",
-      "thirdPlace": "0",
+      "thirdPlace": "1",
       "fourthPlace": "0",
       "fifthPlace": "1"
     },
@@ -866,6 +1006,16 @@
         "tournamentName": "WGCMATCH",
         "tournamentType": 2,
         "tournamentScore": 431.45
+      },
+      {
+        "tournamentName": "VALERO",
+        "tournamentType": 1,
+        "tournamentScore": 406.0
+      },
+      {
+        "tournamentName": "MASTERS",
+        "tournamentType": 4,
+        "tournamentScore": 0
       }
     ]
   },
@@ -924,6 +1074,16 @@
         "tournamentName": "WGCMATCH",
         "tournamentType": 2,
         "tournamentScore": 352.80
+      },
+      {
+        "tournamentName": "VALERO",
+        "tournamentType": 1,
+        "tournamentScore": 0
+      },
+      {
+        "tournamentName": "MASTERS",
+        "tournamentType": 4,
+        "tournamentScore": 0
       }
     ]
   },
@@ -931,7 +1091,7 @@
     "user": "hupfdaddy",
     "icon": "",
     "tournamentPlaces": {
-      "firstPlace": "1",
+      "firstPlace": "2",
       "secondPlace": "0",
       "thirdPlace": "0",
       "fourthPlace": "0",
@@ -982,6 +1142,16 @@
         "tournamentName": "WGCMATCH",
         "tournamentType": 2,
         "tournamentScore": 411.9
+      },
+      {
+        "tournamentName": "VALERO",
+        "tournamentType": 1,
+        "tournamentScore": 435.0
+      },
+      {
+        "tournamentName": "MASTERS",
+        "tournamentType": 4,
+        "tournamentScore": 0
       }
     ]
   },
@@ -1040,6 +1210,16 @@
         "tournamentName": "WGCMATCH",
         "tournamentType": 2,
         "tournamentScore": 459.1
+      },
+      {
+        "tournamentName": "VALERO",
+        "tournamentType": 1,
+        "tournamentScore": 375.50
+      },
+      {
+        "tournamentName": "MASTERS",
+        "tournamentType": 4,
+        "tournamentScore": 0
       }
     ]
   },
@@ -1050,7 +1230,7 @@
       "firstPlace": "1",
       "secondPlace": "0",
       "thirdPlace": "1",
-      "fourthPlace": "2",
+      "fourthPlace": "3",
       "fifthPlace": "0"
     },
     "tournaments": [
@@ -1098,6 +1278,16 @@
         "tournamentName": "WGCMATCH",
         "tournamentType": 2,
         "tournamentScore": 535.25
+      },
+      {
+        "tournamentName": "VALERO",
+        "tournamentType": 1,
+        "tournamentScore": 400.50
+      },
+      {
+        "tournamentName": "MASTERS",
+        "tournamentType": 4,
+        "tournamentScore": 0
       }
     ]
   },
@@ -1156,6 +1346,16 @@
         "tournamentName": "WGCMATCH",
         "tournamentType": 2,
         "tournamentScore": 509.20
+      },
+      {
+        "tournamentName": "VALERO",
+        "tournamentType": 1,
+        "tournamentScore": 263.5
+      },
+      {
+        "tournamentName": "MASTERS",
+        "tournamentType": 4,
+        "tournamentScore": 0
       }
     ]
   },
@@ -1214,6 +1414,16 @@
         "tournamentName": "WGCMATCH",
         "tournamentType": 2,
         "tournamentScore": 482.30
+      },
+      {
+        "tournamentName": "VALERO",
+        "tournamentType": 1,
+        "tournamentScore": 349.5
+      },
+      {
+        "tournamentName": "MASTERS",
+        "tournamentType": 4,
+        "tournamentScore": 0
       }
     ]
   },
@@ -1272,6 +1482,16 @@
         "tournamentName": "WGCMATCH",
         "tournamentType": 2,
         "tournamentScore": 649.65
+      },
+      {
+        "tournamentName": "VALERO",
+        "tournamentType": 1,
+        "tournamentScore": 354.0
+      },
+      {
+        "tournamentName": "MASTERS",
+        "tournamentType": 4,
+        "tournamentScore": 0
       }
     ]
   }
