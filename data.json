@@ -62,8 +62,8 @@
       },
       {
         "tournamentName": "MASTERS",
-        "tournamentType": 4,
-        "tournamentScore": 0
+        "tournamentType": 3,
+        "tournamentScore": 311.0
       }
     ]
   },
@@ -130,8 +130,8 @@
       },
       {
         "tournamentName": "MASTERS",
-        "tournamentType": 4,
-        "tournamentScore": 0
+        "tournamentType": 3,
+        "tournamentScore": 247.0
       }
     ]
   },
@@ -139,7 +139,7 @@
     "user": "Syvretzky",
     "icon": "",
     "tournamentPlaces": {
-      "firstPlace": "0",
+      "firstPlace": "1",
       "secondPlace": "2",
       "thirdPlace": "0",
       "fourthPlace": "0",
@@ -198,8 +198,8 @@
       },
       {
         "tournamentName": "MASTERS",
-        "tournamentType": 4,
-        "tournamentScore": 0
+        "tournamentType": 3,
+        "tournamentScore": 484.0
       }
     ]
   },
@@ -211,7 +211,7 @@
       "secondPlace": "1",
       "thirdPlace": "0",
       "fourthPlace": "0",
-      "fifthPlace": "0"
+      "fifthPlace": "1"
     },
     "tournaments": [
       {
@@ -266,8 +266,8 @@
       },
       {
         "tournamentName": "MASTERS",
-        "tournamentType": 4,
-        "tournamentScore": 0
+        "tournamentType": 3,
+        "tournamentScore": 422.0
       }
     ]
   },
@@ -334,8 +334,8 @@
       },
       {
         "tournamentName": "MASTERS",
-        "tournamentType": 4,
-        "tournamentScore": 0
+        "tournamentType": 3,
+        "tournamentScore": 298.5
       }
     ]
   },
@@ -402,8 +402,8 @@
       },
       {
         "tournamentName": "MASTERS",
-        "tournamentType": 4,
-        "tournamentScore": 0
+        "tournamentType": 3,
+        "tournamentScore": 369.50
       }
     ]
   },
@@ -470,8 +470,8 @@
       },
       {
         "tournamentName": "MASTERS",
-        "tournamentType": 4,
-        "tournamentScore": 0
+        "tournamentType": 3,
+        "tournamentScore": 315.5
       }
     ]
   },
@@ -481,7 +481,7 @@
     "tournamentPlaces": {
       "firstPlace": "1",
       "secondPlace": "0",
-      "thirdPlace": "0",
+      "thirdPlace": "1",
       "fourthPlace": "0",
       "fifthPlace": "0"
     },
@@ -538,8 +538,8 @@
       },
       {
         "tournamentName": "MASTERS",
-        "tournamentType": 4,
-        "tournamentScore": 0
+        "tournamentType": 3,
+        "tournamentScore": 448.50
       }
     ]
   },
@@ -606,8 +606,8 @@
       },
       {
         "tournamentName": "MASTERS",
-        "tournamentType": 4,
-        "tournamentScore": 0
+        "tournamentType": 3,
+        "tournamentScore": 338.50
       }
     ]
   },
@@ -674,8 +674,8 @@
       },
       {
         "tournamentName": "MASTERS",
-        "tournamentType": 4,
-        "tournamentScore": 0
+        "tournamentType": 3,
+        "tournamentScore": 325.5
       }
     ]
   },
@@ -742,8 +742,8 @@
       },
       {
         "tournamentName": "MASTERS",
-        "tournamentType": 4,
-        "tournamentScore": 0
+        "tournamentType": 3,
+        "tournamentScore": 377.0
       }
     ]
   },
@@ -810,8 +810,8 @@
       },
       {
         "tournamentName": "MASTERS",
-        "tournamentType": 4,
-        "tournamentScore": 0
+        "tournamentType": 3,
+        "tournamentScore": 311.5
       }
     ]
   },
@@ -878,8 +878,8 @@
       },
       {
         "tournamentName": "MASTERS",
-        "tournamentType": 4,
-        "tournamentScore": 0
+        "tournamentType": 3,
+        "tournamentScore": 384.5
       }
     ]
   },
@@ -890,7 +890,7 @@
       "firstPlace": "0",
       "secondPlace": "0",
       "thirdPlace": "1",
-      "fourthPlace": "0",
+      "fourthPlace": "1",
       "fifthPlace": "1"
     },
     "tournaments": [
@@ -946,8 +946,8 @@
       },
       {
         "tournamentName": "MASTERS",
-        "tournamentType": 4,
-        "tournamentScore": 0
+        "tournamentType": 3,
+        "tournamentScore": 444.5
       }
     ]
   },
@@ -1014,8 +1014,8 @@
       },
       {
         "tournamentName": "MASTERS",
-        "tournamentType": 4,
-        "tournamentScore": 0
+        "tournamentType": 3,
+        "tournamentScore": 389.0
       }
     ]
   },
@@ -1082,8 +1082,8 @@
       },
       {
         "tournamentName": "MASTERS",
-        "tournamentType": 4,
-        "tournamentScore": 0
+        "tournamentType": 3,
+        "tournamentScore": 401.5
       }
     ]
   },
@@ -1150,8 +1150,8 @@
       },
       {
         "tournamentName": "MASTERS",
-        "tournamentType": 4,
-        "tournamentScore": 0
+        "tournamentType": 3,
+        "tournamentScore": 287.0
       }
     ]
   },
@@ -1218,8 +1218,8 @@
       },
       {
         "tournamentName": "MASTERS",
-        "tournamentType": 4,
-        "tournamentScore": 0
+        "tournamentType": 3,
+        "tournamentScore": 344.0
       }
     ]
   },
@@ -1286,8 +1286,8 @@
       },
       {
         "tournamentName": "MASTERS",
-        "tournamentType": 4,
-        "tournamentScore": 0
+        "tournamentType": 3,
+        "tournamentScore": 388.0
       }
     ]
   },
@@ -1354,8 +1354,8 @@
       },
       {
         "tournamentName": "MASTERS",
-        "tournamentType": 4,
-        "tournamentScore": 0
+        "tournamentType": 3,
+        "tournamentScore": 298.5
       }
     ]
   },
@@ -1422,17 +1422,17 @@
       },
       {
         "tournamentName": "MASTERS",
-        "tournamentType": 4,
-        "tournamentScore": 0
+        "tournamentType": 3,
+        "tournamentScore": 399.0
       }
     ]
   },
   {
     "user": "darksidefan",
-    "icon": "",
+    "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/darkside.jpeg",
     "tournamentPlaces": {
       "firstPlace": "1",
-      "secondPlace": "1",
+      "secondPlace": "2",
       "thirdPlace": "0",
       "fourthPlace": "0",
       "fifthPlace": "2"
@@ -1490,8 +1490,8 @@
       },
       {
         "tournamentName": "MASTERS",
-        "tournamentType": 4,
-        "tournamentScore": 0
+        "tournamentType": 3,
+        "tournamentScore": 465.5
       }
     ]
   }
