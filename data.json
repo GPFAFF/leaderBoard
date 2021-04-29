@@ -64,6 +64,16 @@
         "tournamentName": "MASTERS",
         "tournamentType": 3,
         "tournamentScore": 311.0
+      },
+      {
+        "tournamentName": "RBC",
+        "tournamentType": 1,
+        "tournamentScore": 413.50
+      },
+      {
+        "tournamentName": "ZUR",
+        "tournamentType": 1,
+        "tournamentScore": 395.50
       }
     ]
   },
@@ -132,6 +142,16 @@
         "tournamentName": "MASTERS",
         "tournamentType": 3,
         "tournamentScore": 247.0
+      },
+      {
+        "tournamentName": "RBC",
+        "tournamentType": 1,
+        "tournamentScore": 355.0
+      },
+      {
+        "tournamentName": "ZUR",
+        "tournamentType": 1,
+        "tournamentScore": 427.0
       }
     ]
   },
@@ -200,6 +220,16 @@
         "tournamentName": "MASTERS",
         "tournamentType": 3,
         "tournamentScore": 484.0
+      },
+      {
+        "tournamentName": "RBC",
+        "tournamentType": 1,
+        "tournamentScore": 437.50
+      },
+      {
+        "tournamentName": "ZUR",
+        "tournamentType": 1,
+        "tournamentScore": 415.0
       }
     ]
   },
@@ -268,6 +298,16 @@
         "tournamentName": "MASTERS",
         "tournamentType": 3,
         "tournamentScore": 422.0
+      },
+      {
+        "tournamentName": "RBC",
+        "tournamentType": 1,
+        "tournamentScore": 215.625
+      },
+      {
+        "tournamentName": "ZUR",
+        "tournamentType": 1,
+        "tournamentScore": 200.625
       }
     ]
   },
@@ -279,7 +319,7 @@
       "secondPlace": "1",
       "thirdPlace": "0",
       "fourthPlace": "0",
-      "fifthPlace": "0"
+      "fifthPlace": "1"
     },
     "tournaments": [
       {
@@ -336,6 +376,16 @@
         "tournamentName": "MASTERS",
         "tournamentType": 3,
         "tournamentScore": 298.5
+      },
+      {
+        "tournamentName": "RBC",
+        "tournamentType": 1,
+        "tournamentScore": 445.0
+      },
+      {
+        "tournamentName": "ZUR",
+        "tournamentType": 1,
+        "tournamentScore": 467.50
       }
     ]
   },
@@ -344,10 +394,10 @@
     "icon": "",
     "tournamentPlaces": {
       "firstPlace": "0",
-      "secondPlace": "0",
+      "secondPlace": "1",
       "thirdPlace": "0",
       "fourthPlace": "0",
-      "fifthPlace": "0"
+      "fifthPlace": "1"
     },
     "tournaments": [
       {
@@ -404,6 +454,16 @@
         "tournamentName": "MASTERS",
         "tournamentType": 3,
         "tournamentScore": 369.50
+      },
+      {
+        "tournamentName": "RBC",
+        "tournamentType": 1,
+        "tournamentScore": 452.50
+      },
+      {
+        "tournamentName": "ZUR",
+        "tournamentType": 1,
+        "tournamentScore": 564.0
       }
     ]
   },
@@ -414,7 +474,7 @@
       "firstPlace": "0",
       "secondPlace": "0",
       "thirdPlace": "0",
-      "fourthPlace": "1",
+      "fourthPlace": "2",
       "fifthPlace": "2"
     },
     "tournaments": [
@@ -472,6 +532,16 @@
         "tournamentName": "MASTERS",
         "tournamentType": 3,
         "tournamentScore": 315.5
+      },
+      {
+        "tournamentName": "RBC",
+        "tournamentType": 1,
+        "tournamentScore": 453.0
+      },
+      {
+        "tournamentName": "ZUR",
+        "tournamentType": 1,
+        "tournamentScore": 322.0
       }
     ]
   },
@@ -481,7 +551,7 @@
     "tournamentPlaces": {
       "firstPlace": "1",
       "secondPlace": "0",
-      "thirdPlace": "1",
+      "thirdPlace": "2",
       "fourthPlace": "0",
       "fifthPlace": "0"
     },
@@ -540,6 +610,16 @@
         "tournamentName": "MASTERS",
         "tournamentType": 3,
         "tournamentScore": 448.50
+      },
+      {
+        "tournamentName": "RBC",
+        "tournamentType": 1,
+        "tournamentScore": 456.0
+      },
+      {
+        "tournamentName": "ZUR",
+        "tournamentType": 1,
+        "tournamentScore": 433.0
       }
     ]
   },
@@ -547,7 +627,7 @@
     "user": "CubyBlue",
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/cuby.jpg",
     "tournamentPlaces": {
-      "firstPlace": "0",
+      "firstPlace": "1",
       "secondPlace": "1",
       "thirdPlace": "0",
       "fourthPlace": "2",
@@ -608,6 +688,16 @@
         "tournamentName": "MASTERS",
         "tournamentType": 3,
         "tournamentScore": 338.50
+      },
+      {
+        "tournamentName": "RBC",
+        "tournamentType": 1,
+        "tournamentScore": 326.0
+      },
+      {
+        "tournamentName": "ZUR",
+        "tournamentType": 1,
+        "tournamentScore": 576.0
       }
     ]
   },
@@ -615,7 +705,7 @@
     "user": "garciar15",
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/garcia.jpg",
     "tournamentPlaces": {
-      "firstPlace": "0",
+      "firstPlace": "1",
       "secondPlace": "0",
       "thirdPlace": "0",
       "fourthPlace": "0",
@@ -676,6 +766,16 @@
         "tournamentName": "MASTERS",
         "tournamentType": 3,
         "tournamentScore": 325.5
+      },
+      {
+        "tournamentName": "RBC",
+        "tournamentType": 1,
+        "tournamentScore": 494.50
+      },
+      {
+        "tournamentName": "ZUR",
+        "tournamentType": 1,
+        "tournamentScore": 200.625
       }
     ]
   },
@@ -744,6 +844,16 @@
         "tournamentName": "MASTERS",
         "tournamentType": 3,
         "tournamentScore": 377.0
+      },
+      {
+        "tournamentName": "RBC",
+        "tournamentType": 1,
+        "tournamentScore": 385.50
+      },
+      {
+        "tournamentName": "ZUR",
+        "tournamentType": 1,
+        "tournamentScore": 430.50
       }
     ]
   },
@@ -752,7 +862,7 @@
     "icon": "",
     "tournamentPlaces": {
       "firstPlace": "0",
-      "secondPlace": "1",
+      "secondPlace": "2",
       "thirdPlace": "1",
       "fourthPlace": "2",
       "fifthPlace": "0"
@@ -812,6 +922,16 @@
         "tournamentName": "MASTERS",
         "tournamentType": 3,
         "tournamentScore": 311.5
+      },
+      {
+        "tournamentName": "RBC",
+        "tournamentType": 1,
+        "tournamentScore": 472.50
+      },
+      {
+        "tournamentName": "ZUR",
+        "tournamentType": 1,
+        "tournamentScore": 419
       }
     ]
   },
@@ -880,6 +1000,16 @@
         "tournamentName": "MASTERS",
         "tournamentType": 3,
         "tournamentScore": 384.5
+      },
+      {
+        "tournamentName": "RBC",
+        "tournamentType": 1,
+        "tournamentScore": 389.0
+      },
+      {
+        "tournamentName": "ZUR",
+        "tournamentType": 1,
+        "tournamentScore": 394.50
       }
     ]
   },
@@ -889,7 +1019,7 @@
     "tournamentPlaces": {
       "firstPlace": "0",
       "secondPlace": "0",
-      "thirdPlace": "1",
+      "thirdPlace": "2",
       "fourthPlace": "1",
       "fifthPlace": "1"
     },
@@ -948,6 +1078,16 @@
         "tournamentName": "MASTERS",
         "tournamentType": 3,
         "tournamentScore": 444.5
+      },
+      {
+        "tournamentName": "RBC",
+        "tournamentType": 1,
+        "tournamentScore": 430.0
+      },
+      {
+        "tournamentName": "ZUR",
+        "tournamentType": 1,
+        "tournamentScore": 501.5
       }
     ]
   },
@@ -1016,6 +1156,16 @@
         "tournamentName": "MASTERS",
         "tournamentType": 3,
         "tournamentScore": 389.0
+      },
+      {
+        "tournamentName": "RBC",
+        "tournamentType": 1,
+        "tournamentScore": 444.50
+      },
+      {
+        "tournamentName": "ZUR",
+        "tournamentType": 1,
+        "tournamentScore": 267.50
       }
     ]
   },
@@ -1084,6 +1234,16 @@
         "tournamentName": "MASTERS",
         "tournamentType": 3,
         "tournamentScore": 401.5
+      },
+      {
+        "tournamentName": "RBC",
+        "tournamentType": 1,
+        "tournamentScore": 331.50
+      },
+      {
+        "tournamentName": "ZUR",
+        "tournamentType": 1,
+        "tournamentScore": 365.50
       }
     ]
   },
@@ -1152,6 +1312,16 @@
         "tournamentName": "MASTERS",
         "tournamentType": 3,
         "tournamentScore": 287.0
+      },
+      {
+        "tournamentName": "RBC",
+        "tournamentType": 1,
+        "tournamentScore": 365.0
+      },
+      {
+        "tournamentName": "ZUR",
+        "tournamentType": 1,
+        "tournamentScore": 422.50
       }
     ]
   },
@@ -1220,6 +1390,16 @@
         "tournamentName": "MASTERS",
         "tournamentType": 3,
         "tournamentScore": 344.0
+      },
+      {
+        "tournamentName": "RBC",
+        "tournamentType": 1,
+        "tournamentScore": 417.0
+      },
+      {
+        "tournamentName": "ZUR",
+        "tournamentType": 1,
+        "tournamentScore": 345.0
       }
     ]
   },
@@ -1288,6 +1468,16 @@
         "tournamentName": "MASTERS",
         "tournamentType": 3,
         "tournamentScore": 388.0
+      },
+      {
+        "tournamentName": "RBC",
+        "tournamentType": 1,
+        "tournamentScore": 287.50
+      },
+      {
+        "tournamentName": "ZUR",
+        "tournamentType": 1,
+        "tournamentScore": 347.50
       }
     ]
   },
@@ -1298,7 +1488,7 @@
       "firstPlace": "1",
       "secondPlace": "1",
       "thirdPlace": "0",
-      "fourthPlace": "0",
+      "fourthPlace": "1",
       "fifthPlace": "0"
     },
     "tournaments": [
@@ -1356,6 +1546,16 @@
         "tournamentName": "MASTERS",
         "tournamentType": 3,
         "tournamentScore": 298.5
+      },
+      {
+        "tournamentName": "RBC",
+        "tournamentType": 1,
+        "tournamentScore": 445.0
+      },
+      {
+        "tournamentName": "ZUR",
+        "tournamentType": 1,
+        "tournamentScore": 478.0
       }
     ]
   },
@@ -1424,6 +1624,16 @@
         "tournamentName": "MASTERS",
         "tournamentType": 3,
         "tournamentScore": 399.0
+      },
+      {
+        "tournamentName": "RBC",
+        "tournamentType": 1,
+        "tournamentScore": 403.0
+      },
+      {
+        "tournamentName": "ZUR",
+        "tournamentType": 1,
+        "tournamentScore": 434.00
       }
     ]
   },
@@ -1492,6 +1702,16 @@
         "tournamentName": "MASTERS",
         "tournamentType": 3,
         "tournamentScore": 465.5
+      },
+      {
+        "tournamentName": "RBC",
+        "tournamentType": 1,
+        "tournamentScore": 441.0
+      },
+      {
+        "tournamentName": "ZUR",
+        "tournamentType": 1,
+        "tournamentScore": 330.50
       }
     ]
   }
