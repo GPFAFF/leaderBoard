@@ -5,7 +5,7 @@
     "tournamentPlaces": {
       "firstPlace": "0",
       "secondPlace": "0",
-      "thirdPlace": "1",
+      "thirdPlace": "2",
       "fourthPlace": "1",
       "fifthPlace": "1"
     },
@@ -79,6 +79,11 @@
         "tournamentName": "VALSPAR",
         "tournamentType": 1,
         "tournamentScore": 362.5
+      },
+      {
+        "tournamentName": "WELLS",
+        "tournamentType": 1,
+        "tournamentScore": 368.5
       }
     ]
   },
@@ -90,7 +95,7 @@
       "secondPlace": "0",
       "thirdPlace": "2",
       "fourthPlace": "0",
-      "fifthPlace": "0"
+      "fifthPlace": "1"
     },
     "tournaments": [
       {
@@ -162,6 +167,11 @@
         "tournamentName": "VALSPAR",
         "tournamentType": 1,
         "tournamentScore": 284.0
+      },
+      {
+        "tournamentName": "WELLS",
+        "tournamentType": 1,
+        "tournamentScore": 351.5
       }
     ]
   },
@@ -245,6 +255,11 @@
         "tournamentName": "VALSPAR",
         "tournamentType": 1,
         "tournamentScore": 359.0
+      },
+      {
+        "tournamentName": "WELLS",
+        "tournamentType": 1,
+        "tournamentScore": 303.0
       }
     ]
   },
@@ -328,6 +343,11 @@
         "tournamentName": "VALSPAR",
         "tournamentType": 1,
         "tournamentScore": 314.5
+      },
+      {
+        "tournamentName": "WELLS",
+        "tournamentType": 1,
+        "tournamentScore": 137.5
       }
     ]
   },
@@ -411,6 +431,11 @@
         "tournamentName": "VALSPAR",
         "tournamentType": 1,
         "tournamentScore": 362.5
+      },
+      {
+        "tournamentName": "WELLS",
+        "tournamentType": 1,
+        "tournamentScore": 291.0
       }
     ]
   },
@@ -419,7 +444,7 @@
     "icon": "",
     "tournamentPlaces": {
       "firstPlace": "0",
-      "secondPlace": "1",
+      "secondPlace": "2",
       "thirdPlace": "0",
       "fourthPlace": "0",
       "fifthPlace": "1"
@@ -494,6 +519,11 @@
         "tournamentName": "VALSPAR",
         "tournamentType": 1,
         "tournamentScore": 185.5
+      },
+      {
+        "tournamentName": "WELLS",
+        "tournamentType": 1,
+        "tournamentScore": 374.5
       }
     ]
   },
@@ -577,6 +607,11 @@
         "tournamentName": "VALSPAR",
         "tournamentType": 1,
         "tournamentScore": 304.5
+      },
+      {
+        "tournamentName": "WELLS",
+        "tournamentType": 1,
+        "tournamentScore": 345.0
       }
     ]
   },
@@ -660,6 +695,11 @@
         "tournamentName": "VALSPAR",
         "tournamentType": 1,
         "tournamentScore": 326.5
+      },
+      {
+        "tournamentName": "WELLS",
+        "tournamentType": 1,
+        "tournamentScore": 280.5
       }
     ]
   },
@@ -743,6 +783,11 @@
         "tournamentName": "VALSPAR",
         "tournamentType": 1,
         "tournamentScore": 139.0
+      },
+      {
+        "tournamentName": "WELLS",
+        "tournamentType": 1,
+        "tournamentScore": 314.0
       }
     ]
   },
@@ -826,6 +871,11 @@
         "tournamentName": "VALSPAR",
         "tournamentType": 1,
         "tournamentScore": 370.0
+      },
+      {
+        "tournamentName": "WELLS",
+        "tournamentType": 1,
+        "tournamentScore": 301.0
       }
     ]
   },
@@ -909,6 +959,11 @@
         "tournamentName": "VALSPAR",
         "tournamentType": 1,
         "tournamentScore": 392.5
+      },
+      {
+        "tournamentName": "WELLS",
+        "tournamentType": 1,
+        "tournamentScore": 183.0
       }
     ]
   },
@@ -916,7 +971,7 @@
     "user": "mlewicki",
     "icon": "",
     "tournamentPlaces": {
-      "firstPlace": "0",
+      "firstPlace": "1",
       "secondPlace": "2",
       "thirdPlace": "1",
       "fourthPlace": "2",
@@ -992,6 +1047,11 @@
         "tournamentName": "VALSPAR",
         "tournamentType": 1,
         "tournamentScore": 367.0
+      },
+      {
+        "tournamentName": "WELLS",
+        "tournamentType": 1,
+        "tournamentScore": 389.0
       }
     ]
   },
@@ -1075,6 +1135,11 @@
         "tournamentName": "VALSPAR",
         "tournamentType": 1,
         "tournamentScore": 274.0
+      },
+      {
+        "tournamentName": "WELLS",
+        "tournamentType": 1,
+        "tournamentScore": 240.5
       }
     ]
   },
@@ -1085,7 +1150,7 @@
       "firstPlace": "0",
       "secondPlace": "0",
       "thirdPlace": "2",
-      "fourthPlace": "1",
+      "fourthPlace": "2",
       "fifthPlace": "1"
     },
     "tournaments": [
@@ -1158,6 +1223,11 @@
         "tournamentName": "VALSPAR",
         "tournamentType": 1,
         "tournamentScore": 345.5
+      },
+      {
+        "tournamentName": "WELLS",
+        "tournamentType": 1,
+        "tournamentScore": 368.0
       }
     ]
   },
@@ -1241,6 +1311,11 @@
         "tournamentName": "VALSPAR",
         "tournamentType": 1,
         "tournamentScore": 335.0
+      },
+      {
+        "tournamentName": "WELLS",
+        "tournamentType": 1,
+        "tournamentScore": 337.0
       }
     ]
   },
@@ -1324,6 +1399,11 @@
         "tournamentName": "VALSPAR",
         "tournamentType": 1,
         "tournamentScore": 291.5
+      },
+      {
+        "tournamentName": "WELLS",
+        "tournamentType": 1,
+        "tournamentScore": 346.0
       }
     ]
   },
@@ -1407,6 +1487,11 @@
         "tournamentName": "VALSPAR",
         "tournamentType": 1,
         "tournamentScore": 315.0
+      },
+      {
+        "tournamentName": "WELLS",
+        "tournamentType": 1,
+        "tournamentScore": 331.5
       }
     ]
   },
@@ -1490,6 +1575,11 @@
         "tournamentName": "VALSPAR",
         "tournamentType": 1,
         "tournamentScore": 386.5
+      },
+      {
+        "tournamentName": "WELLS",
+        "tournamentType": 1,
+        "tournamentScore": 299.0
       }
     ]
   },
@@ -1573,6 +1663,11 @@
         "tournamentName": "VALSPAR",
         "tournamentType": 1,
         "tournamentScore": 262
+      },
+      {
+        "tournamentName": "WELLS",
+        "tournamentType": 1,
+        "tournamentScore": 290.5
       }
     ]
   },
@@ -1656,6 +1751,11 @@
         "tournamentName": "VALSPAR",
         "tournamentType": 1,
         "tournamentScore": 402.5
+      },
+      {
+        "tournamentName": "WELLS",
+        "tournamentType": 1,
+        "tournamentScore": 247.0
       }
     ]
   },
@@ -1739,6 +1839,11 @@
         "tournamentName": "VALSPAR",
         "tournamentType": 1,
         "tournamentScore": 377.0
+      },
+      {
+        "tournamentName": "WELLS",
+        "tournamentType": 1,
+        "tournamentScore": 137.5
       }
     ]
   },
@@ -1822,6 +1927,11 @@
         "tournamentName": "VALSPAR",
         "tournamentType": 1,
         "tournamentScore": 439.0
+      },
+      {
+        "tournamentName": "WELLS",
+        "tournamentType": 1,
+        "tournamentScore": 240.5
       }
     ]
   }
