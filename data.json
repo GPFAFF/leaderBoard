@@ -84,6 +84,11 @@
         "tournamentName": "WELLS",
         "tournamentType": 1,
         "tournamentScore": 368.5
+      },
+      {
+        "tournamentName": "BYRON",
+        "tournamentType": 1,
+        "tournamentScore": 369.5
       }
     ]
   },
@@ -172,6 +177,11 @@
         "tournamentName": "WELLS",
         "tournamentType": 1,
         "tournamentScore": 351.5
+      },
+      {
+        "tournamentName": "BYRON",
+        "tournamentType": 1,
+        "tournamentScore": 450.0
       }
     ]
   },
@@ -182,7 +192,7 @@
       "firstPlace": "1",
       "secondPlace": "2",
       "thirdPlace": "0",
-      "fourthPlace": "0",
+      "fourthPlace": "1",
       "fifthPlace": "0"
     },
     "tournaments": [
@@ -260,6 +270,11 @@
         "tournamentName": "WELLS",
         "tournamentType": 1,
         "tournamentScore": 303.0
+      },
+      {
+        "tournamentName": "BYRON",
+        "tournamentType": 1,
+        "tournamentScore": 509.0
       }
     ]
   },
@@ -348,6 +363,11 @@
         "tournamentName": "WELLS",
         "tournamentType": 1,
         "tournamentScore": 137.5
+      },
+      {
+        "tournamentName": "BYRON",
+        "tournamentType": 1,
+        "tournamentScore": 377.0
       }
     ]
   },
@@ -436,6 +456,11 @@
         "tournamentName": "WELLS",
         "tournamentType": 1,
         "tournamentScore": 291.0
+      },
+      {
+        "tournamentName": "BYRON",
+        "tournamentType": 1,
+        "tournamentScore": 337.5
       }
     ]
   },
@@ -524,6 +549,11 @@
         "tournamentName": "WELLS",
         "tournamentType": 1,
         "tournamentScore": 374.5
+      },
+      {
+        "tournamentName": "BYRON",
+        "tournamentType": 1,
+        "tournamentScore": 492.5
       }
     ]
   },
@@ -612,6 +642,11 @@
         "tournamentName": "WELLS",
         "tournamentType": 1,
         "tournamentScore": 345.0
+      },
+      {
+        "tournamentName": "BYRON",
+        "tournamentType": 1,
+        "tournamentScore": 479.0
       }
     ]
   },
@@ -619,7 +654,7 @@
     "user": "boyewsky",
     "icon": "",
     "tournamentPlaces": {
-      "firstPlace": "1",
+      "firstPlace": "2",
       "secondPlace": "0",
       "thirdPlace": "2",
       "fourthPlace": "0",
@@ -700,6 +735,11 @@
         "tournamentName": "WELLS",
         "tournamentType": 1,
         "tournamentScore": 280.5
+      },
+      {
+        "tournamentName": "BYRON",
+        "tournamentType": 1,
+        "tournamentScore": 581.5
       }
     ]
   },
@@ -788,6 +828,11 @@
         "tournamentName": "WELLS",
         "tournamentType": 1,
         "tournamentScore": 314.0
+      },
+      {
+        "tournamentName": "BYRON",
+        "tournamentType": 1,
+        "tournamentScore": 0
       }
     ]
   },
@@ -876,6 +921,11 @@
         "tournamentName": "WELLS",
         "tournamentType": 1,
         "tournamentScore": 301.0
+      },
+      {
+        "tournamentName": "BYRON",
+        "tournamentType": 1,
+        "tournamentScore": 361.0
       }
     ]
   },
@@ -964,6 +1014,11 @@
         "tournamentName": "WELLS",
         "tournamentType": 1,
         "tournamentScore": 183.0
+      },
+      {
+        "tournamentName": "BYRON",
+        "tournamentType": 1,
+        "tournamentScore": 443.5
       }
     ]
   },
@@ -1052,6 +1107,11 @@
         "tournamentName": "WELLS",
         "tournamentType": 1,
         "tournamentScore": 389.0
+      },
+      {
+        "tournamentName": "BYRON",
+        "tournamentType": 1,
+        "tournamentScore": 293.0
       }
     ]
   },
@@ -1140,6 +1200,11 @@
         "tournamentName": "WELLS",
         "tournamentType": 1,
         "tournamentScore": 240.5
+      },
+      {
+        "tournamentName": "BYRON",
+        "tournamentType": 1,
+        "tournamentScore": 464.0
       }
     ]
   },
@@ -1228,6 +1293,11 @@
         "tournamentName": "WELLS",
         "tournamentType": 1,
         "tournamentScore": 368.0
+      },
+      {
+        "tournamentName": "BYRON",
+        "tournamentType": 1,
+        "tournamentScore": 409.5
       }
     ]
   },
@@ -1316,6 +1386,11 @@
         "tournamentName": "WELLS",
         "tournamentType": 1,
         "tournamentScore": 337.0
+      },
+      {
+        "tournamentName": "BYRON",
+        "tournamentType": 1,
+        "tournamentScore": 346.5
       }
     ]
   },
@@ -1325,7 +1400,7 @@
     "tournamentPlaces": {
       "firstPlace": "1",
       "secondPlace": "0",
-      "thirdPlace": "1",
+      "thirdPlace": "2",
       "fourthPlace": "0",
       "fifthPlace": "0"
     },
@@ -1404,6 +1479,11 @@
         "tournamentName": "WELLS",
         "tournamentType": 1,
         "tournamentScore": 346.0
+      },
+      {
+        "tournamentName": "BYRON",
+        "tournamentType": 1,
+        "tournamentScore": 522.0
       }
     ]
   },
@@ -1492,6 +1572,11 @@
         "tournamentName": "WELLS",
         "tournamentType": 1,
         "tournamentScore": 331.5
+      },
+      {
+        "tournamentName": "BYRON",
+        "tournamentType": 1,
+        "tournamentScore": 398.0
       }
     ]
   },
@@ -1580,6 +1665,11 @@
         "tournamentName": "WELLS",
         "tournamentType": 1,
         "tournamentScore": 299.0
+      },
+      {
+        "tournamentName": "BYRON",
+        "tournamentType": 1,
+        "tournamentScore": 495.0
       }
     ]
   },
@@ -1588,7 +1678,7 @@
     "icon": "",
     "tournamentPlaces": {
       "firstPlace": "1",
-      "secondPlace": "0",
+      "secondPlace": "1",
       "thirdPlace": "1",
       "fourthPlace": "3",
       "fifthPlace": "0"
@@ -1668,6 +1758,11 @@
         "tournamentName": "WELLS",
         "tournamentType": 1,
         "tournamentScore": 290.5
+      },
+      {
+        "tournamentName": "BYRON",
+        "tournamentType": 1,
+        "tournamentScore": 524.5
       }
     ]
   },
@@ -1756,6 +1851,11 @@
         "tournamentName": "WELLS",
         "tournamentType": 1,
         "tournamentScore": 247.0
+      },
+      {
+        "tournamentName": "BYRON",
+        "tournamentType": 1,
+        "tournamentScore": 493.5
       }
     ]
   },
@@ -1844,6 +1944,11 @@
         "tournamentName": "WELLS",
         "tournamentType": 1,
         "tournamentScore": 137.5
+      },
+      {
+        "tournamentName": "BYRON",
+        "tournamentType": 1,
+        "tournamentScore": 334.0
       }
     ]
   },
@@ -1932,6 +2037,11 @@
         "tournamentName": "WELLS",
         "tournamentType": 1,
         "tournamentScore": 240.5
+      },
+      {
+        "tournamentName": "BYRON",
+        "tournamentType": 1,
+        "tournamentScore": 399.5
       }
     ]
   }
