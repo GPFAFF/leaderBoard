@@ -89,6 +89,21 @@
         "tournamentName": "BYRON",
         "tournamentType": 1,
         "tournamentScore": 369.5
+      },
+      {
+        "tournamentName": "PGA",
+        "tournamentType": 3,
+        "tournamentScore": 240.0
+      },
+      {
+        "tournamentName": "SCHWAB",
+        "tournamentType": 1,
+        "tournamentScore": 0
+      },
+      {
+        "tournamentName": "MEMORIAL",
+        "tournamentType": 1,
+        "tournamentScore": 350.5
       }
     ]
   },
@@ -182,6 +197,21 @@
         "tournamentName": "BYRON",
         "tournamentType": 1,
         "tournamentScore": 450.0
+      },
+      {
+        "tournamentName": "PGA",
+        "tournamentType": 3,
+        "tournamentScore": 0
+      },
+      {
+        "tournamentName": "SCHWAB",
+        "tournamentType": 1,
+        "tournamentScore": 402.5
+      },
+      {
+        "tournamentName": "MEMORIAL",
+        "tournamentType": 1,
+        "tournamentScore": 382.5
       }
     ]
   },
@@ -275,6 +305,21 @@
         "tournamentName": "BYRON",
         "tournamentType": 1,
         "tournamentScore": 509.0
+      },
+      {
+        "tournamentName": "PGA",
+        "tournamentType": 3,
+        "tournamentScore": 272.5
+      },
+      {
+        "tournamentName": "SCHWAB",
+        "tournamentType": 1,
+        "tournamentScore": 402.0
+      },
+      {
+        "tournamentName": "MEMORIAL",
+        "tournamentType": 1,
+        "tournamentScore": 303.5
       }
     ]
   },
@@ -368,6 +413,21 @@
         "tournamentName": "BYRON",
         "tournamentType": 1,
         "tournamentScore": 377.0
+      },
+      {
+        "tournamentName": "PGA",
+        "tournamentType": 3,
+        "tournamentScore": 265.0
+      },
+      {
+        "tournamentName": "SCHWAB",
+        "tournamentType": 1,
+        "tournamentScore": 0
+      },
+      {
+        "tournamentName": "MEMORIAL",
+        "tournamentType": 1,
+        "tournamentScore": 301.0
       }
     ]
   },
@@ -461,6 +521,21 @@
         "tournamentName": "BYRON",
         "tournamentType": 1,
         "tournamentScore": 337.5
+      },
+      {
+        "tournamentName": "PGA",
+        "tournamentType": 3,
+        "tournamentScore": 239.0
+      },
+      {
+        "tournamentName": "SCHWAB",
+        "tournamentType": 1,
+        "tournamentScore": 377.0
+      },
+      {
+        "tournamentName": "MEMORIAL",
+        "tournamentType": 1,
+        "tournamentScore": 282.5
       }
     ]
   },
@@ -554,6 +629,21 @@
         "tournamentName": "BYRON",
         "tournamentType": 1,
         "tournamentScore": 492.5
+      },
+      {
+        "tournamentName": "PGA",
+        "tournamentType": 3,
+        "tournamentScore": 286.0
+      },
+      {
+        "tournamentName": "SCHWAB",
+        "tournamentType": 1,
+        "tournamentScore": 411.0
+      },
+      {
+        "tournamentName": "MEMORIAL",
+        "tournamentType": 1,
+        "tournamentScore": 312.5
       }
     ]
   },
@@ -564,7 +654,7 @@
       "firstPlace": "0",
       "secondPlace": "0",
       "thirdPlace": "0",
-      "fourthPlace": "2",
+      "fourthPlace": "3",
       "fifthPlace": "2"
     },
     "tournaments": [
@@ -647,6 +737,21 @@
         "tournamentName": "BYRON",
         "tournamentType": 1,
         "tournamentScore": 479.0
+      },
+      {
+        "tournamentName": "PGA",
+        "tournamentType": 3,
+        "tournamentScore": 267.0
+      },
+      {
+        "tournamentName": "SCHWAB",
+        "tournamentType": 1,
+        "tournamentScore": 415.0
+      },
+      {
+        "tournamentName": "MEMORIAL",
+        "tournamentType": 1,
+        "tournamentScore": 338.5
       }
     ]
   },
@@ -656,7 +761,7 @@
     "tournamentPlaces": {
       "firstPlace": "2",
       "secondPlace": "0",
-      "thirdPlace": "2",
+      "thirdPlace": "3",
       "fourthPlace": "0",
       "fifthPlace": "0"
     },
@@ -740,6 +845,21 @@
         "tournamentName": "BYRON",
         "tournamentType": 1,
         "tournamentScore": 581.5
+      },
+      {
+        "tournamentName": "PGA",
+        "tournamentType": 3,
+        "tournamentScore": 292.5
+      },
+      {
+        "tournamentName": "SCHWAB",
+        "tournamentType": 1,
+        "tournamentScore": 416.0
+      },
+      {
+        "tournamentName": "MEMORIAL",
+        "tournamentType": 1,
+        "tournamentScore": 284.0
       }
     ]
   },
@@ -833,6 +953,21 @@
         "tournamentName": "BYRON",
         "tournamentType": 1,
         "tournamentScore": 0
+      },
+      {
+        "tournamentName": "PGA",
+        "tournamentType": 3,
+        "tournamentScore": 237.0
+      },
+      {
+        "tournamentName": "SCHWAB",
+        "tournamentType": 1,
+        "tournamentScore": 0
+      },
+      {
+        "tournamentName": "MEMORIAL",
+        "tournamentType": 1,
+        "tournamentScore": 398.5
       }
     ]
   },
@@ -841,7 +976,7 @@
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/garcia.jpg",
     "tournamentPlaces": {
       "firstPlace": "1",
-      "secondPlace": "0",
+      "secondPlace": "1",
       "thirdPlace": "0",
       "fourthPlace": "0",
       "fifthPlace": "1"
@@ -926,6 +1061,21 @@
         "tournamentName": "BYRON",
         "tournamentType": 1,
         "tournamentScore": 361.0
+      },
+      {
+        "tournamentName": "PGA",
+        "tournamentType": 3,
+        "tournamentScore": 307.5
+      },
+      {
+        "tournamentName": "SCHWAB",
+        "tournamentType": 1,
+        "tournamentScore": 320.0
+      },
+      {
+        "tournamentName": "MEMORIAL",
+        "tournamentType": 1,
+        "tournamentScore": 440
       }
     ]
   },
@@ -934,9 +1084,9 @@
     "icon": "",
     "tournamentPlaces": {
       "firstPlace": "0",
-      "secondPlace": "0",
+      "secondPlace": "1",
       "thirdPlace": "1",
-      "fourthPlace": "1",
+      "fourthPlace": "2",
       "fifthPlace": "0"
     },
     "tournaments": [
@@ -1019,6 +1169,21 @@
         "tournamentName": "BYRON",
         "tournamentType": 1,
         "tournamentScore": 443.5
+      },
+      {
+        "tournamentName": "PGA",
+        "tournamentType": 3,
+        "tournamentScore": 315.5
+      },
+      {
+        "tournamentName": "SCHWAB",
+        "tournamentType": 1,
+        "tournamentScore": 420.5
+      },
+      {
+        "tournamentName": "MEMORIAL",
+        "tournamentType": 1,
+        "tournamentScore": 229.0
       }
     ]
   },
@@ -1026,7 +1191,7 @@
     "user": "mlewicki",
     "icon": "",
     "tournamentPlaces": {
-      "firstPlace": "1",
+      "firstPlace": "2",
       "secondPlace": "2",
       "thirdPlace": "1",
       "fourthPlace": "2",
@@ -1112,6 +1277,21 @@
         "tournamentName": "BYRON",
         "tournamentType": 1,
         "tournamentScore": 293.0
+      },
+      {
+        "tournamentName": "PGA",
+        "tournamentType": 3,
+        "tournamentScore": 381.5
+      },
+      {
+        "tournamentName": "SCHWAB",
+        "tournamentType": 1,
+        "tournamentScore": 348.5
+      },
+      {
+        "tournamentName": "MEMORIAL",
+        "tournamentType": 1,
+        "tournamentScore": 321.5
       }
     ]
   },
@@ -1205,6 +1385,21 @@
         "tournamentName": "BYRON",
         "tournamentType": 1,
         "tournamentScore": 464.0
+      },
+      {
+        "tournamentName": "PGA",
+        "tournamentType": 3,
+        "tournamentScore": 292.5
+      },
+      {
+        "tournamentName": "SCHWAB",
+        "tournamentType": 1,
+        "tournamentScore": 406.5
+      },
+      {
+        "tournamentName": "MEMORIAL",
+        "tournamentType": 1,
+        "tournamentScore": 305.0
       }
     ]
   },
@@ -1214,7 +1409,7 @@
     "tournamentPlaces": {
       "firstPlace": "0",
       "secondPlace": "0",
-      "thirdPlace": "2",
+      "thirdPlace": "3",
       "fourthPlace": "2",
       "fifthPlace": "1"
     },
@@ -1298,6 +1493,21 @@
         "tournamentName": "BYRON",
         "tournamentType": 1,
         "tournamentScore": 409.5
+      },
+      {
+        "tournamentName": "PGA",
+        "tournamentType": 3,
+        "tournamentScore": 287.5
+      },
+      {
+        "tournamentName": "SCHWAB",
+        "tournamentType": 1,
+        "tournamentScore": 376.0
+      },
+      {
+        "tournamentName": "MEMORIAL",
+        "tournamentType": 1,
+        "tournamentScore": 431.0
       }
     ]
   },
@@ -1391,6 +1601,21 @@
         "tournamentName": "BYRON",
         "tournamentType": 1,
         "tournamentScore": 346.5
+      },
+      {
+        "tournamentName": "PGA",
+        "tournamentType": 3,
+        "tournamentScore": 278.5
+      },
+      {
+        "tournamentName": "SCHWAB",
+        "tournamentType": 1,
+        "tournamentScore": 299.0
+      },
+      {
+        "tournamentName": "MEMORIAL",
+        "tournamentType": 1,
+        "tournamentScore": 362.0
       }
     ]
   },
@@ -1484,6 +1709,21 @@
         "tournamentName": "BYRON",
         "tournamentType": 1,
         "tournamentScore": 522.0
+      },
+      {
+        "tournamentName": "PGA",
+        "tournamentType": 3,
+        "tournamentScore": 291.0
+      },
+      {
+        "tournamentName": "SCHWAB",
+        "tournamentType": 1,
+        "tournamentScore": 391.5
+      },
+      {
+        "tournamentName": "MEMORIAL",
+        "tournamentType": 1,
+        "tournamentScore": 339.0
       }
     ]
   },
@@ -1577,6 +1817,21 @@
         "tournamentName": "BYRON",
         "tournamentType": 1,
         "tournamentScore": 398.0
+      },
+      {
+        "tournamentName": "PGA",
+        "tournamentType": 3,
+        "tournamentScore": 329.5
+      },
+      {
+        "tournamentName": "SCHWAB",
+        "tournamentType": 1,
+        "tournamentScore": 385.5
+      },
+      {
+        "tournamentName": "MEMORIAL",
+        "tournamentType": 1,
+        "tournamentScore": 367.0
       }
     ]
   },
@@ -1588,7 +1843,7 @@
       "secondPlace": "0",
       "thirdPlace": "0",
       "fourthPlace": "1",
-      "fifthPlace": "0"
+      "fifthPlace": "1"
     },
     "tournaments": [
       {
@@ -1670,6 +1925,21 @@
         "tournamentName": "BYRON",
         "tournamentType": 1,
         "tournamentScore": 495.0
+      },
+      {
+        "tournamentName": "PGA",
+        "tournamentType": 3,
+        "tournamentScore": 313.0
+      },
+      {
+        "tournamentName": "SCHWAB",
+        "tournamentType": 1,
+        "tournamentScore": 224.0
+      },
+      {
+        "tournamentName": "MEMORIAL",
+        "tournamentType": 1,
+        "tournamentScore": 268.0
       }
     ]
   },
@@ -1677,9 +1947,9 @@
     "user": "rtprice33",
     "icon": "",
     "tournamentPlaces": {
-      "firstPlace": "1",
+      "firstPlace": "2",
       "secondPlace": "1",
-      "thirdPlace": "1",
+      "thirdPlace": "2",
       "fourthPlace": "3",
       "fifthPlace": "0"
     },
@@ -1763,6 +2033,21 @@
         "tournamentName": "BYRON",
         "tournamentType": 1,
         "tournamentScore": 524.5
+      },
+      {
+        "tournamentName": "PGA",
+        "tournamentType": 3,
+        "tournamentScore": 324.0
+      },
+      {
+        "tournamentName": "SCHWAB",
+        "tournamentType": 1,
+        "tournamentScore": 459.5
+      },
+      {
+        "tournamentName": "MEMORIAL",
+        "tournamentType": 1,
+        "tournamentScore": 329.5
       }
     ]
   },
@@ -1856,6 +2141,21 @@
         "tournamentName": "BYRON",
         "tournamentType": 1,
         "tournamentScore": 493.5
+      },
+      {
+        "tournamentName": "PGA",
+        "tournamentType": 3,
+        "tournamentScore": 300.0
+      },
+      {
+        "tournamentName": "SCHWAB",
+        "tournamentType": 1,
+        "tournamentScore": 383.0
+      },
+      {
+        "tournamentName": "MEMORIAL",
+        "tournamentType": 1,
+        "tournamentScore": 351.5
       }
     ]
   },
@@ -1863,7 +2163,7 @@
     "user": "arob92",
     "icon": "",
     "tournamentPlaces": {
-      "firstPlace": "0",
+      "firstPlace": "1",
       "secondPlace": "0",
       "thirdPlace": "2",
       "fourthPlace": "0",
@@ -1949,6 +2249,21 @@
         "tournamentName": "BYRON",
         "tournamentType": 1,
         "tournamentScore": 334.0
+      },
+      {
+        "tournamentName": "PGA",
+        "tournamentType": 3,
+        "tournamentScore": 284.5
+      },
+      {
+        "tournamentName": "SCHWAB",
+        "tournamentType": 1,
+        "tournamentScore": 368.0
+      },
+      {
+        "tournamentName": "MEMORIAL",
+        "tournamentType": 1,
+        "tournamentScore": 450
       }
     ]
   },
@@ -2042,6 +2357,21 @@
         "tournamentName": "BYRON",
         "tournamentType": 1,
         "tournamentScore": 399.5
+      },
+      {
+        "tournamentName": "PGA",
+        "tournamentType": 3,
+        "tournamentScore": 300
+      },
+      {
+        "tournamentName": "SCHWAB",
+        "tournamentType": 1,
+        "tournamentScore": 411.0
+      },
+      {
+        "tournamentName": "MEMORIAL",
+        "tournamentType": 1,
+        "tournamentScore": 324.0
       }
     ]
   }
