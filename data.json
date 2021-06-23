@@ -104,6 +104,16 @@
         "tournamentName": "MEMORIAL",
         "tournamentType": 1,
         "tournamentScore": 350.5
+      },
+      {
+        "tournamentName": "PALMETTO",
+        "tournamentType": 1,
+        "tournamentScore": 273.0
+      },
+      {
+        "tournamentName": "USOPEN",
+        "tournamentType": 3,
+        "tournamentScore": 211.0
       }
     ]
   },
@@ -212,6 +222,16 @@
         "tournamentName": "MEMORIAL",
         "tournamentType": 1,
         "tournamentScore": 382.5
+      },
+      {
+        "tournamentName": "PALMETTO",
+        "tournamentType": 1,
+        "tournamentScore": 203.5
+      },
+      {
+        "tournamentName": "USOPEN",
+        "tournamentType": 3,
+        "tournamentScore": 240.0
       }
     ]
   },
@@ -220,7 +240,7 @@
     "icon": "",
     "tournamentPlaces": {
       "firstPlace": "1",
-      "secondPlace": "2",
+      "secondPlace": "3",
       "thirdPlace": "0",
       "fourthPlace": "1",
       "fifthPlace": "0"
@@ -320,6 +340,16 @@
         "tournamentName": "MEMORIAL",
         "tournamentType": 1,
         "tournamentScore": 303.5
+      },
+      {
+        "tournamentName": "PALMETTO",
+        "tournamentType": 1,
+        "tournamentScore": 338.5
+      },
+      {
+        "tournamentName": "USOPEN",
+        "tournamentType": 3,
+        "tournamentScore": 379.0
       }
     ]
   },
@@ -428,6 +458,16 @@
         "tournamentName": "MEMORIAL",
         "tournamentType": 1,
         "tournamentScore": 301.0
+      },
+      {
+        "tournamentName": "PALMETTO",
+        "tournamentType": 1,
+        "tournamentScore": 0
+      },
+      {
+        "tournamentName": "USOPEN",
+        "tournamentType": 3,
+        "tournamentScore": 238.0
       }
     ]
   },
@@ -435,9 +475,9 @@
     "user": "jimm743",
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/money.jpg",
     "tournamentPlaces": {
-      "firstPlace": "0",
+      "firstPlace": "1",
       "secondPlace": "1",
-      "thirdPlace": "0",
+      "thirdPlace": "1",
       "fourthPlace": "0",
       "fifthPlace": "1"
     },
@@ -536,6 +576,16 @@
         "tournamentName": "MEMORIAL",
         "tournamentType": 1,
         "tournamentScore": 282.5
+      },
+      {
+        "tournamentName": "PALMETTO",
+        "tournamentType": 1,
+        "tournamentScore": 389.5
+      },
+      {
+        "tournamentName": "USOPEN",
+        "tournamentType": 3,
+        "tournamentScore": 397.0
       }
     ]
   },
@@ -644,6 +694,16 @@
         "tournamentName": "MEMORIAL",
         "tournamentType": 1,
         "tournamentScore": 312.5
+      },
+      {
+        "tournamentName": "PALMETTO",
+        "tournamentType": 1,
+        "tournamentScore": 336.0
+      },
+      {
+        "tournamentName": "USOPEN",
+        "tournamentType": 3,
+        "tournamentScore": 210.5
       }
     ]
   },
@@ -652,7 +712,7 @@
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/kyle.jpg",
     "tournamentPlaces": {
       "firstPlace": "0",
-      "secondPlace": "0",
+      "secondPlace": "1",
       "thirdPlace": "0",
       "fourthPlace": "3",
       "fifthPlace": "2"
@@ -752,6 +812,16 @@
         "tournamentName": "MEMORIAL",
         "tournamentType": 1,
         "tournamentScore": 338.5
+      },
+      {
+        "tournamentName": "PALMETTO",
+        "tournamentType": 1,
+        "tournamentScore": 429.5
+      },
+      {
+        "tournamentName": "USOPEN",
+        "tournamentType": 3,
+        "tournamentScore": 266.5
       }
     ]
   },
@@ -860,6 +930,16 @@
         "tournamentName": "MEMORIAL",
         "tournamentType": 1,
         "tournamentScore": 284.0
+      },
+      {
+        "tournamentName": "PALMETTO",
+        "tournamentType": 1,
+        "tournamentScore": 174.0
+      },
+      {
+        "tournamentName": "USOPEN",
+        "tournamentType": 3,
+        "tournamentScore": 149.0
       }
     ]
   },
@@ -867,7 +947,7 @@
     "user": "CubyBlue",
     "icon": "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/img/cuby.jpg",
     "tournamentPlaces": {
-      "firstPlace": "1",
+      "firstPlace": "2",
       "secondPlace": "1",
       "thirdPlace": "0",
       "fourthPlace": "2",
@@ -968,6 +1048,16 @@
         "tournamentName": "MEMORIAL",
         "tournamentType": 1,
         "tournamentScore": 398.5
+      },
+      {
+        "tournamentName": "PALMETTO",
+        "tournamentType": 1,
+        "tournamentScore": 435.0
+      },
+      {
+        "tournamentName": "USOPEN",
+        "tournamentType": 3,
+        "tournamentScore": 265.5
       }
     ]
   },
@@ -1076,6 +1166,16 @@
         "tournamentName": "MEMORIAL",
         "tournamentType": 1,
         "tournamentScore": 440
+      },
+      {
+        "tournamentName": "PALMETTO",
+        "tournamentType": 1,
+        "tournamentScore": 137.0
+      },
+      {
+        "tournamentName": "USOPEN",
+        "tournamentType": 3,
+        "tournamentScore": 219.5
       }
     ]
   },
@@ -1086,7 +1186,7 @@
       "firstPlace": "0",
       "secondPlace": "1",
       "thirdPlace": "1",
-      "fourthPlace": "2",
+      "fourthPlace": "3",
       "fifthPlace": "0"
     },
     "tournaments": [
@@ -1184,6 +1284,16 @@
         "tournamentName": "MEMORIAL",
         "tournamentType": 1,
         "tournamentScore": 229.0
+      },
+      {
+        "tournamentName": "PALMETTO",
+        "tournamentType": 1,
+        "tournamentScore": 378.5
+      },
+      {
+        "tournamentName": "USOPEN",
+        "tournamentType": 3,
+        "tournamentScore": 248.0
       }
     ]
   },
@@ -1292,6 +1402,16 @@
         "tournamentName": "MEMORIAL",
         "tournamentType": 1,
         "tournamentScore": 321.5
+      },
+      {
+        "tournamentName": "PALMETTO",
+        "tournamentType": 1,
+        "tournamentScore": 330.0
+      },
+      {
+        "tournamentName": "USOPEN",
+        "tournamentType": 3,
+        "tournamentScore": 269.5
       }
     ]
   },
@@ -1400,6 +1520,16 @@
         "tournamentName": "MEMORIAL",
         "tournamentType": 1,
         "tournamentScore": 305.0
+      },
+      {
+        "tournamentName": "PALMETTO",
+        "tournamentType": 1,
+        "tournamentScore": 268.0
+      },
+      {
+        "tournamentName": "USOPEN",
+        "tournamentType": 3,
+        "tournamentScore": 274.0
       }
     ]
   },
@@ -1508,6 +1638,16 @@
         "tournamentName": "MEMORIAL",
         "tournamentType": 1,
         "tournamentScore": 431.0
+      },
+      {
+        "tournamentName": "PALMETTO",
+        "tournamentType": 1,
+        "tournamentScore": 340.0
+      },
+      {
+        "tournamentName": "USOPEN",
+        "tournamentType": 3,
+        "tournamentScore": 280.0
       }
     ]
   },
@@ -1616,6 +1756,16 @@
         "tournamentName": "MEMORIAL",
         "tournamentType": 1,
         "tournamentScore": 362.0
+      },
+      {
+        "tournamentName": "PALMETTO",
+        "tournamentType": 1,
+        "tournamentScore": 301.5
+      },
+      {
+        "tournamentName": "USOPEN",
+        "tournamentType": 3,
+        "tournamentScore": 319.5
       }
     ]
   },
@@ -1724,6 +1874,16 @@
         "tournamentName": "MEMORIAL",
         "tournamentType": 1,
         "tournamentScore": 339.0
+      },
+      {
+        "tournamentName": "PALMETTO",
+        "tournamentType": 1,
+        "tournamentScore": 368.5
+      },
+      {
+        "tournamentName": "USOPEN",
+        "tournamentType": 3,
+        "tournamentScore": 177.5
       }
     ]
   },
@@ -1832,6 +1992,16 @@
         "tournamentName": "MEMORIAL",
         "tournamentType": 1,
         "tournamentScore": 367.0
+      },
+      {
+        "tournamentName": "PALMETTO",
+        "tournamentType": 1,
+        "tournamentScore": 239.0
+      },
+      {
+        "tournamentName": "USOPEN",
+        "tournamentType": 3,
+        "tournamentScore": 236.5
       }
     ]
   },
@@ -1940,6 +2110,16 @@
         "tournamentName": "MEMORIAL",
         "tournamentType": 1,
         "tournamentScore": 268.0
+      },
+      {
+        "tournamentName": "PALMETTO",
+        "tournamentType": 1,
+        "tournamentScore": 245.0
+      },
+      {
+        "tournamentName": "USOPEN",
+        "tournamentType": 3,
+        "tournamentScore": 235.5
       }
     ]
   },
@@ -2048,6 +2228,16 @@
         "tournamentName": "MEMORIAL",
         "tournamentType": 1,
         "tournamentScore": 329.5
+      },
+      {
+        "tournamentName": "PALMETTO",
+        "tournamentType": 1,
+        "tournamentScore": 230.0
+      },
+      {
+        "tournamentName": "USOPEN",
+        "tournamentType": 3,
+        "tournamentScore": 326.0
       }
     ]
   },
@@ -2156,6 +2346,16 @@
         "tournamentName": "MEMORIAL",
         "tournamentType": 1,
         "tournamentScore": 351.5
+      },
+      {
+        "tournamentName": "PALMETTO",
+        "tournamentType": 1,
+        "tournamentScore": 367.5
+      },
+      {
+        "tournamentName": "USOPEN",
+        "tournamentType": 3,
+        "tournamentScore": 265.0
       }
     ]
   },
@@ -2165,7 +2365,7 @@
     "tournamentPlaces": {
       "firstPlace": "1",
       "secondPlace": "0",
-      "thirdPlace": "2",
+      "thirdPlace": "3",
       "fourthPlace": "0",
       "fifthPlace": "1"
     },
@@ -2264,6 +2464,16 @@
         "tournamentName": "MEMORIAL",
         "tournamentType": 1,
         "tournamentScore": 450
+      },
+      {
+        "tournamentName": "PALMETTO",
+        "tournamentType": 1,
+        "tournamentScore": 365.5
+      },
+      {
+        "tournamentName": "USOPEN",
+        "tournamentType": 3,
+        "tournamentScore": 328.5
       }
     ]
   },
@@ -2372,6 +2582,16 @@
         "tournamentName": "MEMORIAL",
         "tournamentType": 1,
         "tournamentScore": 324.0
+      },
+      {
+        "tournamentName": "PALMETTO",
+        "tournamentType": 1,
+        "tournamentScore": 235.0
+      },
+      {
+        "tournamentName": "USOPEN",
+        "tournamentType": 3,
+        "tournamentScore": 222.0
       }
     ]
   }
