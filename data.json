@@ -98,7 +98,7 @@
       {
         "tournamentName": "SCHWAB",
         "tournamentType": 1,
-        "tournamentScore": 0
+        "tournamentScore": 230
       },
       {
         "tournamentName": "MEMORIAL",
@@ -114,6 +114,26 @@
         "tournamentName": "USOPEN",
         "tournamentType": 3,
         "tournamentScore": 211.0
+      },
+      {
+        "tournamentName": "TRAVELERS",
+        "tournamentType": 1,
+        "tournamentScore": 215
+      },
+      {
+        "tournamentName": "ROCKET",
+        "tournamentType": 1,
+        "tournamentScore": 416
+      },
+      {
+        "tournamentName": "DEERE",
+        "tournamentType": 1,
+        "tournamentScore": 457.5
+      },
+      {
+        "tournamentName": "BRITISH",
+        "tournamentType": 3,
+        "tournamentScore": 0
       }
     ]
   },
@@ -211,7 +231,7 @@
       {
         "tournamentName": "PGA",
         "tournamentType": 3,
-        "tournamentScore": 0
+        "tournamentScore": 180
       },
       {
         "tournamentName": "SCHWAB",
@@ -232,6 +252,26 @@
         "tournamentName": "USOPEN",
         "tournamentType": 3,
         "tournamentScore": 240.0
+      },
+      {
+        "tournamentName": "TRAVELERS",
+        "tournamentType": 1,
+        "tournamentScore": 360.5
+      },
+      {
+        "tournamentName": "ROCKET",
+        "tournamentType": 1,
+        "tournamentScore": 380.5
+      },
+      {
+        "tournamentName": "DEERE",
+        "tournamentType": 1,
+        "tournamentScore": 354.5
+      },
+      {
+        "tournamentName": "BRITISH",
+        "tournamentType": 3,
+        "tournamentScore": 0
       }
     ]
   },
@@ -350,6 +390,26 @@
         "tournamentName": "USOPEN",
         "tournamentType": 3,
         "tournamentScore": 379.0
+      },
+      {
+        "tournamentName": "TRAVELERS",
+        "tournamentType": 1,
+        "tournamentScore": 478.5
+      },
+      {
+        "tournamentName": "ROCKET",
+        "tournamentType": 1,
+        "tournamentScore": 223.5
+      },
+      {
+        "tournamentName": "DEERE",
+        "tournamentType": 1,
+        "tournamentScore": 422.0
+      },
+      {
+        "tournamentName": "BRITISH",
+        "tournamentType": 3,
+        "tournamentScore": 0
       }
     ]
   },
@@ -462,12 +522,32 @@
       {
         "tournamentName": "PALMETTO",
         "tournamentType": 1,
-        "tournamentScore": 0
+        "tournamentScore": 102
       },
       {
         "tournamentName": "USOPEN",
         "tournamentType": 3,
         "tournamentScore": 238.0
+      },
+      {
+        "tournamentName": "TRAVELERS",
+        "tournamentType": 1,
+        "tournamentScore": 215
+      },
+      {
+        "tournamentName": "ROCKET",
+        "tournamentType": 1,
+        "tournamentScore": 310.5
+      },
+      {
+        "tournamentName": "DEERE",
+        "tournamentType": 1,
+        "tournamentScore": 345.5
+      },
+      {
+        "tournamentName": "BRITISH",
+        "tournamentType": 3,
+        "tournamentScore": 0
       }
     ]
   },
@@ -586,6 +666,26 @@
         "tournamentName": "USOPEN",
         "tournamentType": 3,
         "tournamentScore": 397.0
+      },
+      {
+        "tournamentName": "TRAVELERS",
+        "tournamentType": 1,
+        "tournamentScore": 325.5
+      },
+      {
+        "tournamentName": "ROCKET",
+        "tournamentType": 1,
+        "tournamentScore": 487
+      },
+      {
+        "tournamentName": "DEERE",
+        "tournamentType": 1,
+        "tournamentScore": 363
+      },
+      {
+        "tournamentName": "BRITISH",
+        "tournamentType": 3,
+        "tournamentScore": 0
       }
     ]
   },
@@ -704,6 +804,26 @@
         "tournamentName": "USOPEN",
         "tournamentType": 3,
         "tournamentScore": 210.5
+      },
+      {
+        "tournamentName": "TRAVELERS",
+        "tournamentType": 1,
+        "tournamentScore": 320.5
+      },
+      {
+        "tournamentName": "ROCKET",
+        "tournamentType": 1,
+        "tournamentScore": 384
+      },
+      {
+        "tournamentName": "DEERE",
+        "tournamentType": 1,
+        "tournamentScore": 403.5
+      },
+      {
+        "tournamentName": "BRITISH",
+        "tournamentType": 3,
+        "tournamentScore": 0
       }
     ]
   },
@@ -822,6 +942,26 @@
         "tournamentName": "USOPEN",
         "tournamentType": 3,
         "tournamentScore": 266.5
+      },
+      {
+        "tournamentName": "TRAVELERS",
+        "tournamentType": 1,
+        "tournamentScore": 370.0
+      },
+      {
+        "tournamentName": "ROCKET",
+        "tournamentType": 1,
+        "tournamentScore": 347.0
+      },
+      {
+        "tournamentName": "DEERE",
+        "tournamentType": 1,
+        "tournamentScore": 490.5
+      },
+      {
+        "tournamentName": "BRITISH",
+        "tournamentType": 3,
+        "tournamentScore": 0
       }
     ]
   },
@@ -940,6 +1080,26 @@
         "tournamentName": "USOPEN",
         "tournamentType": 3,
         "tournamentScore": 149.0
+      },
+      {
+        "tournamentName": "TRAVELERS",
+        "tournamentType": 1,
+        "tournamentScore": 215
+      },
+      {
+        "tournamentName": "ROCKET",
+        "tournamentType": 1,
+        "tournamentScore": 404.5
+      },
+      {
+        "tournamentName": "DEERE",
+        "tournamentType": 1,
+        "tournamentScore": 362.5
+      },
+      {
+        "tournamentName": "BRITISH",
+        "tournamentType": 3,
+        "tournamentScore": 0
       }
     ]
   },
@@ -1002,7 +1162,7 @@
       {
         "tournamentName": "VALERO",
         "tournamentType": 1,
-        "tournamentScore": 0
+        "tournamentScore": 169
       },
       {
         "tournamentName": "MASTERS",
@@ -1032,7 +1192,7 @@
       {
         "tournamentName": "BYRON",
         "tournamentType": 1,
-        "tournamentScore": 0
+        "tournamentScore": 219
       },
       {
         "tournamentName": "PGA",
@@ -1042,7 +1202,7 @@
       {
         "tournamentName": "SCHWAB",
         "tournamentType": 1,
-        "tournamentScore": 0
+        "tournamentScore": 250
       },
       {
         "tournamentName": "MEMORIAL",
@@ -1058,6 +1218,26 @@
         "tournamentName": "USOPEN",
         "tournamentType": 3,
         "tournamentScore": 265.5
+      },
+      {
+        "tournamentName": "TRAVELERS",
+        "tournamentType": 1,
+        "tournamentScore": 312.0
+      },
+      {
+        "tournamentName": "ROCKET",
+        "tournamentType": 1,
+        "tournamentScore": 0
+      },
+      {
+        "tournamentName": "DEERE",
+        "tournamentType": 1,
+        "tournamentScore": 423.5
+      },
+      {
+        "tournamentName": "BRITISH",
+        "tournamentType": 3,
+        "tournamentScore": 0
       }
     ]
   },
@@ -1176,6 +1356,26 @@
         "tournamentName": "USOPEN",
         "tournamentType": 3,
         "tournamentScore": 219.5
+      },
+      {
+        "tournamentName": "TRAVELERS",
+        "tournamentType": 1,
+        "tournamentScore": 389.0
+      },
+      {
+        "tournamentName": "ROCKET",
+        "tournamentType": 1,
+        "tournamentScore": 469.5
+      },
+      {
+        "tournamentName": "DEERE",
+        "tournamentType": 1,
+        "tournamentScore": 312.5
+      },
+      {
+        "tournamentName": "BRITISH",
+        "tournamentType": 3,
+        "tournamentScore": 0
       }
     ]
   },
@@ -1294,6 +1494,26 @@
         "tournamentName": "USOPEN",
         "tournamentType": 3,
         "tournamentScore": 248.0
+      },
+      {
+        "tournamentName": "TRAVELERS",
+        "tournamentType": 1,
+        "tournamentScore": 215
+      },
+      {
+        "tournamentName": "ROCKET",
+        "tournamentType": 1,
+        "tournamentScore": 502
+      },
+      {
+        "tournamentName": "DEERE",
+        "tournamentType": 1,
+        "tournamentScore": 561.5
+      },
+      {
+        "tournamentName": "BRITISH",
+        "tournamentType": 3,
+        "tournamentScore": 0
       }
     ]
   },
@@ -1412,6 +1632,26 @@
         "tournamentName": "USOPEN",
         "tournamentType": 3,
         "tournamentScore": 269.5
+      },
+      {
+        "tournamentName": "TRAVELERS",
+        "tournamentType": 1,
+        "tournamentScore": 386.0
+      },
+      {
+        "tournamentName": "ROCKET",
+        "tournamentType": 1,
+        "tournamentScore": 323.5
+      },
+      {
+        "tournamentName": "DEERE",
+        "tournamentType": 1,
+        "tournamentScore": 404.5
+      },
+      {
+        "tournamentName": "BRITISH",
+        "tournamentType": 3,
+        "tournamentScore": 0
       }
     ]
   },
@@ -1530,6 +1770,26 @@
         "tournamentName": "USOPEN",
         "tournamentType": 3,
         "tournamentScore": 274.0
+      },
+      {
+        "tournamentName": "TRAVELERS",
+        "tournamentType": 1,
+        "tournamentScore": 215
+      },
+      {
+        "tournamentName": "ROCKET",
+        "tournamentType": 1,
+        "tournamentScore": 415
+      },
+      {
+        "tournamentName": "DEERE",
+        "tournamentType": 1,
+        "tournamentScore": 234
+      },
+      {
+        "tournamentName": "BRITISH",
+        "tournamentType": 3,
+        "tournamentScore": 0
       }
     ]
   },
@@ -1648,6 +1908,26 @@
         "tournamentName": "USOPEN",
         "tournamentType": 3,
         "tournamentScore": 280.0
+      },
+      {
+        "tournamentName": "TRAVELERS",
+        "tournamentType": 1,
+        "tournamentScore": 428.0
+      },
+      {
+        "tournamentName": "ROCKET",
+        "tournamentType": 1,
+        "tournamentScore": 380.5
+      },
+      {
+        "tournamentName": "DEERE",
+        "tournamentType": 1,
+        "tournamentScore": 365.5
+      },
+      {
+        "tournamentName": "BRITISH",
+        "tournamentType": 3,
+        "tournamentScore": 0
       }
     ]
   },
@@ -1766,6 +2046,26 @@
         "tournamentName": "USOPEN",
         "tournamentType": 3,
         "tournamentScore": 319.5
+      },
+      {
+        "tournamentName": "TRAVELERS",
+        "tournamentType": 1,
+        "tournamentScore": 421.5
+      },
+      {
+        "tournamentName": "ROCKET",
+        "tournamentType": 1,
+        "tournamentScore": 330.5
+      },
+      {
+        "tournamentName": "DEERE",
+        "tournamentType": 1,
+        "tournamentScore": 472.5
+      },
+      {
+        "tournamentName": "BRITISH",
+        "tournamentType": 3,
+        "tournamentScore": 0
       }
     ]
   },
@@ -1828,7 +2128,7 @@
       {
         "tournamentName": "VALERO",
         "tournamentType": 1,
-        "tournamentScore": 0
+        "tournamentScore": 169
       },
       {
         "tournamentName": "MASTERS",
@@ -1884,6 +2184,26 @@
         "tournamentName": "USOPEN",
         "tournamentType": 3,
         "tournamentScore": 177.5
+      },
+      {
+        "tournamentName": "TRAVELERS",
+        "tournamentType": 1,
+        "tournamentScore": 400.5
+      },
+      {
+        "tournamentName": "ROCKET",
+        "tournamentType": 1,
+        "tournamentScore": 438
+      },
+      {
+        "tournamentName": "DEERE",
+        "tournamentType": 1,
+        "tournamentScore": 369.5
+      },
+      {
+        "tournamentName": "BRITISH",
+        "tournamentType": 3,
+        "tournamentScore": 0
       }
     ]
   },
@@ -2002,6 +2322,26 @@
         "tournamentName": "USOPEN",
         "tournamentType": 3,
         "tournamentScore": 236.5
+      },
+      {
+        "tournamentName": "TRAVELERS",
+        "tournamentType": 1,
+        "tournamentScore": 453.0
+      },
+      {
+        "tournamentName": "ROCKET",
+        "tournamentType": 1,
+        "tournamentScore": 388
+      },
+      {
+        "tournamentName": "DEERE",
+        "tournamentType": 1,
+        "tournamentScore": 436.5
+      },
+      {
+        "tournamentName": "BRITISH",
+        "tournamentType": 3,
+        "tournamentScore": 0
       }
     ]
   },
@@ -2120,6 +2460,26 @@
         "tournamentName": "USOPEN",
         "tournamentType": 3,
         "tournamentScore": 235.5
+      },
+      {
+        "tournamentName": "TRAVELERS",
+        "tournamentType": 1,
+        "tournamentScore": 311.5
+      },
+      {
+        "tournamentName": "ROCKET",
+        "tournamentType": 1,
+        "tournamentScore": 513
+      },
+      {
+        "tournamentName": "DEERE",
+        "tournamentType": 1,
+        "tournamentScore": 330
+      },
+      {
+        "tournamentName": "BRITISH",
+        "tournamentType": 3,
+        "tournamentScore": 0
       }
     ]
   },
@@ -2238,6 +2598,26 @@
         "tournamentName": "USOPEN",
         "tournamentType": 3,
         "tournamentScore": 326.0
+      },
+      {
+        "tournamentName": "TRAVELERS",
+        "tournamentType": 1,
+        "tournamentScore": 307.5
+      },
+      {
+        "tournamentName": "ROCKET",
+        "tournamentType": 1,
+        "tournamentScore": 436.5
+      },
+      {
+        "tournamentName": "DEERE",
+        "tournamentType": 1,
+        "tournamentScore": 335
+      },
+      {
+        "tournamentName": "BRITISH",
+        "tournamentType": 3,
+        "tournamentScore": 0
       }
     ]
   },
@@ -2356,6 +2736,26 @@
         "tournamentName": "USOPEN",
         "tournamentType": 3,
         "tournamentScore": 265.0
+      },
+      {
+        "tournamentName": "TRAVELERS",
+        "tournamentType": 1,
+        "tournamentScore": 322.5
+      },
+      {
+        "tournamentName": "ROCKET",
+        "tournamentType": 1,
+        "tournamentScore": 317.0
+      },
+      {
+        "tournamentName": "DEERE",
+        "tournamentType": 1,
+        "tournamentScore": 437.5
+      },
+      {
+        "tournamentName": "BRITISH",
+        "tournamentType": 3,
+        "tournamentScore": 0
       }
     ]
   },
@@ -2474,6 +2874,26 @@
         "tournamentName": "USOPEN",
         "tournamentType": 3,
         "tournamentScore": 328.5
+      },
+      {
+        "tournamentName": "TRAVELERS",
+        "tournamentType": 1,
+        "tournamentScore": 414.0
+      },
+      {
+        "tournamentName": "ROCKET",
+        "tournamentType": 1,
+        "tournamentScore": 370.0
+      },
+      {
+        "tournamentName": "DEERE",
+        "tournamentType": 1,
+        "tournamentScore": 493.5
+      },
+      {
+        "tournamentName": "BRITISH",
+        "tournamentType": 3,
+        "tournamentScore": 0
       }
     ]
   },
@@ -2592,6 +3012,26 @@
         "tournamentName": "USOPEN",
         "tournamentType": 3,
         "tournamentScore": 222.0
+      },
+      {
+        "tournamentName": "TRAVELERS",
+        "tournamentType": 1,
+        "tournamentScore": 489.0
+      },
+      {
+        "tournamentName": "ROCKET",
+        "tournamentType": 1,
+        "tournamentScore": 393.5
+      },
+      {
+        "tournamentName": "DEERE",
+        "tournamentType": 1,
+        "tournamentScore": 368.5
+      },
+      {
+        "tournamentName": "BRITISH",
+        "tournamentType": 3,
+        "tournamentScore": 0
       }
     ]
   }
