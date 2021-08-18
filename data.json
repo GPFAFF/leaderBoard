@@ -487,8 +487,8 @@
         "tournamentScore": 452.5
       },
       {
-        "tournamentName": "WGCMEMPH",
-        "tournamentType": 2,
+        "tournamentName": "WYNDHAM",
+        "tournamentType": 1,
         "tournamentScore": 335
       },
       {
@@ -656,7 +656,7 @@
       },
       {
         "tournamentName": "WGCMEMPH",
-        "tournamentType": 2,
+        "tournamentType": 1,
         "tournamentScore": 269
       },
       {
@@ -1160,7 +1160,7 @@
       },
       {
         "tournamentName": "WGCMEMPH",
-        "tournamentType": 2,
+        "tournamentType": 1,
         "tournamentScore": 269
       },
       {
@@ -1999,8 +1999,8 @@
         "tournamentScore": 450
       },
       {
-        "tournamentName": "WGCMEMPH",
-        "tournamentType": 2,
+        "tournamentName": "WYNDHAM",
+        "tournamentType": 1,
         "tournamentScore": 297.5
       },
       {
