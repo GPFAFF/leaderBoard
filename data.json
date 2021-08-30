@@ -156,12 +156,17 @@
         "tournamentScore": 411.5
       },
       {
-        "tournamentName": "WGCMEMPH",
+        "tournamentName": "NT",
         "tournamentType": 2,
-        "tournamentScore": 0
+        "tournamentScore": 344.5
       },
       {
-        "tournamentName": "WGCMEMPH",
+        "tournamentName": "BMW",
+        "tournamentType": 2,
+        "tournamentScore": 598.5
+      },
+      {
+        "tournamentName": "EASTLAKE",
         "tournamentType": 2,
         "tournamentScore": 0
       }
@@ -319,12 +324,12 @@
         "tournamentScore": 0
       },
       {
-        "tournamentName": "WGCMEMPH",
+        "tournamentName": "BMW",
         "tournamentType": 2,
         "tournamentScore": 0
       },
       {
-        "tournamentName": "WGCMEMPH",
+        "tournamentName": "EASTLAKE",
         "tournamentType": 2,
         "tournamentScore": 0
       },
@@ -492,12 +497,17 @@
         "tournamentScore": 335
       },
       {
-        "tournamentName": "WGCMEMPH",
+        "tournamentName": "NT",
         "tournamentType": 2,
-        "tournamentScore": 0
+        "tournamentScore": 393.5
       },
       {
-        "tournamentName": "WGCMEMPH",
+        "tournamentName": "BMW",
+        "tournamentType": 2,
+        "tournamentScore": 512.5
+      },
+      {
+        "tournamentName": "EASTLAKE",
         "tournamentType": 2,
         "tournamentScore": 0
       }
@@ -655,17 +665,22 @@
         "tournamentScore": 479
       },
       {
-        "tournamentName": "WGCMEMPH",
+        "tournamentName": "WYNDHAM",
         "tournamentType": 1,
         "tournamentScore": 269
       },
       {
-        "tournamentName": "WGCMEMPH",
+        "tournamentName": "NT",
         "tournamentType": 2,
-        "tournamentScore": 0
+        "tournamentScore": 459
       },
       {
-        "tournamentName": "WGCMEMPH",
+        "tournamentName": "BMW",
+        "tournamentType": 2,
+        "tournamentScore": 349
+      },
+      {
+        "tournamentName": "EASTLAKE",
         "tournamentType": 2,
         "tournamentScore": 0
       }
@@ -828,12 +843,17 @@
         "tournamentScore": 395.5
       },
       {
-        "tournamentName": "WGCMEMPH",
+        "tournamentName": "BMW",
         "tournamentType": 2,
-        "tournamentScore": 0
+        "tournamentScore": 641.5
       },
       {
-        "tournamentName": "WGCMEMPH",
+        "tournamentName": "NT",
+        "tournamentType": 2,
+        "tournamentScore": 513.0
+      },
+      {
+        "tournamentName": "EASTLAKE",
         "tournamentType": 2,
         "tournamentScore": 0
       }
@@ -996,12 +1016,17 @@
         "tournamentScore": 434
       },
       {
-        "tournamentName": "WGCMEMPH",
+        "tournamentName": "NT",
         "tournamentType": 2,
-        "tournamentScore": 0
+        "tournamentScore": 425.5
       },
       {
-        "tournamentName": "WGCMEMPH",
+        "tournamentName": "BMW",
+        "tournamentType": 2,
+        "tournamentScore": 344
+      },
+      {
+        "tournamentName": "EASTLAKE",
         "tournamentType": 2,
         "tournamentScore": 0
       }
@@ -1159,17 +1184,22 @@
         "tournamentScore": 522.0
       },
       {
-        "tournamentName": "WGCMEMPH",
+        "tournamentName": "WYNDHAM",
         "tournamentType": 1,
         "tournamentScore": 269
       },
       {
-        "tournamentName": "WGCMEMPH",
+        "tournamentName": "NT",
         "tournamentType": 2,
-        "tournamentScore": 0
+        "tournamentScore": 410.5
       },
       {
-        "tournamentName": "WGCMEMPH",
+        "tournamentName": "BMW",
+        "tournamentType": 2,
+        "tournamentScore": 476
+      },
+      {
+        "tournamentName": "EASTLAKE",
         "tournamentType": 2,
         "tournamentScore": 0
       }
@@ -1332,12 +1362,17 @@
         "tournamentScore": 376.0
       },
       {
-        "tournamentName": "WGCMEMPH",
+        "tournamentName": "NT",
         "tournamentType": 2,
-        "tournamentScore": 0
+        "tournamentScore": 346
       },
       {
-        "tournamentName": "WGCMEMPH",
+        "tournamentName": "BMW",
+        "tournamentType": 2,
+        "tournamentScore": 514.5
+      },
+      {
+        "tournamentName": "EASTLAKE",
         "tournamentType": 2,
         "tournamentScore": 0
       }
@@ -1500,12 +1535,17 @@
         "tournamentScore": 368.5
       },
       {
-        "tournamentName": "WGCMEMPH",
+        "tournamentName": "NT",
         "tournamentType": 2,
-        "tournamentScore": 0
+        "tournamentScore": 455.5
       },
       {
-        "tournamentName": "WGCMEMPH",
+        "tournamentName": "BMW",
+        "tournamentType": 2,
+        "tournamentScore": 544.5
+      },
+      {
+        "tournamentName": "EASTLAKE",
         "tournamentType": 2,
         "tournamentScore": 0
       }
@@ -1668,12 +1708,17 @@
         "tournamentScore": 381.0
       },
       {
-        "tournamentName": "WGCMEMPH",
+        "tournamentName": "NT",
         "tournamentType": 2,
-        "tournamentScore": 0
+        "tournamentScore": 410.5
       },
       {
-        "tournamentName": "WGCMEMPH",
+        "tournamentName": "BMW",
+        "tournamentType": 2,
+        "tournamentScore": 601
+      },
+      {
+        "tournamentName": "EASTLAKE",
         "tournamentType": 2,
         "tournamentScore": 0
       }
@@ -1836,12 +1881,17 @@
         "tournamentScore": 506
       },
       {
-        "tournamentName": "WGCMEMPH",
+        "tournamentName": "NT",
         "tournamentType": 2,
-        "tournamentScore": 0
+        "tournamentScore": 472
       },
       {
-        "tournamentName": "WGCMEMPH",
+        "tournamentName": "BMW",
+        "tournamentType": 2,
+        "tournamentScore": 582
+      },
+      {
+        "tournamentName": "EASTLAKE",
         "tournamentType": 2,
         "tournamentScore": 0
       }
@@ -2004,12 +2054,17 @@
         "tournamentScore": 297.5
       },
       {
-        "tournamentName": "WGCMEMPH",
+        "tournamentName": "NT",
         "tournamentType": 2,
-        "tournamentScore": 0
+        "tournamentScore": 532.5
       },
       {
-        "tournamentName": "WGCMEMPH",
+        "tournamentName": "BMW",
+        "tournamentType": 2,
+        "tournamentScore": 482
+      },
+      {
+        "tournamentName": "EASTLAKE",
         "tournamentType": 2,
         "tournamentScore": 0
       }
@@ -2172,12 +2227,17 @@
         "tournamentScore": 356.0
       },
       {
-        "tournamentName": "WGCMEMPH",
+        "tournamentName": "NT",
         "tournamentType": 2,
-        "tournamentScore": 0
+        "tournamentScore": 410
       },
       {
-        "tournamentName": "WGCMEMPH",
+        "tournamentName": "BMW",
+        "tournamentType": 2,
+        "tournamentScore": 581.5
+      },
+      {
+        "tournamentName": "EASTLAKE",
         "tournamentType": 2,
         "tournamentScore": 0
       }
@@ -2340,12 +2400,17 @@
         "tournamentScore": 422
       },
       {
-        "tournamentName": "WGCMEMPH",
+        "tournamentName": "NT",
         "tournamentType": 2,
-        "tournamentScore": 0
+        "tournamentScore": 495
       },
       {
-        "tournamentName": "WGCMEMPH",
+        "tournamentName": "BMW",
+        "tournamentType": 2,
+        "tournamentScore": 542.5
+      },
+      {
+        "tournamentName": "EASTLAKE",
         "tournamentType": 2,
         "tournamentScore": 0
       }
@@ -2508,12 +2573,17 @@
         "tournamentScore": 466
       },
       {
-        "tournamentName": "WGCMEMPH",
+        "tournamentName": "NT",
         "tournamentType": 2,
-        "tournamentScore": 0
+        "tournamentScore": 334
       },
       {
-        "tournamentName": "WGCMEMPH",
+        "tournamentName": "BMW",
+        "tournamentType": 2,
+        "tournamentScore": 459
+      },
+      {
+        "tournamentName": "EASTLAKE",
         "tournamentType": 2,
         "tournamentScore": 0
       }
@@ -2676,12 +2746,17 @@
         "tournamentScore": 380.5
       },
       {
-        "tournamentName": "WGCMEMPH",
+        "tournamentName": "NT",
         "tournamentType": 2,
-        "tournamentScore": 0
+        "tournamentScore": 330.5
       },
       {
-        "tournamentName": "WGCMEMPH",
+        "tournamentName": "BMW",
+        "tournamentType": 2,
+        "tournamentScore": 513
+      },
+      {
+        "tournamentName": "EASTLAKE",
         "tournamentType": 2,
         "tournamentScore": 0
       }
@@ -2844,12 +2919,17 @@
         "tournamentScore": 502.5
       },
       {
-        "tournamentName": "WGCMEMPH",
+        "tournamentName": "NT",
         "tournamentType": 2,
-        "tournamentScore": 0
+        "tournamentScore": 384.5
       },
       {
-        "tournamentName": "WGCMEMPH",
+        "tournamentName": "BMW",
+        "tournamentType": 2,
+        "tournamentScore": 660.5
+      },
+      {
+        "tournamentName": "EASTLAKE",
         "tournamentType": 2,
         "tournamentScore": 0
       }
@@ -3012,12 +3092,17 @@
         "tournamentScore": 411.5
       },
       {
-        "tournamentName": "WGCMEMPH",
+        "tournamentName": "NT",
         "tournamentType": 2,
-        "tournamentScore": 0
+        "tournamentScore": 472.5
       },
       {
-        "tournamentName": "WGCMEMPH",
+        "tournamentName": "BMW",
+        "tournamentType": 2,
+        "tournamentScore": 538
+      },
+      {
+        "tournamentName": "EASTLAKE",
         "tournamentType": 2,
         "tournamentScore": 0
       }
@@ -3180,12 +3265,17 @@
         "tournamentScore": 504
       },
       {
-        "tournamentName": "WGCMEMPH",
+        "tournamentName": "NT",
         "tournamentType": 2,
-        "tournamentScore": 0
+        "tournamentScore": 341.5
       },
       {
-        "tournamentName": "WGCMEMPH",
+        "tournamentName": "BMW",
+        "tournamentType": 2,
+        "tournamentScore": 538
+      },
+      {
+        "tournamentName": "EASTLAKE",
         "tournamentType": 2,
         "tournamentScore": 0
       }
@@ -3348,12 +3438,17 @@
         "tournamentScore": 458
       },
       {
-        "tournamentName": "WGCMEMPH",
+        "tournamentName": "NT",
         "tournamentType": 2,
-        "tournamentScore": 0
+        "tournamentScore": 389
       },
       {
-        "tournamentName": "WGCMEMPH",
+        "tournamentName": "BMW",
+        "tournamentType": 2,
+        "tournamentScore": 581
+      },
+      {
+        "tournamentName": "EASTLAKE",
         "tournamentType": 2,
         "tournamentScore": 0
       }
@@ -3516,12 +3611,17 @@
         "tournamentScore": 410.5
       },
       {
-        "tournamentName": "WGCMEMPH",
+        "tournamentName": "NT",
         "tournamentType": 2,
-        "tournamentScore": 0
+        "tournamentScore": 377.5
       },
       {
-        "tournamentName": "WGCMEMPH",
+        "tournamentName": "BMW",
+        "tournamentType": 2,
+        "tournamentScore": 590.5
+      },
+      {
+        "tournamentName": "EASTLAKE",
         "tournamentType": 2,
         "tournamentScore": 0
       }
@@ -3684,12 +3784,17 @@
         "tournamentScore": 358.0
       },
       {
-        "tournamentName": "WGCMEMPH",
+        "tournamentName": "NT",
         "tournamentType": 2,
-        "tournamentScore": 0
+        "tournamentScore": 302.5
       },
       {
-        "tournamentName": "WGCMEMPH",
+        "tournamentName": "BMW",
+        "tournamentType": 2,
+        "tournamentScore": 478.5
+      },
+      {
+        "tournamentName": "EASTLAKE",
         "tournamentType": 2,
         "tournamentScore": 0
       }
