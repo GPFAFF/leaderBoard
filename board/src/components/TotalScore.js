@@ -1,23 +1,15 @@
-import React from 'react'
-import { useCalculateTotal, useFormatPoints } from '../hooks';
+import React from "react";
+import { useFormatPoints } from "../hooks";
 
-const TotalScore = ({ tournaments, pointsBack, tournamentPlaces }) => {
-  const { firstPlace, secondPlace, thirdPlace, fourthPlace, fifthPlace } = tournamentPlaces;
+const TotalScore = ({ points, pointsBack }) => {
   return (
     <React.Fragment>
       <div className="player_score">
-        <p>Total: {useCalculateTotal(tournaments)}</p>
+        <p>Total: {points}</p>
         {useFormatPoints(pointsBack)}
       </div>
-      <div className="player_wins">
-        <p>1st: {firstPlace} </p>
-        <p>2nd: {secondPlace} </p>
-        <p>3rd: {thirdPlace} </p>
-        <p>4th: {fourthPlace} </p>
-        <p>5th: {fifthPlace} </p>
-      </div>
     </React.Fragment>
-  )
-}
+  );
+};
 
 export default TotalScore;
