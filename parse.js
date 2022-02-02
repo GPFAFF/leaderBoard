@@ -3,7 +3,7 @@ const fs = require("fs");
 
 let second;
 try {
-  const data = fs.readFileSync("csv/second.csv", "utf8");
+  const data = fs.readFileSync("csv/farmers.csv", "utf8");
   second = data;
 } catch (err) {
   console.error(err);
@@ -95,13 +95,6 @@ const tournamentData = data
   })
   .filter((item) => item !== undefined);
 
-// fs.writeFile("test-data.json", JSON.stringify(tournamentData), function (err) {
-//   if (err) {
-//     return console.error(err);
-//   }
-//   console.log("File saved successfully!");
-// });
-
 const write = async () => {
   console.log("before");
   const data = await promises.readFile("./test-data.json");
@@ -109,7 +102,6 @@ const write = async () => {
   const json = JSON.parse(data);
 
   if (!json.length) {
-    console.log("fars");
     json.push(tournamentData);
   } else {
     tournamentData.map((item) => {
