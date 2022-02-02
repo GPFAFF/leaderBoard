@@ -18,6 +18,13 @@ const Season = () => {
     setLoading(false);
   }, []);
 
+  const date = new Date(document.lastModified);
+  const [month, day, year] = [
+    date.getMonth(),
+    date.getDate(),
+    date.getFullYear(),
+  ];
+
   return (
     <div>
       <Header />
@@ -26,6 +33,9 @@ const Season = () => {
           Home
         </Link>
         <h2 className="season-title">Regular Season</h2>
+        <p>
+          Page last updated - {day}/{month}/{year}
+        </p>
         <PlayerContainer data={data} loading={loading} />
       </div>
     </div>

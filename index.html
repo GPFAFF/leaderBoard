@@ -7,19 +7,7 @@
     <title>Leaderboard</title>
   </head>
   <body>
-    <h1 class="title">Golf Leaderboard</h1>
-    <script>
-      const date = new Date(document.lastModified);
-      const [month, day, year] = [
-        date.getMonth(),
-        date.getDate(),
-        date.getFullYear(),
-      ];
-      var element = document.createElement("p");
-      var title = document.querySelector(".title");
-      element.innerText = `Scores last updated ${day}/${month}/${year}`;
-      title.appendChild(element);
-    </script>
+    <h1>Golf Leaderboard</h1>
     <script src="index.js"></script>
   </body>
 </html>
