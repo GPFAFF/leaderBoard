@@ -97,7 +97,7 @@ const tournamentData = data
 
 const write = async () => {
   console.log("before");
-  const data = await promises.readFile("./test-data.json");
+  const data = await promises.readFile("./data.json");
 
   const json = JSON.parse(data);
 
@@ -116,7 +116,7 @@ const write = async () => {
   }
 
   try {
-    await promises.writeFile("test-data.json", JSON.stringify(json));
+    await promises.writeFile("data.json", JSON.stringify(json));
     console.log("File saved successfully!");
   } catch (err) {
     if (err) {

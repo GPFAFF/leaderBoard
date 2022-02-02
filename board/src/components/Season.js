@@ -12,11 +12,18 @@ const Season = () => {
   useEffect(() => {
     setLoading(true);
     axios(
-      "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/test-data.json"
+      "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/data.json"
     ).then((res) => setData(res.data));
 
     setLoading(false);
   }, []);
+
+  const date = new Date(document.lastModified);
+  const [month, day, year] = [
+    date.getMonth(),
+    date.getDate(),
+    date.getFullYear(),
+  ];
 
   return (
     <div>
@@ -26,6 +33,9 @@ const Season = () => {
           Home
         </Link>
         <h2 className="season-title">Regular Season</h2>
+        <p>
+          Page last updated - {day}/{month}/{year}
+        </p>
         <PlayerContainer data={data} loading={loading} />
       </div>
     </div>
