@@ -2,7 +2,7 @@ import React, { Fragment } from "react";
 import TotalScore from "./TotalScore";
 
 const PlayerCard = ({ player, pointsBack, value, icon }) => {
-  const { name, points } = player;
+  const { name, points, rank } = player;
 
   return (
     <div className="player_row">
@@ -25,8 +25,7 @@ const PlayerCard = ({ player, pointsBack, value, icon }) => {
       <TotalScore
         pointsBack={pointsBack}
         points={points}
-        // tournaments={tournaments}
-        // tournamentPlaces={tournamentPlaces}
+        tournamentPlaces={rank}
       />
     </div>
   );

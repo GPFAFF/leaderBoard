@@ -34,7 +34,7 @@ const Season = () => {
         </Link>
         <h2 className="season-title">Regular Season</h2>
         <p>
-          Page last updated - {day}/{month}/{year}
+          Page last updated - {month + 1}/{day}/{year}
         </p>
         <PlayerContainer data={data} loading={loading} />
       </div>
