@@ -44,41 +44,57 @@ const calculateRank = (rank) => {
   switch (rank) {
     case "1":
       return {
-        rank: {
-          first: 1,
-        },
+        first: 1,
       };
       break;
     case "2":
       return {
-        rank: {
-          second: 1,
-        },
+        second: 1,
       };
       break;
     case "3":
       return {
-        rank: {
-          third: 1,
-        },
+        third: 1,
       };
       break;
     case "4":
       return {
-        rank: {
-          fourth: 1,
-        },
+        fourth: 1,
       };
       break;
     case "5":
       return {
-        rank: {
-          fifth: 1,
-        },
+        fifth: 1,
       };
       break;
     default:
-      return null;
+      return {};
+  }
+};
+
+const mergeRanks = (found, r) => {
+  const hasRankObj = Object.keys(r).length;
+  // look at the found ranks, if key is found increment
+  // otherwise add the rank
+  if (hasRankObj) {
+    console.log(r, found);
+    console.log("F", Object.keys(r)[0] === Object.values(found.rank)[0]);
+    console.log("fmmfmff", Object.keys(found.rank)[0]);
+    if (Object.keys(r)[0] === Object.keys(found.rank)[0]) {
+      found.rank = {
+        [Object.keys(found.rank)]: Object.values(found.rank)[0] + 1,
+      };
+    } else {
+      found.rank = {
+        ...found.rank,
+        ...r,
+      };
+    }
+  } else {
+    found.rank = {
+      ...found.rank,
+      ...r,
+    };
   }
 };
 
@@ -86,7 +102,6 @@ const tournamentData = data
   .map((item) => {
     if (!item.EntryName) return;
     if (undefined) return;
-    console.log("rank", item.Rank === 1);
     return {
       name: item.EntryName,
       points: item.Points,
@@ -104,10 +119,11 @@ const write = async () => {
   if (!json.length) {
     json.push(tournamentData);
   } else {
-    tournamentData.map((item) => {
+    tournamentData.map(async (item) => {
       const found = json[0].find((foundItem) => foundItem.name === item.name);
 
       found.points = Number(found.points) + Number(item.points);
+      found.ranks = await mergeRanks(found, item.rank);
     });
 
     json[0].sort((a, b) => {
