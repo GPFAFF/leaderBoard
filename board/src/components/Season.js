@@ -8,23 +8,29 @@ import axios from "axios";
 const Season = () => {
   const [data, setData] = useState(null);
   const [loading, setLoading] = useState(false);
+  const [dateAndName, setDateAndName] = useState(null);
 
   useEffect(() => {
     setLoading(true);
     axios(
       "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/data.json"
     ).then((res) => setData(res.data));
+    axios("https://api.github.com/users/GPFAFF/events/public").then((res) =>
+      setDateAndName(res.data)
+    );
 
     setLoading(false);
   }, []);
 
-  const date = new Date(document.lastModified);
-  const [month, day, year] = [
-    date.getMonth(),
-    date.getDate(),
-    date.getFullYear(),
-  ];
+  let date;
 
+  if (dateAndName) {
+    date = dateAndName.find((commit) =>
+      commit.repo.name.includes("leaderBoard")
+    );
+  }
+
+  console.log(date);
   return (
     <div>
       <Header />
@@ -34,7 +40,7 @@ const Season = () => {
         </Link>
         <h2 className="season-title">Regular Season</h2>
         <p>
-          Page last updated - {month + 1}/{day}/{year}
+          {date && `Last updated - ${new Date(date.created_at).toDateString()}`}
         </p>
         <PlayerContainer data={data} loading={loading} />
       </div>
