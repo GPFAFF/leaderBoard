@@ -30,7 +30,6 @@ const Season = () => {
     );
   }
 
-  console.log(date);
   return (
     <div>
       <Header />
