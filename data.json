@@ -1,1 +1,30 @@
-[[{"name":"rhup","points":"510","rank":{"first":1}},{"name":"re_wcb","points":"506","rank":{"second":1}},{"name":"JonBuc1","points":"505","rank":{"third":1}},{"name":"jakinnamon1221","points":"496.5","rank":{"fourth":1}},{"name":"concord","points":"481","rank":{"fifth":1}},{"name":"garciar15","points":"474.5","rank":{}},{"name":"chicagoputz","points":"474.5","rank":{}},{"name":"jimm743","points":"465","rank":{}},{"name":"gapfaff","points":"459.5","rank":{}},{"name":"andcohen2525","points":"448.5","rank":{}},{"name":"belikemike247","points":"438.5","rank":{}},{"name":"cubyblue","points":"437","rank":{}},{"name":"boyewsky","points":"422","rank":{}},{"name":"Jph315","points":"406","rank":{}},{"name":"jabella72","points":"405.5","rank":{}},{"name":"hupfdaddy","points":"401","rank":{}},{"name":"darksidefan","points":"397.5","rank":{}},{"name":"arob92","points":"396.5","rank":{}},{"name":"American-Dream","points":"391.5","rank":{}},{"name":"mlewicki","points":"362.5","rank":{}},{"name":"Syvretzky","points":"318.5","rank":{}},{"name":"AndyRue5","points":"304.5","rank":{}}]]
+[
+  [
+    {
+      "name": "jakinnamon1221",
+      "points": 1036.5,
+      "rank": { "fourth": 1, "first": 1 }
+    },
+    { "name": "jabella72", "points": 928.5, "rank": { "second": 1 } },
+    { "name": "re_wcb", "points": 927, "rank": { "second": 1 } },
+    { "name": "belikemike247", "points": 923, "rank": { "third": 1 } },
+    { "name": "rhup", "points": 921.5, "rank": { "first": 1 } },
+    { "name": "andcohen2525", "points": 907, "rank": { "fifth": 1 } },
+    { "name": "gapfaff", "points": 903.5, "rank": {} },
+    { "name": "jimm743", "points": 894.5, "rank": {} },
+    { "name": "garciar15", "points": 887.5, "rank": {} },
+    { "name": "concord", "points": 871, "rank": { "fifth": 1 } },
+    { "name": "darksidefan", "points": 851, "rank": {} },
+    { "name": "boyewsky", "points": 843, "rank": {} },
+    { "name": "mlewicki", "points": 826.5, "rank": { "fourth": 1 } },
+    { "name": "Jph315", "points": 805.5, "rank": {} },
+    { "name": "cubyblue", "points": 804.5, "rank": {} },
+    { "name": "American-Dream", "points": 802, "rank": {} },
+    { "name": "arob92", "points": 798.5, "rank": {} },
+    { "name": "chicagoputz", "points": 791.5, "rank": {} },
+    { "name": "JonBuc1", "points": 785.5, "rank": { "third": 1 } },
+    { "name": "hupfdaddy", "points": 784.5, "rank": {} },
+    { "name": "AndyRue5", "points": 732, "rank": {} },
+    { "name": "Syvretzky", "points": 700, "rank": {} }
+  ]
+]

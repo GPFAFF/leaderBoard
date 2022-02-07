@@ -3,7 +3,7 @@ const fs = require("fs");
 
 let second;
 try {
-  const data = fs.readFileSync("csv/farmers.csv", "utf8");
+  const data = fs.readFileSync("csv/att.csv", "utf8");
   second = data;
 } catch (err) {
   console.error(err);
@@ -77,9 +77,6 @@ const mergeRanks = (found, r) => {
   // look at the found ranks, if key is found increment
   // otherwise add the rank
   if (hasRankObj) {
-    console.log(r, found);
-    console.log("F", Object.keys(r)[0] === Object.values(found.rank)[0]);
-    console.log("fmmfmff", Object.keys(found.rank)[0]);
     if (Object.keys(r)[0] === Object.keys(found.rank)[0]) {
       found.rank = {
         [Object.keys(found.rank)]: Object.values(found.rank)[0] + 1,
@@ -111,7 +108,6 @@ const tournamentData = data
   .filter((item) => item !== undefined);
 
 const write = async () => {
-  console.log("before");
   const data = await promises.readFile("./data.json");
 
   const json = JSON.parse(data);
