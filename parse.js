@@ -1,9 +1,34 @@
 const { promises } = require("fs");
 const fs = require("fs");
 
+const teamNames = [
+  "gapfaff",
+  "jakinnamon1221",
+  "re_wcb",
+  "rhup",
+  "jimm743",
+  "mlewicki",
+  "belikemike247",
+  "chicagoputz",
+  "arob92",
+  "andcohen2525",
+  "garciar15",
+  "concord",
+  "cubyblue",
+  "jabella72",
+  "darksidefan",
+  "hupfdaddy",
+  "boyewsky",
+  "JonBuc1",
+  "American-Dream",
+  "Jph315",
+  "AndyRue5",
+  "Syvretzky",
+];
+
 let second;
 try {
-  const data = fs.readFileSync("csv/wm.csv", "utf8");
+  const data = fs.readFileSync("csv/riv.csv", "utf8");
   second = data;
 } catch (err) {
   console.error(err);
@@ -115,12 +140,47 @@ const write = async () => {
   if (!json.length) {
     json.push(tournamentData);
   } else {
-    tournamentData.map(async (item) => {
-      const found = json[0].find((foundItem) => foundItem.name === item.name);
+    if (tournamentData.length < 22) {
+      // find missing lineups
+      // create object entries
+      // merge missing data
+      // add missing data
+      const findLowestScore = () => {
+        return tournamentData.reduce((a, b) => {
+          const aEnd = a.points !== null ? a.points : 0;
+          const bEnd = b.points !== null ? b.points : 0;
+          return aEnd < bEnd ? a : b;
+        });
+      };
 
-      found.points = Number(found.points) + Number(item.points);
-      found.ranks = await mergeRanks(found, item.rank);
-    });
+      const missingNames = teamNames
+        .map((item) => item)
+        .filter((name) => !tournamentData.find((item) => item.name === name));
+
+      const calculateMissedEntries = missingNames.map((item) => {
+        return {
+          name: item,
+          points: findLowestScore().points * 0.75,
+          rank: {},
+        };
+      });
+
+      let data = [...tournamentData, ...calculateMissedEntries];
+
+      data.map(async (item) => {
+        const found = json[0].find((foundItem) => foundItem.name === item.name);
+
+        found.points = Number(found.points) + Number(item.points);
+        found.ranks = await mergeRanks(found, item.rank);
+      });
+    } else {
+      tournamentData.map(async (item) => {
+        const found = json[0].find((foundItem) => foundItem.name === item.name);
+
+        found.points = Number(found.points) + Number(item.points);
+        found.ranks = await mergeRanks(found, item.rank);
+      });
+    }
 
     json[0].sort((a, b) => {
       return b.points - a.points;
