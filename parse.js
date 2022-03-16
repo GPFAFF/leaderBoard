@@ -28,7 +28,7 @@ const teamNames = [
 
 let second;
 try {
-  const data = fs.readFileSync("csv/api.csv", "utf8");
+  const data = fs.readFileSync("csv/players.csv", "utf8");
   second = data;
 } catch (err) {
   console.error(err);
@@ -124,9 +124,10 @@ const tournamentData = data
   .map((item) => {
     if (!item.EntryName) return;
     if (undefined) return;
+
     return {
       name: item.EntryName,
-      points: item.Points,
+      points: item.Points * 3,
       rank: calculateRank(item.Rank),
     };
   })
