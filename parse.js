@@ -28,7 +28,7 @@ const teamNames = [
 
 let second;
 try {
-  const data = fs.readFileSync("csv/valspar.csv", "utf8");
+  const data = fs.readFileSync("csv/match.csv", "utf8");
   second = data;
 } catch (err) {
   console.error(err);
@@ -101,10 +101,13 @@ const mergeRanks = (found, r) => {
   const hasRankObj = Object.keys(r).length;
   // look at the found ranks, if key is found increment
   // otherwise add the rank
+  debugger;
   if (hasRankObj) {
-    if (Object.keys(r)[0] === Object.keys(found.rank)[0]) {
+    console.log(Object.keys(r), Object.keys(found.rank))
+    if (Object.keys(found.rank).find(rank => rank === Object.keys(r)[0])) {
       found.rank = {
-        [Object.keys(found.rank)]: Object.values(found.rank)[0] + 1,
+        ...found.rank,
+        [Object.keys(r)]: Object.values(found.rank)[0] + 1,
       };
     } else {
       found.rank = {
@@ -127,7 +130,7 @@ const tournamentData = data
 
     return {
       name: item.EntryName,
-      points: item.Points,
+      points: item.Points * 2,
       rank: calculateRank(item.Rank),
     };
   })
@@ -178,7 +181,7 @@ const write = async () => {
       tournamentData.map(async (item) => {
         const found = json[0].find((foundItem) => foundItem.name === item.name);
 
-        found.points = Number(found.points) + Number(item.points);
+        found.points = (Number(found.points) + Number(item.points)).toFixed(2);
         found.ranks = await mergeRanks(found, item.rank);
       });
     }
