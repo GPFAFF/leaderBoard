@@ -28,7 +28,7 @@ const teamNames = [
 
 let second;
 try {
-  const data = fs.readFileSync("csv/match.csv", "utf8");
+  const data = fs.readFileSync("csv/api.csv", "utf8");
   second = data;
 } catch (err) {
   console.error(err);
@@ -101,9 +101,7 @@ const mergeRanks = (found, r) => {
   const hasRankObj = Object.keys(r).length;
   // look at the found ranks, if key is found increment
   // otherwise add the rank
-  debugger;
   if (hasRankObj) {
-    console.log(Object.keys(r), Object.keys(found.rank))
     if (Object.keys(found.rank).find(rank => rank === Object.keys(r)[0])) {
       found.rank = {
         ...found.rank,
@@ -130,7 +128,7 @@ const tournamentData = data
 
     return {
       name: item.EntryName,
-      points: item.Points * 2,
+      points: item.Points,
       rank: calculateRank(item.Rank),
     };
   })
@@ -174,7 +172,7 @@ const write = async () => {
       data.map(async (item) => {
         const found = json[0].find((foundItem) => foundItem.name === item.name);
 
-        found.points = Number(found.points) + Number(item.points);
+        found.points = (Number(found.points) + Number(item.points)).toFixed(2);
         found.ranks = await mergeRanks(found, item.rank);
       });
     } else {
