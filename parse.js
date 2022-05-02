@@ -28,7 +28,7 @@ const teamNames = [
 
 let second;
 try {
-  const data = fs.readFileSync("csv/team.csv", "utf8");
+  const data = fs.readFileSync("csv/mexico.csv", "utf8");
   second = data;
 } catch (err) {
   console.error(err);
@@ -102,7 +102,7 @@ const mergeRanks = (found, r) => {
   // look at the found ranks, if key is found increment
   // otherwise add the rank
   if (hasRankObj) {
-    if (Object.keys(found.rank).find(rank => rank === Object.keys(r)[0])) {
+    if (Object.keys(found.rank).find((rank) => rank === Object.keys(r)[0])) {
       found.rank = {
         ...found.rank,
         [Object.keys(r)]: Object.values(found.rank)[0] + 1,
