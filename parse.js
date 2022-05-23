@@ -28,7 +28,7 @@ const teamNames = [
 
 let second;
 try {
-  const data = fs.readFileSync("csv/schwab.csv", "utf8");
+  const data = fs.readFileSync("csv/pga-champ.csv", "utf8");
   second = data;
 } catch (err) {
   console.error(err);
@@ -128,7 +128,7 @@ const tournamentData = data
 
     return {
       name: item.EntryName,
-      points: item.Points,
+      points: item.Points * 3,
       rank: calculateRank(item.Rank),
     };
   })
