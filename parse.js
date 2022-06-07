@@ -28,7 +28,7 @@ const teamNames = [
 
 let second;
 try {
-  const data = fs.readFileSync("csv/chuck.csv", "utf8");
+  const data = fs.readFileSync("csv/memorial.csv", "utf8");
   second = data;
 } catch (err) {
   console.error(err);
