@@ -128,7 +128,7 @@ const tournamentData = data
 
     return {
       name: item.EntryName,
-      points: item.Points * 3,
+      points: item.Points,
       rank: calculateRank(item.Rank),
     };
   })
