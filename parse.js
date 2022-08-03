@@ -162,7 +162,7 @@ const write = async () => {
       const calculateMissedEntries = missingNames.map((item) => {
         return {
           name: item,
-          points: findLowestScore().points * 0.75,
+          points: findLowestScore().points,
           rank: {},
         };
       });
