@@ -28,7 +28,7 @@ const teamNames = [
 
 let second;
 try {
-  const data = fs.readFileSync("csv/wyndham.csv", "utf8");
+  const data = fs.readFileSync("csv/jude.csv", "utf8");
   second = data;
 } catch (err) {
   console.error(err);
@@ -128,7 +128,7 @@ const tournamentData = data
 
     return {
       name: item.EntryName,
-      points: item.Points,
+      points: item.Points * 2,
       rank: calculateRank(item.Rank),
     };
   })
@@ -168,6 +168,8 @@ const write = async () => {
       });
 
       let data = [...tournamentData, ...calculateMissedEntries];
+
+      console.log("dat", data);
 
       data.map(async (item) => {
         const found = json[0].find((foundItem) => foundItem.name === item.name);
