@@ -3,14 +3,11 @@ const fs = require("fs");
 
 const teamNames = [
   "gapfaff",
-  "jakinnamon1221",
-  "re_wcb",
-  "rhup",
+  "ryanhupfer",
   "jimm743",
   "mlewicki",
   "belikemike247",
   "chicagoputz",
-  "arob92",
   "andcohen2525",
   "garciar15",
   "concord",
@@ -22,13 +19,14 @@ const teamNames = [
   "JonBuc1",
   "American-Dream",
   "Jph315",
-  "AndyRue5",
-  "Syvretzky",
+  "magic_21",
+  "cmilly-97",
+  "AirMOC",
 ];
 
 let second;
 try {
-  const data = fs.readFileSync("csv/tourchamp.csv", "utf8");
+  const data = fs.readFileSync("csv/2.csv", "utf8");
   second = data;
 } catch (err) {
   console.error(err);
@@ -128,7 +126,7 @@ const tournamentData = data
 
     return {
       name: item.EntryName,
-      points: item.Points * 2,
+      points: item.Points,
       rank: calculateRank(item.Rank),
     };
   })
@@ -142,7 +140,7 @@ const write = async () => {
   if (!json.length) {
     json.push(tournamentData);
   } else {
-    if (tournamentData.length < 22) {
+    if (tournamentData.length < 20) {
       // find missing lineups
       // create object entries
       // merge missing data
@@ -162,7 +160,7 @@ const write = async () => {
       const calculateMissedEntries = missingNames.map((item) => {
         return {
           name: item,
-          points: findLowestScore().points,
+          points: findLowestScore().points * 0.9,
           rank: {},
         };
       });
