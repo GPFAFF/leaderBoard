@@ -19,7 +19,8 @@
   text-shadow: 2px 2px 2px black;
 }
 
-.container, .league-container {
+.container,
+.league-container {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -27,7 +28,7 @@
 }
 
 .container {
-  height: 100vh;
+  padding: 40px;
 }
 
 .loader {
@@ -53,7 +54,8 @@
   }
 }
 
-.App-title, .season-title {
+.App-title,
+.season-title {
   font-size: 30px;
   text-align: center;
 
@@ -146,7 +148,8 @@
   }
 }
 
-.player_score, .player_wins {
+.player_score,
+.player_wins {
   padding: 20px;
   text-align: center;
   border: 1px solid black;
@@ -173,7 +176,7 @@
   border-top: 0;
 
   p {
-     @media (max-width: 480px) {
+    @media (max-width: 480px) {
       padding: 0;
     }
   }
