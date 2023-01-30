@@ -26,7 +26,7 @@ const teamNames = [
 
 let second;
 try {
-  const data = fs.readFileSync("csv/amex.csv", "utf8");
+  const data = fs.readFileSync("csv/farmers.csv", "utf8");
   second = data;
 } catch (err) {
   console.error(err);
