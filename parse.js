@@ -96,14 +96,22 @@ const calculateRank = (rank) => {
 };
 
 const mergeRanks = (found, r) => {
-  const hasRankObj = Object.keys(r).length;
+  const hasRankObj = found.rank.hasOwnProperty(Object.keys(r));
   // look at the found ranks, if key is found increment
   // otherwise add the rank
   if (hasRankObj) {
+    const returnCurrentTotal = Object.keys(found.rank)
+      .filter((key) => key.includes(Object.keys(r)[0]))
+      .reduce((obj, key) => {
+        return Object.assign(obj, {
+          [key]: found.rank[key],
+        });
+      }, {});
+
     if (Object.keys(found.rank).find((rank) => rank === Object.keys(r)[0])) {
       found.rank = {
         ...found.rank,
-        [Object.keys(r)]: Object.values(found.rank)[0] + 1,
+        [Object.keys(r)]: Number(Object.values(returnCurrentTotal)) + 1,
       };
     } else {
       found.rank = {
@@ -111,11 +119,6 @@ const mergeRanks = (found, r) => {
         ...r,
       };
     }
-  } else {
-    found.rank = {
-      ...found.rank,
-      ...r,
-    };
   }
 };
 
