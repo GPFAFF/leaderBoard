@@ -2,103 +2,103 @@
   [
     {
       "name": "gapfaff",
-      "points": "13882.15",
-      "rank": { "fifth": 2, "third": 3, "first": 3, "fourth": 2, "second": 1 }
+      "points": "14510.65",
+      "rank": { "fifth": 2, "third": 3, "first": 4, "fourth": 2, "second": 1 }
     },
     {
       "name": "chicagoputz",
-      "points": "13598.85",
+      "points": "14098.35",
       "rank": { "fourth": 2, "third": 1, "fifth": 1, "first": 3 }
     },
     {
       "name": "cmilly-97",
-      "points": "13545.05",
+      "points": "14082.05",
       "rank": { "fourth": 2, "second": 1, "third": 3 }
     },
     {
       "name": "AirMOC",
-      "points": "13489.20",
+      "points": "13897.20",
       "rank": { "second": 4, "third": 5, "first": 1 }
     },
     {
-      "name": "darksidefan",
-      "points": "13294.80",
-      "rank": { "fifth": 4, "second": 2, "fourth": 1, "first": 1 }
-    },
-    {
       "name": "boyewsky",
-      "points": "13282.95",
+      "points": "13805.45",
       "rank": { "third": 2, "first": 1, "second": 3, "fifth": 1, "fourth": 1 }
     },
     {
+      "name": "darksidefan",
+      "points": "13782.80",
+      "rank": { "fifth": 4, "second": 2, "fourth": 1, "first": 1 }
+    },
+    {
       "name": "mlewicki",
-      "points": "13282.95",
+      "points": "13675.95",
       "rank": { "third": 1, "fifth": 1, "first": 2, "fourth": 2 }
     },
     {
-      "name": "JonBuc1",
-      "points": "13109.95",
-      "rank": { "second": 3, "fourth": 4, "fifth": 1, "third": 4 }
-    },
-    {
       "name": "Jph315",
-      "points": "13090.30",
-      "rank": { "fourth": 1, "first": 2, "second": 1, "third": 2 }
+      "points": "13669.80",
+      "rank": { "fourth": 1, "first": 2, "second": 2, "third": 2 }
     },
     {
       "name": "hupfdaddy",
-      "points": "13052.55",
-      "rank": { "first": 1, "fifth": 2, "third": 1, "second": 1 }
+      "points": "13611.55",
+      "rank": { "first": 1, "fifth": 3, "third": 1, "second": 1 }
+    },
+    {
+      "name": "JonBuc1",
+      "points": "13584.95",
+      "rank": { "second": 3, "fourth": 4, "fifth": 1, "third": 4 }
     },
     {
       "name": "garciar15",
-      "points": "13027.25",
+      "points": "13353.25",
       "rank": { "third": 2, "fourth": 3, "first": 1, "second": 1, "fifth": 1 }
     },
     {
-      "name": "magic_21",
-      "points": "12534.85",
-      "rank": { "first": 1, "second": 2, "fourth": 2, "fifth": 1 }
-    },
-    {
       "name": "belikemike247",
-      "points": "12516.30",
+      "points": "13088.80",
       "rank": { "second": 2, "fifth": 1, "first": 1 }
     },
     {
       "name": "American-Dream",
-      "points": "12507.40",
+      "points": "13033.90",
       "rank": { "second": 2, "third": 1, "fifth": 1 }
     },
     {
+      "name": "magic_21",
+      "points": "12970.85",
+      "rank": { "first": 1, "second": 2, "fourth": 2, "fifth": 1 }
+    },
+    {
       "name": "jabella72",
-      "points": "12325.85",
+      "points": "12831.85",
       "rank": { "first": 3, "fourth": 1 }
     },
     {
       "name": "jimm743",
-      "points": "12238.90",
+      "points": "12726.40",
       "rank": { "first": 2, "fifth": 1, "third": 1 }
     },
     {
-      "name": "andcohen2525",
-      "points": "12127.75",
-      "rank": { "fourth": 2, "third": 2 }
-    },
-    {
       "name": "concord",
-      "points": "12068.15",
+      "points": "12535.15",
       "rank": { "third": 1, "fifth": 2, "second": 1 }
     },
     {
+      "name": "andcohen2525",
+      "points": "12421.15",
+      "rank": { "fourth": 2, "third": 2 }
+    },
+    {
       "name": "cubyblue",
-      "points": "12046.66",
+      "points": "12412.16",
       "rank": { "fourth": 1, "first": 1, "fifth": 2 }
     },
     {
       "name": "ryanhupfer",
-      "points": "11797.85",
-      "rank": { "fourth": 1, "first": 1, "second": 1 }
+      "points": "12359.35",
+      "rank": { "fourth": 2, "first": 1, "second": 1 }
     }
   ]
 ]
