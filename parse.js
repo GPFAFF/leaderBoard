@@ -26,7 +26,7 @@ const teamNames = [
 
 let second;
 try {
-  const data = fs.readFileSync("csv/bmw.csv", "utf8");
+  const data = fs.readFileSync("csv/champ.csv", "utf8");
   second = data;
 } catch (err) {
   console.error(err);
@@ -119,6 +119,11 @@ const mergeRanks = (found, r) => {
         ...r,
       };
     }
+  } else {
+    found.rank = {
+      ...found.rank,
+      ...r,
+    };
   }
 };
 
@@ -127,9 +132,11 @@ const tournamentData = data
     if (!item.EntryName) return;
     if (undefined) return;
 
+    const points = process.argv[2] ?? 1;
+
     return {
       name: item.EntryName,
-      points: item.Points,
+      points: item.Points * Number(points),
       rank: calculateRank(item.Rank),
     };
   })
