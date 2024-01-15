@@ -6,10 +6,9 @@ const teamNames = [
   "ryanhupfer",
   "jimm743",
   "mlewicki",
-  "belikemike247",
+  "NPitz14",
   "chicagoputz",
   "andcohen2525",
-  "garciar15",
   "concord",
   "cubyblue",
   "jabella72",
@@ -21,12 +20,11 @@ const teamNames = [
   "Jph315",
   "magic_21",
   "cmilly-97",
-  "AirMOC",
 ];
 
 let second;
 try {
-  const data = fs.readFileSync("csv/champ.csv", "utf8");
+  const data = fs.readFileSync(process.argv[2], "utf8");
   second = data;
 } catch (err) {
   console.error(err);
@@ -132,7 +130,7 @@ const tournamentData = data
     if (!item.EntryName) return;
     if (undefined) return;
 
-    const points = process.argv[2] ?? 1;
+    const points = process.argv[3] ?? 1;
 
     return {
       name: item.EntryName,
