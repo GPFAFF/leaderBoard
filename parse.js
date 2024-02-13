@@ -165,6 +165,8 @@ const write = async () => {
         .map((item) => item)
         .filter((name) => !tournamentData.find((item) => item.name === name));
 
+      console.log("missingNames", missingNames);
+
       const calculateMissedEntries = missingNames.map((item) => {
         return {
           name: item,
