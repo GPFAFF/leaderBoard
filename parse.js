@@ -13,7 +13,6 @@ const teamNames = [
   "cubyblue",
   "jabella72",
   "darksidefan",
-  "hupfdaddy",
   "boyewsky",
   "JonBuc1",
   "American-Dream",
