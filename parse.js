@@ -1,208 +1,187 @@
-const { promises } = require("fs");
+/**
+ * Tournament CSV → Cumulative Leaderboard
+ */
+
 const fs = require("fs");
+const { promises } = fs;
+
+/* =====================================================
+   CONFIG
+===================================================== */
 
 const teamNames = [
+  "jabella72",
   "gapfaff",
-  "ryanhupfer",
-  "jimm743",
-  "mlewicki",
+  "cmilly-97",
+  "JonBuc1",
+  "Knock0ut12",
+  "synde167",
+  "aceshigh1973",
+  "holth",
   "NPitz14",
   "chicagoputz",
-  "andcohen2525",
-  "concord",
-  "cubyblue",
-  "jabella72",
-  "darksidefan",
-  "boyewsky",
-  "JonBuc1",
-  "American-Dream",
+  "cairnssj",
   "Jph315",
+  "Lumberjac",
+  "VOODOG23",
+  "brotherjonas",
   "magic_21",
-  "cmilly-97",
+  "boyewsky",
+  "ryanhupfer",
+  "American-Dream",
+  "Gm0ney720",
+  "concord",
+  "hupfdaddy",
+  "darksidefan",
 ];
 
-let second;
-try {
-  const data = fs.readFileSync(process.argv[2], "utf8");
-  second = data;
-} catch (err) {
-  console.error(err);
-}
+const EMPTY_RANK = {
+  first: 0,
+  second: 0,
+  third: 0,
+  fourth: 0,
+  fifth: 0,
+};
 
-let jsonData = [];
+const rankMap = {
+  1: "first",
+  2: "second",
+  3: "third",
+  4: "fourth",
+  5: "fifth",
+};
 
-function csvToArray(str, delimiter = ",") {
-  // slice from start of text to the first \n index
-  // use split to create an array from string by delimiter
-  const headers = str.slice(0, str.indexOf("\n")).split(delimiter);
+/* =====================================================
+   CSV PARSING
+===================================================== */
 
-  // slice from \n index + 1 to the end of the text
-  // use split to create an array of each csv value row
-  const rows = str.slice(str.indexOf("\n") + 1).split("\n");
+const csvToArray = (str, delimiter = ",") => {
+  const [headerLine, ...lines] = str.trim().split("\n");
+  const headers = headerLine.split(delimiter);
 
-  // Map the rows
-  // split values from each row into an array
-  // use headers.reduce to create an object
-  // object properties derived from headers:values
-  // the object passed as an element of the array
-  const arr = rows.map(function (row) {
-    const values = row.split(delimiter);
-    const el = headers.reduce(function (object, header, index) {
-      object[header] = values[index];
-      return object;
+  return lines.map((line) => {
+    const values = line.split(delimiter);
+    return headers.reduce((obj, header, i) => {
+      obj[header] = values[i];
+      return obj;
     }, {});
-    return el;
   });
+};
 
-  // return the array
-  return arr;
-}
-
-const data = csvToArray(second);
+/* =====================================================
+   RANK HANDLING
+===================================================== */
 
 const calculateRank = (rank) => {
-  switch (rank) {
-    case "1":
-      return {
-        first: 1,
-      };
-      break;
-    case "2":
-      return {
-        second: 1,
-      };
-      break;
-    case "3":
-      return {
-        third: 1,
-      };
-      break;
-    case "4":
-      return {
-        fourth: 1,
-      };
-      break;
-    case "5":
-      return {
-        fifth: 1,
-      };
-      break;
-    default:
-      return {};
+  const result = { ...EMPTY_RANK };
+  const key = rankMap[rank];
+  if (key) result[key] = 1;
+  return result;
+};
+
+const mergeRanks = (existing, incoming) => {
+  for (const key of Object.keys(EMPTY_RANK)) {
+    existing.rank[key] =
+      (Number(existing.rank[key]) || 0) + (Number(incoming[key]) || 0);
   }
 };
 
-const mergeRanks = (found, r) => {
-  const hasRankObj = found.rank.hasOwnProperty(Object.keys(r));
-  // look at the found ranks, if key is found increment
-  // otherwise add the rank
-  if (hasRankObj) {
-    const returnCurrentTotal = Object.keys(found.rank)
-      .filter((key) => key.includes(Object.keys(r)[0]))
-      .reduce((obj, key) => {
-        return Object.assign(obj, {
-          [key]: found.rank[key],
-        });
-      }, {});
+/* =====================================================
+   TOURNAMENT NORMALIZATION
+===================================================== */
 
-    if (Object.keys(found.rank).find((rank) => rank === Object.keys(r)[0])) {
-      found.rank = {
-        ...found.rank,
-        [Object.keys(r)]: Number(Object.values(returnCurrentTotal)) + 1,
-      };
-    } else {
-      found.rank = {
-        ...found.rank,
-        ...r,
-      };
+const findLowestScore = (data) => Math.min(...data.map((d) => d.points));
+
+const addMissingTeams = (data) => {
+  const lowest = findLowestScore(data);
+
+  const missing = teamNames.filter(
+    (name) => !data.find((d) => d.name === name),
+  );
+
+  return [
+    ...data,
+    ...missing.map((name) => ({
+      name,
+      points: lowest,
+      rank: { ...EMPTY_RANK },
+    })),
+  ];
+};
+
+/* =====================================================
+   LEADERBOARD MERGE
+===================================================== */
+
+const mergeTournamentIntoLeaderboard = (leaderboard, tournament) => {
+  for (const entry of tournament) {
+    const found = leaderboard.find((l) => l.name === entry.name);
+
+    if (!found) {
+      leaderboard.push({
+        name: entry.name,
+        points: entry.points.toFixed(2),
+        rank: { ...entry.rank },
+      });
+      continue;
     }
-  } else {
-    found.rank = {
-      ...found.rank,
-      ...r,
-    };
+
+    found.points = (Number(found.points) + Number(entry.points)).toFixed(2);
+
+    mergeRanks(found, entry.rank);
   }
+
+  leaderboard.sort((a, b) => Number(b.points) - Number(a.points));
 };
 
-const tournamentData = data
-  .map((item) => {
-    if (!item.EntryName) return;
-    if (undefined) return;
+/* =====================================================
+   MAIN
+===================================================== */
 
-    const points = process.argv[3] ?? 1;
+let csvInput;
 
-    return {
-      name: item.EntryName,
-      points: item.Points * Number(points),
-      rank: calculateRank(item.Rank),
-    };
-  })
-  .filter((item) => item !== undefined);
+try {
+  csvInput = fs.readFileSync(process.argv[2], "utf8");
+} catch (err) {
+  console.error("Failed to read CSV:", err);
+  process.exit(1);
+}
+
+const pointsMultiplier = Number(process.argv[3] ?? 1);
+
+const tournamentData = csvToArray(csvInput)
+  .filter((row) => row.EntryName)
+  .map((row) => ({
+    name: row.EntryName,
+    points: Number(row.Points) * pointsMultiplier,
+    rank: calculateRank(row.Rank),
+  }));
 
 const write = async () => {
-  const data = await promises.readFile("./data.json");
-
-  const json = JSON.parse(data);
-
-  if (!json.length) {
-    json.push(tournamentData);
-  } else {
-    if (tournamentData.length < 20) {
-      // find missing lineups
-      // create object entries
-      // merge missing data
-      // add missing data
-      const findLowestScore = () => {
-        return tournamentData.reduce((a, b) => {
-          const aEnd = a.points !== null ? a.points : 0;
-          const bEnd = b.points !== null ? b.points : 0;
-          return aEnd < bEnd ? a : b;
-        });
-      };
-
-      const missingNames = teamNames
-        .map((item) => item)
-        .filter((name) => !tournamentData.find((item) => item.name === name));
-
-      console.log("missingNames", missingNames);
-
-      const calculateMissedEntries = missingNames.map((item) => {
-        return {
-          name: item,
-          points: findLowestScore().points,
-          rank: {},
-        };
-      });
-
-      let data = [...tournamentData, ...calculateMissedEntries];
-
-      data.map(async (item) => {
-        const found = json[0].find((foundItem) => foundItem.name === item.name);
-
-        found.points = (Number(found.points) + Number(item.points)).toFixed(2);
-        found.ranks = await mergeRanks(found, item.rank);
-      });
-    } else {
-      tournamentData.map(async (item) => {
-        const found = json[0].find((foundItem) => foundItem.name === item.name);
-
-        found.points = (Number(found.points) + Number(item.points)).toFixed(2);
-        found.ranks = await mergeRanks(found, item.rank);
-      });
-    }
-
-    json[0].sort((a, b) => {
-      return b.points - a.points;
-    });
-  }
+  let json = [];
 
   try {
-    await promises.writeFile("data.json", JSON.stringify(json));
-    console.log("File saved successfully!");
-  } catch (err) {
-    if (err) {
-      return console.error(err);
-    }
+    const raw = await promises.readFile("./data.json", "utf8");
+    json = JSON.parse(raw);
+  } catch {
+    json = [];
   }
+
+  const leaderboard = json[0] ?? [];
+
+  const normalizedTournament =
+    tournamentData.length < teamNames.length
+      ? addMissingTeams(tournamentData)
+      : tournamentData;
+
+  mergeTournamentIntoLeaderboard(leaderboard, normalizedTournament);
+
+  await promises.writeFile(
+    "./data.json",
+    JSON.stringify([leaderboard], null, 2),
+  );
+
+  console.log("File saved successfully!");
 };
-write();
+
+write().catch(console.error);

@@ -25,7 +25,7 @@ export const useIcon = (player) => {
   React.useEffect(() => {
     setIsIconLoading(true);
     axios(
-      "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/data.json"
+      "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/data.json",
     ).then((res) => setData(res.data));
 
     setIsIconLoading(false);
@@ -34,7 +34,7 @@ export const useIcon = (player) => {
   console.log(data);
 
   const iconData = data.find(
-    (item) => item.name.toLowerCase() === player.name.toLowerCase()
+    (item) => item.name.toLowerCase() === player.name.toLowerCase(),
   );
   setIcon(iconData);
 

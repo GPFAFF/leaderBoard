@@ -1,54 +1,52 @@
 Rank,EntryId,EntryName,TimeRemaining,Points,Lineup,,Player,Roster Position,%Drafted,FPTS
-1,4125835561,jimm743,0,568,G Russell Henley G J.T. Poston G Denny McCarthy G Akshay Bhatia G Adam Svensson G Patrick Rodgers,,Byeong Hun An,G,33.33%,122.5
-2,4127233880,ryanhupfer,0,560,G Corey Conners G Chris Kirk G Byeong Hun An G Akshay Bhatia G Andrew Putnam G Stewart Cink,,J.T. Poston,G,33.33%,103.5
-3,4125705954,Jph315,0,530.5,G Eric Cole G Hideki Matsuyama G Byeong Hun An G Denny McCarthy G Taylor Pendrith G Davis Thompson,,Corey Conners,G,33.33%,73
-4,4128413164,mlewicki,0,501,G Sahith Theegala G Corey Conners G Keegan Bradley G Adam Svensson G Taylor Pendrith G Nick Taylor,,Sahith Theegala,G,27.78%,32
-5,4127977300,andcohen2525,0,497,G Ludvig Aberg G J.T. Poston G Byeong Hun An G Lucas Glover G Ben Griffin G Alejandro Tosti,,Denny McCarthy,G,27.78%,87
-6,4125896576,concord,0,472.5,G Tyrrell Hatton G J.T. Poston G Byeong Hun An G Tom Hoge G Alex Smalley G Nick Hardy,,Akshay Bhatia,G,27.78%,96.5
-7,4128530205,hupfdaddy,0,467.5,G Ludvig Aberg G Russell Henley G Denny McCarthy G Harris English G Robert Macintyre G Carson Young,,Hideki Matsuyama,G,22.22%,77
-8,4126750823,NPitz14,0,462.5,G Ludvig Aberg G Corey Conners G J.T. Poston G Ryo Hisatsune G Ben Kohles G Jacob Bridgeman,,Chris Kirk,G,22.22%,86.5
-9,4128200544,boyewsky,0,452.5,G Brian Harman G Chris Kirk G Byeong Hun An G Lucas Glover G Andrew Putnam G Hayden Buckley,,Adam Hadwin,G,16.67%,29.5
-10,4126301911,jabella72,0,435,G Hideki Matsuyama G Cameron Davis G Denny McCarthy G Harris English G Matt Kuchar G Luke List,,Ludvig Aberg,G,16.67%,86.5
-11,4126473954,gapfaff,0,418.5,G Corey Conners G Hideki Matsuyama G Si Woo Kim G Denny McCarthy G Aaron Rai G Hayden Buckley,,Brian Harman,G,11.11%,88
-12,4126613398,JonBuc1,0,391.5,G Sahith Theegala G Cameron Davis G Justin Rose G Adam Hadwin G Akshay Bhatia G Aaron Rai,,Eric Cole,G,11.11%,84
-12,4128019929,darksidefan,0,391.5,G Sahith Theegala G Corey Conners G Si Woo Kim G Akshay Bhatia G Taylor Montgomery G David Lipsky,,Taylor Pendrith,G,11.11%,94
-14,4126745881,cmilly-97,0,366,G Matt Fitzpatrick G Chris Kirk G J.T. Poston G Akshay Bhatia G Alexander Bjork G Carson Young,,Russell Henley,G,11.11%,113
-15,4125685881,American-Dream,0,354.5,G Sahith Theegala G Brian Harman G Eric Cole G Ryan Palmer G Patton Kizzire G Ryan Moore,,Adam Svensson,G,11.11%,82
-16,4126108115,magic_21,0,332.5,G Matt Fitzpatrick G Chris Kirk G Byeong Hun An G Adam Hadwin G Tom Hoge G Kensei Hirata,,Tom Hoge,G,11.11%,39
-17,4125870555,chicagoputz,0,288,G Sahith Theegala G Corey Conners G J.T. Poston G J.J. Spaun G Davis Riley G Takumi Kanaya,,Matt Fitzpatrick,G,11.11%,27
-18,4128153664,cubyblue,0,285.5,G Will Zalatoris G Hideki Matsuyama G Justin Rose G Adam Hadwin G Matt Kuchar G Luke List,,Cameron Davis,G,11.11%,92.5
-,,,,,,,Harris English,G,11.11%,87.5
-,,,,,,,Matt Kuchar,G,11.11%,24.5
-,,,,,,,Luke List,G,11.11%,66.5
-,,,,,,,Si Woo Kim,G,11.11%,71.5
-,,,,,,,Aaron Rai,G,11.11%,76.5
-,,,,,,,Hayden Buckley,G,11.11%,33.5
-,,,,,,,Justin Rose,G,11.11%,64.5
-,,,,,,,Carson Young,G,11.11%,28
-,,,,,,,Andrew Putnam,G,11.11%,92
-,,,,,,,Lucas Glover,G,11.11%,30
-,,,,,,,Ryan Palmer,G,5.56%,29.5
-,,,,,,,Patton Kizzire,G,5.56%,90
-,,,,,,,Ryan Moore,G,5.56%,31
-,,,,,,,Davis Thompson,G,5.56%,66
-,,,,,,,Patrick Rodgers,G,5.56%,86
-,,,,,,,J.J. Spaun,G,5.56%,28.5
-,,,,,,,Davis Riley,G,5.56%,20.5
-,,,,,,,Takumi Kanaya,G,5.56%,30.5
-,,,,,,,Tyrrell Hatton,G,5.56%,92
-,,,,,,,Alex Smalley,G,5.56%,34
-,,,,,,,Nick Hardy,G,5.56%,81.5
-,,,,,,,Kensei Hirata,G,5.56%,28
-,,,,,,,Alexander Bjork,G,5.56%,24.5
-,,,,,,,Ryo Hisatsune,G,5.56%,91
-,,,,,,,Ben Kohles,G,5.56%,73.5
-,,,,,,,Jacob Bridgeman,G,5.56%,35
-,,,,,,,Stewart Cink,G,5.56%,89.5
-,,,,,,,Ben Griffin,G,5.56%,83
-,,,,,,,Alejandro Tosti,G,5.56%,71.5
-,,,,,,,Taylor Montgomery,G,5.56%,92
-,,,,,,,David Lipsky,G,5.56%,26.5
-,,,,,,,Will Zalatoris,G,5.56%,23.5
-,,,,,,,Keegan Bradley,G,5.56%,116.5
-,,,,,,,Nick Taylor,G,5.56%,103.5
-,,,,,,,Robert Macintyre,G,5.56%,65.5
+1,5039754255,jabella72,0,494.5,G Hideki Matsuyama G Si Woo Kim G Denny McCarthy G Taylor Pendrith G Daniel Berger G Matthew McCarty,,Hideki Matsuyama,G,39.13%,81
+2,5040106927,gapfaff,0,485.5,G Hideki Matsuyama G Nick Taylor G Corey Conners G Denny McCarthy G Daniel Berger G Michael Kim,,J.J. Spaun,G,39.13%,80
+3,5039887258,cmilly-97,0,481,G Ben Griffin G Maverick McNealy G Jordan Spieth G Jake Knapp G Michael Kim G Sam Stevens,,Nicolas Echavarria,G,26.09%,17.5
+4,5040363280,JonBuc1,0,470.5,G Hideki Matsuyama G Nick Taylor G Jordan Spieth G Rico Hoey G Jake Knapp G Sahith Theegala,,Russell Henley,G,21.74%,84
+5,5041037298,Knock0ut12,0,437,G Hideki Matsuyama G Maverick McNealy G Jordan Spieth G Denny McCarthy G Billy Horschel G Michael Kim,,Corey Conners,G,21.74%,75.5
+6,5039998700,snyde167,0,432.5,G Ben Griffin G Nick Taylor G Brian Harman G Denny McCarthy G Eric Cole G Ryan Gerard,,Denny McCarthy,G,21.74%,70
+7,5040000684,aceshigh1973,0,431,G Ben Griffin G Keith Mitchell G Corey Conners G Brian Harman G Pierceson Coody G Hao-Tong Li,,Jake Knapp,G,21.74%,80
+8,5039958112,holth,0,425,G Robert MacIntyre G J.J. Spaun G Aaron Rai G Jake Knapp G Sahith Theegala G Tony Finau,,Eric Cole,G,21.74%,27
+9,5039897305,NPitz14,0,421,G Russell Henley G J.J. Spaun G Harry Hall G Mac Meissner G Hao-Tong Li G Adam Schenk,,Keegan Bradley,G,17.39%,30.5
+10,5039783714,chicagoputz,0,415,G J.J. Spaun G Kurt Kitayama G Keith Mitchell G Chris Gotterup G Gary Woodland G Tom Kim,,Maverick McNealy,G,17.39%,82
+11,5040479442,cairnssj,0,409,G Hideki Matsuyama G J.J. Spaun G Corey Conners G Mac Meissner G Emiliano Grillo G Hao-Tong Li,,Nick Taylor,G,17.39%,84
+12,5039798332,Jph315,0,400,G Hideki Matsuyama G Keegan Bradley G Jordan Spieth G Eric Cole G Taylor Pendrith G Pierceson Coody,,Jordan Spieth,G,17.39%,80.5
+13,5039778054,Lumberjac,0,399,G Russell Henley G J.J. Spaun G Keegan Bradley G Bud Cauley G Jacob Bridgeman G Austin Eckroat,,Brian Harman,G,17.39%,67.5
+14,5039761036,VOODOG23,0,370.5,G Hideki Matsuyama G J.J. Spaun G Harry Hall G Nicolas Echavarria G Alex Smalley G Erik Van Rooyen,,Michael Kim,G,17.39%,78
+15,5040170435,brotherjonas,0,365,G Collin Morikawa G Robert MacIntyre G Maverick McNealy G Daniel Berger G Tony Finau G Erik Van Rooyen,,Ben Griffin,G,13.04%,79
+16,5040136287,magic_21,0,358.5,G Russell Henley G Hideki Matsuyama G Corey Conners G Nicolas Echavarria G Seamus Power G Adam Schenk,,Collin Morikawa,G,13.04%,30
+17,5041067879,boyewsky,0,351.5,G Russell Henley G Nick Taylor G Rico Hoey G Nicolas Echavarria G John Keefer G Max McGreevy,,Chris Kirk,G,13.04%,26
+18,5040694808,ryanhupfer,0,341,G J.J. Spaun G Chris Kirk G Brian Harman G Nicolas Echavarria G Denny McCarthy G Jake Knapp,,Keith Mitchell,G,13.04%,59.5
+19,5040995933,cubyblue,0,326,G Collin Morikawa G Hideki Matsuyama G Brian Harman G Eric Cole G Daniel Berger G Tony Finau,,Eric Cole,G,66.67%,27
+20,5039750248,American-Dream,0,306,G Russell Henley G Hideki Matsuyama G Nicolas Echavarria G John Keefer G Eric Cole G Erik Van Rooyen,,Daniel Berger,G,13.04%,97
+21,5040656622,Gm0ney720,0,303.5,G J.J. Spaun G Keegan Bradley G Brian Harman G Nicolas Echavarria G Jake Knapp G Gary Woodland,,Hao-Tong Li,G,13.04%,66
+22,5040954362,concord,0,266,G Collin Morikawa G Chris Kirk G Keith Mitchell G Eric Cole G Billy Horschel G Michael Kim,,Erik Van Rooyen,G,13.04%,29
+23,5040669921,hupfdaddy,0,257,G Collin Morikawa G J.J. Spaun G Maverick McNealy G Kristoffer Reitan G Luke Clanton G Austin Eckroat,,Robert MacIntyre,G,8.70%,103.5
+24,5040914477,darksidefan,0,251,G Keegan Bradley G Chris Kirk G Corey Conners G Aaron Rai G Eric Cole G Emiliano Grillo,,Harry Hall,G,8.70%,91
+,,,,,,,Aaron Rai,G,8.70%,60.5
+,,,,,,,Rico Hoey,G,8.70%,67.5
+,,,,,,,John Keefer,G,8.70%,67.5
+,,,,,,,Taylor Pendrith,G,8.70%,97.5
+,,,,,,,Mac Meissner,G,8.70%,75
+,,,,,,,Gary Woodland,G,8.70%,28
+,,,,,,,Pierceson Coody,G,8.70%,83.5
+,,,,,,,Emiliano Grillo,G,8.70%,31.5
+,,,,,,,Billy Horschel,G,8.70%,45.5
+,,,,,,,Sahith Theegala,G,8.70%,77.5
+,,,,,,,Tony Finau,G,8.70%,23.5
+,,,,,,,Austin Eckroat,G,8.70%,27
+,,,,,,,Adam Schenk,G,8.70%,25
+,,,,,,,Si Woo Kim,G,4.35%,85.5
+,,,,,,,Kurt Kitayama,G,4.35%,67.5
+,,,,,,,Chris Gotterup,G,4.35%,120
+,,,,,,,Kristoffer Reitan,G,4.35%,10.5
+,,,,,,,Matthew McCarty,G,4.35%,63.5
+,,,,,,,Sam Stevens,G,4.35%,81.5
+,,,,,,,Ryan Gerard,G,4.35%,105
+,,,,,,,Alex Smalley,G,4.35%,72
+,,,,,,,Seamus Power,G,4.35%,75.5
+,,,,,,,Tom Kim,G,4.35%,60
+,,,,,,,Bud Cauley,G,4.35%,74
+,,,,,,,Luke Clanton,G,4.35%,27.5
+,,,,,,,Jacob Bridgeman,G,4.35%,103.5
+,,,,,,,Max McGreevy,G,4.35%,31

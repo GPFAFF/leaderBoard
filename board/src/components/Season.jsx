@@ -13,10 +13,10 @@ const Season = () => {
   useEffect(() => {
     setLoading(true);
     axios(
-      "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/data.json"
+      "https://raw.githubusercontent.com/GPFAFF/leaderBoard/master/data.json",
     ).then((res) => setData(res.data));
     axios("https://api.github.com/users/GPFAFF/events/public").then((res) =>
-      setDateAndName(res.data)
+      setDateAndName(res.data),
     );
 
     setLoading(false);
@@ -26,7 +26,7 @@ const Season = () => {
 
   if (dateAndName) {
     date = dateAndName.find((commit) =>
-      commit.repo.name.includes("leaderBoard")
+      commit.repo.name.includes("leaderBoard"),
     );
   }
 
