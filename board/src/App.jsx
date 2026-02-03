@@ -8,7 +8,7 @@ import "./App.scss";
 
 const App = () => {
   return (
-    <Router basename={import.meta.env.BASE_URL}>
+    <Router basename="/leaderBoard">
       <Switch>
         <Route exact path="/">
           <Home />
