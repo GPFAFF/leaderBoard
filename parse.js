@@ -15,7 +15,7 @@ const teamNames = [
   "cmilly-97",
   "JonBuc1",
   "Knock0ut12",
-  "synde167",
+  "SYNDE167",
   "aceshigh1973",
   "holth",
   "NPitz14",

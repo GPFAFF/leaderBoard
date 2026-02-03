@@ -3,7 +3,6 @@ const teamNames = [
   "jakinnamon1221",
   "re_wcb",
   "rhup",
-  "jimm743",
   "mlewicki",
   "belikemike247",
   "chicagoputz",
