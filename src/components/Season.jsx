@@ -38,9 +38,9 @@ const Season = () => {
           Home
         </Link>
         <h2 className="season-title">Regular Season</h2>
-        <p>
+        {/* <p>
           {date && `Last updated - ${new Date(date.created_at).toDateString()}`}
-        </p>
+        </p> */}
         <PlayerContainer data={data} loading={loading} />
       </div>
     </div>
