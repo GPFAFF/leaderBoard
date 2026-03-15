@@ -1,7 +1,3 @@
-/**
- * Tournament CSV → Cumulative Leaderboard
- */
-
 const fs = require("fs");
 const { promises } = fs;
 
@@ -10,29 +6,30 @@ const { promises } = fs;
 ===================================================== */
 
 const teamNames = [
-  "jabella72",
-  "gapfaff",
-  "cmilly-97",
-  "JonBuc1",
-  "Knock0ut12",
-  "SYNDE167",
   "aceshigh1973",
-  "holth",
-  "NPitz14",
-  "chicagoputz",
-  "cairnssj",
-  "Jph315",
-  "Lumberjac",
-  "VOODOG23",
-  "brotherjonas",
-  "magic_21",
-  "boyewsky",
-  "ryanhupfer",
   "American-Dream",
-  "Gm0ney720",
+  "boyewsky",
+  "brotherjonas",
+  "cairnssj",
+  "chicagoputz",
+  "cmilly-97",
   "concord",
-  "hupfdaddy",
+  "cubyblue",
   "darksidefan",
+  "gapfaff",
+  "Gm0ney720",
+  "holth",
+  "hupfdaddy",
+  "jabella72",
+  "JonBuc1",
+  "Jph315",
+  "Knock0ut12",
+  "Lumberjac",
+  "magic_21",
+  "NPitz14",
+  "ryanhupfer",
+  "snyde167",
+  "VOODOG23",
 ];
 
 const EMPTY_RANK = {
@@ -43,13 +40,7 @@ const EMPTY_RANK = {
   fifth: 0,
 };
 
-const rankMap = {
-  1: "first",
-  2: "second",
-  3: "third",
-  4: "fourth",
-  5: "fifth",
-};
+const rankKeys = ["first", "second", "third", "fourth", "fifth"];
 
 /* =====================================================
    CSV PARSING
@@ -72,11 +63,6 @@ const csvToArray = (str, delimiter = ",") => {
    PLAYER SCORE LOOKUP & WD HANDLING
 ===================================================== */
 
-/**
- * Build a map of player name → FPTS from the CSV rows.
- * The Player/FPTS columns appear on every row (both team rows
- * and the standalone player rows at the bottom).
- */
 const buildPlayerScores = (rows) => {
   const scores = {};
   for (const row of rows) {
@@ -89,11 +75,6 @@ const buildPlayerScores = (rows) => {
   return scores;
 };
 
-/**
- * Parse the Lineup string into an array of player names.
- * Format: "G Hideki Matsuyama G Si Woo Kim G Denny McCarthy ..."
- * Each player is prefixed with "G " (the roster position).
- */
 const parseLineup = (lineupStr) => {
   if (!lineupStr) return [];
   return lineupStr
@@ -103,28 +84,18 @@ const parseLineup = (lineupStr) => {
     .filter(Boolean);
 };
 
-/**
- * Given a team's lineup and a list of WD player names,
- * check if the team rostered any of them. For each WD player
- * found, add the lowest non-zero score from the remaining
- * roster to the team's total.
- *
- * Returns the adjustment to ADD to the team's original Points.
- */
 const adjustForWithdrawals = (lineupStr, playerScores, wdNames) => {
   if (wdNames.length === 0) return 0;
 
   const players = parseLineup(lineupStr);
   if (players.length === 0) return 0;
 
-  // Check which WD players are on this roster (case-insensitive)
   const wdOnRoster = players.filter((p) =>
     wdNames.some((wd) => wd.toLowerCase() === p.toLowerCase()),
   );
 
   if (wdOnRoster.length === 0) return 0;
 
-  // Get scores for the non-WD players on this roster
   const nonWdScores = players
     .filter((p) => !wdNames.some((wd) => wd.toLowerCase() === p.toLowerCase()))
     .map((p) => playerScores[p] ?? 0)
@@ -144,15 +115,8 @@ const adjustForWithdrawals = (lineupStr, playerScores, wdNames) => {
 };
 
 /* =====================================================
-   RANK HANDLING
+   RANK HANDLING — computed from sorted league standings
 ===================================================== */
-
-const calculateRank = (rank) => {
-  const result = { ...EMPTY_RANK };
-  const key = rankMap[rank];
-  if (key) result[key] = 1;
-  return result;
-};
 
 const mergeRanks = (existing, incoming) => {
   for (const key of Object.keys(EMPTY_RANK)) {
@@ -174,6 +138,13 @@ const addMissingTeams = (data) => {
   const missing = teamNames.filter(
     (name) => !data.find((d) => d.name.toLowerCase() === name.toLowerCase()),
   );
+
+  if (missing.length > 0) {
+    console.log(
+      `  Backfilling ${missing.length} missing teams at ${lowest} pts:`,
+    );
+    missing.forEach((n) => console.log(`    ${n}`));
+  }
 
   return [
     ...data,
@@ -215,6 +186,32 @@ const mergeTournamentIntoLeaderboard = (leaderboard, tournament) => {
 };
 
 /* =====================================================
+   NAME VALIDATION — find mismatches
+===================================================== */
+
+const validateNames = (csvEntries) => {
+  const csvNames = [...new Set(csvEntries.map((r) => r.EntryName))];
+  const unknown = csvNames.filter(
+    (n) => !teamNames.some((t) => t.toLowerCase() === n.toLowerCase()),
+  );
+  if (unknown.length > 0) {
+    console.log("  ⚠ Unknown names (not in teamNames):", unknown.join(", "));
+  }
+
+  // Check for case mismatches
+  for (const csvName of csvNames) {
+    const match = teamNames.find(
+      (t) => t.toLowerCase() === csvName.toLowerCase(),
+    );
+    if (match && match !== csvName) {
+      console.log(
+        `  ⚠ Case mismatch: CSV has "${csvName}", teamNames has "${match}"`,
+      );
+    }
+  }
+};
+
+/* =====================================================
    MAIN
 ===================================================== */
 
@@ -223,33 +220,32 @@ let csvInput;
 try {
   csvInput = fs.readFileSync(process.argv[2], "utf8");
 } catch (err) {
-  console.error("Failed to read CSV:", err);
+  console.error("Failed to read CSV:", err.message);
   process.exit(1);
 }
 
-const pointsMultiplier = Number(process.argv[3] ?? 1);
+// Parse all args after the csv file path
+const allArgs = process.argv.slice(3);
 
-// Parse optional args from argv[4+]:
-//   --wd=Player_Name   (underscores become spaces)
-//   Team:Score          (manual score override)
-const extraArgs = process.argv.slice(4);
+// Multiplier is the first non-flag arg (if it's a number)
+const multiplierArg = allArgs.find(
+  (a) => !a.startsWith("--") && !a.includes(":") && !isNaN(Number(a)),
+);
+const pointsMultiplier = multiplierArg ? Number(multiplierArg) : 1;
+console.log(`\nProcessing: ${process.argv[2]} (${pointsMultiplier}x)`);
 
-if (extraArgs.length > 0) {
-  console.log("Raw args:", extraArgs);
-}
+// Everything that isn't the multiplier
+const extraArgs = allArgs.filter((a) => a !== multiplierArg);
 
-// Parse WD players: --wd=Gary_Woodland → "Gary Woodland"
 const wdNames = extraArgs
   .filter((arg) => arg.startsWith("--wd="))
   .map((arg) => arg.slice(5).replace(/_/g, " ").trim())
   .filter(Boolean);
 
 if (wdNames.length > 0) {
-  console.log("WD players:");
-  wdNames.forEach((name) => console.log(`  ${name}`));
+  console.log("WD players:", wdNames.join(", "));
 }
 
-// Parse manual overrides: Team:Score
 const manualOverrides = extraArgs
   .filter((arg) => !arg.startsWith("--") && arg.includes(":"))
   .map((arg) => {
@@ -267,42 +263,50 @@ if (manualOverrides.length > 0) {
   manualOverrides.forEach((o) => console.log(`  ${o.name} → ${o.score}`));
 }
 
-// Parse all rows (both team entries and player-score rows)
+// Parse all rows
 const allRows = csvToArray(csvInput);
-
-// Build player → FPTS lookup from ALL rows
 const playerScores = buildPlayerScores(allRows);
 
-// Process only team entries (rows with an EntryName)
-const tournamentData = allRows
-  .filter((row) => row.EntryName)
-  .map((row) => {
-    const originalPoints = Number(row.Points);
-    const lineup = row.Lineup;
+// Filter to team entries only
+const teamRows = allRows.filter((row) => row.EntryName);
 
-    // Add points for any WD players (replaced with roster's lowest non-zero)
-    const wdAdjustment = adjustForWithdrawals(lineup, playerScores, wdNames);
-    const finalPoints = originalPoints + wdAdjustment;
+// Validate names
+validateNames(teamRows);
 
-    return {
-      name: row.EntryName,
-      points: finalPoints * pointsMultiplier,
-      rank: calculateRank(row.Rank),
-    };
-  });
+// Build tournament data with WD adjustments
+const tournamentData = teamRows.map((row) => {
+  const originalPoints = Number(row.Points);
+  const lineup = row.Lineup;
+  const wdAdjustment = adjustForWithdrawals(lineup, playerScores, wdNames);
+  const finalPoints = (originalPoints + wdAdjustment) * pointsMultiplier;
 
-// Apply manual overrides — update existing team or add new entry
+  return {
+    name: row.EntryName,
+    points: finalPoints,
+    rank: { ...EMPTY_RANK }, // rank assigned below after sorting
+  };
+});
+
+// Sort by points DESC and assign rank from league standings (not CSV Rank)
+tournamentData.sort((a, b) => b.points - a.points);
+tournamentData.forEach((entry, i) => {
+  if (i < 5) {
+    entry.rank[rankKeys[i]] = 1;
+  }
+});
+
+// Apply manual overrides
 for (const override of manualOverrides) {
   const existing = tournamentData.find(
     (t) => t.name.toLowerCase() === override.name.toLowerCase(),
   );
   if (existing) {
     console.log(
-      `  Override: ${existing.name} points ${existing.points} → ${override.score}`,
+      `  Override: ${existing.name} ${existing.points} → ${override.score}`,
     );
     existing.points = override.score;
   } else {
-    console.log(`  Adding manual entry: ${override.name} → ${override.score}`);
+    console.log(`  Adding: ${override.name} → ${override.score}`);
     tournamentData.push({
       name: override.name,
       points: override.score,
@@ -311,7 +315,30 @@ for (const override of manualOverrides) {
   }
 }
 
-const write = async () => {
+/* =====================================================
+   CONFIRM PROMPT
+===================================================== */
+
+const readline = require("readline");
+
+const confirm = (question) => {
+  const rl = readline.createInterface({
+    input: process.stdin,
+    output: process.stdout,
+  });
+  return new Promise((resolve) => {
+    rl.question(question, (answer) => {
+      rl.close();
+      resolve(answer.trim().toLowerCase());
+    });
+  });
+};
+
+/* =====================================================
+   PREVIEW & WRITE
+===================================================== */
+
+const run = async () => {
   let json = [];
 
   try {
@@ -323,11 +350,57 @@ const write = async () => {
 
   const leaderboard = json[0] ?? [];
 
+  // ── Missing team names report ─────────────────────
+  const csvNames = tournamentData.map((t) => t.name.toLowerCase());
+  const missingFromCsv = teamNames.filter(
+    (n) => !csvNames.includes(n.toLowerCase()),
+  );
+  const lowest =
+    tournamentData.length > 0
+      ? Math.min(...tournamentData.map((t) => t.points))
+      : 0;
+
+  console.log("\n── Tournament Summary ──────────────────────────");
+  console.log(`  Entries found:  ${tournamentData.length}`);
+  console.log(`  League members: ${teamNames.length}`);
+
+  if (missingFromCsv.length > 0) {
+    console.log(`\n  ⚠ Missing from CSV (${missingFromCsv.length}):`);
+    console.log(`    Will be backfilled at ${lowest} pts`);
+    missingFromCsv.forEach((n) => console.log(`    - ${n}`));
+  } else {
+    console.log("  ✓ All league members present");
+  }
+
+  // ── Preview standings ─────────────────────────────
   const normalizedTournament =
     tournamentData.length < teamNames.length
       ? addMissingTeams(tournamentData)
       : tournamentData;
 
+  // Show this week's results
+  console.log("\n── This Week's Results ─────────────────────────");
+  const sorted = [...normalizedTournament].sort((a, b) => b.points - a.points);
+  sorted.forEach((e, i) =>
+    console.log(
+      `  ${String(i + 1).padStart(3)}.  ${e.name.padEnd(20)} ${e.points.toFixed(2).padStart(10)}`,
+    ),
+  );
+
+  console.log(
+    `\n  ${normalizedTournament.length} entries → merging into leaderboard (${leaderboard.length} existing)`,
+  );
+
+  // ── Skip confirm with --yes flag ──────────────────
+  if (!process.argv.includes("--yes")) {
+    const answer = await confirm("\n  Proceed? (y/n): ");
+    if (answer !== "y" && answer !== "yes") {
+      console.log("  ✗ Aborted.\n");
+      process.exit(0);
+    }
+  }
+
+  // ── Write ─────────────────────────────────────────
   mergeTournamentIntoLeaderboard(leaderboard, normalizedTournament);
 
   await promises.writeFile(
@@ -335,7 +408,16 @@ const write = async () => {
     JSON.stringify([leaderboard], null, 2),
   );
 
-  console.log("File saved successfully!");
+  console.log("  ✓ Saved to data.json\n");
+
+  // Print top 5
+  console.log("  Current top 5:");
+  leaderboard
+    .slice(0, 5)
+    .forEach((e, i) =>
+      console.log(`    ${i + 1}. ${e.name.padEnd(20)} ${e.points}`),
+    );
+  console.log();
 };
 
-write().catch(console.error);
+run().catch(console.error);

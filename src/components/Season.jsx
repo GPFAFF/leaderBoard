@@ -41,6 +41,7 @@ const Season = () => {
         <p>
           {date && `Last updated - ${new Date(date.created_at).toDateString()}`}
         </p>
+        <b>If your score looks off reach out to me and I'll look into it.</b>
         <PlayerContainer data={data} loading={loading} />
       </div>
     </div>
