@@ -73,7 +73,7 @@ const adjustForWithdrawals = (lineupStr, playerScores, wdNames) => {
 
   if (nonWdScores.length === 0) return 0;
 
-  const lowestNonZero = Math.min(...nonWdScores);
+  const lowestNonZero = 25;
 
   return wdOnRoster.length * lowestNonZero;
 };
@@ -146,7 +146,12 @@ const mergeTournamentIntoLeaderboard = (leaderboard, tournament) => {
    TOURNAMENT SCORING PIPELINE
 ===================================================== */
 
-const buildTournamentData = (teamRows, playerScores, wdNames, pointsMultiplier) => {
+const buildTournamentData = (
+  teamRows,
+  playerScores,
+  wdNames,
+  pointsMultiplier,
+) => {
   const tournamentData = teamRows.map((row) => {
     const originalPoints = Number(row.Points);
     const lineup = row.Lineup;
