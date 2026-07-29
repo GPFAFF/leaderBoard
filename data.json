@@ -2,7 +2,7 @@
   [
     {
       "name": "boyewsky",
-      "points": "15734.00",
+      "points": "16551.50",
       "rank": {
         "first": 4,
         "second": 2,
@@ -12,8 +12,19 @@
       }
     },
     {
+      "name": "NPitz14",
+      "points": "16542.00",
+      "rank": {
+        "first": 0,
+        "second": 2,
+        "third": 3,
+        "fourth": 1,
+        "fifth": 2
+      }
+    },
+    {
       "name": "cmilly-97",
-      "points": "15616.50",
+      "points": "16524.00",
       "rank": {
         "first": 1,
         "second": 1,
@@ -23,21 +34,10 @@
       }
     },
     {
-      "name": "NPitz14",
-      "points": "15390.00",
-      "rank": {
-        "first": 0,
-        "second": 2,
-        "third": 2,
-        "fourth": 1,
-        "fifth": 2
-      }
-    },
-    {
       "name": "JonBuc1",
-      "points": "15312.50",
+      "points": "16493.00",
       "rank": {
-        "first": 1,
+        "first": 2,
         "second": 3,
         "third": 0,
         "fourth": 1,
@@ -45,8 +45,19 @@
       }
     },
     {
+      "name": "brotherjonas",
+      "points": "16225.50",
+      "rank": {
+        "first": 2,
+        "second": 3,
+        "third": 2,
+        "fourth": 1,
+        "fifth": 2
+      }
+    },
+    {
       "name": "Jph315",
-      "points": "15188.00",
+      "points": "16131.50",
       "rank": {
         "first": 0,
         "second": 0,
@@ -56,19 +67,8 @@
       }
     },
     {
-      "name": "brotherjonas",
-      "points": "15129.00",
-      "rank": {
-        "first": 2,
-        "second": 3,
-        "third": 2,
-        "fourth": 0,
-        "fifth": 2
-      }
-    },
-    {
       "name": "jabella72",
-      "points": "14980.00",
+      "points": "15902.50",
       "rank": {
         "first": 1,
         "second": 0,
@@ -79,7 +79,7 @@
     },
     {
       "name": "cairnssj",
-      "points": "14977.50",
+      "points": "15901.50",
       "rank": {
         "first": 1,
         "second": 3,
@@ -89,19 +89,8 @@
       }
     },
     {
-      "name": "VOODOG23",
-      "points": "14961.50",
-      "rank": {
-        "first": 3,
-        "second": 0,
-        "third": 0,
-        "fourth": 1,
-        "fifth": 0
-      }
-    },
-    {
       "name": "American-Dream",
-      "points": "14896.00",
+      "points": "15845.50",
       "rank": {
         "first": 2,
         "second": 1,
@@ -112,7 +101,7 @@
     },
     {
       "name": "Lumberjac",
-      "points": "14893.00",
+      "points": "15766.00",
       "rank": {
         "first": 2,
         "second": 1,
@@ -122,19 +111,19 @@
       }
     },
     {
-      "name": "Knock0ut12",
-      "points": "14758.00",
+      "name": "concord",
+      "points": "15676.00",
       "rank": {
-        "first": 1,
-        "second": 0,
-        "third": 2,
+        "first": 0,
+        "second": 2,
+        "third": 1,
         "fourth": 1,
-        "fifth": 1
+        "fifth": 2
       }
     },
     {
       "name": "gapfaff",
-      "points": "14755.50",
+      "points": "15652.50",
       "rank": {
         "first": 1,
         "second": 1,
@@ -144,19 +133,8 @@
       }
     },
     {
-      "name": "darksidefan",
-      "points": "14666.00",
-      "rank": {
-        "first": 1,
-        "second": 1,
-        "third": 4,
-        "fourth": 0,
-        "fifth": 2
-      }
-    },
-    {
       "name": "aceshigh1973",
-      "points": "14611.50",
+      "points": "15580.50",
       "rank": {
         "first": 1,
         "second": 0,
@@ -166,30 +144,41 @@
       }
     },
     {
-      "name": "concord",
-      "points": "14603.50",
+      "name": "VOODOG23",
+      "points": "15503.00",
       "rank": {
-        "first": 0,
-        "second": 2,
-        "third": 1,
-        "fourth": 1,
-        "fifth": 1
-      }
-    },
-    {
-      "name": "magic_21",
-      "points": "14484.50",
-      "rank": {
-        "first": 1,
+        "first": 3,
         "second": 0,
-        "third": 1,
+        "third": 0,
         "fourth": 1,
         "fifth": 0
       }
     },
     {
+      "name": "darksidefan",
+      "points": "15495.50",
+      "rank": {
+        "first": 1,
+        "second": 1,
+        "third": 4,
+        "fourth": 0,
+        "fifth": 2
+      }
+    },
+    {
+      "name": "Knock0ut12",
+      "points": "15481.00",
+      "rank": {
+        "first": 1,
+        "second": 0,
+        "third": 2,
+        "fourth": 1,
+        "fifth": 1
+      }
+    },
+    {
       "name": "holth",
-      "points": "14430.00",
+      "points": "15421.50",
       "rank": {
         "first": 0,
         "second": 0,
@@ -200,18 +189,51 @@
     },
     {
       "name": "cubyblue",
-      "points": "14172.00",
+      "points": "15348.00",
       "rank": {
         "first": 1,
-        "second": 1,
+        "second": 2,
         "third": 1,
         "fourth": 0,
         "fifth": 1
       }
     },
     {
+      "name": "magic_21",
+      "points": "15297.50",
+      "rank": {
+        "first": 1,
+        "second": 0,
+        "third": 1,
+        "fourth": 1,
+        "fifth": 0
+      }
+    },
+    {
+      "name": "ryanhupfer",
+      "points": "15120.50",
+      "rank": {
+        "first": 0,
+        "second": 0,
+        "third": 1,
+        "fourth": 0,
+        "fifth": 1
+      }
+    },
+    {
+      "name": "chicagoputz",
+      "points": "14842.00",
+      "rank": {
+        "first": 0,
+        "second": 2,
+        "third": 0,
+        "fourth": 2,
+        "fifth": 1
+      }
+    },
+    {
       "name": "hupfdaddy",
-      "points": "14143.00",
+      "points": "14684.50",
       "rank": {
         "first": 2,
         "second": 0,
@@ -221,19 +243,8 @@
       }
     },
     {
-      "name": "ryanhupfer",
-      "points": "14085.50",
-      "rank": {
-        "first": 0,
-        "second": 0,
-        "third": 1,
-        "fourth": 0,
-        "fifth": 1
-      }
-    },
-    {
       "name": "Gm0ney720",
-      "points": "13934.00",
+      "points": "14571.50",
       "rank": {
         "first": 1,
         "second": 2,
@@ -243,19 +254,8 @@
       }
     },
     {
-      "name": "chicagoputz",
-      "points": "13873.00",
-      "rank": {
-        "first": 0,
-        "second": 2,
-        "third": 0,
-        "fourth": 2,
-        "fifth": 1
-      }
-    },
-    {
       "name": "snyde167",
-      "points": "13757.00",
+      "points": "14501.00",
       "rank": {
         "first": 1,
         "second": 2,
